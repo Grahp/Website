@@ -1,3 +1,3 @@
 # Onyx
 
-Onyx (https://github.com/Grahp/Onyx) is a WIP [steno](steno.md) dictionary.
+Onyx ([https://github.com/Grahp/Onyx](https://github.com/Grahp/Onyx)) is a WIP [steno](steno.md) dictionary.
