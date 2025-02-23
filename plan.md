@@ -1,3 +1,5 @@
+# Plan
+
 I need somewhere to throw things.
 I'm going to try not to ever change anything, or to think to hard about things.
 
