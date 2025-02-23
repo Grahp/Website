@@ -1,5 +1,5 @@
 # Steno
 
 - [Quartz](quartz.md)
-- [Onyx](https://github.com/Grahp/Onyx)
-- [Glossary](https://github.com/Grahp/Steno-Glossary)
+- [Onyx](onyx.md)
+- Glossary (https://github.com/Grahp/Steno-Glossary)
