@@ -1,3 +1,6 @@
 permalink: pretty
 plugins:
 - jekyll-target-blank
+theme: minima
+minima:
+  skin: dark
