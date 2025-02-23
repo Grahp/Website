@@ -2,7 +2,3 @@
 
 - [Bowmap](bowmap.md)
 - [Steno](steno.md)
-
-## Ideas
-
-- [Steno-integrated editor](steno-editing-model.md)
