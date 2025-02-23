@@ -1,3 +1,3 @@
-# Test
-
-[steno](steno.md)
+- [Plan](plan.md)
+- [Steno](steno.md)
+- Bowmap
