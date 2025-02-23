@@ -5,4 +5,4 @@
 
 ## Ideas
 
-- [Steno-integrated editor](steno-editor.md)
+- [Steno-integrated editor](steno-editing-model.md)

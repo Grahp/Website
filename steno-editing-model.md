@@ -1,4 +1,4 @@
-# Code Editor
+# Steno Editing Model
 
 Ideas for a [steno](steno.md)-aware code editor.
 
