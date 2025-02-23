@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Leaving Minestom"
+---
+
 # Leaving Minestom
 
 Minestom is great. I just don't like it.
