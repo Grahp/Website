@@ -1,2 +1,3 @@
+permalink: pretty
 plugins:
 - jekyll-target-blank
