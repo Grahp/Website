@@ -12,7 +12,7 @@ While steno still benefits from smaller strokes, it's not nearly as important as
 
 > The cost of one stroke is at least one stroke
 
-We have 24 million plus available strokes, you can definitely do better than that.
+A steno keyboard has over 24 million available strokes, you can do better than that.
 
 ## Selection Model
 
