@@ -1,8 +1,6 @@
 # Bowmap
 
-MMORPG Minecraft Server.
-
-WIP, if that needs to be said.
+WIP MMORPG Minecraft Server.
 
 Progress:
 - [Leaving Minestom](leaving-minestom.md)
