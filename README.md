@@ -1,3 +1,3 @@
 - [Plan](plan.md)
 - [Steno](steno.md)
-- Bowmap
+- [Bowmap](bowmap.md)
