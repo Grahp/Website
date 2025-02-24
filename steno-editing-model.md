@@ -2,36 +2,34 @@
 
 A [steno](steno.md) editing "keybinding" model.
 
-Most of this comes from the lisp editing model I've been working on.
-
 ## Modal Editing
 
-Modal editing makes a lot of sense when you have a very limited number of keys at your disposal. Being in a mode is like holding down a special modifier key while performing related actions, but you don't need a dedicated key to do this, and you don't have to hold down a mod key at all.
+Modal editing makes a lot of sense when you have a very limited number of unique strokes at your disposal, say only ~30 keys on a qwerty keyboard.
 
-While steno still benefits from smaller strokes, it's not nearly as important as reducing the total number of strokes, and requiring an entire stroke to switch modes is very costly.
+Being in a mode adds context to every action you perform. This means you don't need to hold down a mod key, or add an additional prefix key to your actions, in order for them to be unique.
 
-> The cost of one stroke is at least one stroke
+With steno, you have over 24 million available strokes at any given time, this is more than enough. Requiring an entire stroke or dedicated key to switch modes is a problem.
 
-A steno keyboard has over 24 million available strokes, you can do better than that.
+## Selection Mode
 
-## Selection Model
+Instead of having one mode where everything is done, you additionally have a selection mode.
 
-In this model, you have 2 modes: insert mode and selection mode.
+In selection mode, you move and extend what you're selecting.
 
-In insert mode, you write text like normal, and utilize steno to type faster.
+With a selection, you can perform selection actions, such as deleting, copying, pasting, etc.
 
-In selection mode, you make selections around the file. This is how you move around, a selection will always follow you. With a selection, you can delete it, copy it, paste over it, or throw it away and enter insert mode at the end of your selection (there's no cursor).
+Whenever you use a movement stroke, you will be placed in selection mode if you're not already in it, and you'll start extending your selection, much like holding shift while using arrow keys.
 
-Whenever you use a movement stroke in insert mode, you will be placed in selection mode. This avoids having any mode switching strokes. The problem is, you now need a stroke in order to leave selection mode. To avoid that, you can have dedicated strokes for selection mode actions, such as delete, copy, paste, all movement strokes, and re-entering insert mode. These strokes cannot be used in insert mode. Then, any strokes other than these will place you back in insert mode. This means, to throw away your selection and begin typing in insert mode, you simply start writing.
+To leave selection mode, just start typing again. This will throw away your selection, and bring your cursor to wherever it was in the selection.
 
-I use the `P` `W` `H` and `R` keys for selection mode actions (paste, yank, delete, and enter insert), as these are not legal strokes in [Onyx](onyx.md), meaning you can't use them in insert mode anyway. You can use any strokes you'd like, of course.
+This avoids requiring any strokes to enter and leave selection mode. Just start moving around to extend your selection, and start typing to void your selection. As long as your movement and selection mode action strokes are not used in normal writing, no mode switching is required.
+
+I use the `P`, `W`, and `H` keys for selection mode actions (past, yank, and delete respectively), as these are not legal strokes in [Onyx](onyx.md), meaning they can't be used in normal typing anyway.
 
 ## Keybinding Model
 
-In order to do all of this, you need an editor that can interpret your steno strokes directly.
+In order for this to work, your editor needs to be able to differentiate movement and selection mode action strokes from normal typing. This can be done in several ways. I'm still trying to figure out what the best way to do this is.
 
-## Modal Editing pt. 2
+## Overview
 
-This is pretty much just me trying to cope by thinking about 
-
-Besides the modal coping worldview, essentially just separate typing and selecting and movement.
+Essentially, just separate typing from movement and selection, and allow any other needed strokes to be independent of those things (saving the file, et al).
