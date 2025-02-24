@@ -24,7 +24,7 @@ In selection mode, you make selections around the file. This is how you move aro
 
 Whenever you use a movement stroke in insert mode, you will be placed in selection mode. This avoids having any mode switching strokes. The problem is, you now need a stroke in order to leave selection mode. To avoid that, you can have dedicated strokes for selection mode actions, such as delete, copy, paste, all movement strokes, and re-entering insert mode. These strokes cannot be used in insert mode. Then, any strokes other than these will place you back in insert mode. This means, to throw away your selection and begin typing in insert mode, you simply start writing.
 
-I use the `P` `W` and `H` keys for selection mode actions (paste, yank, and delete), as these are not legal strokes in [Onyx](onyx.md), meaning you can't use them in insert mode anyway. You can use any strokes you'd like, of course.
+I use the `P` `W` `H` and `R` keys for selection mode actions (paste, yank, delete, and enter insert), as these are not legal strokes in [Onyx](onyx.md), meaning you can't use them in insert mode anyway. You can use any strokes you'd like, of course.
 
 ## Keybinding Model
 
