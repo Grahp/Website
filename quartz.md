@@ -104,6 +104,3 @@ This is really a problem of outlines needing to be re-calculated at all.
 #### ALL Rules
 
 Modeling theory rules effectively, and how they interact.
-
-This is mostly what I've been working recently.
-
