@@ -26,6 +26,13 @@ This avoids requiring any strokes to enter and leave selection mode. Just start 
 
 I use the `P`, `W`, and `H` keys for selection mode actions (past, yank, and delete respectively), as these are not legal strokes in [Onyx](onyx.md), meaning they can't be used in normal typing anyway.
 
+## Non-modal selection?
+
+The differences between selection mode and non-modal selection are that:
+- Only 1 set of movement strokes are required, instead of needing a stroke for movement and a stroke for movement and selection.
+- Starting to type with a selection selected does not cut the selected text, it just appends your cursor.
+- Complex movement strokes can also be used (say, "select the entire paragraph under my cursor").
+
 ## Keybinding Model
 
 In order for this to work, your editor needs to be able to differentiate movement strokes and selection mode action strokes from normal typing. This can be done in several ways. I'm still trying to figure out what the best way to do this is.
