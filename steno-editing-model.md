@@ -1,6 +1,6 @@
 # Steno Editing Model
 
-Ideas for a [steno](steno.md)-aware code editor.
+A [steno](steno.md) editing "keybinding" model.
 
 Most of this comes from the lisp editing model I've been working on.
 
