@@ -20,7 +20,7 @@ With a selection, you can perform selection actions, such as deleting, copying, 
 
 Whenever you use a movement stroke, you will be placed in selection mode if you're not already in it, and you'll start extending your selection, much like holding shift while using arrow keys.
 
-To leave selection mode, just start typing again. This will throw away your selection, and bring your cursor to wherever it was in the selection.
+To leave selection mode, just start typing again. This will throw away your selection, and bring your text cursor to wherever it was in the selection.
 
 This avoids requiring any strokes to enter and leave selection mode. Just start moving around to extend your selection, and start typing to void your selection. As long as your movement and selection mode action strokes are not used in normal writing, no mode switching is required.
 
