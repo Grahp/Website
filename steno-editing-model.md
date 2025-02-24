@@ -12,7 +12,7 @@ With steno, you have over 24 million available strokes at any given time, this i
 
 ## Selection Mode
 
-Instead of having one mode where everything is done, you additionally have a selection mode.
+Instead of having one mode where everything is done, you have one additional mode: selection mode.
 
 In selection mode, you move and extend what you're selecting.
 
