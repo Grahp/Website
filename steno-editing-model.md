@@ -22,13 +22,13 @@ Whenever you use a movement stroke, you will be placed in selection mode if you'
 
 To leave selection mode, just start typing again. This will throw away your selection, and bring your text cursor to wherever it was in the selection.
 
-This avoids requiring any strokes to enter and leave selection mode. Just start moving around to extend your selection, and start typing to void your selection. As long as your movement and selection mode action strokes are not used in normal writing, no mode switching is required.
+This avoids requiring any strokes to enter and leave selection mode. Just start moving around to extend your selection, and start typing to void your selection. As long as your movement strokes and selection mode action strokes are not used in normal writing, no mode switching is required.
 
 I use the `P`, `W`, and `H` keys for selection mode actions (past, yank, and delete respectively), as these are not legal strokes in [Onyx](onyx.md), meaning they can't be used in normal typing anyway.
 
 ## Keybinding Model
 
-In order for this to work, your editor needs to be able to differentiate movement and selection mode action strokes from normal typing. This can be done in several ways. I'm still trying to figure out what the best way to do this is.
+In order for this to work, your editor needs to be able to differentiate movement strokes and selection mode action strokes from normal typing. This can be done in several ways. I'm still trying to figure out what the best way to do this is.
 
 ## Overview
 
