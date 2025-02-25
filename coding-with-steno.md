@@ -4,18 +4,17 @@ I spend a lot of time reading and writing [Clojure](clojure.md) code.
 
 Code:
 ```clojure
-(defn lookup-str [s theory]
+(defn lookup [s theory]
   (let [entry {:outline (outline/str->outline s)}]
-    (lookup entry theory)))
+    (lookup-entry entry theory)))
 ```
 
 Theoretical Strokes:
 ```clojure
 #TKEFPB    (defn  [])
 HRUP       (defn lookup [])
-ST-R       (defn lookup-str []) ;; With vowels, it's a word, so it tries to join it. Might not work
-WHR-S      (defn lookup-str [s]) ;; Space puts in argument list
-*THAOERD   (defn lookup-str [s theory]
+WHR-S      (defn lookup [s]) ;; Space puts in argument list
+*THAOERD   (defn lookup [s theory]
 -PBG   ;; Logical line down and indent (like parinfer)
 #HRET        (let []))
 *ERPBTD      (let [entry]))
@@ -29,7 +28,8 @@ STAOR        (let [entry {:outline (outline/str)}]))
 +OUPBLT      (let [entry {:outline (outline/str->outline)}]
 -PBG   ;; Line down and indent
 #HRUP          (lookup)))
-*ERPBTD        (lookup entry)))
-*THAOERD       (lookup entry theory)))
+#TPH*RTD       (lookup-entry))) ;; Skeletonizing the outline means it's part of the next word? Probably doesn't work.
+*ERPBTD        (lookup-entry entry)))
+*THAOERD       (lookup-entry entry theory)))
 ```
 
