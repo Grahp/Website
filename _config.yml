@@ -1,4 +1,5 @@
-permalink: pretty
+permalink: /:title
+html_ext: ""
 plugins:
 - jekyll-target-blank
 # theme: minima
