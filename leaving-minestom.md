@@ -8,6 +8,8 @@ It's pretty hard to make something like a minecraft server, which requires a lot
 
 At the end of the day, [it's still a large java project](clojure.md), and I don't want to work with it.
 
+I found myself reimplementing many features of minestom to make them more bearable (players, items), which is a clear sign to me that I should just go a level down.
+
 ## Alternatives
 
 hahahahahahahahahahahahahahahahahahahahahahahahaha.
