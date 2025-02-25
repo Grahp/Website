@@ -57,6 +57,12 @@ What properties might quartz have?
 - **Stability**
 - **Discrete** theory rule application
 
+### Rules
+
+Quartz is a rule based dynamic dictionary generator.
+
+A rule-based dictionary means you can use an [uberdictionary](uberdictionary.md) or word list to automatically get new entries based on your rules.
+
 ### How?
 
 Quartz goes **directly** from theory to dictionary. No "manually write a hundred fifty thousand entries, and then spend the rest of your life maintaining them" step.
