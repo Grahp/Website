@@ -82,31 +82,31 @@ Essentially, theory rules continuously modify the translation, and that's **all*
 
 (if you're reading this you should star the repo so I know how many people actually care)
 
+### Process
+
+TODO
+
+And talk about how this simplifies rules
+
 ### Problems
 
 #### Entry Application
 
 What do you give to rule application functions?
 What do rule application functions need?
+I think it's entries.
+I don't know what they return though. They seem to just want to feed data around.
 
-#### Syntactic Rules
+#### Order-dependent Rules
 
 Syntactic rules are rules in which the order of their application matters.
 Take a rule such as "capitalize the translation if it starts with an A".
 This rule **must** come after the translation has been determined.
 
-Rule application order matters. Since theories are unordered sets of rules, some kind of rule priority will be needed.
+Sometimes rule application order might matter. Take a rule such as "capitalize the translation if it starts with an A". This rule must be executed after the translation has been determined.
 
-#### Greedy Rules
+I think rules like this have to go in a separate category. Just like there are rules that apply before the bulk of rules and determine splitting and organization, there might be rules that must come after all other rules.
 
-Rules that want to match forever!
-This is probably a theory problem and not a Quartz problem.
+#### Dynamism
 
-#### Impure Re-execution
-
-Impure matching functions (such as getting the current focused application) could return different results if a rule needs to backtrack.
-This is really a problem of outlines needing to be re-calculated at all.
-
-#### ALL Rules
-
-Modeling theory rules effectively, and how they interact.
+It might be hard to find errors in theory logic if entries are only ever determined when they're needed. When generating an enumerated dict, you can validate the entries as they're generated, but with a programmatic dict, you're generating the outlines while you're typing them. This means you can't really know whether your dictionary works, I think.
