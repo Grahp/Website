@@ -25,7 +25,7 @@ WHR-S      (defn lookup-str [s]) ;; Space puts in argument list
 #+OUPBLT     (let [entry {:outline (outline)}])) ;; # to add a paren
 -RP          (let [entry {:outline (outline/)}]))
 STAOR        (let [entry {:outline (outline/str)}]))
-#O           (let [entry {:outline (outline/str->)}]))
+#O           (let [entry {:outline (outline/str->)}])) ;; -> is read as "to", `O` is my "to" outline
 +OUPBLT      (let [entry {:outline (outline/str->outline)}]
 -PBG   ;; Line down and indent
 #HRUP          (lookup)))
