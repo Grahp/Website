@@ -61,15 +61,13 @@ What properties might quartz have?
 
 Quartz goes **directly** from theory to dictionary. No "manually write a hundred fifty thousand entries, and then spend the rest of your life maintaining them" step.
 
-Quartz is a rule based dictionary generator, compared to traditional entry based dictionaries. A rule based dictionary means you can use an [uberdictionary](uberdictionary.md) to automatically generate new entries based on existing rules with any additional effort.
+Quartz is rule based, unlike traditional entry based theories. A rule based theory means you can use an [uberdictionary](uberdictionary.md) to automatically generate new entries based on existing rules with any additional effort.
 
 #### Dictionary
 
-When we think of dictionaries, we tend to think of something like a JSON dict.
+When we think of dictionaries, we tend to think of something like a JSON dict. However, a dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
 
-A dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
-
-In the case of Quartz, [**A dictionary is just a lookup function**](https://github.com/Grahp/Steno-Glossary#dictionary). This lookup function takes an outline and your entire theory, and returns the translation after applying all theory rules to the outline.
+In the case of Quartz, **A dictionary is just a lookup function**. This lookup function takes an outline and your entire theory, and returns the translation after applying all theory rules to the outline.
 
 #### Theory Rules
 
