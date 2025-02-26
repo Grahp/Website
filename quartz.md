@@ -93,11 +93,9 @@ TODO translation rules?
 
 What do rule application functions need? What do they return?
 
-Some rules need only the outline, while other need the translation. Maybe there are rules that need both!
+Some rules need only the outline, while other need the translation. Maybe there are rules that need both! I could certainly come up with theoretical ones.
 
-I've developed multiple categories of rules.
-
-Rules seem to just be able to feed arbitrary information around, but I'm not sure how to model this.
+Rules seem to just be able to feed arbitrary information around, but I'm not sure if that's correct.
 
 #### Dynamism
 
