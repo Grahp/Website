@@ -40,10 +40,11 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
   - This is a fantastically good idea
   - Theory rules **are** documentation!
   - Auto-generated outlines!
-- Poor format for theory rules, in my opinion
 
 Froj never claims to build an entire dictionary for you, which is probably reasonable if you're a normal person.
 Unlike python dicts, you can absolutely build a full theory dictionary like this.
+
+As nice as froj is, I don't agree with many of it's design decisions. This is likely because harri and I are making a very different theories.
 
 ## Quartz
 
