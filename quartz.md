@@ -40,7 +40,7 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
   - This is a fantastically good idea
   - Theory rules **are** documentation!
   - Auto-generated outlines!
-- Somewhat of an [uberdictionary](uberdictionary.md)
+- Uses somewhat of an [uberdictionary](uberdictionary.md)
 
 Froj never claims to build an entire dictionary for you, which is probably reasonable if you're a normal person.
 Unlike python dicts, you can absolutely build a full theory dictionary like this.
