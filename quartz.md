@@ -52,18 +52,18 @@ As nice as froj is, I disagree with many of it's design decisions. This is likel
 What properties might quartz have?
 
 - Reified theory
-  - No vestigiality
   - Documentation!
 - Go **directly** from theory to dictionary
 - **Dynamism** and **context-aware(ness)**!
 - **Stability**
 - **Discrete** theory rule application
+  - No vestigiality
 
 ### How?
 
 Quartz goes **directly** from theory to dictionary. No "manually write a hundred fifty thousand entries, and then spend the rest of your life maintaining them" step.
 
-Quartz is rule based, unlike traditional entry based theories. A rule based theory means you can use an [uberdictionary](uberdictionary.md) to automatically generate new entries based on existing rules with any additional effort.
+Quartz is rule based, unlike traditional entry based theories. A rule based theory means you can use an [uberdictionary](uberdictionary.md) to automatically generate new entries based on existing rules without any additional effort.
 
 #### Dictionary
 
@@ -105,4 +105,4 @@ It might be hard to find errors in theory logic if entries are only ever determi
 
 Exhaustively applying all plausible outlines is probably not possible. Lookup is too slow, and outlines are too plentiful. It might be possible for rules to generate outlines that satisfy that rule, but rules are too complex for this to be enough. You need the ability to take a theory and generate valid entries for that theory. These could then be reviewed and likely trivially checked for theory logic errors.
 
-Maybe spec could do this?
+Maybe [spec](clojure.md) could do this?
