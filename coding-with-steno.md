@@ -28,7 +28,7 @@ STAOR        (let [entry {:outline (outline/str)}]))
 +OUPBLT      (let [entry {:outline (outline/str->outline)}]
 -PBG   ;; Line down and indent
 #HRUP          (lookup)))
-#TPH*RTD       (lookup-entry))) ;; Skeletonizing the outline means it's part of the next word? Probably doesn't work.
+#TPH*RTD       (lookup-entry))) ;; Skeletonizing the outline means it's part of the next word? Probably doesn't work. Otherwise, you just need a `{^-^}` stroke.
 *ERPBTD        (lookup-entry entry)))
 *THAOERD       (lookup-entry entry theory)))
 ```
