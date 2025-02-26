@@ -71,7 +71,7 @@ In the case of Quartz, **A dictionary is just a lookup function**. This lookup f
 
 #### Theory Rules
 
-Theory rules are very abstract. Sometimes we write them down (never in their entirety), but it's very imprecise, and has no coordination with your dictionary.
+Reifying theory rules is quite a challenge. Theory rules are very abstract. Sometimes we write them down, but it's very imprecise, and has no real coordination or connection with your dictionary.
 
 The theory rule format I've been working with (making simple orthospelling dicts) has 2 parts: a match predicate and an application function.
 That is, whether an rule applies to an entry (the match predicate), and then the application of the theory rule (the apply function).
@@ -89,7 +89,7 @@ TODO translation rules?
 
 ### Problems
 
-#### Entry Application
+#### Rule Application
 
 What do rule application functions need? What do they return?
 
