@@ -57,19 +57,18 @@ What properties might quartz have?
 - **Stability**
 - **Discrete** theory rule application
 
-### Rules
-
-Quartz is a rule based dynamic dictionary generator.
-
-A rule-based dictionary means you can use an [uberdictionary](uberdictionary.md) or word list to automatically get new entries based on your rules.
-
 ### How?
 
 Quartz goes **directly** from theory to dictionary. No "manually write a hundred fifty thousand entries, and then spend the rest of your life maintaining them" step.
 
+Quartz is a rule based dictionary generator, compared to traditional entry based dictionaries. A rule based dictionary means you can use an [uberdictionary](uberdictionary.md) to automatically generate new entries based on existing rules with any additional effort.
+
 #### Dictionary
 
-A dictionary is not necessarily a tangible thing. This idea is where theory staticness comes from, among other things.
+When we think of dictionaries, we tend to think of something like a JSON dict.
+
+A dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
+
 In the case of Quartz, [**A dictionary is just a lookup function**](https://github.com/Grahp/Steno-Glossary#dictionary). This lookup function takes an outline and your entire theory, and returns the translation after applying all theory rules to the outline.
 
 #### Theory Rules
@@ -77,36 +76,33 @@ In the case of Quartz, [**A dictionary is just a lookup function**](https://gith
 Theory rules are very abstract. Sometimes we write them down (never in their entirety), but it's very imprecise, and has no coordination with your dictionary.
 
 The theory rule format I've been working with (making simple orthospelling dicts) has 2 parts: a match predicate and an application function.
-That is, whether an rule applies to an entry, and then the transformation of the entry, or the application of the theory rule.
-Essentially, theory rules continuously modify the translation, and that's **all** they do.
-
-(if you're reading this you should star the repo so I know how many people actually care)
+That is, whether an rule applies to an entry (the match predicate), and then the application of the theory rule (the apply function).
 
 ### Process
 
-TODO
+The process Quartz takes.
 
-And talk about how this simplifies rules
+TODO translation rules?
+
+1. Receive the sequence of strokes that were inputted.
+2. Turn the input into manageable parts. Splitting it into smaller outlines, and splitting the constituent strokes into entries.
+3. Independently apply all rules to the outlines, getting back multiple outputs (translations).
+4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
 
 ### Problems
 
 #### Entry Application
 
-What do you give to rule application functions?
-What do rule application functions need?
-I think it's entries.
-I don't know what they return though. They seem to just want to feed data around.
+What do rule application functions need? What do they return?
 
-#### Order-dependent Rules
+Some rules need only the outline, while other need the translation. Maybe there are rules that need both!
 
-Syntactic rules are rules in which the order of their application matters.
-Take a rule such as "capitalize the translation if it starts with an A".
-This rule **must** come after the translation has been determined.
+I've developed multiple categories of rules.
 
-Sometimes rule application order might matter. Take a rule such as "capitalize the translation if it starts with an A". This rule must be executed after the translation has been determined.
-
-I think rules like this have to go in a separate category. Just like there are rules that apply before the bulk of rules and determine splitting and organization, there might be rules that must come after all other rules.
+Rules seem to just be able to feed arbitrary information around, but I'm not sure how to model this.
 
 #### Dynamism
 
 It might be hard to find errors in theory logic if entries are only ever determined when they're needed. When generating an enumerated dict, you can validate the entries as they're generated, but with a programmatic dict, you're generating the outlines while you're typing them. This means you can't really know whether your dictionary works, I think.
+
+Exhaustively applying all plausible outlines is probably not possible. Lookup is too slow, and outlines are too plentiful. It might be possible for rules to generate outlines that satisfy that rule, but rules are too complex for this to be enough. You need the ability to take a theory and generate valid entries for that theory. These could then be reviewed and likely trivially checked for theory logic errors.
