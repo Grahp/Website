@@ -1,4 +1,4 @@
-# Lisp Editing Model
+# Steno Lisp Editing Model
 
 [Steno](steno.md) lisp editing model.
 
