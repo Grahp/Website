@@ -1,3 +1,6 @@
+---
+permalink: /onyx/
+---
 # Onyx
 
 Onyx is a WIP [steno](steno.md) dictionary.
