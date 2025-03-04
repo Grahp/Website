@@ -1,6 +1,6 @@
 # Wisp
 
-WIP Datapack language target and runtime
+WIP [Datapack](datapacks.md) language target and runtime
 
 ## Goals
 

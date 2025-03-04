@@ -1,6 +1,6 @@
 # Junction
 
-WIP Datapack language inspired by [Clojure](clojure.md).
+WIP [Datapack](datapacks.md) language inspired by [Clojure](clojure.md).
 
 Hosted on (and embraces) [Wisp](wisp.md).
 
