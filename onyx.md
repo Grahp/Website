@@ -2,6 +2,8 @@
 
 Onyx is a WIP [steno](steno.md) dictionary.
 
+See [Onyx Spec](onyx/spec.md)
+
 My Theory Beliefs:
 (See [Quartz](quartz.md))
 - Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky theory.
