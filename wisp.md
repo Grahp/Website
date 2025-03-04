@@ -12,3 +12,9 @@ WIP [Datapack](datapacks.md) language target and runtime
 - Avoid a host language, prefer a contract instead
 - Hosting on multiple platform targets, with datapacks being the main target
 - Performance
+
+## Beliefs
+
+- Reuse is critical.
+- Values are the only real way to get effective communication between languages.
+- Names are important.
