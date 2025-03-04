@@ -1,8 +1,6 @@
 # Steno Lisp Editing Model
 
-[Steno](steno.md) lisp editing model.
-
-For a more generic lisp-independent version of this, see [steno editing model](steno-editing-model.md)
+[Steno](steno.md) lisp editing model. For a more generic lisp-independent version of this, see [steno editing model](steno-editing-model.md)
 
 2 things make up a lisp program: words and collections.
 
