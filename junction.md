@@ -9,3 +9,11 @@ Hosted on (and embraces) [Wisp](wisp.md).
 - Recreate Clojure
 - Avoid problems Clojure inherited from Java and the JVM
 - Gracefully adapt to datapack requirements
+
+## Prerequisites
+
+- [Wisp](wisp.md)
+- Persistent Data Structures
+- Code & Data Notation
+- Reader (Spec)
+- Evaluator
