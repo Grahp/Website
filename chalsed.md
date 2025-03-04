@@ -6,7 +6,7 @@ Pronounced KAL-SED
 
 ## Goals
 
-- Code & data oriented editor
+- [Code & data](clojure.md) oriented editor
 - [Steno Integration](steno-editor.md)
 
 ## Beliefs
