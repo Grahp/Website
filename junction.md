@@ -2,7 +2,7 @@
 
 WIP Datapack language inspired by [Clojure](clojure.md).
 
-A [Wisp](wisp.md) language.
+Hosted on (and embraces) [Wisp](wisp.md).
 
 ## Goals
 
