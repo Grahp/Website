@@ -1,3 +1,3 @@
 # Onyx Spec
 
-WIP [Onyx](/onyx) specification.
+WIP [Onyx](../onyx.md) specification.
