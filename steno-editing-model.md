@@ -1,6 +1,6 @@
 # Steno Editing Model
 
-A [steno](steno.md) editing "keybinding" model.
+A [steno editing](steno-editor.md) "keybinding" model.
 
 ## Modal Editing
 
@@ -8,7 +8,7 @@ Modal editing makes a lot of sense when you have a very limited number of unique
 
 Being in a mode adds context to every action you perform. This means you don't need to hold down a mod key, or add an additional prefix key to your actions, in order for them to be unique.
 
-With steno, you have over 24 million available strokes at any given time, this is more than enough. Requiring an entire stroke or dedicated key to switch modes is a problem.
+With [steno](steno.md), you have over 24 million available strokes at any given time, this is more than enough. Requiring an entire stroke or dedicated key to switch modes is a problem.
 
 ## Selection Mode
 
