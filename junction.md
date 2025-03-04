@@ -17,3 +17,4 @@ Hosted on (and embraces) [Wisp](wisp.md).
 - Code & Data Notation
 - Reader (Spec)
 - Evaluator
+- Entity, Item, and Inventory Values
