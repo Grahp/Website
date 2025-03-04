@@ -1,8 +1,10 @@
 # Steno Lisp Editing Model
 
+See [Chalsed](chalsed.md)
+
 [Steno](steno.md) lisp [editing model](steno-editor.md). For a more generic lisp-independent version of this, see [steno editing model](steno-editing-model.md)
 
-2 things make up a lisp program: words and collections.
+2 elements make up a lisp program: words and collections.
 
 Words are character-based. Symbols and keywords are almost exclusively just characters. Numbers are also just characters. Both of these have a few syntactic rules, like a `:` before a keyword and a `.` for a decimal point in a number, but these are obvious and can be handled by the programmer.
 
