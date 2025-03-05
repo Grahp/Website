@@ -91,6 +91,10 @@ TODO translation rules?
 
 ### Problems
 
+- What are rules
+- How are they applied
+- Uberdict
+
 #### Rule Application
 
 What do rule application functions need? What do they return?
@@ -106,3 +110,7 @@ It might be hard to find errors in theory logic if entries are only ever determi
 Exhaustively applying all plausible outlines is probably not possible. Lookup is too slow, and outlines are too plentiful. It might be possible for rules to generate outlines that satisfy that rule, but rules are too complex for this to be enough. You need the ability to take a theory and generate valid entries for that theory. These could then be reviewed and likely trivially checked for theory logic errors.
 
 Maybe [spec](clojure.md) could do this?
+
+#### Uberdict
+
+How do you represent an [Uberdictionary](uberdictionary.md)?
