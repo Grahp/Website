@@ -8,9 +8,9 @@ Data interfaces a [Wisp](../wisp.md) language must support. Part of the [Wisp Co
 
 All Wisp types are `Object`s.
 
-- `equals? [obj x]` Returns whether `obj` is logically equal to `x`.
-- `str [obj]` Stringifies `obj`. Defined on a per-type basis.
-- `type [obj]` Returns the type of `obj`.
+- `wisp/equals [obj x]` Returns whether `obj` is logically equal to `x`, as defined by the type of `obj`.
+- `wisp/str [obj]` Stringifies `obj`. Defined on a per-type basis.
+- `wisp/type [obj]` Returns the type of `obj`.
 
 ### Value
 
@@ -24,7 +24,7 @@ A mutable reference type. All `Ref`s are `Object`s.
 
 Equality on references is defined in terms of identity. If 2 Refs are the same object, they are equal.
 
-- `deref [ref]` Returns the current `Object` inside of `ref`, typically a stable `Value`.
+- `wisp/deref [ref]` Returns the current `Object` inside of `ref`, typically a stable `Value`.
 
 ### Number
 
@@ -59,7 +59,7 @@ A single character. `Character`s are `Value`s.
 
 `Character`s are the constituents of strings.
 
-- `int [char]` Returns the integer character code of `char`.
+- `wisp/int [char]` Returns the integer character code of `char`.
 
 ### Null
 
@@ -77,5 +77,5 @@ Contain an optional string namespace, and string name.
 
 Symbols may convey the name of a function or method, a var, a key in a map, etc.
 
-- `namespace [sym]` Returns the namespace of `sym`.
-- `name [sym]` Returns the name of `sym`.
+- `wisp.symbol/namespace [sym]` Returns the namespace of `sym`.
+- `wisp.symbol/name [sym]` Returns the name of `sym`.
