@@ -12,7 +12,7 @@ WIP [Datapack](datapacks.md) language target and runtime.
 - Flawless reuse of libraries between languages
 - Absolute stability between versions
 - Hosting of multiple language paradigms
-- Offer a reasonable contract for languages
+- Offer a reasonable [contract](contract.md) for languages
 - Avoid a host language, prefer a contract instead
 - Hosting on multiple platform targets, with datapacks being the main target
 - Performance
@@ -20,5 +20,5 @@ WIP [Datapack](datapacks.md) language target and runtime.
 ## Beliefs
 
 - Reuse is critical.
-- Values are the only real way to get effective communication between languages.
+- [Values are the only real way to get effective communication between languages](wisp/data.md).
 - [Names are important](wisp/names.md).
