@@ -1,6 +1,6 @@
 # Wisp Data
 
-Data interfaces a [Wisp](../wisp.md) language must support. Part of the [Wisp Contract](contract.md)
+Data interfaces a [Wisp](../wisp.md) language must support. Part of the [Wisp Contract](contract.md).
 
 ## Atomic Type Interfaces
 
@@ -31,9 +31,9 @@ Equality on references is defined in terms of identity. If 2 Refs are the same o
 A number. All `Number`s are `Value`s.
 
 Equality on `Number`s is defined in a type-independent manner.
-`7 == 7`
-`42 == 42.0 == 84/2`
-`1/3 != 0.3333333333333333`
+- `7 == 7`
+- `42 == 42.0 == 84/2`
+- `1/3 != 0.3333333333333333`
 
 ### Integer
 
