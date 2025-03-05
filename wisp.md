@@ -20,5 +20,5 @@ WIP [Datapack](datapacks.md) language target and runtime.
 ## Beliefs
 
 - Reuse is critical.
-- [Values are the only real way to get effective communication between languages](wisp/data.md).
-- [Names are important](wisp/names.md).
+- [Values](wisp/data.md) are the only real way to get effective communication between languages.
+- [Names](wisp/names.md) are important.
