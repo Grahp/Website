@@ -69,6 +69,8 @@ Null represents nothing. `Null` is a `Value`.
 
 A boolean value. `Boolean`s are `Value`s.
 
+[Equality](equality.md) is part of the [Wisp Contract](contract.md)
+
 ### Symbols
 
 An identifier used to convey [names](names.md). `Symbol`s are `Value`s.
