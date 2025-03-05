@@ -2,7 +2,8 @@
 
 WIP MMORPG Minecraft Server, [written from scratch](minecraft-server-from-scratch.md) in [Clojure](clojure.md).
 
-Progress:
+Roadmap(ish):
 - [Leaving Minestom](leaving-minestom.md)
-- Something game design
-- Pixel art
+- Server implementation
+- Game design
+- Basic feature implementation
