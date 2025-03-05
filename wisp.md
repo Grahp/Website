@@ -1,6 +1,10 @@
+---
+permalink: /wisp/
+---
+
 # Wisp
 
-WIP [Datapack](datapacks.md) language target and runtime
+WIP [Datapack](datapacks.md) language target and runtime.
 
 ## Goals
 
@@ -17,4 +21,4 @@ WIP [Datapack](datapacks.md) language target and runtime
 
 - Reuse is critical.
 - Values are the only real way to get effective communication between languages.
-- Names are important.
+- [Names are important](wisp/names.md).
