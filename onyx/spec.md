@@ -11,9 +11,12 @@ Onyx uses the full Extended Stenotype Layout ([https://github.com/sammdot/plover
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
 ## Onyx Splitting
-![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
 Every consecutive stroke after the first stroke of a multi-stroke outline is skeletonized.
+
+This means that skeleton strokes may not be used for briefs, or otherwise.
+
+Onyx splitting avoids all word boundary conflicts, and introduces remarkably few conflicts.
 
 ## Briefing
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
