@@ -40,7 +40,7 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
 
 ([https://github.com/StenoHarri/Froj](https://github.com/StenoHarri/Froj))
 
-- Still produces **static** json dicts.
+- Still produces **static** json dicts
   - Bulky, context-unaware, etc.
 - Built on theory rules!
   - This is a fantastically good idea
@@ -71,13 +71,16 @@ What properties might Quartz have?
 
 Quartz goes **directly** from theory to dictionary. No "manually write a hundred fifty thousand entries, and then spend the rest of your life maintaining them" step.
 
-Quartz is rule based, unlike traditional entry based theories. A rule based theory means you can use an [uberdictionary](uberdictionary.md) to automatically generate new entries based on existing rules without any additional effort.
+Quartz theories are rule-based, unlike traditional entry-based theories.
 
-#### Dictionary
+### Process
 
-When we think of dictionaries, we tend to think of something like a JSON dict. However, a dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
+The process a Quartz dictionary takes:
 
-In the case of Quartz, **A dictionary is just a lookup function**. This lookup function takes an outline and your entire theory, and returns the translation after applying all theory rules to the outline.
+1. Receive the sequence of strokes that were inputted.
+2. Turn the input into manageable parts. Splitting it into smaller outlines, and splitting the constituent strokes into entries.
+3. Independently apply all rules to the outlines, getting back multiple outputs.
+4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
 
 #### Theory Rules
 
@@ -86,28 +89,15 @@ Reifying theory rules is quite a challenge. Theory rules are very abstract. Some
 The theory rule format I've been working with (making simple orthospelling dicts) has 2 parts: a match predicate and an application function.
 That is, whether an rule applies to an entry (the match predicate), and then the application of the theory rule (the apply function).
 
-### Process
+#### Dictionary
 
-The process Quartz takes.
+When we think of dictionaries, we tend to think of something like a JSON dict. However, a dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
 
-TODO translation rules?
+In the case of Quartz, **A dictionary is just a lookup function**. This lookup function takes an outline and uses your entire theory as context, and returns the translation after applying all theory rules to the outline.
 
-1. Receive the sequence of strokes that were inputted.
-2. Turn the input into manageable parts. Splitting it into smaller outlines, and splitting the constituent strokes into entries.
-3. Independently apply all rules to the outlines, getting back multiple outputs (translations).
-4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
+#### Uberdictionary
 
-### Formula
-
-Comparison of Quartz's formula to Froj's:
-
-Theory, Uberdictionary -> Programmatic Dictionary
-
-Froj Formula:
-
-Pronunciation data, Rules -> entries
-
-I think that roughly sums up the differences between Froj and Quartz.
+TODO
 
 ### Problems
 
