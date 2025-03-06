@@ -89,6 +89,18 @@ TODO translation rules?
 3. Independently apply all rules to the outlines, getting back multiple outputs (translations).
 4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
 
+### Formula
+
+Comparison of Quartz's formula to Froj's:
+
+Theory, Uberdictionary -> Programmatic Dictionary
+
+Froj Formula:
+
+Pronunciation data, Rules -> entries
+
+I think that roughly sums up the differences between Froj and Quartz.
+
 ### Problems
 
 - What are rules
