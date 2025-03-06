@@ -1,7 +1,3 @@
----
-permalink: /quartz/
----
-
 # Quartz
 
 WIP Dynamic [Steno](steno.md) Dictionary Generator.
