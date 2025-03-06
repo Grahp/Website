@@ -1,14 +1,14 @@
 # Quartz
 
-WIP Dynamic [Steno](steno.md) Dictionary Generator.
+WIP [Steno](steno.md) Programmatic [Dictionary](steno-glossary.md#dictionary) Generator.
 
 Repo: [https://github.com/Grahp/Quartz](https://github.com/Grahp/Quartz)
 
 ## Traditional Theory Realization
 
-Theories are **never** reified in their entirety.
+[Theories](steno-glossary.md#theory) are **never** reified in their entirety.
 
-Once you've designed a theory, you **manually** create hundreds of thousands of entries that "satisfy" that theory, and collect them into a dictionary.
+Once you've designed a theory, you **manually** create hundreds of thousands of [entries](steno-glossary.md#entry) that "satisfy" that theory, and collect them into a dictionary.
 
 This leads to dictionaries that are:
 - **Static**
@@ -38,10 +38,10 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
 
 - Still produces **static** json dicts
   - Bulky, context-unaware, etc.
-- Built on theory rules!
+- Built on [theory rules](steno-glossary.md#theory-rule)!
   - This is a fantastically good idea
   - Theory rules **are** documentation!
-  - Auto-generated outlines!
+  - Auto-generated [outlines](steno-glossary.md#outline)!
   - Uses chord-based rules
 - Uses somewhat of an [uberdictionary](uberdictionary.md).
 
@@ -73,7 +73,7 @@ Quartz theories are rule-based, unlike traditional entry-based theories.
 
 The process a Quartz dictionary takes:
 
-1. Receive the sequence of strokes that were inputted.
+1. Receive the sequence of [strokes](steno-glossary.md#stroke) that were inputted.
 2. Turn the input into manageable parts. Splitting it into smaller outlines, and splitting the constituent strokes into entries.
 3. Independently apply all rules to the outlines, getting back multiple outputs.
 4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
@@ -89,7 +89,7 @@ That is, whether an rule applies to an entry (the match predicate), and then the
 
 When we think of dictionaries, we tend to think of something like a JSON dict. However, a dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
 
-In the case of Quartz, **A dictionary is just a lookup function**. This lookup function takes an outline and uses your entire theory as context, and returns the translation after applying all theory rules to the outline.
+In the case of Quartz, **A dictionary is just a lookup function**. This lookup function takes an outline and uses your entire theory as context, and returns the [translation](steno-glossary.md#translation) after applying all theory rules to the outline.
 
 #### Uberdictionary
 
