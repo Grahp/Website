@@ -2,6 +2,8 @@
 
 I couldn't do Clojure justice. ([https://clojure.org](https://clojure.org))
 
+- Language Idioms
+
 ## Data
 
 Clojure forces you to write data-driven systems. Data is incredibly simple.
