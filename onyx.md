@@ -1,6 +1,6 @@
 # Onyx
 
-Onyx is a WIP [steno](steno.md) dictionary.
+WIP [steno](steno.md) theory.
 
 See [Onyx Spec](onyx/spec.md)
 
