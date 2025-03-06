@@ -139,6 +139,7 @@ Split into chords:
 Apply **all** rules (independently):
 
 Rules that apply: `f r o g` (How is order maintained here?)
+
 (`f r o g` is pronunciation data, but it could also be orthographic if you're making an ortho theory)
 
 **Combination Step**:
