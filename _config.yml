@@ -3,5 +3,4 @@ plugins:
   - jekyll-target-blank
   - jekyll-seo-tag
 favicon: /favicon.ico
-seo:
-  title_separator: ""
+title: :title
