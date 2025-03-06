@@ -78,6 +78,39 @@ The process a Quartz dictionary takes:
 3. Independently apply all rules to the outlines, getting back multiple outputs.
 4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
 
+#### Basic Example
+
+**Basic Quartz Lookup**
+Outline Lookup: `TPROG`
+
+**Splitting Step**:
+
+Split by bank:
+`TPR- O -G`
+
+Split into chords:
+`TP- R- O -G`
+
+**Rule Application Step**:
+
+Apply **all** rules (independently):
+
+Rules that apply: `f r o g` (How is order maintained here?)
+
+(`f r o g` is pronunciation data, but it could also be orthographic if you're making an ortho theory)
+
+**Combination Step**:
+
+Transform **outputs** to translation:
+
+Lookup in uberdict:
+`f r o g -> "frog"` (How does the uberdict know this?)
+
+**Finally**,
+
+Return translation:
+`"frog"`
+
 #### Theory Rules
 
 Reifying theory rules is quite a challenge. Theory rules are very abstract. Sometimes we write them down, but it's very imprecise, and has no real coordination or connection with your dictionary.
@@ -120,36 +153,3 @@ Maybe [spec](clojure.md) could do this?
 #### Uberdict
 
 How do you represent an [Uberdictionary](uberdictionary.md)?
-
-### Basic Example
-
-**Basic Quartz Lookup**
-Outline Lookup: `TPROG`
-
-**Splitting Step**:
-
-Split by bank:
-`TPR- O -G`
-
-Split into chords:
-`TP- R- O -G`
-
-**Rule Application Step**:
-
-Apply **all** rules (independently):
-
-Rules that apply: `f r o g` (How is order maintained here?)
-
-(`f r o g` is pronunciation data, but it could also be orthographic if you're making an ortho theory)
-
-**Combination Step**:
-
-Transform **outputs** to translation:
-
-Lookup in uberdict:
-`f r o g -> "frog"` (How does the uberdict know this?)
-
-**Finally**,
-
-Return translation:
-`"frog"`
