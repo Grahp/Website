@@ -22,9 +22,9 @@ Onyx Goals:
 Smaller ~~theories~~ things are easier to learn, easier to build on, easier to understand, easier to maintain, easier to keep consistent, easier to document...
 
 What impacts theory size?
-- Arbitrary briefs
-- Mandatory outlines
 - Number of rules
+- Mandatory outlines
+- Arbitrary briefs
 
 ## Consistency
 
