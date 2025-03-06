@@ -2,7 +2,7 @@
 
 WIP [Steno](steno.md) [Glossary](glossaries.md). Contributions Welcome :)
 
-Also at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp/Steno-Glossary).
+Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp/Steno-Glossary).
 
 ## Key
 Noun
