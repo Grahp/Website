@@ -2,7 +2,7 @@
 
 Pronounced KAL-SED
 
-[Clojure](clojure.md) Code editor.
+[Clojure](clojure.md) Code editor, embracing the Clojure philosophy of simplicity and deliberation.
 
 ## Goals
 
