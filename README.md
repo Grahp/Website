@@ -1,5 +1,7 @@
 ---
-permalink: /home
+permalink:
+- /home
+- /
 ---
 # Home
 
