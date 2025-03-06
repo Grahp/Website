@@ -1,6 +1,6 @@
 # Coding With Steno
 
-I spend a lot of time reading and writing [Clojure](clojure.md) code.
+I spend a lot of time reading and writing [Clojure](clojure.md) code. Me want write it with [Steno](steno.md).
 
 Code:
 ```clojure
