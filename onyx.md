@@ -18,7 +18,7 @@ Onyx Goals:
 
 ## Theory Size
 
-Smaller things are easier to learn, easier to build on, easier to understand, easier to maintain, easier to keep consistent, easier to document...
+Smaller ~~theories~~ things are easier to learn, easier to build on, easier to understand, easier to maintain, easier to keep consistent, easier to document...
 
 ## Consistency
 
