@@ -1,3 +1,7 @@
+---
+permalink: /quartz/
+---
+
 # Quartz
 
 WIP Dynamic [Steno](steno.md) Dictionary Generator.
@@ -126,3 +130,35 @@ Maybe [spec](clojure.md) could do this?
 #### Uberdict
 
 How do you represent an [Uberdictionary](uberdictionary.md)?
+
+### Basic Example
+
+**Basic Quartz Lookup**
+Outline Lookup: `TPROG`
+
+**Splitting Step**:
+
+Split by bank:
+`TPR- O -G`
+
+Split into chords:
+`TP- R- O -G`
+
+**Rule Application Step**:
+
+Apply **all** rules (independently):
+
+Rules that apply: `f r o g` (How is order maintained here?)
+(`f r o g` is pronunciation data, but it could also be orthographic if you're making an ortho theory)
+
+**Combination Step**:
+
+Transform **outputs** to translation:
+
+Lookup in uberdict:
+`f r o g -> "frog"` (How does the uberdict know this?)
+
+**Finally**,
+
+Return translation:
+`"frog"`
