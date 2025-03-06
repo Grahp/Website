@@ -1,5 +1,7 @@
 ---
-permalink: /onyx/
+permalink:
+  - /onyx/
+  - /onyx
 ---
 
 # Onyx
