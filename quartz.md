@@ -38,6 +38,8 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
 
 ## Froj?
 
+([https://github.com/StenoHarri/Froj](https://github.com/StenoHarri/Froj))
+
 - Still produces **static** json dicts.
   - Bulky, context-unaware, etc.
 - Built on theory rules!
