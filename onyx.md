@@ -2,7 +2,7 @@
 
 WIP [steno](steno.md) theory.
 
-See [Onyx Spec](onyx/spec.md)
+See [Onyx Spec](onyx/spec.md).
 
 My Theory Beliefs:
 (See [Quartz](quartz.md))
@@ -11,10 +11,10 @@ My Theory Beliefs:
 - Briefs and write-outs are equally important.
 
 Onyx Goals:
-- Templated one stroke briefs for everything
-- Solid foundation for user briefing
+- Templated one stroke briefs for everything.
+- Solid foundation for user briefing.
 - Consistency
-- Be as tiny as possible
+- Be as tiny as possible.
 
 ## Theory Size
 

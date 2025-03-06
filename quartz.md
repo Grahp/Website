@@ -43,7 +43,7 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
   - Theory rules **are** documentation!
   - Auto-generated outlines!
   - Uses chord-based rules
-- Uses somewhat of an [uberdictionary](uberdictionary.md)
+- Uses somewhat of an [uberdictionary](uberdictionary.md).
 
 Froj never claims to build an entire dictionary for you, which is probably reasonable if you're a normal person.
 Unlike python dicts, you can absolutely build a full theory dictionary like this.
@@ -54,7 +54,7 @@ As nice as Froj is, I disagree with many of it's design decisions. This is likel
 
 What properties might Quartz have?
 
-- Go **directly** from theory to dictionary
+- Go **directly** from theory to dictionary.
 - **Dynamism** and **context-aware(ness)**!
 - **Stability**
 - **Declarative** theory rules
@@ -97,9 +97,9 @@ TODO
 
 ### Problems
 
-- What are rules
-- How are they applied
-- Uberdict
+- What are rules?
+- How are they applied?
+- How to represent an uberdictionary.
 
 #### Rule Application
 

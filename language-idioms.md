@@ -6,5 +6,5 @@ Clojure is a very opinionated language.
 
 I've been writing code in other languages, and, besides a few small differences, it's the EXACT same code I would write in clojure.
 
-- When you get into other people's code, it's awful
+- When you get into other people's code, it's awful.
 - Clojure forces you to write code in a certain way, where you don't have to in less opinionated languages.
