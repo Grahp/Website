@@ -11,10 +11,11 @@ My Theory Beliefs:
 - Briefs and write-outs are equally important.
 
 Onyx Goals:
-- Templated one stroke briefs for everything
-- Solid foundation for user briefing
 - Consistency
-- Be as tiny as possible
+- Theory minimality
+- Solid foundation for user briefing
+- Provide a solid foundation for user briefing
+- Brief templates
 
 ## Theory Size
 
