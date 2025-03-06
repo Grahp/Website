@@ -1,6 +1,6 @@
 # Steno
 
-Steno [Projects](projects.md)
+Steno [Projects](projects.md):
 
 - [Quartz](quartz.md)
 - [Onyx](onyx.md)
@@ -8,4 +8,7 @@ Steno [Projects](projects.md)
 - [Steno Editor](steno-editor.md)
   - [Steno Editing Model](steno-editing-model.md)
   - [Steno Lisp Editing Model](steno-lisp-editing-model.md)
+
+Steno Info:
+
 - [Uberdict](uberdictionary.md)
