@@ -6,8 +6,8 @@ Hosted on (and embraces) [Wisp](wisp.md).
 
 ## Goals
 
-- Recreate Clojure
-- Avoid problems Clojure inherited from Java and the JVM
+- Recreate Clojure on [Wisp](wisp.md)
+- Avoid porting problems Clojure inherited from Java and the JVM
 - Gracefully adapt to datapack requirements
 
 ## Prerequisites
