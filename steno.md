@@ -11,4 +11,4 @@ Steno [Projects](projects.md):
 
 Steno Info:
 
-- [Uberdict](uberdictionary.md)
+- [Uberdictionary](uberdictionary.md)
