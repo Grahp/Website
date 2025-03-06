@@ -50,7 +50,7 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
 Froj never claims to build an entire dictionary for you, which is probably reasonable if you're a normal person.
 Unlike python dicts, you can absolutely build a full theory dictionary like this.
 
-As nice as froj is, I disagree with many of it's design decisions. This is likely because harri ([https://github.com/StenoHarri/](https://github.com/StenoHarri/)) and I are making very different theories with very different requirements.
+As nice as froj is, I disagree with many of it's design decisions. This is likely because Harri ([https://github.com/StenoHarri/](https://github.com/StenoHarri/)) and I are making very different theories with very different requirements.
 
 ## Quartz
 
