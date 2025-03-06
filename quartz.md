@@ -56,13 +56,14 @@ As nice as froj is, I disagree with many of it's design decisions. This is likel
 
 What properties might quartz have?
 
-- Reified theory
-  - Documentation!
 - Go **directly** from theory to dictionary
 - **Dynamism** and **context-aware(ness)**!
 - **Stability**
-- **Discrete** theory rule application
+- **Declarative** theory rules
+  - Transactional theory changes
   - No vestigiality
+  - Completely reified!
+  - Inherent documentation!
 
 ### How?
 
