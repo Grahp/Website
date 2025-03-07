@@ -78,12 +78,11 @@ The process a Quartz dictionary takes:
 3. Independently apply all rules to the outlines, getting back multiple outputs.
 4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
 
-#### Basic Example
+#### Lookup Example
 
-**Basic Quartz Lookup**
-Outline Lookup: `TPROG`
+Outline: `TPROG` (step 1)
 
-**Splitting Step**:
+**Splitting Step**: (step 2)
 
 Split by bank:
 `TPR- O -G`
@@ -91,7 +90,7 @@ Split by bank:
 Split into chords:
 `TP- R- O -G`
 
-**Rule Application Step**:
+**Rule Application Step**: (step 3)
 
 Apply **all** rules (independently):
 
@@ -99,7 +98,7 @@ Rules that apply: `f r o g` (How is order maintained here?)
 
 (`f r o g` is pronunciation data, but it could also be orthographic if you're making an ortho theory)
 
-**Combination Step**:
+**Combination Step**: (step 4)
 
 Transform **outputs** to translation:
 
@@ -115,8 +114,8 @@ Return translation:
 
 Reifying theory rules is quite a challenge. Theory rules are very abstract. Sometimes we write them down, but it's very imprecise, and has no real coordination or connection with your dictionary.
 
-The theory rule format I've been working with (making simple orthospelling dicts) has 2 parts: a match predicate and an application function.
-That is, whether an rule applies to an entry (the match predicate), and then the application of the theory rule (the apply function).
+A theory rule is 
+In truth, theory rules are very simple. A theory rule is just a function of some input that provides some output. This is known as the application function, and is what is applied during theory rule application.
 
 #### Dictionary
 
@@ -126,13 +125,15 @@ In the case of Quartz, **A dictionary is just a lookup function**. This lookup f
 
 #### Uberdictionary
 
-TODO
+(See [Uberdictionary](uberdictionary.md))
+
+An uberdictionary is a collection of translations with context about their origin, pronunciation, etc.
+
+With an uberdict, you can write context for translations once, and all theories using that uberdict get that context for free.
+
+Since Quartz is rule-based, you get new entries for free!
 
 ### Problems
-
-- What are rules?
-- How are they applied?
-- How to represent an uberdictionary.
 
 #### Rule Application
 
@@ -141,6 +142,12 @@ What do rule application functions need? What do they return?
 Some rules need only the outline, while other need the translation. Maybe there are rules that need both! I could certainly come up with theoretical ones.
 
 Rules seem to just be able to feed arbitrary information around, but I'm not sure if that's correct.
+
+#### Combination
+
+How do you combine rule outputs into something usable?
+
+How does the combination know what a theory rule really wants to do? Perhaps all rules should be fully decoupled, but that might not be possible.
 
 #### Dynamism
 
