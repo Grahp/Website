@@ -80,9 +80,9 @@ The process a Quartz dictionary takes in lookup:
 
 ### Lookup Example
 
-Outline: `TPROG` (step 1)
+Step 1: Receive Outline: `TPROG`
 
-**Splitting Step**: (step 2)
+Step 2: **Outline Splitting**:
 
 Split by bank:
 `TPR- O -G`
@@ -90,20 +90,20 @@ Split by bank:
 Split into chords:
 `TP- R- O -G`
 
-**Rule Application Step**: (step 3)
+Step 3: **Rule Application**:
 
 Apply **all** rules (independently):
 
-Rules that apply: `f r o g` (How is order maintained here?)
+After rule application, you're left with `f r o g`
 
 (`f r o g` is pronunciation data, but it could also be orthographic if you're making an ortho theory)
 
-**Combination Step**: (step 4)
+Step 4: **Output**:
 
-Transform **outputs** to translation:
+Transform rule outputs to translation:
 
-Lookup in uberdict:
-`f r o g -> "frog"` (How does the uberdict know this?)
+Lookup in uberdictionary:
+`f r o g -> "frog"`
 
 **Finally**,
 
