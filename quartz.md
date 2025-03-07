@@ -126,7 +126,7 @@ In the case of Quartz, a dictionary is just a lookup function. See [**the proces
 
 (See [Uberdictionary](uberdictionary.md))
 
-An uberdictionary is a collection of translations with context about their origin, pronunciation, etc.
+An uberdictionary is a collection of translations with context about their origin, pronunciation, and other pertinent attributes.
 
 With an uberdict, you can write context for translations once, and all theories using that uberdict get that context for free.
 
