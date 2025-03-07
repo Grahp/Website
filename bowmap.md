@@ -5,5 +5,5 @@ WIP MMORPG Minecraft Server, [written from scratch](minecraft-server-from-scratc
 Roadmap(ish):
 - [Leaving Minestom](leaving-minestom.md)
 - Server implementation
-- Game design
-- Basic feature implementation
+- [Game design](bowmap/design.md)
+- Basic implementation
