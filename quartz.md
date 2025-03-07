@@ -67,11 +67,11 @@ What properties might Quartz have?
 
 Quartz goes **directly** from theory to dictionary. No "manually write a hundred fifty thousand entries, and then spend the rest of your life maintaining them" step.
 
-Quartz theories are rule-based, unlike traditional entry-based theories.
+Quartz dictionaries are rule-based, unlike traditional entry-based dictionaries.
 
 ## Process
 
-The process a Quartz dictionary takes:
+The process a Quartz dictionary takes in lookup:
 
 1. Receive the sequence of [strokes](steno-glossary.md#stroke) that were inputted.
 2. Turn the input into manageable parts. Splitting it into smaller outlines, and splitting the constituent strokes into entries.
