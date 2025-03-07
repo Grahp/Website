@@ -28,11 +28,12 @@ Onyx uses the full Extended Stenotype Layout ([https://github.com/sammdot/plover
 - `KWR-` -> /j/
 - `STKPW-` -> /z/
 - `KH-` -> /ʧ/
+- `TH-` -> /θ/, /ð/
 
 - `SW-` -> /sw/, /sv/
 
 TODO orthographic exceptions
-TODO `KWR` and `W` in subsequent strokes
+TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokess
 
 ### Key Usage
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
