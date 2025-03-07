@@ -120,7 +120,7 @@ In truth, theory rules are very simple. A theory rule just provides a function o
 
 When we think of dictionaries, we tend to think of something like a JSON dict. However, a dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
 
-In the case of Quartz, **A dictionary is just a lookup function**. This lookup function takes an outline and uses your entire theory as context, and returns the [translation](steno-glossary.md#translation) after applying all theory rules to the outline.
+In the case of Quartz, a dictionary is just a lookup function. See [the process a Quartz dictionary takes](#process).
 
 ### Uberdictionary
 
