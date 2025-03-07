@@ -31,6 +31,9 @@ Onyx uses the full Extended Stenotype Layout ([https://github.com/sammdot/plover
 
 - `SW-` -> /sw/, /sv/
 
+TODO orthographic exceptions
+TODO `KWR` and `W` in subsequent strokes
+
 ### Key Usage
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
