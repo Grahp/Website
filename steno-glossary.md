@@ -386,4 +386,3 @@ Terms not covered here:
 - Programmatic dictionary
 - Paper tape
   - Raw steno something?
-- Dynamic dictionary
