@@ -71,8 +71,7 @@ Noun
 - Typically stored in [**dictionaries**](#dictionary).
 - These mappings are specified by [**theory rules**](#theory-rule).
 
-## Dictionary
-![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
+## Dictionary ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
 Noun
 
