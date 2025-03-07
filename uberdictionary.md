@@ -1,6 +1,6 @@
 # Uberdictionary
 
-An uberdictionary in [steno](steno.md) is a theoretical collection of translations with context about their pronunciations, orthography, origin, etc.
+An uberdictionary in [steno](steno.md) is a collection of translations with context about their pronunciations, orthography, origin, etc.
 
 With an uberdictionary, you can write context for translations once, and every single theory that uses the uberdictionary can use those translations without having to create them anew.
 
