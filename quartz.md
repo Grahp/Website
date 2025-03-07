@@ -112,10 +112,9 @@ Return translation:
 
 ### Theory Rules
 
-Reifying theory rules is quite a challenge. Theory rules are very abstract. Sometimes we write them down, but it's very imprecise, and has no real coordination or connection with your dictionary.
+Theory rules are typically very abstract. We may write them down, but it's very imprecise, and has no real coordination with your theory.
 
-A theory rule is 
-In truth, theory rules are very simple. A theory rule is just a function of some input that provides some output. This is known as the application function, and is what is applied during theory rule application.
+In truth, theory rules are very simple. A theory rule just provides a function of some input that provides some output. This is known as the application function, and is what is applied during theory rule application.
 
 ### Dictionary
 
