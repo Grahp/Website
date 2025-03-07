@@ -9,28 +9,28 @@ Onyx uses the full Extended Stenotype Layout ([https://github.com/sammdot/plover
 
 ### Starter Initial Sounds
 
-- `S-` -> /s/
-- `T-` -> /t/
-- `K-` -> /k/
-- `P-` -> /p/
-- `W-` -> /w/
-- `H-` -> /h/
-- `R-` -> /ɹ/
-- `SKWR-` -> /ʤ/, /ʒ/
-- `SH-` -> /ʃ/
-- `TKPW-` -> /ɡ/
-- `TP-` -> /f/
-- `TPH-` -> /n/
-- `HR-` -> /l/
-- `PH-` -> /m/
-- `TK-` -> /d/
-- `PW-` -> /b/
-- `KWR-` -> /j/
-- `STKPW-` -> /z/
-- `KH-` -> /ʧ/
-- `TH-` -> /θ/, /ð/
+- `S-` → /s/
+- `T-` → /t/
+- `K-` → /k/
+- `P-` → /p/
+- `W-` → /w/
+- `H-` → /h/
+- `R-` → /ɹ/
+- `SKWR-` → /ʤ/, /ʒ/
+- `SH-` → /ʃ/
+- `TKPW-` → /ɡ/
+- `TP-` → /f/
+- `TPH-` → /n/
+- `HR-` → /l/
+- `PH-` → /m/
+- `TK-` → /d/
+- `PW-` → /b/
+- `KWR-` → /j/
+- `STKPW-` → /z/
+- `KH-` → /ʧ/
+- `TH-` → /θ/, /ð/
 
-- `SW-` -> /sw/, /sv/
+- `SW-` → /sw/, /sv/
 
 TODO orthographic exceptions
 TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokess
