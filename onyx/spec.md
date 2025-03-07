@@ -2,6 +2,8 @@
 
 WIP [Onyx](../onyx.md) specification.
 
+Not a learning resource.
+
 ## Layout
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
