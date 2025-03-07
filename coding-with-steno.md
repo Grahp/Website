@@ -1,6 +1,8 @@
 # Coding With Steno
 
-I spend a lot of time reading and writing [Clojure](clojure.md) code. Me want write it with [Steno](steno.md).
+I want to be able to write and edit [Clojure](clojur.md) code with [steno](steno.md).
+
+## Code Examples
 
 Code:
 ```clojure
@@ -15,7 +17,7 @@ Theoretical Strokes:
 HRUP       (defn lookup [])
 WHR-S      (defn lookup [s]) ;; Space puts in argument list
 *THAOERD   (defn lookup [s theory]
--PBG   ;; Logical line down and indent (like parinfer)
+-PBG   ;; Line down and indent (like parinfer)
 #HRET        (let []))
 *ERPBTD      (let [entry]))
 *UFPL        (let [entry {}]))
@@ -24,7 +26,7 @@ WHR-S      (defn lookup [s]) ;; Space puts in argument list
 #+OUPBLT     (let [entry {:outline (outline)}])) ;; # to add a paren
 -RP          (let [entry {:outline (outline/)}]))
 STAOR        (let [entry {:outline (outline/str)}]))
-#O           (let [entry {:outline (outline/str->)}])) ;; -> is read as "to", `O` is my "to" outline
+#O           (let [entry {:outline (outline/str->)}])) ;; "->" is read as "to", `O` is my "to" outline
 +OUPBLT      (let [entry {:outline (outline/str->outline)}]
 -PBG   ;; Line down and indent
 #HRUP          (lookup)))
