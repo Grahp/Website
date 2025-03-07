@@ -29,7 +29,6 @@ Onyx uses the full Extended Stenotype Layout ([https://github.com/sammdot/plover
 - `STKPW-` → /z/
 - `KH-` → /ʧ/
 - `TH-` → /θ/, /ð/
-
 - `SW-` → /sw/, /sv/
 
 TODO orthographic exceptions
