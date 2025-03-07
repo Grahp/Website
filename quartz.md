@@ -73,10 +73,10 @@ Quartz dictionaries are rule-based, unlike traditional entry-based dictionaries.
 
 The process a Quartz dictionary takes in lookup:
 
-1. Receive the sequence of [strokes](steno-glossary.md#stroke) that were inputted.
-2. Turn the input into manageable parts. Splitting it into smaller outlines, and splitting the constituent strokes into entries.
-3. Independently apply all rules to the outlines, getting back multiple outputs.
-4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
+1. Receive the inputted outline.
+2. Split the outline into manageable parts.
+3. Independently apply all rules to the split outline.
+4. Turn the outputs of all matching rules into an output translation.
 
 ### Lookup Example
 
