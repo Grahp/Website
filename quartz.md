@@ -63,13 +63,13 @@ What properties might Quartz have?
   - Completely reified!
   - Inherent documentation!
 
-### How?
+## How?
 
 Quartz goes **directly** from theory to dictionary. No "manually write a hundred fifty thousand entries, and then spend the rest of your life maintaining them" step.
 
 Quartz theories are rule-based, unlike traditional entry-based theories.
 
-### Process
+## Process
 
 The process a Quartz dictionary takes:
 
@@ -78,7 +78,7 @@ The process a Quartz dictionary takes:
 3. Independently apply all rules to the outlines, getting back multiple outputs.
 4. Attempt to combine the outputs, returning them if they can be combined successfully, and failing the lookup function if they cannot.
 
-#### Lookup Example
+### Lookup Example
 
 Outline: `TPROG` (step 1)
 
@@ -110,20 +110,20 @@ Lookup in uberdict:
 Return translation:
 `"frog"`
 
-#### Theory Rules
+### Theory Rules
 
 Reifying theory rules is quite a challenge. Theory rules are very abstract. Sometimes we write them down, but it's very imprecise, and has no real coordination or connection with your dictionary.
 
 A theory rule is 
 In truth, theory rules are very simple. A theory rule is just a function of some input that provides some output. This is known as the application function, and is what is applied during theory rule application.
 
-#### Dictionary
+### Dictionary
 
 When we think of dictionaries, we tend to think of something like a JSON dict. However, a dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
 
 In the case of Quartz, **A dictionary is just a lookup function**. This lookup function takes an outline and uses your entire theory as context, and returns the [translation](steno-glossary.md#translation) after applying all theory rules to the outline.
 
-#### Uberdictionary
+### Uberdictionary
 
 (See [Uberdictionary](uberdictionary.md))
 
@@ -133,9 +133,9 @@ With an uberdict, you can write context for translations once, and all theories 
 
 Since Quartz is rule-based, you get new entries for free!
 
-### Problems
+## Problems
 
-#### Rule Application
+### Rule Application
 
 What do rule application functions need? What do they return?
 
@@ -143,13 +143,13 @@ Some rules need only the outline, while other need the translation. Maybe there 
 
 Rules seem to just be able to feed arbitrary information around, but I'm not sure if that's correct.
 
-#### Combination
+### Combination
 
 How do you combine rule outputs into something usable?
 
 How does the combination know what a theory rule really wants to do? Perhaps all rules should be fully decoupled, but that might not be possible.
 
-#### Dynamism
+### Dynamism
 
 It might be hard to find errors in theory logic if entries are only ever determined when they're needed. When generating an enumerated dict, you can validate the entries as they're generated, but with a programmatic dict, you're generating the entries while you're typing them. This means you can't really know whether your dictionary works, I think.
 
@@ -157,6 +157,6 @@ Exhaustively applying all plausible outlines is probably not possible. Lookup is
 
 Maybe [spec](clojure.md) could do this?
 
-#### Uberdict
+### Uberdict
 
 How do you represent an [Uberdictionary](uberdictionary.md)?
