@@ -1,6 +1,6 @@
 # Quartz
 
-WIP [Steno](steno.md) Programmatic [Dictionary](steno-glossary.md#dictionary) Generator.
+WIP [Steno](steno.md) [Programmatic Dictionary](steno-glossary.md#programmatic-dictionary) Generator.
 
 Repo: [https://github.com/Grahp/Quartz](https://github.com/Grahp/Quartz)
 
@@ -8,7 +8,7 @@ Repo: [https://github.com/Grahp/Quartz](https://github.com/Grahp/Quartz)
 
 [Theories](steno-glossary.md#theory) are **never** reified in their entirety.
 
-Once you've designed a theory, you **manually** create hundreds of thousands of [entries](steno-glossary.md#entry) that "satisfy" that theory, and collect them into a dictionary.
+Once you've designed a theory, you **manually** create hundreds of thousands of [entries](steno-glossary.md#entry) that "satisfy" that theory, and collect them into a [dictionary](steno-glossary.md#dictionary).
 
 This leads to dictionaries that are:
 - **Static**
