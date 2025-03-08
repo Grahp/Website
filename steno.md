@@ -13,3 +13,4 @@ Steno [Projects](projects.md):
 Steno Info:
 
 - [Uberdictionary](uberdictionary.md)
+- [Steno Context Aware Uses](steno-context-aware-uses.md)
