@@ -7,4 +7,4 @@
 
 Test link please ignore
 
-[[Test Page]]
+[[Bowmap]]
