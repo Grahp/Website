@@ -3,4 +3,5 @@ plugins:
   - jekyll-target-blank
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-wikirefs
 favicon: /favicon.ico
