@@ -26,4 +26,4 @@ Clojure forces you to write datafiable process.
 
 Even clojure code is data! You can write programs that write programs in your programs. If that sounds confusing that's because it is. Don't do that. Let somebody else do it.
 
-Check out my [projects](projects.md).
+Check out my [Projects](Projects.md).

@@ -1,6 +1,7 @@
 ---
 permalink: projects
 ---
+
 # Projects
 
 - [[Steno]]

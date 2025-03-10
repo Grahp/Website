@@ -1,3 +1,6 @@
+---
+permalink: bowmap
+---
 # Bowmap
 
 WIP MMORPG Minecraft Server, [written from scratch](minecraft-server-from-scratch.md) in [Clojure](Clojure.md).

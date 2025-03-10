@@ -1,4 +1,10 @@
-# Serial Theory Rule Application.
+---
+permalink: serial-theory-rule-application
+redirect_from:
+  - quartz/serial-rule-application
+  - quartz/serial-theory-rule-application
+---
+# Serial Theory Rule Application
 
 [Quartz](Quartz.md)
 

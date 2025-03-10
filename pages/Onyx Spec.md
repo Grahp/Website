@@ -1,3 +1,8 @@
+---
+permalink: onyx-spec
+redirect_from:
+  - onyx/spec
+---
 # Onyx Spec
 
 WIP [Onyx](../onyx.md) specification.

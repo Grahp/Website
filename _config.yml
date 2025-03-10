@@ -1,4 +1,4 @@
-permalink: /:slug
+permalink: /:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -9,6 +9,9 @@ plugins:
 favicon: /favicon.ico
 optional_front_matter:
   remove_originals: true
-include:
-  - pages
-
+# include:
+#   - pages
+collections:
+  pages:
+    output: true
+    permalink: /:slug
