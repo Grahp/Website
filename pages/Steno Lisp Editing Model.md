@@ -1,6 +1,9 @@
+---
+permalink: steno-lisp-editing-model
+---
 # Steno Lisp Editing Model
 
-See [Chalsed](chalsed.md)
+See [Chalsed](Chalsed.md)
 
 [Steno](steno.md) lisp [editing model](steno-editor.md). For a more generic lisp-independent version of this, see [steno editing model](steno-editing-model.md)
 

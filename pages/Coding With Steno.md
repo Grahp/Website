@@ -1,6 +1,9 @@
+---
+permalink: coding-with-steno
+---
 # Coding With Steno
 
-I want to be able to write and edit [Clojure](clojure.md) code with [steno](steno.md).
+I want to be able to write and edit [Clojure](Clojure.md) code with [steno](steno.md).
 
 ## Code Examples
 

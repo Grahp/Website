@@ -1,6 +1,9 @@
-source 'https://rubygems.org'
-gem 'jekyll', '~> 4.0'
-gem 'jekyll-target-blank'
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
-gem 'jekyll-relative-links'
+source "https://rubygems.org"
+gem "jekyll", "~> 4.0"
+gem "jekyll-redirect-from"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "jekyll-relative-links"
+gem "jekyll-optional-front-matter"
+gem "jekyll-wikirefs"
+gem "jekyll-archives"

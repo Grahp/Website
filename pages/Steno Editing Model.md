@@ -1,3 +1,6 @@
+---
+permalink: steno-editing-model
+---
 # Steno Editing Model
 
 A [steno editing](steno-editor.md) "keybinding" model.

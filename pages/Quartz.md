@@ -1,3 +1,7 @@
+---
+permalink: quartz
+---
+
 # Quartz
 
 WIP [Steno](steno.md) [Programmatic Dictionary](steno-glossary.md#programmatic-dictionary) Generator.
@@ -154,7 +158,7 @@ It might be hard to find errors in theory logic if entries are only ever determi
 
 Exhaustively applying all plausible outlines is probably not possible. Lookup is too slow, and outlines are too plentiful. It might be possible for rules to generate outlines that satisfy that rule, but rules are too complex for this to be enough. You need the ability to take a theory and generate valid entries for that theory. These could then be reviewed and likely trivially checked for theory logic errors.
 
-Maybe [spec](clojure.md) could do this?
+Maybe [spec](Clojure.md) could do this?
 
 ### Uberdict
 

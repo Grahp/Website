@@ -1,4 +1,5 @@
 .obsidian/
+.trash/
 .obsidian.vimrc
 Gemfile.lock
 _site/

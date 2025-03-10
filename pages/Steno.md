@@ -1,8 +1,11 @@
+---
+permalink: steno
+---
 # Steno
 
-Steno [Projects](projects.md):
+Steno [[Projects]]:
 
-- [Quartz](quartz.md)
+- [[Quartz]]
 - [Onyx](onyx.md)
 - [Steno Glossary](steno-glossary.md)
 - [Steno Editor](steno-editor.md)

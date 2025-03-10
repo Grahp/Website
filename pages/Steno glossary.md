@@ -1,3 +1,6 @@
+---
+permalink: steno-glossary
+---
 # Steno Glossary
 
 WIP [Steno](steno.md) [Glossary](glossaries.md). Contributions Welcome :)

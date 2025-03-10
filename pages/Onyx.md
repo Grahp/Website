@@ -1,3 +1,6 @@
+---
+permalink: onyx
+---
 # Onyx
 
 WIP [steno](steno.md) [theory](steno-glossary.md#theory).
@@ -5,7 +8,7 @@ WIP [steno](steno.md) [theory](steno-glossary.md#theory).
 See [Onyx Spec](onyx/spec.md).
 
 My Theory Beliefs:
-(See [Quartz](quartz.md))
+(See [Quartz](Quartz.md))
 - Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky theory.
 - Small theories are better.
 - [Briefs](steno-glossary.md#brief) and [write-outs](steno-glossary.md#write-out) are equally important.

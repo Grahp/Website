@@ -1,3 +1,6 @@
+---
+permalink: junction
+---
 # Junction
 
 WIP [Datapack](datapacks.md) language inspired by [Clojure](clojure.md).

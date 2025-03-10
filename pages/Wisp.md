@@ -1,3 +1,6 @@
+---
+permalink: wisp
+---
 # Wisp
 
 WIP [Datapack](datapacks.md) language target and runtime.

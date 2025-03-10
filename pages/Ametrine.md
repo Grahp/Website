@@ -1,3 +1,6 @@
+---
+permalink: ametrine
+---
 # Ametrine
 
 WIP [Steno](steno.md) [Orthospelling](steno-glossary.md#orthospelling) [Dictionary](steno-glossary.md#dictionary).

@@ -1,6 +1,6 @@
 # Serial Theory Rule Application.
 
-[Quartz](../quartz.md)
+[Quartz](Quartz.md)
 
 Decoupling 
 

@@ -1,3 +1,6 @@
+---
+permalink: datapacks
+---
 # Datapacks
 
 Datapack [Projects](projects.md)

@@ -1,3 +1,6 @@
+---
+permalink: glossaries
+---
 # Glossaries
 
 Words are fun!

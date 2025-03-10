@@ -1,7 +1,11 @@
-permalink: /:title
+permalink: /:slug
 plugins:
-  - jekyll-target-blank
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-wikirefs
+  - jekyll-redirect-from
 favicon: /favicon.ico
+optional_front_matter:
+  remove_originals: true
