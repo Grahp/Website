@@ -9,3 +9,6 @@ plugins:
 favicon: /favicon.ico
 optional_front_matter:
   remove_originals: true
+include:
+  - pages
+
