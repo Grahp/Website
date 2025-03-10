@@ -220,6 +220,13 @@ Noun
 ## Mandatory
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
+Adj.
+
+- ...
+
+Noun
+- A mandatory outline, translation, or entry.
+
 - The only way to output a translation is with an arb.
 - A translation with only an arbitrary briefs to output it.
 
