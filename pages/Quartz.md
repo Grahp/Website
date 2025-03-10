@@ -115,7 +115,7 @@ Return translation:
 
 ### Theory Rules
 
-Theory rules are typically very abstract. We may write them down, but it's very imprecise, and has no real coordination with your theory.
+Theory rules are typically very abstract. We may write them down, but it's very imprecise, and has no real coordination with your dictionary.
 
 In truth, theory rules are very simple. A theory rule just provides a function of some input that provides some output. This is known as the application function, and is what is applied during theory rule application.
 
