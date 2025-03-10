@@ -6,6 +6,7 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-wikirefs
   - jekyll-redirect-from
+  - jekyll-target-blank
 favicon: /favicon.ico
 optional_front_matter:
   remove_originals: true
