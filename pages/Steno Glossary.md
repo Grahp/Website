@@ -2,7 +2,7 @@
 permalink: steno-glossary
 title: Steno Glossary
 ---
-WIP [Steno](steno.md) [Glossary](glossaries.md). Contributions Welcome :)
+WIP [[Steno|Steno]] [[Glossaries|Glossary]] Contributions Welcome :)
 
 Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp/Steno-Glossary).
 
