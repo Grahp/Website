@@ -4,10 +4,10 @@ title: Onyx
 ---
 WIP [[Steno|Steno]] [[Steno Glossary#Theory|Theory]].
 
-See [[Onyx Spec]].
+See [[Onyx Spec|Onyx Spec]].
 
 My Theory Beliefs:
-(See [[Quartz]])
+(See [[Quartz|Quartz]])
 - Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky theory.
 - Small theories are better.
 - [[Steno Glossary#Brief|Briefs]] and [[Steno Glossary#Write-out|write-outs]] are equally important.
