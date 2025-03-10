@@ -11,3 +11,9 @@ optional_front_matter:
   remove_originals: true
 include:
   - pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
