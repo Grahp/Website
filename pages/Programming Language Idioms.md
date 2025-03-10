@@ -2,10 +2,9 @@
 permalink: programming-language-idioms
 redirect_from:
   - language-idioms
+title: Programming Language Idioms
 ---
-# Language Idioms
-
-I love [Clojure](Clojure.md), but more and more I'm realizing that what makes clojure special is not what you can do in clojure, anything you can do it clojure you could also do in java, but the idioms.
+I love [[Clojure]], but more and more I'm realizing that what makes clojure special is not what you can do in clojure, anything you can do it clojure you could also do in java, but the idioms.
 
 Clojure is a very opinionated language.
 

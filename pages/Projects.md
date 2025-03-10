@@ -1,8 +1,7 @@
 ---
 permalink: projects
+title: Projects
 ---
-
-# Projects
 
 - [[Steno]]
 - [[Bowmap]]

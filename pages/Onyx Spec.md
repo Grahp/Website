@@ -2,10 +2,9 @@
 permalink: onyx-spec
 redirect_from:
   - onyx/spec
+title: Onyx Spec
 ---
-# Onyx Spec
-
-WIP [Onyx](../onyx.md) specification.
+WIP [[Onyx|Onyx]] specification.
 
 Not a learning resource.
 

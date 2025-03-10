@@ -1,11 +1,10 @@
 ---
 permalink: bowmap
+title: Bowmap
 ---
-# Bowmap
-
-WIP MMORPG Minecraft Server, [written from scratch](minecraft-server-from-scratch.md) in [Clojure](Clojure.md).
+WIP MMORPG Minecraft Server, [[Minecraft Server From Scratch|written from scratch]] in [[Clojure|Clojure]].
 
 Roadmap(ish):
-- [Leaving Minestom](leaving-minestom.md)
+- [[Leaving Minestom|Leaving Minestom]].
 - Server implementation
 - Basic implementation

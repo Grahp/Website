@@ -1,10 +1,9 @@
 ---
 permalink: minecraft-server-from-scratch
+title: Minecraft Server From Scratch
 ---
-# Minecraft Server From Scratch
+My attempt to write [[Bowmap|my minecraft server]] from scratch.
 
-My attempt to write [my minecraft server](Bowmap.md) from scratch.
-
-See [Leaving Minestom](leaving-minestom.md)
+See [[Leaving Minestom]].
 
 See history of Bowmap.

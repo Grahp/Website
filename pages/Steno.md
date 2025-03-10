@@ -1,19 +1,18 @@
 ---
 permalink: steno
+title: Steno
 ---
-# Steno
-
 Steno [[Projects]]:
 
 - [[Quartz]]
-- [Onyx](onyx.md)
-- [Steno Glossary](steno-glossary.md)
-- [Steno Editor](steno-editor.md)
-  - [Steno Editing Model](steno-editing-model.md)
-  - [Steno Lisp Editing Model](steno-lisp-editing-model.md)
-- [Ametrine](ametrine.md)
+- [[Onyx]]
+- [[Steno Glossary]]
+- [[Steno Editor Ideas]]
+  - [[Steno Editing Model]]
+  - [[Steno Lisp Editing Model]]
+- [[Ametrine]]
 
 Steno Info:
 
-- [Uberdictionary](uberdictionary.md)
-- [Steno Context Aware Uses](steno-context-aware-uses.md)
+- [[Uberdictionary]]
+- [[Steno Context Aware Uses]]

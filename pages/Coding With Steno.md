@@ -1,9 +1,8 @@
 ---
 permalink: coding-with-steno
+title: Coding with Steno
 ---
-# Coding With Steno
-
-I want to be able to write and edit [Clojure](Clojure.md) code with [steno](steno.md).
+I want to be able to write and edit [[Clojure]] code with [[Steno]].
 
 ## Code Examples
 

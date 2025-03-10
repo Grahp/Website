@@ -1,8 +1,7 @@
 ---
 permalink: steno-glossary
+title: Steno Glossary
 ---
-# Steno Glossary
-
 WIP [Steno](steno.md) [Glossary](glossaries.md). Contributions Welcome :)
 
 Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp/Steno-Glossary).
@@ -213,7 +212,7 @@ Noun
 
 A type of rule?
 
-## Arbitrary Brief (Arb)
+## Arbitrary
 Noun
 
 - A [**brief**](#brief) that is defined by [**theory rules**](#theory-rule) that are completely arbitrary.

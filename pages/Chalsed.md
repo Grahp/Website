@@ -1,17 +1,15 @@
 ---
 permalink: chalsed
+title: Chalsed
 ---
-
-# Chalsed
-
 Pronounced KAL-SED
 
 [[Clojure]] Code editor, embracing the Clojure philosophy of simplicity and deliberation.
 
 ## Goals
 
-- [Code & data](Clojure.md) oriented editor
-- [Steno Integration](steno-editor.md)
+- [[Clojure|Code & data]] orientation
+- [[Steno Editor|Steno Integration]]
 
 ## Beliefs
 

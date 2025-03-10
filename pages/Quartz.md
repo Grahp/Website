@@ -1,18 +1,16 @@
 ---
 permalink: quartz
+Title: Quartz
 ---
-
-# Quartz
-
-WIP [Steno](steno.md) [Programmatic Dictionary](steno-glossary.md#programmatic-dictionary) Generator.
+WIP [[Steno|Steno]] [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionary]] Generator.
 
 Repo: [https://github.com/Grahp/Quartz](https://github.com/Grahp/Quartz)
 
 ## Traditional Theory Realization
 
-[Theories](steno-glossary.md#theory) are **never** reified in their entirety.
+[[Steno Glossary#Theory|Theories]] are **never** reified in their entirety.
 
-Once you've designed a theory, you **manually** create hundreds of thousands of [entries](steno-glossary.md#entry) that "satisfy" that theory, and collect them into a [dictionary](steno-glossary.md#dictionary).
+Once you've designed a theory, you **manually** create hundreds of thousands of [[Steno Glossary#Entry|entries]] that "satisfy" that theory, and collect them into a [[Steno Glossary#Dictionary|dictionary]].
 
 This leads to dictionaries that are:
 - **Static**
@@ -42,17 +40,17 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
 
 - Still produces **static** json dicts
   - Bulky, context-unaware, etc.
-- Built on [theory rules](steno-glossary.md#theory-rule)!
+- Built on [[Steno Glossary#Theory Rule|theory rules]]!
   - This is a fantastically good idea
   - Theory rules **are** documentation!
-  - Auto-generated [outlines](steno-glossary.md#outline)!
+  - Auto-generated [[Steno Glossary#Outline|outlines]]!
   - Uses chord-based rules
-- Uses somewhat of an [uberdictionary](uberdictionary.md).
+- Uses somewhat of an [[Uberdictionary]].
 
 Froj never claims to build an entire dictionary for you, which is probably reasonable if you're a normal person.
 Unlike python dicts, you can absolutely build a full theory dictionary like this.
 
-As nice as Froj is, I disagree with many of it's design decisions. This is likely because Harri ([https://github.com/StenoHarri/](https://github.com/StenoHarri/)) and I are making very different theories (Tad and [Onyx](onyx.md), respectively) with very different requirements.
+As nice as Froj is, I disagree with many of it's design decisions. This is likely because Harri ([https://github.com/StenoHarri/](https://github.com/StenoHarri/)) and I are making very different theories (Tad and [[Onyx]], respectively) with very different requirements.
 
 ## Quartz
 
@@ -124,11 +122,11 @@ In truth, theory rules are very simple. A theory rule just provides a function o
 
 When we think of dictionaries, we tend to think of something like a JSON dict. However, a dictionary is not necessarily an enumerated file of entries. This idea is where theory staticness comes from.
 
-In the case of Quartz, a dictionary is just a lookup function. See [**the process a Quartz dictionary takes**](#process).
+In the case of Quartz, a dictionary is just a lookup function. See [[Quartz#process|the process a Quartz dictionary takes]].
 
 ### Uberdictionary
 
-(See [Uberdictionary](uberdictionary.md))
+(See [[Uberdictionary]])
 
 An uberdictionary is a collection of translations with context about their origin, pronunciation, and other pertinent attributes.
 
@@ -158,8 +156,8 @@ It might be hard to find errors in theory logic if entries are only ever determi
 
 Exhaustively applying all plausible outlines is probably not possible. Lookup is too slow, and outlines are too plentiful. It might be possible for rules to generate outlines that satisfy that rule, but rules are too complex for this to be enough. You need the ability to take a theory and generate valid entries for that theory. These could then be reviewed and likely trivially checked for theory logic errors.
 
-Maybe [spec](Clojure.md) could do this?
+Maybe [[Clojure|spec]] could do this?
 
 ### Uberdict
 
-How do you represent an [Uberdictionary](uberdictionary.md)?
+How do you represent an [[Uberdictionary]]?

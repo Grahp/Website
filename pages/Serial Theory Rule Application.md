@@ -3,10 +3,9 @@ permalink: serial-theory-rule-application
 redirect_from:
   - quartz/serial-rule-application
   - quartz/serial-theory-rule-application
+title: Serial Theory Rule Application
 ---
-# Serial Theory Rule Application
-
-[Quartz](Quartz.md)
+[[Quartz]]
 
 Decoupling 
 

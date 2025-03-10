@@ -1,9 +1,8 @@
 ---
 permalink: steno-editing-model
+title: Steno Editing Model
 ---
-# Steno Editing Model
-
-A [steno editing](steno-editor.md) "keybinding" model.
+A [[Steno Editor Ideas|Steno Editing]] "keybinding" model.
 
 ## Modal Editing
 
@@ -11,7 +10,7 @@ Modal editing makes a lot of sense when you have a very limited number of unique
 
 Being in a mode adds context to every action you perform. This means you don't need to hold down a mod key, or add an additional prefix key to your actions, in order for them to be unique.
 
-With [steno](steno.md), you have over 24 million available strokes at any given time, this is more than enough. Requiring an entire stroke or dedicated key to switch modes is a problem.
+With [[Steno]], you have over 24 million available strokes at any given time, this is more than enough. Requiring an entire stroke or dedicated key to switch modes is a problem.
 
 ## Selection Mode
 
@@ -27,7 +26,7 @@ To leave selection mode, just start typing again. This will throw away your sele
 
 This avoids requiring any strokes to enter and leave selection mode. Just start moving around to extend your selection, and start typing to void your selection. As long as your movement strokes and selection mode action strokes are not used in normal writing, no mode switching is required.
 
-I use the `P`, `W`, and `H` keys for selection mode actions (past, yank, and delete respectively), as these are not legal strokes in [Onyx](onyx.md), meaning they can't be used in normal typing anyway.
+I use the `P`, `W`, and `H` keys for selection mode actions (past, yank, and delete respectively), as these are not legal strokes in [[Onyx]], meaning they can't be used in normal typing anyway.
 
 ## Non-modal selection?
 
