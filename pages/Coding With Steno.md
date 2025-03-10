@@ -36,4 +36,3 @@ STAOR        (let [entry {:outline (outline/str)}]))
 *ERPBTD        (lookup-entry entry)))
 *THAOERD       (lookup-entry entry theory)))
 ```
-
