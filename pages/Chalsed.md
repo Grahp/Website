@@ -9,7 +9,7 @@ Pronounced KAL-SED
 ## Goals
 
 - [[Clojure|Code & data]] orientation
-- [[Steno Editor|Steno Integration]]
+- [[Steno Editor Ideas|Steno Integration]]
 
 ## Beliefs
 
