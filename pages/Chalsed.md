@@ -4,7 +4,7 @@ title: Chalsed
 ---
 Pronounced KAL-SED
 
-[[Clojure]] Code editor, embracing the Clojure philosophy of simplicity and deliberation.
+[[Clojure|Clojure]] Code editor, embracing the Clojure philosophy of simplicity and deliberation.
 
 ## Goals
 
