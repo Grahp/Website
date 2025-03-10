@@ -3,6 +3,6 @@ permalink: projects
 title: Projects
 ---
 
-- [[Steno]]
-- [[Bowmap]]
-- [[Chalsed]]
+- [[Steno|Steno]]
+- [[Bowmap|Bowmap]]
+- [[Chalsed|Chalsed]]

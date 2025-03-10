@@ -4,15 +4,15 @@ title: Steno
 ---
 Steno [[Projects]]:
 
-- [[Quartz]]
-- [[Onyx]]
-- [[Steno Glossary]]
-- [[Steno Editor Ideas]]
-  - [[Steno Editing Model]]
-  - [[Steno Lisp Editing Model]]
-- [[Ametrine]]
+- [[Quartz|Quartz]]
+- [[Onyx|Onyx]]
+- [[Steno Glossary|Steno Glossary]]
+- [[Steno Editor Ideas|Steno Editor Ideas]]
+  - [[Steno Editing Model|Steno Editing Model]]
+  - [[Steno Lisp Editing Model|Steno Lisp Editing Model]]
+- [[Ametrine|Ametrine]]
 
 Steno Info:
 
-- [[Uberdictionary]]
-- [[Steno Context Aware Uses]]
+- [[Uberdictionary|Uberdictionary]]
+- [[Steno Context Aware Uses|Steno Context Aware Uses]]
