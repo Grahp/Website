@@ -1,1 +1,4 @@
 .obsidian/
+.obsidian.vimrc
+Gemfile.lock
+_site/
