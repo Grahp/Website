@@ -8,22 +8,6 @@
         padding-left: 1rem;
         padding-right: 1rem;
       }
-
-      .outer-div {
-        display: flex;
-        align-items: center;
-        margin: 1.34em 0;
-        min-height: 2.4em;
-      }
-      
-      .home-link {
-        color: gray;
-        text-decoration: none;
-      }
-
-      .home-link:hover {
-        text-decoration: underline;
-      }
     </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,10 +15,7 @@
   </head>
   <body>
     <div class="site">
-      <div class="outer-div">
-        <a class="home-link" class="site-link" href="/">grahp.dev/</a>
-        <h1 style="margin: 0;">{{ page.title }}</h1>
-      </div>
+      <h1>{{ page.title }}</h1>
       {{ content }}
     </div>
   </body>
