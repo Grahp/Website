@@ -4,7 +4,7 @@ title: Steno Lisp Editing Model
 ---
 See [Chalsed](Chalsed.md)
 
-[Steno](steno.md) lisp [editing model](steno-editor.md). For a more generic lisp-independent version of this, see [steno editing model](steno-editing-model.md)
+[[Steno|Steno]] lisp [[Steno Editor Ideas|editing model]]. For a more generic lisp-independent version of this, see [[Steno Editing Model]].
 
 2 elements make up a lisp program: words and collections.
 
