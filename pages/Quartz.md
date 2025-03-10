@@ -1,6 +1,6 @@
 ---
 permalink: quartz
-Title: Quartz
+title: Quartz
 ---
 
 WIP [[Steno|Steno]] [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionary]] Generator.
