@@ -1,6 +1,6 @@
 ---
 permalink: glossaries
-titles: Glossaries
+title: Glossaries
 ---
 Words are fun!
 
