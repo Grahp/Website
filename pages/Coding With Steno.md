@@ -4,6 +4,8 @@ title: Coding with Steno
 ---
 I want to be able to write and edit [[Clojure]] code with [[Steno]].
 
+See [[Steno Lisp Editing Model]].
+
 ## Code Examples
 
 Code:
@@ -36,3 +38,4 @@ STAOR        (let [entry {:outline (outline/str)}]))
 *ERPBTD        (lookup-entry entry)))
 *THAOERD       (lookup-entry entry theory)))
 ```
+
