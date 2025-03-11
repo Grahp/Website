@@ -139,7 +139,7 @@ Since Quartz is rule-based, you get new entries for free!
 
 A rule takes the outline input as it's given, and returns **information** for the combiner.
 
-That information might be pronunciation data, orthography, etc.
+That information might be pronunciation data, an orthographic sequence, etc.
 
 Take a rule that needs a translation. Since rules are just given an outline, that rule cannot apply yet, it needs more context. That implies that there are multiple types of rules. Perhaps cyclical rule application is needed, or "post" rules that run in a batch after all others.
 
