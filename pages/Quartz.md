@@ -135,30 +135,37 @@ With an uberdict, you can write context for translations once, and all theories 
 
 Since Quartz is rule-based, you get new entries for free!
 
-## Problems
-
 ### Rule Application
 
-What do rule application functions need? What do they return?
+A rule takes the outline input as it's given, and returns **information** for the combiner.
 
-Some rules need only the outline, while other need the translation. Maybe there are rules that need both! I could certainly come up with theoretical ones.
+That information might be pronunciation data, orthography, etc.
 
-Rules seem to just be able to feed arbitrary information around, but I'm not sure if that's correct.
+Take a rule that needs a translation. Since rules are just given an outline, that rule cannot apply yet, it needs more context. That implies that there are multiple types of rules. Perhaps cyclical rule application is needed, or "post" rules that run in a batch after all others.
+
+## Problems
 
 ### Combination
 
-How do you combine rule outputs into something usable?
+What does the combination step really entail?
 
-How does the combination know what a theory rule really wants to do? Perhaps all rules should be fully decoupled, but that might not be possible.
+Rules are fully decoupled from combination, which might make it hard for the combiner to be able to combine outputs effectively.
 
-### Dynamism
+### Reverse Lookup
 
-It might be hard to find errors in theory logic if entries are only ever determined when they're needed. When generating an enumerated dict, you can validate the entries as they're generated, but with a programmatic dict, you're generating the entries while you're typing them. This means you can't really know whether your dictionary works, I think.
+Reverse lookup (also known as "outline lookup") is just like lookup, but takes translations and returns outlines that form that translation.
 
-Exhaustively applying all plausible outlines is probably not possible. Lookup is too slow, and outlines are too plentiful. It might be possible for rules to generate outlines that satisfy that rule, but rules are too complex for this to be enough. You need the ability to take a theory and generate valid entries for that theory. These could then be reviewed and likely trivially checked for theory logic errors.
+This is very important for learning a theory, as well as catching errors in theory logic.
 
-Maybe [[Clojure|spec]] could do this?
+If entries are only ever determined when they're needed (i.e. if only lookup is supported, and not reverse lookup), catching theory logic errors might be harder, and learning a theory via reverse lookup would be completely impossible.
 
-### Uberdict
+When generating a static dict, you can validate the entries as they are generated, but with a programmatic dict, you're generating the entries on-the-fly.
+
+Exhaustively looking up plausible outlines is also not feasible. Lookup is too slow, and outlines too plentiful. Rules need to be able to generate valid outlines for that rule, and theories need to be able to generate valid outlines for the theory.
+
+
+Maybe [[Clojure|spec]] could help with this?
+
+### Uberdictionary
 
 How do you represent an [[Uberdictionary]]?
