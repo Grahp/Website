@@ -74,11 +74,9 @@ Noun
 - These mappings are specified by [**theory rules**](#theory-rule).
 
 ## Dictionary
-![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
-
 Noun
 
-- A collection of [**entries**](#entry) with unique [**outlines**](#outline) that maps [**outlines**](#outline) to [**translations**](#translation).
+- A collection of [**entries**](#entry) with unique [**outlines**](#outline) which maps [**outlines**](#outline) to [**translations**](#translation).
 
 **Notes**
 - A dictionary provides a way to lookup an [**outline**](#outline) and provide the [**translation**](#translation) the [**outline**](#outline) maps to.
