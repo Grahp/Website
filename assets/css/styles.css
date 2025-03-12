@@ -1,9 +1,14 @@
 body {background-color: #000;
       color: #fff;
-      font-size: 1.25rem;
       max-width: 70ch;
       margin-left: 2rem;
       margin-right: 2rem;}
+
+@media (min-width: 600px)
+  {body {font-size: 1.25rem;}}
+
+@media (min-width: 900px)
+{body {font-size: 1.5rem;}}
 
 a {color: #58A6FF;}
 
