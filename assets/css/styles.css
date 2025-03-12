@@ -10,6 +10,9 @@ body {background-color: #000;
 @media (min-width: 900px)
 {body {font-size: 1.5rem;}}
 
+@media (min-width: 1200px)
+{body {font-size: 2rem;}}
+
 a {color: #58A6FF;}
 
 ul {padding: 0;
