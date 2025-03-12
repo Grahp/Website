@@ -34,7 +34,7 @@ For multi-stroke outlines, Onyx Splitting is used.
 
 That means consecutive strokes in multi-stroke outlines are skeletonized.
 
-Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather than `HEL/PHET` (orthographic) or `HEL/PHEUT` (phonetic), the vowel is dropped.
+Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather than `HEL/PHET` (orthographic) or `HEL/PHEUT` (phonetic), the vowel is dropped, and an unstressed vowel is implied.
 
 What about a large word that you might not have ever seen before? Sound it out.
 
