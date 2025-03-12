@@ -1,19 +1,11 @@
-.site {
-  max-width: 70ch;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
+.site {max-width: 70ch;
+       padding-left: 1rem;
+       padding-right: 1rem;}
 
-body {
-  background-color: #000;
-  color: #fff;
-}
+body {background-color: #000;
+      color: #fff;}
 
-a {
-  color: #58A6FF;
-}
+a {color: #58A6FF;}
 
-ul {
-  padding: 0;
-  margin-left: 30px;
-}
+ul {padding: 0;
+    margin-left: 30px;}
