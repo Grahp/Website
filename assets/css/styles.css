@@ -10,20 +10,20 @@
   {:root {--scaling-factor: 2}}
 
 body {background-color: #000;
-      --x: calc(1rem * var(--scaling-factor));
+      transform: scale(var(--scaling-factor));
+      transform-origin: 0 0;
       color: #fff;
-      font-size: var(--x);
+      font-size: 1rem;
       max-width: 70ch;
-      margin-left: var(--x);
-      margin-right: var(--x)}
+      margin-left: 1rem;
+      margin-right: 1rem;}
 
 a {color: #58A6FF}
 
 ul {padding: 0;
-    margin-left: calc(25px * var(--scaling-factor))}
+    margin-left: 25px}
 
 code {background-color: #222;
-      padding: calc(1px * var(--scaling-factor))
-               calc(2px * var(--scaling-factor));
+      padding: 1px 2px;
       border-radius: 4px;
       font-family: monospace}
