@@ -11,28 +11,29 @@ See [[Onyx Spec|Onyx Spec]].
 
 - **Simplicity, Minimality, Consistency**
 - User-tailored pronunciations, and perfectly consistent phonetics (via Quartz)
-- Minimal orthography (candid and completely enumerated, via Quartz)
+- Minimal mandatory orthography (candid and completely enumerated, via Quartz)
 - Open for user briefing
 
-## Other Beliefs
+## Beliefs
 
 - Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky foundation. Inconsistencies propagate.
-- Smaller theories are better. Smaller theories are easier to learn, easier to build on, easier to understand, easier to maintain, easier to keep consistent, easier to document...
+- Smaller theories are better. Smaller theories are easier to learn, easier to build, easier to understand, easier to maintain, easier to extend, easier to keep consistent, easier to document...
 
 ## Simple Outlines
 
-As I mentioned, single stroke outlines are largely boring.
-Single stroke outlines are written how you pronounce them, unless they're not. There are a few conflicts (It wasn't me blame english), but they ~~are~~ will be candid and enumerated.
+Single stroke outlines are fairly straightforward. They are written how you pronounce them, unless they're not.
+
+There are a few conflicts (It wasn't me, blame english), but they are candid and enumerated.
 
 See [[Onyx Spec]] for a more in-depth view of the rules.
 
 ## Complex Outlines
 
-Note Onyx splitting: Consecutive strokes in multi-stroke outlines are skeletonized.
+For multi-stroke outlines, Onyx Splitting is used.
 
-What does that mean?
+That means consecutive strokes in multi-stroke outlines are skeletonized.
 
-Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`.
+Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather than `HEL/PHET` (orthographic) or `HEL/PHEUT` (phonetic), the vowel is dropped.
 
 What about a large word that you might not have ever seen before? Sound it out.
 
@@ -54,4 +55,4 @@ Not having naked starters does suck though :/
 
 I have found a lot more synergies with Onyx Splitting, though I've largely forgotten them (whoops!).
 
-With Onyx splitting, you also don't need joiners, linkers, dedicated prefix and suffix outlines
+With Onyx splitting, you also don't need joiners, linkers, dedicated prefix and suffix outlines. It also makes squishing strokes down easier.
