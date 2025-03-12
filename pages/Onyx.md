@@ -2,9 +2,12 @@
 permalink: onyx
 title: Onyx
 ---
+
 WIP [[Steno|Steno]] [[Steno Glossary#Theory|Theory]].
 
 See [[Onyx Spec|Onyx Spec]].
+
+(This page is a bit outdated, I'll update it at some point)
 
 My Theory Beliefs:
 (See [[Quartz|Quartz]])
@@ -14,8 +17,7 @@ My Theory Beliefs:
 
 Onyx Goals:
 - Consistency
-- Theory minimality
-- Solid foundation for user briefing
+- Minimality
 - Provide a solid foundation for user briefing
 - Brief [[Steno Glossary#Template|templates]]
 
