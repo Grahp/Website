@@ -10,8 +10,8 @@ See [[Onyx Spec|Onyx Spec]].
 ## Goals
 
 - **Simplicity, Minimality, Consistency**
-- User-tailored pronunciations, and perfectly consistent phonetics (via Quartz)
-- Minimal Mandatories
+- Obvious Entries
+  - User-tailored pronunciations, and perfectly consistent phonetics (via Quartz)
   - Minimal mandatory orthography (candid and completely enumerated, via Quartz)
 - Open for user briefing
 
