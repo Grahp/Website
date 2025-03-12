@@ -23,6 +23,7 @@ ul {padding: 0;
     margin-left: calc(25px * var(--scaling-factor))}
 
 code {background-color: #222;
-      padding: 2px 4px;
+      padding: calc(1px * var(--scaling-factor))
+               calc(2px * var(--scaling-factor));
       border-radius: 4px;
       font-family: monospace}
