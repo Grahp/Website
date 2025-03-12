@@ -1,22 +1,22 @@
-:root {--scaling-factor: 1;}
+:root {--scaling-factor: 1}
 
 @media (min-width: 600px)
-  {:root {--scaling-factor: 1.25;}}
+  {:root {--scaling-factor: 1.25}}
 
 @media (min-width: 900px)
-  {:root {--scaling-factor: 1.5;}}
+  {:root {--scaling-factor: 1.5}}
 
 @media (min-width: 900px)
-  {:root {--scaling-factor: 2;}}
+  {:root {--scaling-factor: 2}}
 
 body {background-color: #000;
       color: #fff;
       font-size: calc(1rem * var(--scaling-factor));
       max-width: 70ch;
-      margin-left: 2rem;
-      margin-right: 2rem;}
+      margin-left: calc(1rem * var(--scaling-factor));
+      margin-right: calc(1rem * var(--scaling-factor))}
 
-a {color: #58A6FF;}
+a {color: #58A6FF}
 
 ul {padding: 0;
-    margin-left: calc(30px * var(--scaling-factor));}
+    margin-left: calc(30px * var(--scaling-factor))}
