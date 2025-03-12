@@ -11,7 +11,8 @@ See [[Onyx Spec|Onyx Spec]].
 
 - **Simplicity, Minimality, Consistency**
 - User-tailored pronunciations, and perfectly consistent phonetics (via Quartz)
-- Minimal mandatory orthography (candid and completely enumerated, via Quartz)
+- Minimal Mandatories
+  - Minimal mandatory orthography (candid and completely enumerated, via Quartz)
 - Open for user briefing
 
 ## Beliefs
@@ -25,7 +26,7 @@ Single stroke outlines are fairly straightforward. They are written how you pron
 
 There are a few conflicts (It wasn't me, blame english), but they are candid and enumerated.
 
-See [[Onyx Spec]] for a more in-depth view of the rules.
+See [[Onyx Spec|Onyx Spec]] for a more in-depth view of the rules.
 
 ## Complex Outlines
 
@@ -47,7 +48,7 @@ I don't think people realize that word boundary conflicts are a **HUGE** deal. T
 
 Theories without word boundary conflicts are way simpler. Outlines exist completely on their own, and not complected with their surroundings.
 
-As for conflicts Onyx Splitting creates, I believe I've found four, though it varies from person to person (documentation wip).
+As for conflicts Onyx Splitting creates, I believe I've found four, though it varies from person to person (documentation wip). For example, "relive" and "relieve" are not conflicts in my accent, as I pronounce the first vowel in "relive" as `AOE`, and the first vowel in "relieve" as `U`.
 
 The lack of skeletons can make briefs more complex, as they're in the same space as normal entries, though this isn't a huge problem (briefs should be obvious, and skeletons are a cop-out, IMO).
 
@@ -55,4 +56,8 @@ Not having naked starters does suck though :/
 
 I have found a lot more synergies with Onyx Splitting, though I've largely forgotten them (whoops!).
 
-With Onyx splitting, you also don't need joiners, linkers, dedicated prefix and suffix outlines. It also makes squishing strokes down easier.
+With Onyx splitting, you also don't need joiners, linkers, dedicated prefix and suffix outlines. It also makes squishing strokes down easier, templates galore.
+
+## Briefing
+
+Templated briefs are briefs built around theory rules.
