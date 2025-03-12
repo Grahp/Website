@@ -38,7 +38,7 @@ Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather th
 
 What about a large word that you might not have ever seen before? Sound it out.
 
-Take "internationalization". I use the write-out `EU/TPH-R/TPH/SH/TPH/L/STKPW-GS`, which is **exactly** how I pronounce the word. If you wanted, with very minimal effort, and remaining completely canon, you can split that into `+EUPBR/N/+SH-PBL/STKPW-GS`. Pretty cool stuff.
+Take "internationalization". I use the write-out `EU/TPH-R/TPH/SH/TPH/L/STKPW-GS`, which is exactly how I pronounce the word. If you wanted, with very minimal effort, and remaining completely canon, you can split that into `+EUPBR/N/+SH-PBL/STKPW-GS`. Pretty cool stuff.
 
 As for pros and cons, the downside of Onyx Splitting is that you can't use skeletons or the starter bank on it's own (no `TPH`, or `TR-RB`, et al.).
 
