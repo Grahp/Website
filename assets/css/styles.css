@@ -6,17 +6,18 @@
 @media (min-width: 900px)
   {:root {--scaling-factor: 1.5}}
 
-@media (min-width: 900px)
+@media (min-width: 1200px)
   {:root {--scaling-factor: 2}}
 
 body {background-color: #000;
+      --x: calc(1rem * var(--scaling-factor));
       color: #fff;
-      font-size: calc(1rem * var(--scaling-factor));
+      font-size: var(--x);
       max-width: 70ch;
-      margin-left: calc(1rem * var(--scaling-factor));
-      margin-right: calc(1rem * var(--scaling-factor))}
+      margin-left: var(--x);
+      margin-right: var(--x)}
 
 a {color: #58A6FF}
 
 ul {padding: 0;
-    margin-left: calc(30px * var(--scaling-factor))}
+    margin-left: calc(25px * var(--scaling-factor))}
