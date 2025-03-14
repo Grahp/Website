@@ -15,7 +15,7 @@ body {background-color: #000;
       color: #fff;
       font-size: 1rem;
       max-width: 70ch;
-      margin: 1rem}
+      margin: calc(1rem * var(--scaling-factor))}
 
 a {color: #58A6FF}
 
