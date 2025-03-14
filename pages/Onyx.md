@@ -24,7 +24,7 @@ See [[Onyx Spec|Onyx Spec]].
 
 Single stroke outlines are fairly straightforward. They are written how you pronounce them, unless they're not.
 
-There are a few conflicts (It wasn't me, blame english), but they are candid and enumerated.
+There are a few conflicts (It wasn't me, blame English), but they are candid and enumerated.
 
 See [[Onyx Spec|Onyx Spec]] for a more in-depth view of the rules.
 
