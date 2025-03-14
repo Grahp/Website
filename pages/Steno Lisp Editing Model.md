@@ -10,7 +10,7 @@ See [Chalsed](Chalsed.md)
 
 Words are character-based. Symbols and keywords are almost exclusively just characters. Numbers are also just characters. Both of these have a few syntactic rules, like a `:` before a keyword and a `.` for a decimal point in a number, but these are obvious and can be handled by the programmer.
 
-Collections are not character based. A list is just that: a list of **elements**. Those elements themselves may be character based, but the list itself is most certainly not.
+Collections are not character based. A list is a list of **elements**, not a list of characters. Those elements themselves may be character based, but the list itself is most certainly not.
 
 To treat collections as characters is complex.
 
