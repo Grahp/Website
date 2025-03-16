@@ -9,7 +9,7 @@ See [[Onyx Spec|Onyx Spec]].
 
 ## Goals
 
-- **Simplicity, Minimality, Consistency**
+- **Simplicity and Consistency**
 - Obvious, consistent entries
   - User-tailored pronunciations, and perfectly consistent phonetics (via Quartz)
   - Minimal mandatory orthography (candid and completely enumerated, via Quartz)
@@ -17,18 +17,26 @@ See [[Onyx Spec|Onyx Spec]].
 
 ## Beliefs
 
+- "Simplicity is [the] prerequisite for reliability."
 - Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky foundation. Inconsistencies propagate.
 - Smaller theories are better. Smaller theories are easier to learn, easier to build, easier to understand, easier to maintain, easier to extend, easier to keep consistent, easier to document...
 
-## Simple Outlines
+## Single-stroke Outlines
 
-Single stroke outlines are fairly straightforward. They are written how you pronounce them, unless they're not.
+Monosyllabic words are preferentially constructed consistent to their pronunciation, resorting to orthography only when absolutely necessary.
 
-There are a few conflicts (It wasn't me, blame English), but they are candid and enumerated.
+- `KAT` -> cat
+- `TPOEPB` -> phone
+- `PHAOEPB` -> mean
 
-See [[Onyx Spec|Onyx Spec]] for a more in-depth view of the rules.
+Homophonic conflicts necessarily exist.
 
-## Complex Outlines
+- `PHAEUPB` -> main
+- `PHAEPB` -> mane
+
+See the [[Onyx Spec|Onyx Spec]] for a more exhaustive enumeration of how symbolic units are made up by chords, conflict resolution, etc.
+
+## Multi-stroke Outlines
 
 For multi-stroke outlines, Onyx Splitting is used.
 
