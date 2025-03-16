@@ -44,7 +44,7 @@ Noun
 
 Verb
 
-- The act of simultaneously pressing down the set of [**keys**](#key) that make up a stroke on a [**steno machine**](#steno-machine).
+- The act of simultaneously pressing down the set of [**keys**](#key) that constitute a stroke on a [**steno machine**](#steno-machine).
 
 ## Outline
 Noun
