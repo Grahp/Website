@@ -44,6 +44,7 @@ TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokes
 ### Orthographic Exceptions
 
 `*D` -> `-dd` (Found in `A*D` -> add)
+`AE` -> `a_e`, then `ea`.
 
 ### Key Usage
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
