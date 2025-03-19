@@ -41,10 +41,24 @@ TODO orthographic exceptions
 
 TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokes
 
-### Orthographic Exceptions
+### Layout Exceptions
+![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
+
+#### Orthographic Exceptions
 
 `*D` -> `-dd` (Found in `A*D` -> add)
 `AE` -> `a_e`, then `ea`.
+
+#### Other Exceptions
+![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
+
+`-FTD` -> "-sted"
+`*FTD` -> "-sty"
+`-BLG` -> "-kl" (Credit Josiah Theory)
+`*BLG` -> "-kl^ed" (Credit Josiah Theory)
+`*BLGD` -> "-kl^y" (Credit Josiah Theory)
+TODO bubble bubbled buckle buckled
+
 
 ### Key Usage
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
