@@ -9,7 +9,7 @@ Pronounced KAL-SED
 
 ## Goals
 
-- Clojure orientation
+- Code and Data orientation
 - [[Steno Editor Ideas|Steno Integration]]
 - Extensibility via libraries
   - Problems need solved
