@@ -41,13 +41,27 @@ TODO orthographic exceptions
 
 TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokes
 
+- `-F` -> /s/ sometimes
+
 ### Layout Exceptions
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
 #### Orthographic Exceptions
 
-`*D` -> `-dd` (Found in `A*D` -> add)
+##### `*D` -> "-dd"
+
+Found in `A*D` -> "add"
+
 `AE` -> `a_e`, then `ea`.
+`PWE` -> be (`PWAOE` -> bee)
+`TO` -> to (`TAOU` -> two)
+`TAO` -> too (`TAOU` -> two)
+
+- `*` for contractions
+Examples:
+ - `TKO*OEPBT` -> "don't"
+ - `EUTS` -> "its"
+ - `*EUTS` -> "it's"
 
 #### Other Exceptions
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
