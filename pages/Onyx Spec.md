@@ -11,76 +11,8 @@ Not a learning resource.
 ## Outline
 
 0. [[Onyx Spec Intro|Intro]]
-1. Layout
-
-## Layout
-![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
-
-Onyx uses the full Extended Stenotype Layout ([https://github.com/sammdot/plover-stenotype-extended](https://github.com/sammdot/plover-stenotype-extended)), though all translations using the extended stenotype `^` and `+` keys have alternative outlines that do not.
-
-### Starter Initial Sounds
-
-- `S-` → /s/
-- `T-` → /t/
-- `K-` → /k/
-- `P-` → /p/
-- `W-` → /w/
-- `H-` → /h/
-- `R-` → /ɹ/
-- `SKWR-` → /ʤ/, /ʒ/
-- `SH-` → /ʃ/
-- `TKPW-` → /ɡ/
-- `TP-` → /f/
-- `TPH-` → /n/
-- `HR-` → /l/
-- `PH-` → /m/
-- `TK-` → /d/
-- `PW-` → /b/
-- `KWR-` → /j/
-- `STKPW-` → /z/
-- `KH-` → /ʧ/
-- `TH-` → /θ/, /ð/
-- `SW-` → /sw/, /sv/
-
-TODO orthographic exceptions
-
-TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokes
-
-- `-F` → /s/ sometimes
-
-### Layout Exceptions
-![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
-
-#### Orthographic Exceptions
-
-##### `*D` → "-dd"
-
-Found in `A*D` → "add"
-
-`AE` → `a_e`, then `ea`.
-`PWE` → be (`PWAOE` → bee)
-`TO` → to (`TAOU` → two)
-`TAO` → too (`TAOU` → two)
-
-- `*` for contractions
-Examples:
- - `TKO*OEPBT` → "don't"
- - `EUTS` → "its"
- - `*EUTS` → "it's"
-
-#### Other Exceptions
-![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
-
-`-FTD` → "-sted"
-`*FTD` → "-sty"
-`-BLG` → "-kl" (Credit Josiah Theory)
-`*BLG` → "-kl^ed" (Credit Josiah Theory)
-`*BLGD` → "-kl^y" (Credit Josiah Theory)
-TODO bubble bubbled buckle buckled
-
-
-### Key Usage
-![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
+1. [[Onyx Spec Layout|Layout]]
+2. [[Onyx Spec Conflict Overrides|Conflict Overrides]]
 
 ## Onyx Splitting
 

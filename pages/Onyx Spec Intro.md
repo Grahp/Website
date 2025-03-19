@@ -16,3 +16,7 @@ Part of the [[Onyx Spec]].
 "[[Steno Glossary#Translation|Translations]]" are inside quotes, such as "cat".
 
 [[Steno Glossary#Entry|Entries]] follow the format outline → translation, such as `KAT` → "cat"
+
+## Badges
+
+- ![Documented](https://img.shields.io/badge/Documented-blue?style=flat) means the section has been fully documented and should be up to date.
