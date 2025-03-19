@@ -7,7 +7,7 @@ Part of the [[Onyx Spec]].
 
 ## Rationale
 
-TODO
+- Phonetic, consistent theory
 
 ## Syntax
 
