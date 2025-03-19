@@ -34,9 +34,7 @@ TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokes
 
 ## Layout Exceptions
 
-- TODO Separate out, link to layout exceptions heading of conflicts page?
-
-
+- TODO link to exceptions?
 
 ### Key Usage
 
