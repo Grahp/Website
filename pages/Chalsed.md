@@ -42,3 +42,7 @@ Code is constrained. Text and data are not really constrained, you need somethin
 ## Code Visualization
 
 Chalsed provides you with one way to visualize your code, not that there aren't more. A TUI editor cannot do this properly.
+
+## Spreadsheets, Notes, Diagrams
+
+Who actually writes code?
