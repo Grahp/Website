@@ -8,10 +8,10 @@ WIP [[Onyx|Onyx]] specification.
 
 Not a learning resource.
 
-## Explanations
+## Outline
 
-Raw steno 
-Capital letters inside `Code Blocks`, such as `KAT`, denote [[Steno Glossary#Raw Steno]].
+0. [[Onyx Spec Intro|Intro]]
+1. Layout
 
 ## Layout
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
