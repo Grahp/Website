@@ -8,9 +8,9 @@ WIP [[Onyx|Onyx]] specification.
 
 ## Outline
 
-0. [[Onyx Spec Intro|Intro]]
-1. [[Onyx Spec Layout|Layout]]
-2. [[Onyx Spec Conflict Overrides|Conflict Overrides]]
+1. [[Onyx Spec Intro|Intro]]
+2. [[Onyx Spec Layout|Layout]]
+3. [[Onyx Spec Conflict Overrides|Conflict Overrides]]
 
 ## Onyx Splitting
 
