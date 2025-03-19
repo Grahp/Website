@@ -1,3 +1,7 @@
+---
+permalink: onyx-spec-conflict-overrides
+title: Onyx Spec Conflict Overrides
+---
 Part of the [[Onyx Spec]].
 
 ## Orthographic Exception Conflict Resolution Rules

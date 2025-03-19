@@ -1,3 +1,7 @@
+---
+permalink: onyx-spec-layout
+title: Onyx Spec Layout
+---
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
 Onyx uses the full Extended Stenotype Layout ([https://github.com/sammdot/plover-stenotype-extended](https://github.com/sammdot/plover-stenotype-extended)), though all translations using the extended stenotype `^` and `+` keys have alternative outlines that do not.

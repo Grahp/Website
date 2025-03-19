@@ -9,8 +9,7 @@ WIP [[Onyx|Onyx]] specification.
 ## Outline
 
 - [[Onyx Spec Intro|Intro]]
-- [[Onyx Spec Layout]]
-- [AAAH](onyx-spec-layout.md)
+- [[Onyx Spec Layout|Layout]]
 - [[Onyx Spec Conflict Overrides|Conflict Overrides]]
 
 ## Onyx Splitting
