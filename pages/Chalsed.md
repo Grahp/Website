@@ -14,6 +14,6 @@ Pronounced KAL-SED
 ## Beliefs
 
 - Editors are too large.
-- Editors care too much about themselves and not the user.
 - Editors get in the way too much.
 - Editors are too character based.
+- Plugins don't work, libraries better
