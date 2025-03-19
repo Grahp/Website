@@ -2,6 +2,7 @@
 permalink: chalsed
 title: Chalsed
 ---
+(This page is outdated give me a bit)
 Pronounced KAL-SED
 
 [[Clojure|Clojure]] Code editor, embracing the Clojure philosophy of simplicity and deliberation.
