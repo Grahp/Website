@@ -6,8 +6,6 @@ title: Onyx Spec
 ---
 WIP [[Onyx|Onyx]] specification.
 
-Not a learning resource.
-
 ## Outline
 
 0. [[Onyx Spec Intro|Intro]]
