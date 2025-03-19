@@ -5,9 +5,13 @@ title: Onyx Spec Intro
 
 Part of the [[Onyx Spec]].
 
+## Rationale
+
+TODO
+
 ## Syntax
 
-Capital letters inside `Code Blocks`, such as `KAT`, denote [[Steno Glossary#Raw Steno|raw steno]] [[Steno Glossary#Outline|outlines]].
+[[Steno Glossary#Raw Steno|Raw Steno]] [[Steno Glossary#Outline|outlines]] are inside `Code Blocks`, such as `KAT`.
 
 "[[Steno Glossary#Translation|Translations]]" are inside quotes, such as "cat".
 
