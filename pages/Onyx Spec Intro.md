@@ -11,4 +11,4 @@ Capital letters inside `Code Blocks`, such as `KAT`, denote [[Steno Glossary#Raw
 
 "[[Steno Glossary#Translation|Translations]]" are inside quotes, such as "cat".
 
-Entries follow the format outline → translation, such as `KAT` → "cat"
+[[Steno Glossary#Entry|Entries]] follow the format outline → translation, such as `KAT` → "cat"
