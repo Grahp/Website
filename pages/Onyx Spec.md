@@ -8,6 +8,11 @@ WIP [[Onyx|Onyx]] specification.
 
 Not a learning resource.
 
+## Explanations
+
+Raw steno 
+Capital letters inside `Code Blocks`, such as `KAT`, denote [[Steno Glossary#Raw Steno]].
+
 ## Layout
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
