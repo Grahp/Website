@@ -19,4 +19,4 @@ defaults:
     values:
       layout: default
 
-icremental: false
+incremental: false
