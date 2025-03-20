@@ -20,4 +20,6 @@ Part of the [[Onyx Spec]].
 ## Badges
 
 - ![Documented](https://img.shields.io/badge/Documented-blue?style=flat) means the section has been fully documented and should be up to date.
+  - If a section does not have the documented badge, it's probably undocumented.
 - ![Stable](https://img.shields.io/badge/Stable-green?style=flat) means the section has not been changed in a significant amount of time, and is unlikely to change in the future.
+  - If a section does not have the stable badge, it's probably unstable.
