@@ -17,6 +17,7 @@ Found in:
 - `PWAET` -> "beat"
 
 ### `*` for contractions
+![Stable](https://img.shields.io/badge/Stable-green?style=flat)
 
 "Optional" rule, phonetic outlines will be present in the void of conflicts.
 
@@ -61,10 +62,8 @@ Examples:
 - `-FTD` -> "-sted"
 - `*FTD` -> "-sty"
 
-### "-{^kl}", ""
+### Buckle shenanigans?
 
-`-FTD` → "-sted"
-`*FTD` → "-sty"
 `-BLG` → "-kl" (Credit Josiah Theory)
 `*BLG` → "-kl^ed" (Credit Josiah Theory)
 `*BLGD` → "-kl^y" (Credit Josiah Theory)
