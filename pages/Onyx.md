@@ -42,13 +42,15 @@ For multi-stroke outlines, Onyx Splitting is used.
 
 That means consecutive strokes in multi-stroke outlines are skeletonized.
 
-Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather than `HEL/PHET` (orthographic) or `HEL/PHEUT` (phonetic), the vowel is dropped, and an unstressed vowel is implied.
+Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather than `HEL/PHET` (orthographic) or `HEL/PHEUT` (phonetic), the vowel is dropped, and the unstressed vowel is implied.
 
 What about a large word that you might not have ever seen before? Sound it out.
 
-Take "internationalization". I use the write-out `EU/TPH-R/TPH/SH/TPH/L/STKPW-GS`, which is exactly how I pronounce the word. If you wanted, with very minimal effort, and remaining completely canon, you can split that into `+EUPBR/N/+SH-PBL/STKPW-GS`. Pretty cool stuff.
+What about a compound word you might not have ever seen before? Just sound it out.
 
-As for pros and cons, the downside of Onyx Splitting is that you can't use skeletons or the starter bank on it's own (no `TPH`, or `TR-RB`, et al.).
+Take "international". I use the write-out `EU/TPH-R/TPH/SH/TPH-L`, which is exactly how I pronounce the word (i ner na shuh nl). Perhaps you say "in ter", or "in tuh", whatever your pronunciation, it is supported.
+
+As for pros and cons, the downside of Onyx Splitting is that you can't use skeletons or the starter bank on it's own (strokes like `TPH`, and `TR-RB`, are not allowed).
 
 The upside? You entirely remove word boundary conflicts.
 
@@ -68,4 +70,4 @@ With Onyx splitting, you also don't need joiners, linkers, dedicated prefix and 
 
 ## Briefing
 
-Templated briefs are briefs built around theory rules.
+Templated briefs are briefs built around theory rules. Templated briefs are largely the only briefs onyx will provide. I believe that arbitrary briefs are very personal, and shouldn't be dictated by your theory. If you want to use my arbitrary briefs, you're wrong.
