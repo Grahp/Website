@@ -31,7 +31,7 @@ Onyx uses the full Extended Stenotype Layout ([https://github.com/sammdot/plover
 - `TH-` → /θ/, /ð/
 - `SW-` → /sw/, /sv/
 
-TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokes
+TODO `KWR` and `W` in subsequent strokes.
 
 ### Ender Ending Sounds
 
