@@ -39,7 +39,7 @@ TODO `KWR` and `W` in subsequent stroke and `W` in subsequent strokes
 
 ## Layout Exceptions
 
-- TODO link to exceptions?
+- [[Onyx Spec Conflict Overrides#Orthographic Exception Conflict Resolution Rules|See this whatever it is]]
 
 ### Key Usage
 
