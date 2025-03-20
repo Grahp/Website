@@ -21,7 +21,7 @@ Found in:
 "Optional" rule, phonetic outlines will be present in the void of conflicts.
 
 Examples:
- - `TKO*OEPBT` → "don't"
+ - `TKO*EPBT` → "don't"
  - `EUTS` → "its"
  - `*EUTS` → "it's"
 
