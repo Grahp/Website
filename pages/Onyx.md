@@ -17,7 +17,8 @@ See [[Onyx Spec|Onyx Spec]].
 
 ## Beliefs
 
-- "Simplicity is [the] prerequisite for reliability."
+> "Simplicity is the prerequisite for reliability."
+
 - Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky foundation. Inconsistencies propagate.
 - Smaller theories are better. Smaller theories are easier to learn, easier to build, easier to understand, easier to maintain, easier to extend, easier to keep consistent, easier to document...
 
@@ -34,7 +35,11 @@ Homophonic conflicts necessarily exist.
 - `PHAEUPB` -> main
 - `PHAEPB` -> mane
 
-See the [[Onyx Spec|Onyx Spec]] for a more exhaustive enumeration of how symbolic units are made up by chords, conflict resolution, etc.
+See the [[Onyx Spec|Onyx Spec]] for a more exhaustive enumeration of how symbolic units are constructed around chords, conflict resolution, etc.
+
+Conflicts are resolved via **rules** before mandatory outlines. If a sensible rule with minimal coverage can be made, or multiple similar conflicts exist, a rule will be prefered.
+
+> "Just one more rule."
 
 ## Multi-stroke Outlines
 
