@@ -68,3 +68,9 @@ Examples:
 `*BLG` → "-kl^ed" (Credit Josiah Theory)
 `*BLGD` → "-kl^y" (Credit Josiah Theory)
 TODO bubble bubbled buckle buckled
+
+
+## Unnacounted for conflicts
+
+- hire, higher
+- forget, forgot

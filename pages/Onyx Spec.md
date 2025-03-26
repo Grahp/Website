@@ -24,7 +24,3 @@ Onyx splitting avoids all word boundary conflicts, and introduces remarkably few
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
 Arbitrary briefs are used very rarely in Onyx. I believe these are very personal, and shouldn't be dictated by your theory.
-
-## TODO
-
-- `#^*` → `*`
