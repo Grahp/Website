@@ -2,7 +2,9 @@
 permalink: steno-glossary
 title: Steno Glossary
 ---
-WIP [[Steno|Steno]] [[Glossaries|Glossary]] Contributions Welcome :)
+[[Steno|Steno]] [[Glossaries|Glossary]].
+
+Contributions Welcome :)
 
 Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp/Steno-Glossary).
 
@@ -292,7 +294,9 @@ Noun
 - Raw steno is ambiguous. `T-` could refer to the [**starter**](#starter) `T-`, the [**chord**](#chord) containing only the [**starter**](#starter) `T-`, the [**stroke**](#stroke) constructed of only the [**chord**](#chord) containing only the [**starter**](#starter) `T-`, or the [**outline**](#outline) consisting of only the [**stroke**](#stroke) constructed of only the [**chord**](#chord) containing only the [**starter**](#starter) `T-`.
 - [**Keys**](#key) in [**strokes**](#stroke) appear in [**steno order**](#steno-order).
 
-## Untranslate / Untranslated Stroke / Untran
+## Untranslate
+
+Also Known As: Untran
 
 Noun
 
