@@ -27,7 +27,7 @@ Noun
   - For example, `-G/-R` is not a chord, it is an [**outline**](#outline) made up of 2 [**strokes**](#stroke), each made up of 1 chord.
 - Chords can be composed. Composing 2 chords results in a [**stroke**](#stroke) with the set of [**keys**](#key) in the first chord, and [**keys**](#key) in the second chord.
 - Chords and strokes look identical in [**raw steno form**](#raw-steno). The [**stroke**](#stroke) `TPH-` and the chord `TPH-` appear the same, but they may be different.
-- An example chord might be `TPH-`, which represents the starting `n-` sound.
+- An example chord might be `TPH-`, which represents the starting "n-" sound.
 - See [**stroke**](#stroke) for the differences between a [**stroke**](#stroke) and a chord.
 
 Verb
