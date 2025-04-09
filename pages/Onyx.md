@@ -25,14 +25,14 @@ See [[Onyx Spec|Onyx Spec]].
 
 Single-stroke outlines (which are used for canonic single-syllable words) are consistent with their pronunciation.
 
-- `KAT` → cat
-- `TPOEPB` → phone
-- `PHAOEPB` → mean
+- `KAT` → "cat"
+- `TPOEPB` → "phone"
+- `PHAOEPB` → "mean"
 
 Orthographic rules ("orthographic exceptions") are used when needed to avoid homophonic conflicts.
 
-- `PHAEUPB` → main
-- `PHAEPB` → mane
+- `PHAEUPB` → "main"
+- `PHAEPB` → "mane"
 
 See the [[Onyx Spec|Onyx Spec]] for a full list of how symbolic units are constructed around chords, how conflict resolution and orthography are used, and more.
 
