@@ -6,4 +6,4 @@ redirect_from:
 ---
 Hi, I'm Grahp.
 
-I'm building [[Quartz]], a [[Steno]] dictionary manager, and using it to build a theory called [[Onyx]]; [[Bowmap]], a from-scratch MMORPG Minecraft server written in [[Clojure]]; as well as some experimental Minecraft datapack language and VM work.
+I'm building [[Quartz|Quartz]], a [[Steno]] dictionary manager, and using it to build a theory called [[Onyx|Onyx]]; [[Bowmap|Bowmap]], a from-scratch MMORPG Minecraft server written in [[Clojure|Clojure]]; as well as some experimental Minecraft datapack language and VM work.
