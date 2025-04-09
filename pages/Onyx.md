@@ -44,19 +44,17 @@ Most conflicts are resolved via [[Steno Glossary#Theory Rule|rules]] rather than
 
 For multi-stroke outlines (which are used for canonic multi-syllable words), Onyx Splitting is used, meaning the vowel keys (`A`, `O`, `E`, and `U`) are dropped (not used) in all strokes after the first ("consecutive strokes") in multi-stroke outlines (the consecutive strokes are "skeletonized").
 
-Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather than `HEL/PHET` (orthographic) or `HEL/PHEUT` (phonetic), the vowel is dropped, and the unstressed vowel is implied.
+Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather than `HEL/PHET` (the orthographic outline) or `HEL/PHEUT` (the phonetic outline), the vowel is dropped, and the unstressed vowel is implied.
 
 What about a large word that you might not have ever seen before? Sound it out.
 
-What about a compound word you might not have ever seen before? Just sound it out.
-
 Take "international". I use the write-out `EU/TPH-R/TPH/SH/TPH-L`, which is exactly how I pronounce the word (i ner na shuh nl). Perhaps you say "in ter", or "in tuh", whatever your pronunciation, it is supported.
 
-As for pros and cons, the downside of Onyx Splitting is that you can't use skeletons or the starter bank on it's own (strokes like `TPH`, and `TR-RB`, are not allowed).
+The downside of Onyx Splitting is that you can't use skeletons or the starter bank on it's own (outlines such as `TPH`, and `TR-RB` are not allowed).
 
 The upside? You entirely remove word boundary conflicts.
 
-I don't think people realize that word boundary conflicts are a **HUGE** deal. The mere presence of word boundary conflicts in a theory means that you can never really be certain that your outlines will even work at all! You haven't tried every combination of outlines with different surroundings.
+I don't think people realize that word boundary conflicts are a **HUGE** deal. The mere presence of word boundary conflicts in a theory means that you can never be certain that your outlines will even work at all! You haven't tried every combination of outlines with different surroundings.
 
 Theories without word boundary conflicts are way simpler. Outlines exist completely on their own, and not complected with their surroundings.
 
