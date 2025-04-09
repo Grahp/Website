@@ -36,8 +36,6 @@ Orthographic rules ("orthographic exceptions") are used when needed to avoid hom
 
 See the [[Onyx Spec|Onyx Spec]] for a full list of how symbolic units are constructed around chords, how conflict resolution and orthography are used, and more.
 
-Conflicts are resolved via [[Steno Glossary#Theory Rule|**rules**]] before [[Steno Glossary#Mandatory|mandatory outlines]].
-
 Most conflicts are resolved via [[Steno Glossary#Theory Rule|rules]] rather than [[Steno Glossary#Arbitrary|arbitrary briefs]] and [[Steno Glossary#Mandatory|mandatory outlines]].
 
 > "Just one more rule."
