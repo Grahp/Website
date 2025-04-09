@@ -10,42 +10,43 @@ See [[Onyx Spec|Onyx Spec]].
 ## Goals
 
 - **Simplicity and Consistency**
-- Obvious, consistent entries
-  - User-tailored pronunciations, and perfectly consistent phonetics (via Quartz)
-  - Minimal mandatory orthography (candid and completely enumerated, via Quartz)
-- Open for user briefing
+- Obvious, consistent [[Steno Glossary#Entry|entries]]
+  - User-tailored pronunciations, and perfectly consistent phonetics (via [[Quartz|Quartz]])
+  - Minimal mandatory orthography (candid and completely enumerated, via [[Quartz|Quartz]])
+- Open for user [[Steno Glossary#Brief|briefing]]
 
 ## Beliefs
 
-> "Simplicity is the prerequisite for reliability."
-
-- Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky foundation. Inconsistencies propagate.
+- Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky foundation.
+- Inconsistencies propagate, FAST.
 - Smaller theories are better. Smaller theories are easier to learn, easier to build, easier to understand, easier to maintain, easier to extend, easier to keep consistent, easier to document...
 
 ## Single-stroke Outlines
 
-Monosyllabic words are preferentially constructed consistent to their pronunciation, resorting to orthography only when absolutely necessary.
+Single-stroke outlines (which are used for canonic single-syllable words) are consistent with their pronunciation.
 
 - `KAT` -> cat
 - `TPOEPB` -> phone
 - `PHAOEPB` -> mean
 
-Homophonic conflicts necessarily exist.
+Minimal orthographic exceptions are used to avoid homophonic conflicts.
+
+Orthographic rules ("orthographic exceptions") are used when needed to avoid homophonic conflicts.
 
 - `PHAEUPB` -> main
 - `PHAEPB` -> mane
 
-See the [[Onyx Spec|Onyx Spec]] for a more exhaustive enumeration of how symbolic units are constructed around chords, conflict resolution, etc.
+See the [[Onyx Spec|Onyx Spec]] for a full list of how symbolic units are constructed around chords, how conflict resolution and orthography are used, and more.
 
-Conflicts are resolved via **rules** before mandatory outlines. If a sensible rule with minimal coverage can be made, or multiple similar conflicts exist, a rule will be prefered.
+Conflicts are resolved via [[Steno Glossary#Theory Rule|**rules**]] before [[Steno Glossary#Mandatory|mandatory outlines]].
+
+Most conflicts are resolved via [[Steno Glossary#Theory Rule|rules]] rather than [[Steno Glossary#Arbitrary|arbitrary briefs]] and [[Steno Glossary#Mandatory|mandatory outlines]].
 
 > "Just one more rule."
 
 ## Multi-stroke Outlines
 
-For multi-stroke outlines, Onyx Splitting is used.
-
-That means consecutive strokes in multi-stroke outlines are skeletonized.
+For multi-stroke outlines (which are used for canonic multi-syllable words), Onyx Splitting is used, meaning the vowel keys (`A`, `O`, `E`, and `U`) are dropped (not used) in all strokes after the first ("consecutive strokes") in multi-stroke outlines (the consecutive strokes are "skeletonized").
 
 Take a word like "helmet". In Onyx, it's (only) outline is `HEL/PH-T`. Rather than `HEL/PHET` (orthographic) or `HEL/PHEUT` (phonetic), the vowel is dropped, and the unstressed vowel is implied.
 
@@ -76,3 +77,9 @@ With Onyx splitting, you also don't need joiners, linkers, dedicated prefix and 
 ## Briefing
 
 Templated briefs are briefs built around theory rules. Templated briefs are largely the only briefs onyx will provide. I believe that arbitrary briefs are very personal, and shouldn't be dictated by your theory. If you want to use my arbitrary briefs, you're wrong.
+
+## Future Plans
+
+- Dictionary (via [[Quartz|Quartz]])
+- Learning resource for hobbyists
+- Learning resource for beginners
