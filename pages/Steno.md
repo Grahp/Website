@@ -2,7 +2,7 @@
 permalink: steno
 title: Steno
 ---
-Steno [[Projects]]:
+Steno Projects:
 
 - [[Quartz|Quartz]]
 - [[Onyx|Onyx]]

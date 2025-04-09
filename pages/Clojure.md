@@ -22,4 +22,3 @@ Clojure forces you to write datafiable process.
 
 Even Clojure code is data! You edit code in the same way you edit data. Since code is data, you can assign arbitrary meaning to that data. Creating new language syntax!
 
-Check out my [[Projects]].
