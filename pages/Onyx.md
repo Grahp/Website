@@ -29,8 +29,6 @@ Single-stroke outlines (which are used for canonic single-syllable words) are co
 - `TPOEPB` -> phone
 - `PHAOEPB` -> mean
 
-Minimal orthographic exceptions are used to avoid homophonic conflicts.
-
 Orthographic rules ("orthographic exceptions") are used when needed to avoid homophonic conflicts.
 
 - `PHAEUPB` -> main
