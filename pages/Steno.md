@@ -6,7 +6,6 @@ Steno Projects:
 
 - [[Quartz|Quartz]]
 - [[Onyx|Onyx]]
-- [[Steno Editor Ideas|Steno Editor Ideas]]
 - [[Ametrine|Ametrine]]
 
 Steno Info:
@@ -14,3 +13,4 @@ Steno Info:
 - [[Uberdictionary|Uberdictionary]]
 - [[Steno Context Aware Uses|Steno Context Aware Uses]]
 - [[Steno Glossary|Steno Glossary]]
+- [[Steno Editor Ideas|Steno Editor Ideas]]
