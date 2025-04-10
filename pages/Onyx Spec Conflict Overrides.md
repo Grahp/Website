@@ -8,7 +8,7 @@ Part of the [[Onyx Spec]].
 
 ### `AE` -> "ea"
 
-"Optional" rule, phonetic outlines will be present in the void of conflicts.
+"Advisory" rule, phonetic outlines will be present in the void of conflicts.
 
 - Possibly also "a_e"?
 
@@ -19,7 +19,7 @@ Found in:
 ### `*` for contractions
 ![Stable](https://img.shields.io/badge/Stable-green?style=flat)
 
-"Optional" rule, phonetic outlines will be present in the void of conflicts.
+"Advisory" rule, phonetic outlines will be present in the void of conflicts.
 
 Examples:
  - `TKO*EPBT` → "don't"
