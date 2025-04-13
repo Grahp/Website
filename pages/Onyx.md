@@ -38,8 +38,6 @@ See the [[Onyx Spec|Onyx Spec]] for a full list of how symbolic units are constr
 
 Most conflicts are resolved via [[Steno Glossary#Theory Rule|rules]] rather than [[Steno Glossary#Arbitrary|arbitrary briefs]] and [[Steno Glossary#Mandatory|mandatory outlines]].
 
-> "Just one more rule."
-
 ## Multi-stroke Outlines
 
 For multi-stroke outlines (which are used for canonic multi-syllable words), Onyx Splitting is used, meaning the vowel keys (`A`, `O`, `E`, and `U`) are dropped (not used) in all strokes after the first ("consecutive strokes") in multi-stroke outlines (the consecutive strokes are "skeletonized").
