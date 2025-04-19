@@ -88,30 +88,28 @@ Step 1: Receive Outline: `TPROG`
 Step 2: **Outline Splitting**:
 
 Split by bank:
-`TPR- O -G`
+(`TPR-`, `O`, `-G`)
 
 Split into chords:
-`TP- R- O -G`
+(`TP-`, `R-`, `O`, `-G`)
 
 Step 3: **Rule Application**:
 
 Apply **all** rules (independently):
 
-After rule application, you're left with `f r o g`
-
-(`f r o g` is pronunciation data, but it could also be orthographic if you're making an ortho theory)
+After rule application, you're left with (/f/, /r/, /ɑ/, /g/)
 
 Step 4: **Output**:
 
 Transform rule outputs to translation:
 
 Lookup in uberdictionary:
-`f r o g -> "frog"`
+(/f/, /r/, /ɑ/, /g/) -> "frog"
 
 **Finally**,
 
 Return translation:
-`"frog"`
+"frog"
 
 ### Theory Rules
 
