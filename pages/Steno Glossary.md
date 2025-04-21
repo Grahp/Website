@@ -57,6 +57,7 @@ Noun
 **Notes**
 - Outlines are only sequences of [**strokes**](#stroke), not [**chords**](#chord) or [**keys**](#key). It may appear that a [**key**](#key) or [**chord**](#chord), such as `T-` or `-PBLG` are in an outline, but these are actually [**strokes**](#stroke) that contain 1 [**chord**](#chord) each.
 - A [**stroke**](#stroke) may "belong" to multiple outlines. Outlines are not greedy.
+- An example outline might be `KEUT/KAT`.
 
 ## Translation
 Noun
