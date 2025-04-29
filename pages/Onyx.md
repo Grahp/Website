@@ -11,35 +11,33 @@ Onyx strives to be the simplest possible theory.
 
 ## Theory Complexities
 
-What makes theories so complex?
+What makes theories complex?
 
 Onyx does not solve all of these, but they are interesting to think about.
 
 ### Conflicts
 
-Conflicts literally complect words together! A conflict means "this word and this word have an implicit relationship".
+Conflicts are definitionally complex. Conflicts complect words together. They cause otherwise unrelated words to have an implicit relationship.
  
 Word boundary conflicts complect every stroke with every other stroke surrounding it, as the meaning of a stroke can change depending on it's surroundings.
+
+Word-affix conflicts, as the name suggests, complect words and affixes.
+
+Proper noun conflicts complect normal words with proper nouns.
+
+Homophones complect words that sound the same together.
 
 ### Mandatories
 
 Mandatories complect a word with a brief (big nono).
 
-### Orthography
-
-Orthography complects a word with it's spelling.
-
 ### Theory Rules
 
-If a theory rule has too much reach, it can conflict with other theory rules. A rule might also be complected with its surroundings. Having too many rules means they are more likely to conflict with each other.
+Theory rules _can_ be complex. Theory rules can conflict with each other, complecting them. Rules can also complect outlines or translations with each other.
 
-### Steno Order
+## Onyx Goals
 
-Pretty minor, but just having order in a layout is complex. Order complects the set of keys you need with the order they appear. Order also dictates when you can do what, such as folding.
-
-## Goals
-
-- Consistent core with minimal mandatories
+- _Simple_ core
 - User-tailored pronunciation (via [[Quartz|Quartz]])
 - Open for user [[Steno Glossary#Brief|briefing]]
 
