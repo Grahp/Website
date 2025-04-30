@@ -213,8 +213,10 @@ TODO maybe move to conflict and use in theory rule definition?
 Noun
 
 - A [**brief**](#brief) that can be broken down into separately-defined rules that typically apply to multiple [**briefs**](#brief).
+- A [**brief**](#brief) that is defined by [**theory rules**](#theory-rule), rather than chosen arbitrarily.
 
-A type of rule?
+**Notes**
+- The opposite of an [Arbitrary](#arbitrary) outline 
 
 ## Arbitrary
 Noun
