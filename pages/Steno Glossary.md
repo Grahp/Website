@@ -219,7 +219,7 @@ A type of rule?
 ## Arbitrary
 Noun
 
-- A [**brief**](#brief) that is defined by [**theory rules**](#theory-rule) that are completely arbitrary.
+- An outline that is not defined by [**theory rules**](#theory-rule), but chosen arbitrarily.
 
 ## Mandatory
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
