@@ -19,7 +19,7 @@ It's out of date because writing a theory spec is too much work.
 
 Onyx is split into several theories designed to work together.
 
-The base of Onyx is a very tiny phonetic theory with conflicts. This theory (called "Onyx Base") is built on the pronunciations of words, and Onyx Splitting.
+The base of Onyx is a tiny phonetic theory with conflicts. This theory (called "Onyx Base") is built on the pronunciations of words.
 
 To solve these conflicts, an orthographic exception theory is used on top of Onyx Base. This resolves all homophones via rules, or occasional mandatories.
 
