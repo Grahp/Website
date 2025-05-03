@@ -5,7 +5,7 @@ title: Onyx Spec Layout
 
 Part of the [[Onyx Spec]].
 
-[https://github.com/Grahp/TPSteno](https://github.com/Grahp/TPSteno)
+Onyx uses a custom layout inspired by the TPSteno Layout. See [https://github.com/Grahp/Onyx-Layout](https://github.com/Grahp/Onyx-Layout)
 
 ## Layout Exceptions
 
