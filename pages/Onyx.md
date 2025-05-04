@@ -35,7 +35,7 @@ Mandatories complect a word with a brief (big nono).
 
 Theory rules _can_ be complex. Theory rules can conflict with each other, complecting them. Rules can also complect outlines or translations with each other.
 
-## Onyx Goals
+## Theory Goals
 
 - _Simple_ core
 - User-tailored pronunciation (via [[Quartz|Quartz]])
@@ -43,11 +43,10 @@ Theory rules _can_ be complex. Theory rules can conflict with each other, comple
 
 ## Beliefs
 
-- Inconsistencies are annoying when learning. They are incredibly dangerous when you have to build on top of a shaky foundation.
-- Inconsistencies propagate, FAST.
+- Complexity is the root of all theory problems.
 - Smaller theories are better. Smaller theories are easier to learn, easier to build, easier to understand, easier to maintain, easier to extend, easier to keep consistent, easier to document...
 - Theories must still be extensible. An opinionated core and an extensible foundation are required.
-- Theories should be exclusively and rigorously rule-based.
+- Theory dictionaries should be rule-based, not entry-based.
 
 ## Future Plans
 
