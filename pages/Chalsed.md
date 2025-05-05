@@ -4,32 +4,29 @@ title: Chalsed
 ---
 Pronounced KAL-SED
 
-[[Clojure|Clojure]] Code Editor.
+Ideas for a Lisp editor.
 
 ## Goals
 
 - Code and Data orientation
-- [[Steno Editor Ideas|Steno Integration]]
 - Extensibility via libraries
-  - Problems need solved
-- Being a functional editor
+- A functional editor
   - Data orientation
-  - Data-emitting libraries
+  - Proper libraries
   - Advanced data editing (if only we had a very powerful language for data editing...)
+- [[Steno Editor Ideas|Steno Integration]]
 
 ## Beliefs
 
 - Editors are too large.
-- Editors are obstructive.
 - Editors are too character based.
 - Plugins are a curse, plugins are a lie.
 
 ## Editor Complexities
 
 - Plugins in not giving the user control over their output, and being largely buffer-based and stateful
-- Text in your code having rules and information that you must worry about beyond the code
+- Text
 - Breakage and Inconsistency
-- Non-standard formats
 
 ## Code Editing
 
@@ -39,9 +36,7 @@ Code is overwhelmingly comprised of collections, not text (even if your language
 
 Code is constrained. Text and data are not really constrained, you need something beyond this. Linters are not the anwser, you need semantic coding editing capabilities.
 
-## Code Visualization
-
-Chalsed provides you with one way to visualize your code, not that there aren't more. A TUI editor cannot do this properly.
+Code is constrained. Text is not constrained, even data is largely not constrained, You need semantic **code** editing capabilities.
 
 ## Spreadsheets, Notes, Diagrams
 
