@@ -5,7 +5,7 @@ title: Onyx
 
 WIP Phonetic [[Steno|Steno]] [[Steno Glossary#Theory|Theory]].
 
-This is a high-level overview. For a more detailed breakdown of the rules of Onyx, see the [[Onyx Spec|Onyx Spec]].
+This is a high-level overview. For a more detailed breakdown of the rules of Onyx, see the [[Onyx Spec|Onyx spec]].
 
 Onyx strives to be the simplest possible theory.
 

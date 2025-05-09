@@ -5,4 +5,4 @@ permalink: regular-outline-syntax
 
 More later.
 
-See [[Onyx Spec|Onyx Spec]].
+See the [[Onyx Spec|Onyx spec]].
