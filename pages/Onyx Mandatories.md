@@ -1,7 +1,11 @@
 ---
-title: Onyx Spec Mandatories
-permalink: onyx-spec-mandatories
+title: Onyx Mandatories
+permalink: onyx-mandatories
+redirect_from:
+  - onyx-spec-mandatories
 ---
+
+Part of the [[Onyx Spec|Onyx spec]].
 
 All Onyx mandatories:
 
