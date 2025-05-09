@@ -10,7 +10,7 @@ It's out of date because writing a theory spec is too much work.
 
 ## Outline
 
-- [[Onyx Spec Layout|Layout]]
+- [[Onyx Layout|Layout]]
 - [[Onyx Spec Conflict Overrides|Conflict Overrides]]
 - [[Onyx Spec Mandatories]]
 
