@@ -19,17 +19,14 @@ Noun
 ## Chord
 Noun
 
-- A set of [**keys**](#key) that typically represent some part of a [**translation**](#translation).
+- A set of [**keys**](#key) that typically represent a small part of a [**translation**](#translation).
 
 **Notes**
-- Chords are the smallest unit of meaning in steno.
-- Chords are the building blocks of [**strokes**](#stroke).
-- Chords are sets of [**keys**](#key), and thus cannot "span" more than one [**stroke**](#stroke).
-  - For example, `-G/-R` is not a chord, it is an [**outline**](#outline) made up of 2 [**strokes**](#stroke), each made up of 1 chord.
-- Chords can be composed. Composing 2 chords results in a [**stroke**](#stroke) with the set of [**keys**](#key) in the first chord, and [**keys**](#key) in the second chord.
 - An example chord might be `TPH-`, which represents the starting /n/ sound.
+- Chords are the smallest unit of meaning in steno.
 - Chords and strokes look identical in [**raw steno form**](#raw-steno). The [**stroke**](#stroke) `TPH-` and the chord `TPH-` appear the same, but they may be different.
 - See [**stroke**](#stroke) for the differences between a [**stroke**](#stroke) and a chord.
+- The differences between chords, [keys](#key), and [strokes](#stroke) can often be subtle. (Make and link to page explaining the difference)
 
 Verb
 
