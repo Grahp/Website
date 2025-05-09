@@ -1,19 +1,23 @@
 ---
-permalink: onyx-spec-layout
+permalink: onyx-layout
+redirect_from:
+  - onyx-spec-layout
 title: Onyx Spec Layout
 ---
 
 Part of the [[Onyx Spec]].
 
-Onyx uses a custom layout inspired by the TPSteno Layout. See [https://github.com/Grahp/Onyx-Layout](https://github.com/Grahp/Onyx-Layout)
+Onyx uses a custom layout inspired by the TPSteno Layout. See [https://github.com/Grahp/plover-onyx-Layout](https://github.com/Grahp/plover-onyx-Layout)
 
-## Layout Exceptions
+- Put the chart here
 
-- [[Onyx Spec Conflict Overrides#Orthographic Exception Conflict Resolution Rules|See this whatever it is]]
+## Special Keys
 
-### Key Usage
+Onyx has 4 special keys: `#-`, `^-`, `+-,` and `A-`.
 
-- `#`
+### A-
 
-
-### `*`
+- Contraction?
+- Random Briefs
+- Pre-inital Schwa
+- Proper Noun?
