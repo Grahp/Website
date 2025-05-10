@@ -8,7 +8,7 @@ Contributions Welcome :)
 
 Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp/Steno-Glossary).
 
-# Key
+## Key
 Noun
 
 - An individual key on a [**steno layout**](#steno-layout) or [**steno machine**](#steno-machine).
