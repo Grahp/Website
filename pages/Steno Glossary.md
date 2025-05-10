@@ -11,22 +11,20 @@ Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp
 ## Key
 Noun
 
-- An individual key on a [**steno layout**](#steno-layout) or [**steno machin**](#steno-machine).
+- An individual key on a [**steno layout**](#steno-layout) or [**steno machine**](#steno-machine).
 
 **Notes**
-- Some keys share the same name, such as `S-` the [**starter**](#starter) and `-S` the [**ender**](#ender). These are different keys in different [**banks**](#bank) that are represented by the same character (`S`). These keys can be differentiated by their [**raw steno**](#raw-steno) notation, like '`S-`' and '`-S`'.
+- Some keys share the same name, such as `S-` the [**starter**](#starter) and `-S` the [**ender**](#ender). These are different keys in different [**banks**](#bank) that are represented by the same character (`S`). These keys can be differentiated by their [**raw steno**](#raw-steno) notation, like _`S-`_ and _`-S`_.
 
 ## Chord
 Noun
 
-- A set of [**keys**](#key) that typically represent a small part of a [**translation**](#translation).
+- A set of [**keys**](#key) that typically represent part of a [**translation**](#translation).
 
 **Notes**
-- An example chord might be `TPH-`, which represents the starting /n/ sound.
+- An example chord might be `TPH-`, which consists of the keys `T-`, `P-`, and `H-`, and represents the starting /n/ sound on the [**WSI layout](#wsi-layout).
 - Chords are the smallest unit of meaning in steno.
-- Chords and strokes look identical in [**raw steno form**](#raw-steno). The [**stroke**](#stroke) `TPH-` and the chord `TPH-` appear the same, but they may be different.
-- See [**stroke**](#stroke) for the differences between a [**stroke**](#stroke) and a chord.
-- The differences between chords, [keys](#key), and [strokes](#stroke) can often be subtle. (Make and link to page explaining the difference)
+- The difference between chords and [**strokes**](#stroke) can often be subtle. See [Chords vs. Strokes](https://grahp.dev/chords-vs-strokes).
 
 Verb
 
@@ -400,3 +398,4 @@ Terms not covered here:
 - Pseudosteno
 - Modal entry and exit outlines?
 - Better descriptions.
+- Replace all the disambiguation of keys, chords, and strokes with a steno notation page.
