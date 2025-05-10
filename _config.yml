@@ -1,4 +1,3 @@
-permalink: /:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -8,8 +7,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-minifier
 favicon: /favicon.ico
-optional_front_matter:
-  remove_originals: true
 include:
   - pages
 defaults:
