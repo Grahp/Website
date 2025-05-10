@@ -241,17 +241,15 @@ Noun
 
 ## Fingerspelling
 Verb
+
 - The use of a fingerspelling [**theory**](#theory) or [**dictionary**](#dictionary).
 
 Adj.
 
-- A [**theory**](#theory) or [**dictionary**](#dictionary) that mostly outputs autonomous characters. That is, characters that usually exist on their own, but can be joined with other characters to output multiple characters at a time.
+- A [**theory**](#theory) or [**dictionary**](#dictionary) that mostly outputs singular characters, used to spell words one letter at a time.
 
 **Notes**
-- Differs from [**orthospelling**](#orthospelling) in that it's mostly done one character at a time.
-<!-- TODO orthospelling theories are really about orthographic sequences and combining them, as opposed to just combining letters -->
-- [**Orthospelling**](#orthospelling) theories can also be modal, which fingerspelling theories typically aren't.
-<!-- - Orthospelling is more about broader orthographic patters? -->
+- Different from [**orthospelling**](#orthospelling), which outputs multiple characters at a time as full orthographic sequences.
 
 ## Orthospelling
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
@@ -396,6 +394,7 @@ Terms not covered here:
 - Syllabic Splitting
 - Paper tape
 - Pseudosteno
+- Stenonym
 - Modal entry and exit outlines?
 - Better descriptions.
 - Replace all the disambiguation of keys, chords, and strokes with a steno notation page.
