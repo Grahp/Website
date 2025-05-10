@@ -8,7 +8,7 @@ Contributions Welcome :)
 
 Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp/Steno-Glossary).
 
-## Key
+# Key
 Noun
 
 - An individual key on a [**steno layout**](#steno-layout) or [**steno machine**](#steno-machine).
@@ -22,7 +22,7 @@ Noun
 - A set of [**keys**](#key) that typically represent part of a [**translation**](#translation).
 
 **Notes**
-- An example chord might be `TPH-`, which consists of the keys `T-`, `P-`, and `H-`, and represents the starting /n/ sound on the [**WSI layout](#wsi-layout).
+- An example chord might be `TPH-`, which consists of the keys `T-`, `P-`, and `H-`, and represents the starting /n/ sound on the [**WSI layout**](#wsi-layout).
 - Chords are the smallest unit of meaning in steno.
 - The difference between chords and [**strokes**](#stroke) can often be subtle. See [Chords vs. Strokes](https://grahp.dev/chords-vs-strokes).
 
