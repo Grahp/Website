@@ -231,13 +231,13 @@ Noun
 - The only way to output a translation is with an arb.
 - A translation with only an arbitrary briefs to output it.
 
-## Skeleton (Stroke)
+## Skeleton
 Noun
 
-- A [**stroke**](#stroke) with [**keys**](#key) in the [**starter**](#starter) and [**ender**](#ender) [**banks**](#bank), but no [**vowels**](#vowel).
+- A [**stroke**](#stroke) with [**keys**](#key) in the [**starter**](#starter) and [**ender**](#ender) [**banks**](#bank), but no keys in the [**vowel bank**](#vowel).
 
 **Notes**
-- Skeleton strokes are often used for [**briefs**](#brief), as all [**strokes**](#stroke) of all words contain a vowel sound, and thus you will never collide with a real word.
+- Skeleton strokes are often used for [**briefs**](#brief), as all real words contain vowel sounds, and thus will never collide with skeletons.
 
 ## Fingerspelling
 Verb
