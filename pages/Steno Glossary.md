@@ -2,7 +2,7 @@
 permalink: steno-glossary
 title: Steno Glossary
 ---
-[[Steno|Steno]] [[Glossaries|Glossary]].
+[[Steno|Steno]] Glossary.
 
 Contributions Welcome :)
 
@@ -11,7 +11,7 @@ Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp
 ## Key
 Noun
 
-- An individual key on a [**steno layout**](#steno-layout).
+- An individual key on a [**steno layout**](#steno-layout) or [**steno machin**](#steno-machine).
 
 **Notes**
 - Some keys share the same name, such as `S-` the [**starter**](#starter) and `-S` the [**ender**](#ender). These are different keys in different [**banks**](#bank) that are represented by the same character (`S`). These keys can be differentiated by their [**raw steno**](#raw-steno) notation, like '`S-`' and '`-S`'.
@@ -39,7 +39,7 @@ Noun
 - A set of [**keys**](#key), typically constructed out of [**chords**](#chord).
 
 **Notes**
-- The differences between a stroke and a [**chord**](#chord) is that [**chords**](#chord) typically represent simple [**translations**](#translation), such as a sound or orthographic sequence, while strokes are more complex, and exist mostly on their own. [**Chords**](#chord) are usually combined to form strokes.
+- The differences between a stroke and a [**chord**](#chord) is that [**chords**](#chord) typically represent simple [**translations**](#translation), such as a sound or orthographic sequence, while strokes are more complex, and exist mostly on their own. [**Chords**](#chord) are usually combined to form strokes. (Link to website page)
 - Strokes can be composed together to form [**outlines**](#outline).
 
 Verb
@@ -398,3 +398,5 @@ Terms not covered here:
 - Syllabic Splitting
 - Paper tape
 - Pseudosteno
+- Modal entry and exit outlines?
+- Better descriptions.
