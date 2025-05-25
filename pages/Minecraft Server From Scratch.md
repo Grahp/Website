@@ -2,7 +2,7 @@
 permalink: minecraft-server-from-scratch
 title: Minecraft Server From Scratch
 ---
-Writing my Minecraft server, [[Bowmap|Bowmap]] from scratch.
+Writing my Minecraft server, [[Bowmap|Bowmap]], from scratch.
 
 ## Why
 
