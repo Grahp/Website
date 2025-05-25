@@ -4,7 +4,7 @@ title: Minecraft Server From Scratch
 ---
 Writing my Minecraft server, [[Bowmap|Bowmap]], from scratch.
 
-## Why
+## Why?
 
 [[Bowmap|Bowmap]] is a completely custom game. While the vanilla Minecraft server, and forks like Spigot and Paper, makes sense for servers that are substantially like vanilla, for a server nothing like the vanilla game, they are not a good fit. 
 
