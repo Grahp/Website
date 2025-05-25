@@ -12,3 +12,5 @@ Steno Notation.
 - Chords & Strokes
 - Outlines
   - Meaning of `/`
+- Origin
+- Layouts
