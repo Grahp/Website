@@ -4,8 +4,8 @@ title: Steno
 ---
 Steno Projects:
 
-- [[Quartz|Quartz]]
-- [[Onyx|Onyx]]
+- [[Quartz|Quartz]] -  [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionary]] Generator
+- [[Onyx|Onyx]] - Steno Theory
 
 Steno Info:
 
