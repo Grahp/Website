@@ -1,5 +1,7 @@
 ---
 permalink: steno-glossary
+redirect_from:
+  - glossaries
 title: Steno Glossary
 ---
 [[Steno|Steno]] Glossary.
