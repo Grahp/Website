@@ -4,23 +4,20 @@ title: Chalsed
 ---
 Pronounced KAL-SED
 
-Ideas for a Lisp editor.
+The Lisp Editor.
 
 ## Goals
 
 - Code and Data orientation
 - Extensibility via libraries
-- A functional editor
-  - Data orientation
-  - Proper libraries
-  - Advanced data editing (if only we had a very powerful language for data editing...)
 - [[Steno Editor Ideas|Steno Integration]]
+- Lightweight and Tiny
 
 ## Beliefs
 
-- Editors are too large.
 - Editors are too character based.
-- Plugins are a curse, plugins are a lie.
+- Editors are too large.
+- Plugins are bad.
 
 ## Editor Complexities
 
