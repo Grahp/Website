@@ -15,7 +15,7 @@ The Lisp Editor.
 
 ## Beliefs
 
-- Editors are too character based.
+- Editors should not be text-based.
 - Editors are too large.
 - Plugins are bad.
 
