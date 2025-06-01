@@ -9,9 +9,9 @@ Steno Projects:
 
 Steno Info:
 
-- [[Uberdictionary|Uberdictionary]]
-- [[Steno Context Aware Uses|Steno Context Aware Uses]]
 - [[Steno Glossary|Steno Glossary]]
-- [[Steno Editor Ideas|Steno Editor Ideas]]
+- [[Uberdictionary|Uberdictionary]]
 - [[Steno Notation|Steno Notation]]
+- [[Steno Editor Ideas|Steno Editor Ideas]]
 - [[Programmatic Dictionaries Rule|Programmatic Dictionaries Rule]]
+- [[Steno Context Aware Uses|Steno Context Aware Uses]]
