@@ -3,11 +3,9 @@ permalink: onyx
 title: Onyx
 ---
 
-WIP Phonetic [[Steno|Steno]] [[Steno Glossary#Theory|Theory]].
+Maximally Simple [[Steno|Steno]] [[Steno Glossary#Theory|Theory]].
 
 This is a high-level overview. For a more detailed breakdown of the rules of Onyx, see the [[Onyx Spec|Onyx spec]].
-
-Onyx strives to be the simplest possible theory.
 
 ## Theory Complexities
 
@@ -17,7 +15,7 @@ Onyx does not solve all of these, but they are interesting to think about.
 
 ### Conflicts
 
-Conflicts are definitionally complex. Conflicts complect words together. They cause otherwise unrelated words to have an implicit relationship.
+Conflicts are definitionally complex. Conflicts complect words together. They cause otherwise unrelated words to be implicitly coupled.
  
 Word boundary conflicts complect every stroke with every other stroke surrounding it, as the meaning of a stroke can change depending on it's surroundings.
 
@@ -29,11 +27,13 @@ Homophones complect words that sound the same together.
 
 ### Mandatories
 
-Mandatories complect a word with a brief (big nono).
+Mandatories complect words with briefs.
+
+They have their place, but are very rarely needed.
 
 ### Theory Rules
 
-Theory rules _can_ be complex. Theory rules can conflict with each other, complecting them. Rules can also complect outlines or translations with each other.
+Theory rules _can_ be complex. Theory rules can conflict with each other, and they can rely on each other. Rules can also complect outlines or translations with each other.
 
 ## Theory Goals
 
