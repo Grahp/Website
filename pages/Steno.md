@@ -14,4 +14,3 @@ Steno Info:
 - [[Steno Notation|Steno Notation]]
 - [[Steno Editor Ideas|Steno Editor Ideas]]
 - [[Programmatic Dictionaries Rule|Programmatic Dictionaries Rule]]
-- [[Steno Context Aware Uses|Steno Context Aware Uses]]
