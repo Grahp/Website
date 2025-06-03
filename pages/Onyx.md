@@ -14,7 +14,9 @@ Steno theories are far too complex.
 - Why that's bad
 - The tradeoff for speed
 - How theories are complex
-  - Phonetics, pronunciation
+  - Phonetics
+	  - Pronunciation
+	  - Homophones
   - Conflicts
   - Mandatories
 - What can be done about it
