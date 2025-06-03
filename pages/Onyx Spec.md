@@ -13,4 +13,9 @@ Use this as a reference and learning resource, though it is not.
 ## Outline
 
 - [[Onyx Layout|Layout]]
+  - Initials
+  - Vowels
+  - Finals
+  - Suffixes
+- Syllabic Splitting
 - [[Onyx Mandatories|Mandatories]]
