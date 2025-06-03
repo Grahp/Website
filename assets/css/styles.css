@@ -20,7 +20,8 @@ body {background-color: #000;
 a {color: #58A6FF}
 
 ul {padding: 0;
-    margin-left: 25px}
+    margin-left: 25px;
+    list-style-type: disc}
 
 code {background-color: #222;
       padding: 1px 2px;
