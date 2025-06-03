@@ -17,5 +17,5 @@ Use this as a reference and learning resource, though it is not.
   - Vowels
   - Finals
   - Suffixes
-- Syllabic Splitting
+- [[Onyx Syllabic Splitting|Syllabic Splitting]]
 - [[Onyx Mandatories|Mandatories]]
