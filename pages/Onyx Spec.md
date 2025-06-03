@@ -6,7 +6,7 @@ title: Onyx Spec
 ---
 An (incomplete) full overview and specification of [[Onyx|Onyx]].
 
-Onyx is designed to support multiple layouts and user accommodations, which will be reflected throughout the spec.
+Onyx is designed to support multiple layouts and user accommodations. This is reflected throughout the spec.
 
 Use this as a reference and learning resource, though it is not.
 
