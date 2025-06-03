@@ -9,6 +9,8 @@ Part of the [[Onyx Spec|Onyx spec]].
 
 All Onyx mandatories:
 
+Incomplete, and some of these might get replaced with orthography
+
 ## Homophones
 
 - `I` -> "I", `IY` -> "eye",
