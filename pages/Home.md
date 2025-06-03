@@ -10,6 +10,6 @@ redirect_from:
 - Building [[Quartz|Quartz]], a [[Steno]] programmatic dictionary generator
 - Building [[Onyx|Onyx]], a maximally simple [[Steno]] theory 
 
-Find me on Github ([https://github.com/grahp](https://github.com/Grahp)).
+Find me on Github ([https://github.com/Grahp](https://github.com/Grahp)).
 
 (All links are probably permalinks)
