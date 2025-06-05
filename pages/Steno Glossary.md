@@ -324,11 +324,7 @@ Noun
 ## Steno Layout
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
-I have no idea lmao.
-- Not a physical thing
-
-A set of keys?
-In different banks?
+- Keys, banks, steno order. Defined in a theory?
 
 ## Steno Order
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
@@ -339,7 +335,6 @@ Noun
 - The order in which keys are displayed?
 - It's not just about human consumption, it's also about chords and how chords can compose with each other except for when it's not...
 - As defined by steno layout
-- Used in theories for something.
 
 **Notes**
 - Raw steno displays keys in strokes and outlines in this order.
