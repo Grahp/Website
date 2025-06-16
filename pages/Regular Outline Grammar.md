@@ -6,5 +6,6 @@ redirect_from:
 ---
 
 More later.
+- Theories have so much complexity and inconsistency based on splitting, joining, affixes, space suppression
 
 See the [[Onyx Spec|Onyx spec]].
