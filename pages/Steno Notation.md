@@ -19,7 +19,8 @@ Steno Notation.
 - Origin
 - Layouts
 - Mapping (of steno units to other units)
-	-  'outline → translation' or other arrows for entries
+	-  '`outline` → "translation"'
+	-  '"translation" → "translation"' meaning the outline that _would_ map to the first translation maps to the second translation
 	-  'steno pattern ⇒ rule'
 	- Things an outline can map to:
 		- Orthographic Sequences
