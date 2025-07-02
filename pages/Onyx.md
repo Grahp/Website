@@ -13,7 +13,7 @@ Find the dictionary and layouts on [https://github.com/Grahp/Onyx](https://githu
 
 ### Speling
 
-Onyx is orthographic, meaning it is based on how words are spelled, rather than how they sound. If your use of steno mainly involves transcribing spoken word, this is certainly a mismatch, and you should use a phonetic theory.
+Onyx is orthographic, meaning words are constructed based on how they are spelled, rather than how they sound. If your use of steno mainly involves transcribing spoken word, this is certainly a mismatch, and you should use a phonetic theory.
 
 If spelling is not your strong suit, you may also want to look at a phonetic theory.
 
