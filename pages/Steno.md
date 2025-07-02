@@ -1,10 +1,11 @@
 ---
 permalink: steno
 title: Steno
+redirect_from:
+  - serial-theory-rule-application
 ---
 Steno Projects:
 
-- [[Quartz|Quartz]] - [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionary]] Generator
 - [[Onyx|Onyx]] - Steno Theory
 
 Steno Info:
