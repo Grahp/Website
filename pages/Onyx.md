@@ -7,6 +7,8 @@ title: Onyx
 
 Onyx is a fully orthographic "[[Steno Glossary#Orthospelling|orthospelling]]" theory, designed for hobbyist use. Onyx is the simplest and easiest to learn steno theory available.
 
+Find the dictionary and layouts on [https://github.com/Graph/Onyx](https://github.com/Graph/Onyx)
+
 ## Tradeoffs
 
 ### Speling
