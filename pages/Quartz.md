@@ -3,7 +3,7 @@ permalink: quartz
 title: Quartz
 ---
 
-WIP [[Steno|Steno]] [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionary]] Generator.
+(Abandoned) [[Steno|Steno]] [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionary]] Generator.
 
 Repo: [https://github.com/Grahp/Quartz](https://github.com/Grahp/Quartz)
 
