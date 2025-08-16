@@ -9,7 +9,7 @@ Hello this is my website!
 - Making [[Bowmap|Bowmap]], a from-scratch MMORPG Minecraft server written in [[Clojure|Clojure]]
 - Learning to type on a 20 key keyboard :o
 - Moderately interested in programming languages, code editors, keyboards, music, pixel art, game design, and personal wiki mazes I guess
-- I write primarily write in [[Clojure|Clojure]]! I have used other languages but don't like any of them. I use some other lisps like [Fennel](https://fennel-lang.org/) from time to time :p
+- I write primarily write in [[Clojure|Clojure]]! I have used other languages but don't like any of them. I use some other lisps like [[Fennel|Fennel]] from time to time :p
 
 You may find some of my [[Steno|Steno]] resources useful or interesting. I plan on better organizing my thoughts at some point in the future.
 
