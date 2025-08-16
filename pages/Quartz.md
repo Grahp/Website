@@ -5,6 +5,8 @@ title: Quartz
 
 (Abandoned) [[Steno|Steno]] [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionary]] Generator.
 
+There are cool ideas here that I will document better at some other time, but for now you may find some goodies in here!
+
 Repo: [https://github.com/Grahp/Quartz](https://github.com/Grahp/Quartz)
 
 ## Traditional Theory Realization
