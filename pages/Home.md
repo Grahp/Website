@@ -13,9 +13,10 @@ Hello this is my website!
 
 You may find some of my [[Steno|Steno]] resources useful or interesting. I plan on better organizing my thoughts at some point in the future.
 
-You can contact me via email at `grahp@grahp.dev`.
+You can contact me via email at `grahp@grahp.dev`. Or like message me on Discord (I'm `@grahp` everywhere) and I'm probably more likely to see it because it makes a little noise.
 
 You can also find me on Github, begrudgingly, for the time being. ([https://github.com/Grahp](https://github.com/Grahp)). Some day I will set up my own git server because fuck github.
+
 You should link here ([https://grahp.dev](https://grahp.dev)) if you want a permanent link to me for whatever reason.
 
 
