@@ -1,6 +1,8 @@
 ---
 permalink: quartz
 title: Quartz
+redirect_from:
+  - serial-theory-rule-application
 ---
 
 (Abandoned) [[Steno|Steno]] [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionary]] Generator.

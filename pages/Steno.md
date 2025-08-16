@@ -1,8 +1,6 @@
 ---
 permalink: steno
 title: Steno
-redirect_from:
-  - serial-theory-rule-application
 ---
 [[Home|I]]'m no longer actively involved in Steno, so this is more of an archive. I plan on returning here and better organizing what I have learned over my time with steno.
 
