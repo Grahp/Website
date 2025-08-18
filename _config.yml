@@ -6,6 +6,7 @@ plugins:
   - jekyll-wikirefs
   - jekyll-redirect-from
   - jekyll-minifier
+  - jekyll-target-blank
 favicon: /favicon.ico
 include:
   - pages
