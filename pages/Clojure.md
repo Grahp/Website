@@ -4,4 +4,6 @@ title: Clojure
 ---
 Cool language. ([https://clojure.org](https://clojure.org))
 
-Check out [[Bowmap|Bowmap]] I guess.
+Writing a couple things in Clojure, but check out [[Bowmap|Bowmap]].
+
+There's also [[Fennel|Fennel]].
