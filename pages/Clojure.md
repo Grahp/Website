@@ -1,6 +1,9 @@
 ---
 permalink: clojure
 title: Clojure
+redirect_from:
+  - language-idioms
+  - programming-language-idioms
 ---
 Cool language. ([https://clojure.org](https://clojure.org))
 
