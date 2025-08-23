@@ -10,7 +10,7 @@ I'm making [[Bowmap|Bowmap]], a [[Minecraft Server From Scratch|from-scratch]] M
 
 I'm learning to type on a [[Delusional|20 key keyboard]] :o
 
-I'm alse interested in [[Lisp|Lisps]], code editors, keyboards, music, pixel art, game design, and personal wiki mazes I guess.
+I'm also interested in [[Lisp|Lisps]], code editors, keyboards, music, pixel art, game design, and personal wiki mazes I guess.
 
 I primarily write in [[Clojure|Clojure]]! I have used other languages but don't like any of them. I use some other lisps like [[Fennel|Fennel]] from time to time :p
 
