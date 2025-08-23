@@ -2,9 +2,9 @@
 permalink: steno
 title: Steno
 ---
-[[Home|I]]'m no longer actively involved in Steno, so this is more of an archive. I plan on returning here and better organizing what I have learned over my time with steno.
+[[Home|I]]'m no longer actively involved in Steno, so this is more of an archive. I plan on returning here and organizing my thoughts at some point.
 
-I spent about 9 months working on [[Steno Glossary#Theory|theories]], and learned a lot from that that I'd like to share at some point.
+I spent about 9 months working on [[Steno Glossary#Theory|theories]], and learned a lot from that I'd like to share at some point.
 
 For now, here are some random pages:
 
