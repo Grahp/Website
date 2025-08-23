@@ -48,6 +48,14 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: repos
+        run: |
+          if [ -d repos ]; then
+            for repo in repos/*.git; do
+              echo "Copying $repo -> _site/"
+              cp -r "$repo" "_site/"
+            done
+          fi
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
