@@ -6,7 +6,9 @@ plugins:
   - jekyll-wikirefs
   - jekyll-redirect-from
   - jekyll-minifier
+
 favicon: /favicon.ico
+
 include:
   - pages
 defaults:
