@@ -8,7 +8,7 @@ Hello this is my website! You can find reading and tarballs here (I don't have a
 
 I'm making [[Bowmap|Bowmap]], a [[Minecraft Server From Scratch|from-scratch]] MMORPG Minecraft server written in [[Clojure|Clojure]].
 
-I'm learning to type on a [[Delusional|20 key keyboard]] :o
+I'm learning to [[Typing|type]] on a [[Delusional|18 key keyboard]] :o
 
 I'm also interested in [[Lisp|Lisps]], code editors, [[Delusional|keyboards]], [[Music]], pixel art, game design, and personal wiki mazes I guess.
 
