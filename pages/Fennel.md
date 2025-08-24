@@ -13,4 +13,4 @@ It's not really homoiconic though, which is sad :( and hurts macros, as you migh
 
 Homoiconicity is a spectrum, Fennel is definitely on the edge of being a Lisp or not. It also primarily compiles to Lua and lives in that world.
 
-I am currently writing [[Faddle|my own Lisp for Lua]], not sure what will come of it, but it's a fun time.
+[[Home|I]] am currently writing [[Faddle|my own Lisp for Lua]], not sure what will come of it, but it's a fun time.

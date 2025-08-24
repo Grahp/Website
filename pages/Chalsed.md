@@ -6,4 +6,4 @@ Pronounced KAL-SED
 
 The _Lisp_ Editor.
 
-I'll write something here some day.
+[[Home|I'll]] write something here some day.

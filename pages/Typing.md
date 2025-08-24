@@ -3,7 +3,7 @@ title: Typing
 permalink: typing
 ---
 
-[[Home|I]]'m currently learning to type on an [[Delusional|18 key keyboard]]!
+[[Home|I'm]] currently learning to type on an [[Delusional|18 key keyboard]]!
 
 I've been learning to type since I was like 12. I've gotten up to ~160wpm with dvorak.
 
