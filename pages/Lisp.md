@@ -1,5 +1,5 @@
 ---
-Title: Lisp
+title: Lisp
 permalink: lisp
 ---
 
