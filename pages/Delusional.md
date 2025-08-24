@@ -5,7 +5,7 @@ title: Delusional
 
 [[Home|My]] 18 key keyboard layout, made by `@5quidwyrm` ([https://github.com/5quiwyrm](https://github.com/5quiwyrm)).
 
-- Put the layout here!
+![Delusional Layout Image](../assets/images/delusional-layout-image.png){:width="800rem"}
 
 Basically I had a 26 key [[Steno|Steno]] keyboard, the Starboard ([https://www.stenography.store](https://www.stenography.store)), and I wanted to use it to [[Typing|type]] :p (Turns out steno was too hard for me)
 
