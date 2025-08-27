@@ -7,11 +7,11 @@ redirect_from:
 
 Hello this is my website! You can find reading and tarballs here (I don't have a git server quite yet).
 
-I'm making [[Bowmap|Bowmap]], a [[Minecraft Server From Scratch|from-scratch]] MMORPG [[Minecraft Server|Minecraft server]] written in [[Clojure|Clojure]].
+I'm making [[Bowmap|Bowmap]], a [[Minecraft Server From Scratch|from-scratch]] MMORPG [[Minecraft Server|Minecraft server]] [[Code Editors|written]] in [[Clojure|Clojure]].
 
 I'm learning to [[Typing|type]] on a [[Delusional|18 key keyboard]] :o
 
-I'm also interested in [[Lisp|Lisps]], code editors, [[Delusional|keyboards]], [[Music]], pixel art, game design, and digital gardens I guess.
+I'm also interested in [[Lisp|Lisps]], [[Code Editors]], [[Delusional|keyboards]], [[Music]], pixel art, game design, and digital gardens I guess.
 
 I primarily write in [[Clojure|Clojure]]! I have used other languages but don't like any of them. I use some other [[Lisp|Lisps]] like [[Fennel|Fennel]] from time to time, and I'm even making [[Faddle|my own Lisp]] :p
 
