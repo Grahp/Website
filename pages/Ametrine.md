@@ -3,9 +3,9 @@ permalink: ametrine
 title: Ametrine
 ---
 
-Outdated.
+Old [[Steno|Steno]] [[Steno Glossary#Orthospelling|Orthospelling]] [[Steno Glossary#Theory|Theory]]/[[Steno Glossary#Dictionary|Dictionary]]. Check out [[Pinchord|Pinchord]] :p
 
-[[Steno|Steno]] [[Steno Glossary#Orthospelling|Orthospelling]] [[Steno Glossary#dictionary|Dictionary]].
+- Put dictionaries here.
 
 - Non-[[Steno Glossary#Modal|modal]]
 - No dedicated [[Steno Glossary#Key|key]] required

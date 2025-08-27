@@ -2,9 +2,11 @@
 permalink: steno-lisp-editing-model
 title: Steno Lisp Editing Model
 ---
-See [[Chalsed]]
+[[Steno|Steno]] [[Lisp|Lisp]] [[Code Editors|editor]] ideas. For a more generic lisp-independent version of this, see [[Steno Editing Model]].
 
-[[Steno|Steno]] lisp [[Steno Editor Ideas|editing model]]. For a more generic lisp-independent version of this, see [[Steno Editing Model]].
+(See [[Chalsed]])
+
+- Dunno how up to date this is I can't be bothered to read through it.
 
 2 elements make up a lisp program: words and collections.
 
