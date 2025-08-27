@@ -166,7 +166,7 @@ When generating a static dict, you can validate the entries as they are generate
 Exhaustively looking up plausible outlines is also not feasible. Lookup is too slow, and outlines too plentiful. Rules need to be able to generate valid outlines for that rule, and theories need to be able to generate valid outlines for the theory.
 
 
-Maybe [[Clojure|spec]] could help with this?
+- Maybe [[Clojure|spec]] could help with this?
 
 ### Uberdictionary
 
