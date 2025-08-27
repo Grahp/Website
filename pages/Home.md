@@ -17,6 +17,6 @@ I primarily write in [[Clojure|Clojure]]! I have used other languages but don't 
 
 You may find some of my [[Steno|Steno]] resources useful or interesting. I plan on better organizing my thoughts at some point in the future.
 
-You can contact me via email at `grahp@grahp.dev`. Or like message me on Discord (I'm `@grahp` everywhere) and I'm probably more likely to see it because it makes a little noise.
+You can [[Contact]] me via email at `grahp@grahp.dev`. Or like message me on Discord (I'm `@grahp` everywhere) and I'm probably more likely to see it because it makes a little noise.
 
 All links are probably [[404|permalinks]].
