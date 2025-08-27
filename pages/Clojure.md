@@ -5,7 +5,7 @@ redirect_from:
   - language-idioms
   - programming-language-idioms
 ---
-Cool language. ([https://clojure.org](https://clojure.org))
+Cool [[Lisp|language]]. ([https://clojure.org](https://clojure.org))
 
 Writing a couple things in Clojure, but check out [[Bowmap|Bowmap]].
 

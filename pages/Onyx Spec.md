@@ -2,9 +2,14 @@
 permalink: onyx-spec
 redirect_from:
   - onyx/spec
+  - onyx-spec-intro
+  - onyx-spec-conflict-overrides
 title: Onyx Spec
 ---
-An (incomplete) full overview and specification of [[Onyx|Onyx]].
+
+[[Onyx|Onyx]]'s old specificaiton.
+
+Outdated, but I'll keep it up here anyway
 
 [[Onyx|Onyx]] is designed to support multiple [[Steno Glossary#Steno Layout|layouts]] and user accommodations. This is reflected throughout the spec.
 
