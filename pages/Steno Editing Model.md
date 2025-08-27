@@ -2,7 +2,7 @@
 permalink: steno-editing-model
 title: Steno Editing Model
 ---
-A [[Steno Editor Ideas|Steno Editing]] "keybinding" model.
+A [[Steno|Steno]] [[Code Editors|Editor]] "keybinding" [[Steno Editor Ideas|model]].
 
 ## Modal Editing
 

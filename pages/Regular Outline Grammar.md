@@ -5,7 +5,10 @@ redirect_from:
   - regular-outline-syntax
 ---
 
-More later.
-- Theories have so much complexity and inconsistency based on splitting, joining, affixes, space suppression
+Old [[Steno|Steno]] idea. Came from [[Onyx|Onyx]].
+
+Essentially that you make outline splitting 100% deterministic.
+
+More later maybe.
 
 See the [[Onyx Spec|Onyx spec]].

@@ -5,7 +5,9 @@ redirect_from:
 title: Onyx Syllabic Splitting
 ---
 
-Part of the [[Onyx Spec|Onyx spec]].
+(Outdated, see [[Onyx Spec|Onyx Spec]])
+
+How [[Onyx|Onyx]] splits words/outlines. Part of the [[Onyx Spec|Onyx spec]].
 
 - Word boundary conflicts
 - Inconsistent splitting

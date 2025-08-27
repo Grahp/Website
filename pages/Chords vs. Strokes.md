@@ -13,7 +13,7 @@ redirect_from:
 
 The difference between [[Steno Glossary#Chord|Chords]] and [[Steno Glossary#Stroke|Strokes]] in [[Steno|Steno]].
 
-Don't ask me why this page has 8 different URLs I have literally no idea.
+Don't ask me why this page has 8 different URLs [[Home|I]] have literally no idea.
 
 Both strokes and chords are sets of [[Steno Glossary#Key|keys]]. They share identical structure.
 

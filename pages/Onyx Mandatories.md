@@ -5,9 +5,11 @@ redirect_from:
   - onyx-spec-mandatories
 ---
 
+(Outdated, see [[Onyx Spec|Onyx Spec]])
+
 Part of the [[Onyx Spec|Onyx spec]].
 
-All Onyx mandatories:
+All [[Onyx|Onyx]] mandatories:
 
 Incomplete, and some of these might get replaced with orthography
 
