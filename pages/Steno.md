@@ -7,7 +7,7 @@ title: Steno
 For now, here are some random pages:
 
 - [[Pinchord|Pinchord]] - Orthographic Steno Theory
-- [[Quartz|Quartz]] - Programmatic Dictionary Generation
+- [[Generated Programmatic Dictionaries|Generated Programmatic Dictionaries]]
 
 - [[Steno Glossary|Steno Glossary]]
 - [[Uberdictionary|Uberdictionary]]
