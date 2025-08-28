@@ -4,9 +4,7 @@ redirect_from:
   - glossaries
 title: Steno Glossary
 ---
-[[Steno|Steno]] Glossary.
-
-Contributions Welcome :)
+[[Steno|Steno]] Glossary :)
 
 ## Key
 Noun
