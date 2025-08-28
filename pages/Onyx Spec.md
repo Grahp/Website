@@ -9,7 +9,7 @@ title: Onyx Spec
 
 [[Onyx|Onyx]]'s old specification.
 
-Outdated, but I'll keep it up here anyway
+Outdated, but [[Home|I'll]] keep it up here anyway
 
 [[Onyx|Onyx]] is designed to support multiple [[Steno Glossary#Steno Layout|layouts]] and user accommodations. This is reflected throughout the spec.
 
