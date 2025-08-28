@@ -39,6 +39,7 @@ Noun
 **Notes**
 - The differences between a stroke and a [**chord**](#chord) is that [**chords**](#chord) typically represent simple [**translations**](#translation), such as a sound or orthographic sequence, while strokes are more complex, and exist mostly on their own. [**Chords**](#chord) are usually combined to form strokes. (Link to website page)
 - Strokes can be composed together to form [**outlines**](#outline).
+- The difference between chords and [**strokes**](#stroke) can often be subtle. See [Chords vs. Strokes](https://grahp.dev/chords-vs-strokes).
 
 Verb
 
