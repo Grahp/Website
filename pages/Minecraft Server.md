@@ -3,7 +3,7 @@ title: Minecraft Server
 permalink: minecraft-server
 ---
 
-[[Home|I]]'m writing a Minecraft server called [[Bowmap|Bowmap]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]], you should check it out :p
+[[Home|I'm]] writing a Minecraft server called [[Bowmap|Bowmap]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]], you should check it out :p
 
 I've been making Minecraft servers for a very long time, and some of them are even still up today!
 
