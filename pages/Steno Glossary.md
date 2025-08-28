@@ -17,7 +17,7 @@ Noun
 ## Chord
 Noun
 
-- A set of [**keys**](#key) that typically represent part of a [**translation**](#translation).
+- A set of [**keys**](#key) that typically represent part of a [**translation**](#translation), like a single letter or sound.
 
 **Notes**
 - An example chord might be `TPH-`, which consists of the keys `T-`, `P-`, and `H-`, and represents the starting /n/ sound on the [**WSI layout**](#wsi-layout).
@@ -32,7 +32,7 @@ Verb
 ## Stroke
 Noun
 
-- A set of [**keys**](#key), typically constructed out of [**chords**](#chord).
+- A set of [**keys**](#key) pressed together, typically formed out of [**chords**](#chord).
 
 **Notes**
 - The differences between a stroke and a [**chord**](#chord) is that [**chords**](#chord) typically represent simple [**translations**](#translation), such as a sound or orthographic sequence, while strokes are more complex, and exist mostly on their own. [**Chords**](#chord) are usually combined to form strokes. (Link to website page)
@@ -109,12 +109,12 @@ Noun
 ## Theory
 Noun
 
-- A set of [**theory rules**](#theory-rule).
+- A set of [**theory rules**](#theory-rule) that dictate how [**entries**] are formed.
 
 **Notes**
 - Usually has a name (probably bird related for some reason)
 - May have learning resources, a wiki, a specification, etc.
-- Theories may be designed to work well with other theories (such as a number theory, symbol theory, or movement theory), or to exist independently.
+- Theories may be designed to work well with other theories (such as a number theory, symbol theory, or movement theory), or to exist independently, like a **full english theory**
 
 ## Conflict
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
