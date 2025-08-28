@@ -5,7 +5,9 @@ redirect_from:
   - stenotation
 ---
 
-Steno Notation.
+[[Home|my]] [[Steno|Steno]] notation that I just made up.
+
+In progress, of course.
 
 - Glossary
   - See [[Steno Glossary]]

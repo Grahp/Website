@@ -3,6 +3,8 @@ permalink: onyx
 title: Onyx
 ---
 
-Well [[Home|I]] tend to reuse names a lot, but Onyx was 2 (now abandoned) [[Steno|Steno]] [[Steno Glossary#Theory|Theories]].
+Onyx is an abandoned [[Steno|Steno]] [[Steno Glossary#Theory|Theory]] [[Home|I]] was making.
 
-The first being my old phonetic theory loosely derived from [Lapwing](https://lapwing.aerick.ca/Home.html), There's the old [[Onyx Spec|Onyx spec]], or probably go look at whatever [Harri](https://github.com/StenoHarri) is up to; and the second being what is now [[Pinchord]], so look there I guess.
+You can check out the old [[Onyx Spec|Onyx spec]].
+
+I also briefly used this name for a theory later named [[Pinchord|Pinchord]], so maybe check that out as well.

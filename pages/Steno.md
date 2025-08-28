@@ -12,5 +12,5 @@ For now, here are some random pages:
 - [[Steno Glossary|Steno Glossary]]
 - [[Uberdictionary|Uberdictionary]]
 - [[Steno Notation|Steno Notation]]
-- [[Steno Editor Ideas|Steno Editor Ideas]]
+- [[Steno Code Editor|Steno Code Editor]]
 - [[Programmatic Dictionaries Rule|Programmatic Dictionaries Rule]]

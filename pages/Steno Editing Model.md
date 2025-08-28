@@ -2,11 +2,11 @@
 permalink: steno-editing-model
 title: Steno Editing Model
 ---
-A [[Steno|Steno]] [[Code Editors|Editor]] "keybinding" [[Steno Editor Ideas|model]].
+A [[Steno Code Editor|Steno code editor]] "keybinding" model.
 
 ## Modal Editing
 
-Modal editing makes a lot of sense when you have a very limited number of unique strokes at your disposal, say only ~30 keys on a qwerty keyboard. Being in a mode adds context to every action you perform. This means you don't need to hold down a mod key, or add an additional prefix key to your actions, in order for them to be unique.
+Modal [[Code Editors|editing]] makes a lot of sense when you have a very limited number of unique strokes at your disposal, say only ~30 keys on a qwerty keyboard. Being in a mode adds context to every action you perform. This means you don't need to hold down a mod key, or add an additional prefix key to your actions, in order for them to be unique.
 
 However, a [[Steno]] keyboard has over 24 million available strokes at any given time. This is more than enough strokes to perform any editing action you would ever want to make. Requiring a stroke or dedicated key to switch modes is a problem.
 

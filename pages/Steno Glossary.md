@@ -8,8 +8,6 @@ title: Steno Glossary
 
 Contributions Welcome :)
 
-Also found at [https://github.com/Grahp/Steno-Glossary](https://github.com/Grahp/Steno-Glossary).
-
 ## Key
 Noun
 

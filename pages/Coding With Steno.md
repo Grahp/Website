@@ -2,9 +2,9 @@
 permalink: coding-with-steno
 title: Coding with Steno
 ---
-I want to be able to write and edit [[Clojure]] code with [[Steno]].
+I want to be able to [[Code Editors|write and edit]] [[Clojure|Clojure]] code with [[Steno|Steno]].
 
-See [[Steno Lisp Editing Model]].
+See [[Steno Code Editor|Steno Code Editor]] and [[Steno Lisp Editing Model|Steno Lisp Editing Model]]
 
 ## Code Examples
 
