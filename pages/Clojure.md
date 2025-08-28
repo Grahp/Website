@@ -9,6 +9,6 @@ Cool [[Lisp|language]]. ([https://clojure.org](https://clojure.org))
 
 Something cool to know about Clojure is that it is NOT Java®, they're very different languages :)
 
-Writing a couple things in Clojure, but check out [[Bowmap|Bowmap]].
+[[Home|I'm]] Writing a couple things in Clojure, but check out [[Bowmap|Bowmap]].
 
-There's also [[Fennel|Fennel]].
+I'm also making my own [[Lisp|Lisp]] for [[Lua|Lua]] inspired by Clojure called [[Faddle|Faddle]] :p
