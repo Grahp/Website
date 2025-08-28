@@ -17,3 +17,5 @@ defaults:
       layout: default
 
 incremental: false
+jekyll-minifier:
+  remove_intertag_spaces: true
