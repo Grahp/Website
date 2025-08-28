@@ -7,7 +7,7 @@ redirect_from:
 title: Onyx Spec
 ---
 
-[[Onyx|Onyx]]'s old specificaiton.
+[[Onyx|Onyx]]'s old specification.
 
 Outdated, but I'll keep it up here anyway
 
