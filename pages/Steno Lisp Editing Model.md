@@ -2,13 +2,13 @@
 permalink: steno-lisp-editing-model
 title: Steno Lisp Editing Model
 ---
-[[Steno|Steno]] [[Lisp|Lisp]] [[Code Editors|editor]] ideas. For a more generic lisp-independent version of this, see [[Steno Editing Model]].
+[[Steno|Steno]] [[Lisp|Lisp]] [[Code Editors|editor]] ideas. For a more generic lisp-independent version of this, see [[Steno Editing Model|Steno Editing Model]].
 
-(See [[Chalsed]])
+(See [[Chalsed|Chalsed]])
 
-- Dunno how up to date this is I can't be bothered to read through it.
+- Dunno how up to date this is, and [[Home|I]] can't be bothered to read through it.
 
-2 elements make up a lisp program: words and collections.
+2 elements make up a [[Lisp|Lisp]] program: words and collections. This is talking about [[Clojure|Clojure]], but really applies to all Lisps.
 
 Words are character-based. Symbols and keywords are almost exclusively just characters. Numbers are also just characters. Both of these have a few syntactic rules, like a `:` before a keyword and a `.` for a decimal point in a number, but these are obvious and can be handled by the programmer.
 
