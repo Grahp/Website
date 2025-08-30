@@ -7,6 +7,6 @@ redirect_from:
 ---
 Clojure ([https://clojure.org](https://clojure.org)) is a [[Lisp|programming language]]. Something cool to know about Clojure is that it is NOT Java®, they're very different languages :)
 
-[[Home|I'm]] Writing a couple things in Clojure, but check out [[Bowmap|Bowmap]].
+[[Home|I'm]] [[Code Editors|writing]] a couple things in Clojure, but check out [[Bowmap|Bowmap]].
 
 I'm also making my own [[Lisp|Lisp]] for [[Lua|Lua]] inspired by Clojure called [[Faddle|Faddle]] :p
