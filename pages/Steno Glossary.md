@@ -109,7 +109,7 @@ Noun
 ## Theory
 Noun
 
-- A set of [**theory rules**](#theory-rule) that dictate how [**entries**] are formed.
+- The set of [**theory rules**](#theory-rule) that dictate how [**entries**](#entry) are formed.
 
 **Notes**
 - Usually has a name (probably bird related for some reason)
