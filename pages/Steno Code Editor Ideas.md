@@ -1,10 +1,11 @@
 ---
-title: Steno Code Editor
-permalink: steno-code-editor
+title: Steno Code Editor Ideas
+permalink: steno-code-editor-ideas
 redirect_from:
   - steno-editor
   - steno-editor-ideas
   - steno-editing
+  - steno-code-editor
 ---
 
 Ideas for a [[Steno|Steno]]-aware [[Code Editors|Code editor]].

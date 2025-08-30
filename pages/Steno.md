@@ -12,5 +12,5 @@ I'm currently going through and updating things, so not everything is particular
 - [[Steno Glossary|Steno Glossary]]
 - [[Uberdictionary|Uberdictionary]]
 - [[Steno Notation|Steno Notation]]
-- [[Steno Code Editor|Steno Code Editor]] - Steno [[Code Editors|Code editor]] ideas
+- [[Steno Code Editor Ideas|Steno Code Editor Ideas]] - Steno [[Code Editors|Code editor]] ideas
 - [[Programmatic Dictionaries Rule|Programmatic Dictionaries Rule]] - Explaining [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionaries]] using only 10 different words :p

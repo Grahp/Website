@@ -3,9 +3,10 @@ title: Code Editors
 permalink: code-editors
 ---
 
-This page exists so [[Home|I]] can link to it but there's nothing here yet >:(
+[[Home|I've]] been thinking about code editors for a while.
 
-- [[Chalsed|Chalsed]]
-- [[Steno Code Editor|Steno Code Editor]]
+I've been designing and editor under [[Chalsed|Chalsed]]
 
-(I use neovim btw)
+I also wrote some about [[Steno Code Editor Ideas|Steno Code Editor Ideas]] while I was using [[Steno|Steno]].
+
+I currently use [[Vim|Neovim]] and am not satisfied.
