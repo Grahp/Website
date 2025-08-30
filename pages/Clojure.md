@@ -5,9 +5,9 @@ redirect_from:
   - language-idioms
   - programming-language-idioms
 ---
-Cool [[Lisp|language]]. ([https://clojure.org](https://clojure.org))
+Clojure is a [[Lisp|programming language]], something cool to know about Clojure is that it is NOT Java®, they're very different languages :)
 
-Something cool to know about Clojure is that it is NOT Java®, they're very different languages :)
+([https://clojure.org](https://clojure.org))
 
 [[Home|I'm]] Writing a couple things in Clojure, but check out [[Bowmap|Bowmap]].
 
