@@ -5,7 +5,7 @@ redirect_from:
   - lua
 ---
 
-[[Lisp|Lisp]] for [[Lua|Lua]] :p
+[[Lisp|Lisp]] for Lua :p
 
 Website: [https://fennel-lang.org](https://fennel-lang.org)
 
