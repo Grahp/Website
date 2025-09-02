@@ -3,9 +3,9 @@ permalink: pinchord
 title: Pinchord
 ---
 
-Pinchord is a (now abandoned) Orthographic Full English [[Steno|Steno]] [[Steno Glossary#Theory|Theory]].
+Pinchord was a Full English [[Steno Glossary#Orthospelling]] [[Steno Glossary#Theory]] designed to remove much of the complexity of [[Steno|Steno]].
 
-Pinchord is a fully orthographic "[[Steno Glossary#Orthospelling|orthospelling]]" theory, designed for hobbyist use. Pinchord is the simplest and easiest to learn steno theory available.
+[[Home|I]] eventually gave up on learning steno before completing this.
 
 Find the dictionary and layouts on [https://github.com/Grahp/Pinchord](https://github.com/Grahp/Pinchord)
 

@@ -1,6 +1,8 @@
 ---
 permalink: steno
 title: Steno
+redirect_from:
+  - steno-context-aware-uses
 ---
 [[Home|I]] spent about 9 months working on [[Steno Glossary#Theory|theories]], and learned a lot from that I'd like to share at some point.
 
