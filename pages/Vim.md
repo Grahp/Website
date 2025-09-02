@@ -11,6 +11,4 @@ I'm configuring it in [[Fennel|Fennel]] - I have an absolutely abhorrent self-ho
 
 If I ever rewrite my config I'll put it here, but I literally refuse to share it now.
 
-I'm sure if [[Faddle|Faddle]] ever becomes usable, I'll rewrite my config in it.
-
 I love Vim, but I definitely have some grievances; I've been designing [[Chalsed|Chalsed]], which addresses these.

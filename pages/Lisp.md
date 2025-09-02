@@ -7,4 +7,4 @@ The BEST programming language!
 
 [[Home|I]] [[Code Editors|write]] in [[Clojure|Clojure]], and a little bit of [[Fennel|Fennel]].
 
-I'm also writing a Lisp dialect targeting Lua called [[Faddle|Faddle]]!
+I'm also writing a Lisp called [[Faddle|Faddle]]. Not sure if anything will come of it, but it's a fun time.
