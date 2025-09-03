@@ -1,5 +1,5 @@
 ---
-title: Theory In Practice
+title: Theory in Practice
 permalink: theory-in-practice
 ---
 
