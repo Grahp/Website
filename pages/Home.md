@@ -15,7 +15,7 @@ I'm also interested in [[Lisp|Lisps]], [[Code Editors]], [[Delusional|keyboards]
 
 I primarily [[Code Editors|write]] in [[Clojure|Clojure]] (with [[Vim|Vim]])! I have used other languages but don't like any of them. I use some other [[Lisp|Lisps]] like [[Fennel|Fennel]].
 
-You may find some of my [[Steno|Steno]] resources useful or interesting. I plan on better organizing my thoughts at some point in the future.
+You may find some of my [[Steno|Steno]] resources useful or interesting. I'm currently organizing through my old thoughts, and I suppose having some new ones on the side.
 
 You can [[Contact]] me via email at `grahp@grahp.dev`. Or like message me on Discord (I'm `@grahp` everywhere) and I'm probably more likely to see it because it makes a little noise.
 
