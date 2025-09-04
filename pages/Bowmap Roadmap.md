@@ -7,11 +7,11 @@ title: Bowmap Roadmap
 
 My goal is to have some kind of tangible progress every single day.
 
-## TODO
+## What needs done
 
 1. Come up with a good pun for "Bowmap Roadmap" (I know one exists)
 
-## What I did on each day, starting from September 4th, 2025, and going in reverse chronological order
+## What's been done
 
 September 4, 2025, 134 days until release:
 
