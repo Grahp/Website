@@ -12,7 +12,7 @@ I'm learning to [[Typing|type]] on an [[Delusional|18 key keyboard]] :o
 
 I'm also interested in [[Lisp|Lisps]], [[Code Editors]], [[Delusional|keyboards]], [[Steno|Steno]], [[Music]], [[Bowmap|game design]], and digital gardens I guess.
 
-I primarily [[Code Editors|write]] in [[Clojure|Clojure]] (with [[Vim|Vim]])! I have used [[Programming Languages]] but don't like any of them. I use some other [[Lisp|Lisps]] like [[Fennel|Fennel]].
+I primarily [[Code Editors|write]] in [[Clojure|Clojure]] (with [[Vim|Vim]])! I have used [[Programming Languages|other languages]] but don't like any of them. I use some other [[Lisp|Lisps]] like [[Fennel|Fennel]].
 
 You may find some of my [[Steno|Steno]] resources useful or interesting.
 

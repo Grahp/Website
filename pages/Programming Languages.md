@@ -1,3 +1,8 @@
+---
+permalink: programming-languages
+title: Programming Languages
+---
+
 [[Home|I]] like [[Lisp|Lisps]], particularly [[Clojure|Clojure]].
 
 I've been thinking about programming languages cursorily pretty much since I started using them (I mean, who hasn't?). This hasn't manifested in much, other than a blank website for a language called [[Faddle|Faddle]].
