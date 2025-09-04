@@ -5,7 +5,7 @@ redirect_from:
   - neovim
 ---
 
-[[Home|I]] use Neovim as my [[Code Editors|Code Editor]] to write [[Lisp|Lisp]], mostly [[Clojure|Clojure]].
+[[Home|I]] use Neovim as my [[Programming Languages|Code]] [[Code Editors|Editor]] to write [[Lisp|Lisp]], mostly [[Clojure|Clojure]].
 
 I'm configuring it in [[Fennel|Fennel]] - I have an absolutely abhorrent self-hosted config that compiles and then overrides itself via regex, I have no idea don't ask.
 

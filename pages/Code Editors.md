@@ -3,7 +3,7 @@ title: Code Editors
 permalink: code-editors
 ---
 
-[[Home|I've]] been thinking about code editors for a while.
+[[Home|I've]] been thinking about [[Programming Languages|code]] editors for a while.
 
 I've been designing and editor under [[Chalsed|Chalsed]]
 

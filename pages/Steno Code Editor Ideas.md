@@ -8,7 +8,7 @@ redirect_from:
   - steno-code-editor
 ---
 
-Ideas for a [[Steno|Steno]]-aware [[Code Editors|Code editor]].
+Ideas for a [[Steno|Steno]]-aware [[Programming Languages|Code]] [[Code Editors|editor]].
 
 [[Home|I'll]] organize these older ideas soon, but for now, check out these 2 pages:
 
