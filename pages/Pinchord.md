@@ -3,7 +3,7 @@ permalink: pinchord
 title: Pinchord
 ---
 
-Pinchord was a Full English [[Steno Glossary#Orthospelling]] [[Steno Glossary#Theory]] designed to remove much of the complexity of [[Steno|Steno]].
+Pinchord was a Full English [[Steno Glossary#Orthospelling|Orthospelling]] [[Steno Glossary#Theory]] designed to remove much of the complexity of [[Steno|Steno]].
 
 [[Home|I]] eventually gave up on learning steno before completing this.
 
