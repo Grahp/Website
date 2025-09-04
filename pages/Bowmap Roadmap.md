@@ -11,6 +11,6 @@ title: Bowmap Roadmap
 
 ## What I did on each day, starting from September 4th, 2025, and going in reverse chronological order
 
-September 4, 2025:
+September 4, 2025, 134 days until release:
 
 - Made the roadmap!
