@@ -11,7 +11,7 @@ I'm making [[Bowmap|Bowmap]], a [[Minecraft Server From Scratch|from-scratch]] M
 
 I'm learning to [[Typing|type]] on an [[Delusional|18 key keyboard]] :o
 
-I'm also interested in [[Lisp|Lisps]], [[Code Editors]], [[Delusional|keyboards]], [[Music]], pixel art, [[Bowmap|game design]], and digital gardens I guess.
+I'm also interested in [[Lisp|Lisps]], [[Code Editors]], [[Delusional|keyboards]], [[Steno|Steno]], [[Music]], [[Bowmap|game design]], and digital gardens I guess.
 
 I primarily [[Code Editors|write]] in [[Clojure|Clojure]] (with [[Vim|Vim]])! I have used other languages but don't like any of them. I use some other [[Lisp|Lisps]] like [[Fennel|Fennel]].
 
