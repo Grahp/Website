@@ -8,7 +8,7 @@ title: Steno Lisp Editing Model
 
 - Dunno how up to date this is, and [[Home|I]] can't be bothered to read through it.
 
-2 elements make up a [[Lisp|Lisp]] program: words and collections. This is talking about [[Clojure|Clojure]], but really applies to all Lisps.
+2 elements make up a [[Lisp|Lisp]] [[Programming Languages|program]]: words and collections. This is talking about [[Clojure|Clojure]], but really applies to all Lisps.
 
 Words are character-based. Symbols and keywords are almost exclusively just characters. Numbers are also just characters. Both of these have a few syntactic rules, like a `:` before a keyword and a `.` for a decimal point in a number, but these are obvious and can be handled by the programmer.
 

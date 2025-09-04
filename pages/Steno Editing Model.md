@@ -4,9 +4,13 @@ title: Steno Editing Model
 ---
 A [[Steno Code Editor Ideas|Steno code editor]] "keybinding" model.
 
+This is not specific to [[Lisp|Lisp]], there's also [[Steno Lisp Editing Model|Steno Lisp Editing Model]].
+
+[[Home|I]] should probably merge them anyway but I can't be bothered right now.
+
 ## Modal Editing
 
-Modal [[Code Editors|editing]] makes a lot of sense when you have a very limited number of unique strokes at your disposal, say only ~30 keys on a qwerty keyboard. Being in a mode adds context to every action you perform. This means you don't need to hold down a mod key, or add an additional prefix key to your actions, in order for them to be unique.
+[[Vim|Modal]] [[Code Editors|editing]] makes a lot of sense when you have a very limited number of unique strokes at your disposal, say only ~30 keys on a qwerty keyboard. Being in a mode adds context to every action you perform. This means you don't need to hold down a mod key, or add an additional prefix key to your actions, in order for them to be unique.
 
 However, a [[Steno]] keyboard has over 24 million available strokes at any given time. This is more than enough strokes to perform any editing action you would ever want to make. Requiring a stroke or dedicated key to switch modes is a problem.
 
