@@ -3,7 +3,7 @@ title: Faddle
 permalink: faddle
 ---
 
-Faddle is a [[Lisp|Lisp]] that [[Home|I'm]] working on. Not sure if anything will come of it.
+Faddle is a [[Lisp|Lisp]] (or Lisp-like [[Programming Languages|language]]) that [[Home|I'm]] working on. Not sure if anything will come of it.
 
 It has a website: [https://faddle.org](https://faddle.org)
 
