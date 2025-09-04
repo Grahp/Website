@@ -5,6 +5,8 @@ title: Bowmap Roadmap
 
 [[Bowmap|Bowmap]]'s roadmap. [[Home|I'm]] making this to hold myself accountable, and so myself and anyone else can see my progress :p
 
+My goal is to have some kind of tangible progress every single day.
+
 ## TODO
 
 1. Come up with a good pun for "Bowmap Roadmap" (I know one exists)
