@@ -6,4 +6,4 @@ Bowmap is [[Home|my]] MMORPG [[Minecraft Server|Minecraft Server]] [[Minecraft S
 
 Releasing on January 17, 2026!
 
-See more on the website: [https://bowmap.net](https://bowmap.net).
+If you're reading this at some point after this was written, there may be more on the website ([https://bowmap.net](https://bowmap.net))
