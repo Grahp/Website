@@ -10,4 +10,4 @@ If you're reading this at some point after this was written, there may be more o
 
 Bowmap is actively being developed! See the [[Bowmap Roadmap|Bowmap Roadmap]].
 
-Bowmap will not be open source, at least for the time being. I would very much like to make a library for making custom [[Minecraft Server|Minecraft servers]] in [[Clojure|Clojure]]. I have been making Minecraft servers for pretty much my entire life, and the tools I need to not exist at the moment. That's why Bowmap has been taking so long to develop, and it's why I want to open source the tools I create. This will come later down the line, though.
+Bowmap will not be [[Open Source|Open Source]], at least for the time being. I would very much like to make a library for making custom [[Minecraft Server|Minecraft servers]] in [[Clojure|Clojure]]. I have been making Minecraft servers for pretty much my entire life, and the tools I need to not exist at the moment. That's why Bowmap has been taking so long to develop, and it's why I want to open source the tools I create. This will come later down the line, though.

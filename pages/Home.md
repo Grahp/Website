@@ -5,7 +5,7 @@ redirect_from:
   - projects
 ---
 
-Hello this is my website! You can find reading and tarballs here (I don't have a git server quite yet).
+Hello this is my website! You can find reading and tarballs here (I don't have a [[Open Source|git server]] quite yet).
 
 I'm making [[Bowmap|Bowmap]], a [[Minecraft Server From Scratch|from-scratch]] MMORPG [[Minecraft Server|Minecraft server]] [[Code Editors|written]] in [[Clojure|Clojure]].
 
