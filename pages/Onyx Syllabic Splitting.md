@@ -7,10 +7,10 @@ redirect_from:
 title: Onyx Syllabic Splitting
 ---
 
-(Outdated, see [[Onyx Spec|Onyx Spec]])
+Disclaimer: This page is part of the [[Onyx Spec|Onyx Spec]], meaning it may be out of date and/or incomplete.
 
-How [[Onyx|Onyx]] splits words/outlines. Part of the [[Onyx Spec|Onyx spec]].
+How [[Onyx|Onyx]] splits words/[[Steno Glossary#Outline|outlines]].
 
 "Onyx Splitting" is a [[Regular Outline Grammars|Regular Outline Grammar]] (you should read that page).
 
-In its history, Onyx has used 2 types of out splitting, those being "subsequent vowel dropping" and an "outline suppression key".
+In its history, Onyx has used 2 types of out splitting, those being "subsequent [[Steno Glossary#Vowel|vowel]] dropping" and an "outline suppression [[Steno Glossary#Key|key]]".
