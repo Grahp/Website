@@ -7,7 +7,7 @@ redirect_from:
 A collection of things [[Home|I]] learned about Steno from working on [[Steno Glossary#Theory|theories]] for about 9 months.
 
 Good Stuff:
-- [[Pinchord|Pinchord]] - [[Steno Glossary#Orthospelling|Orthospelling]] [[Steno Glossary#Theory|Steno Theory]]
+- [[Pinchord|Pinchord]] - [[Steno Glossary#Orthospelling|Orthospelling]] [[Steno Glossary#Theory|Theory]]
 - [[Generated Programmatic Dictionaries|Generated Programmatic Dictionaries]]
 - [[Regular Outline Grammars|Regular Outline Grammars]]
 
