@@ -156,6 +156,9 @@ Adj.
 
 - Referring to a [**key**](#key), [**chord**](#chord), [**stroke**](#stroke), or [**outline**](#outline) being in the starter [**bank**](#bank).
 
+**Notes**:
+- Also called an "initial".
+
 ### Ender
 Noun
 
@@ -164,6 +167,9 @@ Noun
 Adj.
 
 - Referring to a [**key**](#key), [**chord**](#chord), [**stroke**](#stroke), or [**outline**](#outline) being in the ender [**bank**](#bank).
+
+**Notes**:
+- Also called a "final" (sorry jen it would be too much work to update all the links that point to this).
 
 ### Vowel
 Noun
