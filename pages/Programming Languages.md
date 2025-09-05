@@ -12,3 +12,5 @@ I'd like to learn Haskell, but haven't :(
 I've probably gotten too comfortable in my current ways. Haskell looks pretty cool, though it is still in somewhat of a similar world to [[Clojure|Clojure]].
 
 And maybe see [[Coding With Steno|Coding with Steno]]? Or maybe don't.
+
+[[Home|I]] [[Code Editors|write]] in [[Vim|Vim]], btw.
