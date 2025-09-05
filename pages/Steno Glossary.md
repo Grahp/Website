@@ -121,23 +121,12 @@ Noun
 ## Conflict
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
-<!-- Maybe specify that it's contained in existing entries? -->
-
-Adj.
-
-- An [**outline**](#outline) that is a conflict.
-
 Noun
 
-- An [**outline**](#outline) contained in multiple [**entries**](#entry).
-<!-- Multiple existing entries? -->
-<!-- Multiple real entries? -->
+- An outline that exists in multiple entries across your dictionaries, meaning the outline could mean multiple different things. Conflicts must be "resolved" based on context, or sometimes manually.
 
 **Notes**
-- This means the translation you might get from an looking up an outline could be wrong?
-  - Or can't be known maybe.
-- This comes from [**theory rules**](#theory-rule) overlapping.
-- A [**dictionary**](#dictionary) may override an [**entry**](#entry) from another [**dictionary**](#dictionary), which would cause the [**entry**](#entry) in the [**dictionary**](#dictionary) with higher priority to "shadow" the other [**entry**](#entry).
+- If a dictionary contains an entry with an outline that a lower priority dictionary also contains, the higher priority dictionary will "shadow" that entry.
 
 ## Word Boundary Conflict
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
@@ -360,8 +349,7 @@ another steno layout, but this one has 2 more keys :)
 ## Steno Writer
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
-- A professional steno machine.
-(the machine isn't professional the user is ._.)
+- A writer isn't strictly professional, I think I have these backwards.
 
 ## Steno Keyboard / Hobbyist machine
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
