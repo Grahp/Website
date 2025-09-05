@@ -12,5 +12,5 @@ How [[Onyx|Onyx]] splits words/outlines. Part of the [[Onyx Spec|Onyx spec]].
 - Word boundary conflicts
 - Inconsistent splitting
 - Existing solutions
-- [[Regular Outline Grammar|Regular outline grammars]]
+- [[Regular Outline Grammars|Regular outline grammars]]
 - Onyx `+` key

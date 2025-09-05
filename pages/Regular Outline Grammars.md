@@ -1,16 +1,16 @@
 ---
-title: Regular Outline Grammar
-permalink: regular-outline-grammar
+title: Regular Outline Grammars
+permalink: regular-outline-grammars
 redirect_from:
   - regular-outline-syntax
-  - regular-outline-grammars
+  - regular-outline-grammar
 ---
 
-In [[Steno|Steno]], a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that causes zero [[Steno Glossary#Word Boundary Conflict|word boundary conflicts]].
+In [[Steno|Steno]], a [[Steno Glossary#Theory|Theory]] having a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that means you can always tell where outlines start and end (thus making it "regular").
 
 For example, you could dedicated use a "join" [[Steno Glossary#Key|key]] that joins the current [[Steno Glossary#Stroke|stroke]] with the previous, kind of like a space suppression key.
 
-If you were to do this, it would be trivial to tell when outlines start and end. Any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. This would entirely remove 2 classes of [[Steno Glossary#Conflict|conflicts]], those being word boundary conflicts, as well as word-affix conflicts.
+If you were to do this, it would be trivial to tell when outlines start and end. Any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. This would entirely remove 2 classes of [[Steno Glossary#Conflict|conflicts]], those being [[Steno Glossary#Word Boundary Conflict|word boundary conflicts]], as well as word-affix conflicts.
 
 "But we have tools to get rid of word boundary conflicts!"
 
