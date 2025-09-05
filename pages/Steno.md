@@ -4,15 +4,21 @@ title: Steno
 redirect_from:
   - steno-context-aware-uses
 ---
-[[Home|I]] spent about 9 months working on [[Steno Glossary#Theory|theories]], and learned a lot from that I'd like to share at some point.
+A collection of things [[Home|I]] learned about Steno from working on [[Steno Glossary#Theory|theories]] for about 9 months.
 
-I'm currently going through and updating things, so not everything is particularly clean or up to date.
-
+Good Stuff:
 - [[Pinchord|Pinchord]] - [[Steno Glossary#Orthospelling|Orthospelling]] [[Steno Glossary#Theory|Steno Theory]]
 - [[Generated Programmatic Dictionaries|Generated Programmatic Dictionaries]]
 
+Resources and Ideas:
 - [[Steno Glossary|Steno Glossary]]
-- [[Uberdictionary|Uberdictionary]]
-- [[Steno Notation|Steno Notation]]
-- [[Steno Code Editor Ideas|Steno Code Editor Ideas]] - Steno [[Code Editors|Code editor]] ideas
+- [[Uberdictionary|Uberdictionary]] - What an uberdictionary is
+- [[Steno Notation|Steno Notation]] - An explanation of how [[Steno Glossary#Raw Steno|raw steno]] is written
+- [[Steno Code Editor Ideas|Steno Code Editor Ideas]]
+
+Idek:
 - [[Programmatic Dictionaries Rule|Programmatic Dictionaries Rule]] - Explaining [[Steno Glossary#Programmatic Dictionary|Programmatic Dictionaries]] using only 10 different words :p
+
+Old Stuff:
+- [[Quartz|Quartz]]
+- [[Onyx|Onyx]] and the [[Onyx Spec|Onyx Spec]]

@@ -3,6 +3,7 @@ title: Regular Outline Grammar
 permalink: regular-outline-grammar
 redirect_from:
   - regular-outline-syntax
+  - regular-outline-grammars
 ---
 
 In [[Steno|Steno]], a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that causes zero [[Steno Glossary#Word Boundary Conflict|word boundary conflicts]].
