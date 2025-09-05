@@ -9,8 +9,8 @@ Guide for setting up [[Pinchord|Pinchord]] on Plover and Javelin.
 
 ## The Dictionaries
 
-- pinchord.zip
-- pinchord.tar.gz
+- [pinchord-dictionaries.zip](../assets/pinchord-dictionaries.zip)
+- [pinchord-dictionaries.tar.gz](../assets/pinchord-dictionaries.tar.gz)
 
 ## The Layout
 
