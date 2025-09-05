@@ -17,6 +17,6 @@ defaults:
       layout: default
 
 kramdown:
-  smart_quotes: apos,quot
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 incremental: false
