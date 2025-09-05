@@ -132,7 +132,8 @@ Noun
 ![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
 
 Noun
-- An [**outline**](#outline) that can be split into multiple [**outlines**](#outline) contained in existing [**entries**](#entry).
+
+- A type of conflict that happens when an outline can be "split" into multiple other outlines contained in your dictionaries.
 
 **Notes**
 - Your steno engine must pick one outline?
