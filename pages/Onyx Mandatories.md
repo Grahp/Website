@@ -5,9 +5,7 @@ redirect_from:
   - onyx-spec-mandatories
 ---
 
-(Outdated, see [[Onyx Spec|Onyx Spec]])
-
-Part of the [[Onyx Spec|Onyx spec]].
+Disclaimer: This page is part of the [[Onyx Spec|Onyx Spec]], meaning it may be out of date and/or incomplete.
 
 All [[Onyx|Onyx]] mandatories:
 

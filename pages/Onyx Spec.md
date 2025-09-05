@@ -9,11 +9,9 @@ title: Onyx Spec
 
 [[Onyx|Onyx]]'s old specification.
 
-Outdated, but [[Home|I'll]] keep it up here anyway
+Disclaimer: This page, and the rest of the Onyx Spec pages, may be out of date and/or incomplete.
 
-[[Onyx|Onyx]] is designed to support multiple [[Steno Glossary#Steno Layout|layouts]] and user accommodations. This is reflected throughout the spec.
-
-Use this as a reference and learning resource, though it is not.
+[[Home|I'll]] still keep these pages here. I'd like to update them at some point.
 
 ## Outline
 
