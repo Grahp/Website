@@ -7,6 +7,10 @@ Pinchord is a Full English [[Steno Glossary#Orthospelling|Orthospelling]] [[Sten
 
 [[Home|I]] eventually gave up on learning steno before completing this, but the dictionary and layouts are still good. You can find them on [https://github.com/Grahp/Pinchord](https://github.com/Grahp/Pinchord).
 
+This theory evolved from [[Onyx|Onyx]], so you may see some stuff refer to "Onyx", but Onyx is a different thing.
+
+- TODO put the resources here so I don't have to link to my github :(
+
 ## Tradeoffs
 
 ### Speling
