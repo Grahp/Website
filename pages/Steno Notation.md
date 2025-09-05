@@ -5,7 +5,7 @@ redirect_from:
   - stenotation
 ---
 
-[[Home|my]] [[Steno|Steno]] notation that I just made up.
+[[Home|My]] [[Steno|Steno]] notation that I just made up.
 
 In progress, of course.
 
