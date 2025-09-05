@@ -9,7 +9,7 @@ Pinchord is a Full English [[Steno Glossary#Orthospelling|Orthospelling]] [[Sten
 
 This theory evolved from [[Onyx|Onyx]], so you may see some stuff refer to "Onyx", but Onyx is a different thing.
 
-- TODO put the resources here so I don't have to link to my github :(
+To start using Pinchord, see [[Setting up Pinchord|Setting up Pinchord]].
 
 ## Tradeoffs
 
