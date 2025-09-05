@@ -16,4 +16,7 @@ defaults:
     values:
       layout: default
 
+kramdown:
+  smart_quotes: apos,quot
+
 incremental: false
