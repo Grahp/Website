@@ -3,7 +3,7 @@ permalink: bowmap-roadmap
 title: Bowmap Roadmap
 ---
 
-[[Bowmap|Bowmap]]'s roadmap. [[Home|I'm]] making this to hold myself accountable, and so anyone can see my progress :p
+[[Bowmap|Bowmap]]'s Roadmap. This is all that needs done, as well as what [[Home|I]] might be working on.
 
 To see what progress I've made every day, see [[Bowmap Progress|Bowmap Progress]].
 
