@@ -2,6 +2,8 @@
 permalink: onyx-syllabic-splitting
 redirect_from:
   - onyx-splitting
+  - onyx-spec-splitting
+  - onyx-spec-syllabic-splitting
 title: Onyx Syllabic Splitting
 ---
 
