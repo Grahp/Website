@@ -9,8 +9,6 @@ title: Onyx Syllabic Splitting
 
 How [[Onyx|Onyx]] splits words/outlines. Part of the [[Onyx Spec|Onyx spec]].
 
-- Word boundary conflicts
-- Inconsistent splitting
-- Existing solutions
-- [[Regular Outline Grammars|Regular outline grammars]]
-- Onyx `+` key
+"Onyx Splitting" is a [[Regular Outline Grammars|Regular Outline Grammar]] (you should read that page).
+
+In its history, Onyx has used 2 types of out splitting, those being "subsequent vowel dropping" and an "outline suppression key".
