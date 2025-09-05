@@ -385,6 +385,13 @@ Free and Open Source [**steno engine**](#steno-engine)
 - Download Plover - [https://github.com/openstenoproject/plover/releases/latest](https://github.com/openstenoproject/plover/releases/latest).
 - Plover Wiki Beginner's Guide - [https://plover.wiki/index.php/Beginner%27s_Guide](https://plover.wiki/index.php/Beginner%27s_Guide).
 
+## Dropping
+![TODO](https://img.shields.io/badge/TODO-orange?style=flat)
+
+(Find the right place for this)
+
+- The removing of keys from a stroke?
+
 # Other Sources
 
 - Plover Wiki Glossary - [https://plover.wiki/index.php/Glossary](https://plover.wiki/index.php/Glossary)
