@@ -12,7 +12,8 @@ My goal is to have some kind of tangible progress every single day.
 
 September 5, 2025, 133 days until release:
 
-- Nothing yet
+- Made a packet splitting transducer...
+- Figured out what I think is a good model for decoding packets as they come in from the client!
 
 September 4, 2025, 134 days until release:
 
