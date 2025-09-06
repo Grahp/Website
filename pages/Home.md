@@ -12,9 +12,7 @@ You may find my [[Steno|Steno]] resources useful or interesting :)
 
 I primarily [[Code Editors|write]] in [[Clojure|Clojure]] (with [[Vim|Vim]])! I have used [[Programming Languages|other languages]] but don't like any of them. I use some other [[Lisp|Lisps]] like [[Fennel|Fennel]].
 
-I'm learning to [[Typing|type]] on an [[Delusional|18 key keyboard]] :o
-
-I'm also interested in [[Lisp|Lisps]], [[Code Editors]], [[Delusional|keyboards]], [[Steno|Steno]], [[Music]], [[Bowmap|game design]], and digital gardens I guess.
+I'm also interested in [[Code Editors]], [[Delusional|keyboards]], [[Music]], [[Bowmap|game design]], and digital gardens I guess.
 
 
 You can [[Contact]] me via email at `grahp@grahp.dev`. Or like message me on Discord (I'm `@grahp` everywhere) and I'm probably more likely to see it because it makes a little noise.
