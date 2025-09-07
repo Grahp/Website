@@ -40,8 +40,7 @@ ul {padding: 0;
     margin-left: 25px;
     list-style-type: disc}
 
-code {background-color: #111;
-      padding: 1px 2px;
+code {padding: 1px 2px;
       border-radius: 4px}
 
 pre { 
