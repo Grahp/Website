@@ -21,3 +21,24 @@ This is silly, and there is a trivial solution: regular outlines grammars.
 A "join" key is not the only way to accomplish this. This idea came from [[Onyx|Onyx]], where [[Home|I]] called it "[[Onyx Syllabic Splitting|Onyx Splitting]]". Rather than subsequent strokes in outlines using a "join" key, they dropped [[Steno Glossary#Vowel|vowels]], so you could only use [[Steno Glossary#Skeleton|skeletons]] in subsequent strokes. For example, the word "monotonous" would be [[Steno Glossary#Stroke|stroked]] as `PHO/TPH/T/TPH-S` (See [[Steno Notation|Steno Notation]]), or "mo -n t- n-s". With Onyx Splitting, you can also squash a ton of these subsequent strokes together and still have canon outlines, so you could do `PHO/TPH-T/TPH-S` and save a stroke.
 
 This worked shockingly well, and I still think it's a good idea. I was only able to find 2 conflicts after using it for months! The only place this can cause conflicts is with words that differ exclusively in their subsequent vowel sounds, like "forget" and "forgot" (the 2 conflicts I found).
+
+---
+
+There is one more way you could write words in a way that it's clear when they start and end, which is to write with just one stroke per word.
+
+That may sound dumb, and it may be, but I'm not so sure it is.
+
+In fact, a lot of folks do this - not so much in this space, but in some groups, this is just how it's done, and it's not like they yearn for more.
+
+Boards where you type as the base, and chord on top of that - such as the board you may have heard of, linked here ([https://www.charachorder.com/](https://www.charachorder.com/)) - have no real need for more than one stroke in a row, they can can write all words with just one stroke.
+
+That's quite cool, so why don't we do that? Well, it turns out, when the norm is to chord, not to type, it can be hard to fit ALL words in just one stroke. Boards where you type get to use more than one key press to type a word, which we can't do.
+
+But all of our keys are bunched up into a stroke, and we can't use more. We don't get to use a bunch more keys to write long words, or words we might not have chords for. It all has to fit in the stroke
+
+But if we _could_ write all words with just one stroke, then we should, right? Why would you want to take _more_ strokes to write the same words that you could just write with one stroke? We only use more than one stroke per word since the rules we use to write were made a long time ago, when we had to do a lot of work by hand that's now done for us.
+
+I think there could have been a world where we write with just one stroke words. You might need more briefs, but you can at least get most of the way there.
+
+I can only talk like this for so long, so it won't be me who makes this.
+
