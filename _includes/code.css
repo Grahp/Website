@@ -46,6 +46,7 @@ code {background-color: #111;
 
 pre { 
   padding: 1rem;
+  font-size: 1.2rem;
   border-radius: 6px;
   overflow: auto;
   white-space: pre;
