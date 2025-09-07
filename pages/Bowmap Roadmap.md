@@ -3,7 +3,7 @@ permalink: bowmap-roadmap
 title: Bowmap Roadmap
 ---
 
-[[Bowmap|Bowmap]]'s Roadmap. This is all that needs done, as well as what [[Home|I]] might be working on.
+[[Bowmap|Bowmap]]'s Roadmap. What needs done before Chapter 1 is finished.
 
 To see what progress I've made every day, see [[Bowmap Progress|Bowmap Progress]].
 
