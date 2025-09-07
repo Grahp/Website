@@ -5,7 +5,7 @@ permalink: code-editors
 
 [[Home|I've]] been thinking about [[Programming Languages|code]] editors for a while.
 
-I've been designing an editor under the name  [[Chalsed|Chalsed]].
+I've been designing an editor called [[Chalsed|Chalsed]]. There are some interesting ideas there.
 
 I also wrote some about [[Steno Code Editor Ideas|Steno Code Editor Ideas]] while I was using [[Steno|Steno]].
 
