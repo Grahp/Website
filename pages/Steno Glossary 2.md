@@ -5,7 +5,7 @@ permalink: steno-glossary-2
 
 WIP rewrite of [[Home|my]] [[Steno Glossary|Steno Glossary]]. This should be easier to understand, and less unnecessarily technical.
 
-Links to other words are _italicized_. Links to other pages are not.
+Links to other terms are _italicized_. Links to other pages are not.
 
 Outline:
 - [_Key_](#key)
@@ -49,7 +49,7 @@ Pressing down all the [_keys_](#key) that make up a chord on a _steno machine_.
 
 A set, or group, or [_keys_](#key) pressed together simultaneously.
 
-- If that sounds like what a [_chord_](#chord) is, that's because [_chords_](#chord) and strokes are very similar. They are both sets of [_keys_](#key). When you press down a set of [_keys_] simultaneously, that is a stroke. A [_chord_](#chord) is something you can use to build strokes.
+- If that sounds like what a [_chord_](#chord) is, that's because [_chords_](#chord) and strokes are very similar. They are both sets of [_keys_](#key). When you press down a set of [_keys_](#key) simultaneously, that is a stroke. A [_chord_](#chord) is something you can use to build strokes.
 - A helpful way to think of it is that when you combine two [_chords_](#chord), you get a stroke, but when you combine two strokes, you get an [_outline_](#outline)
 - For a full explanation of the difference between [_chords_](#chord) and strokes, see [[Chords vs. Strokes]].
 
