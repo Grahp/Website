@@ -44,7 +44,6 @@ layout: code
        (let [[pid bs] (<varint encoded-pk)]
          ;; ofc I'll move this out to something other than a switch statement, but you get the idea :p
          (case [@client-state pid]
-           ;; Also need to transition the state here
            [:handshaking 0x00] (let [x (<< [:protocol-version <varint
                                             :server-address <string
                                             :server-port <ushort
@@ -75,7 +74,7 @@ layout: code
     (thread (read-bytes! socket packet-chan))
     ;; Another transducer could read these and decide what packets to send back to the client :D
     (thread (loop []
-              (tap> (<!! packet-chan))
+              (tap> (<!! packet-chan)) ;; Just printing the packets as they come in rn
               (recur)))))
 
 (defn -main [& _]
