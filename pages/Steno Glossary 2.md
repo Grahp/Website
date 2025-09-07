@@ -3,7 +3,7 @@ title: Steno Glossary 2
 permalink: steno-glossary-2
 ---
 
-WIP Rewrite of [[Home|my]] [[Steno Glossary|Steno Glossary]]. This should be easier to understand, and less unnecessarily technical.
+WIP rewrite of [[Home|my]] [[Steno Glossary|Steno Glossary]]. This should be easier to understand, and less unnecessarily technical.
 
 Links to other words are _italicized_. Links to other pages are not.
 
