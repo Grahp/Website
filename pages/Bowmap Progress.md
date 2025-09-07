@@ -13,7 +13,7 @@ My goal is to have some kind of tangible progress every single day.
 September 6, 2025, 132 days until release:
 
 - Made the initial packet translation transducer
-- Worked on codecs
+- Worked on codecs (strings, arrays, all the varnums). I had these working previously through a complex codec abstraction that was really unnecessary, but it's been much easier this time
 
 September 5, 2025, 133 days until release:
 
