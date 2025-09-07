@@ -9,7 +9,7 @@ title: Onyx Spec
 
 [[Onyx|Onyx]]'s old specification.
 
-Disclaimer: This page, and the rest of the Onyx Spec pages, may be out of date and/or incomplete.
+Disclaimer: This page, and the rest of the Onyx Spec, may be out of date and/or incomplete.
 
 [[Home|I'll]] still keep these pages here. I'd like to update them at some point.
 
@@ -22,3 +22,4 @@ Disclaimer: This page, and the rest of the Onyx Spec pages, may be out of date a
   - Suffixes
 - [[Onyx Syllabic Splitting|Syllabic Splitting]]
 - [[Onyx Mandatories|Mandatories]]
+- Conflict resolution via orthography, `*`, etc.
