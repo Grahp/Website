@@ -24,6 +24,26 @@ Outline:
 - [_Conflict_](#conflict)
   - [_Word Boundary Conflict_](#word-boundary-conflict)
 
+To do:
+- Homophonic conflicts
+- Steno Layout
+- Steno Engine
+- Steno Writer, Machine, and Keyboard
+- Programmatic Dictionaries
+- WSI
+- Plover
+- Brief
+- Writeouts
+- Short and Long Theories
+- Philly Shift
+- Misstroke
+- Mandatories
+- Affixes, Prefixes, and Suffixes
+- Commands
+- Shadowing
+- Untrans
+- Steno Order
+
 ## Key
 **Noun**
 
