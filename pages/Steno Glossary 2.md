@@ -7,6 +7,8 @@ WIP rewrite of [[Home|my]] [[Steno Glossary|Steno Glossary]]. This should be eas
 
 Links to other terms are _italicized_. Links to other pages are not.
 
+The content on this page is dedicated to the public domain under [[CC0|CC0 1.0 Universal]]. Feel free to use it however you'd like :)
+
 Outline:
 - [_Key_](#key)
 - [_Chord_](#chord)
