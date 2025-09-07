@@ -12,6 +12,8 @@ I've been programming since I was like 12 or something. The earliest project I c
 
 I've been thinking about language design cursorily pretty much since I started programming (I mean, who hasn't?). This hasn't manifested in much, other than a blank website for a language called [[Faddle|Faddle]].
 
+I worked on some languages that compile to Minecraft datapacks, Lua, the JVM, and probably more that I've forgotten about :p
+
 I'd like to learn Haskell, but haven't :(
 
 I've probably gotten too comfortable in my current ways. Haskell looks pretty cool, though it is still in somewhat of a similar world to [[Clojure|Clojure]]. I'm sure there are most interesting languages that I should learn. I've tried a lot of languages out very briefly, but haven't given them a fair shot.
