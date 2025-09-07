@@ -22,6 +22,7 @@ Outline:
 - [_Theory Rule_](#theory-rule)
 - [_Theory_](#theory)
 - [_Conflict_](#conflict)
+  - [_Word Boundary Conflict_](#word-boundary-conflict)
 
 ## Key
 **Noun**
@@ -119,3 +120,8 @@ A set of [_theory rules_](#theory-rule) that defines how [_outlines_](#outline) 
 An [_outline_](#outline) that has multiple valid [_translations_](#translation) according to your [_theories_](#theory).
 
 - There are many different kinds of conflicts that happen for different reasons.
+
+## Word Boundary Conflict
+**Noun**
+
+A type of [_conflict_](#conflict) where it is unclear where [_outlines_](#outline) should start and stop given a sequence of [_strokes_](#stroke).
