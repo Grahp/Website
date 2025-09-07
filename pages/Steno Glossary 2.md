@@ -11,7 +11,7 @@ Outline:
 - [_Key_](#key)
 - [_Chord_](#chord)
 - [_Stroke_](#stroke)
-- [_Outline](#outline)
+- [_Outline_](#outline)
 
 ## Key
 **Noun**
