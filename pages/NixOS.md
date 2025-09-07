@@ -7,6 +7,8 @@ title: NixOS
 
 Honestly I just discovered that this exists. There are no other pages linking to this one, so I'm not really sure how you may have found yourself here.
 
+Maybe I should make a page about my setup.
+
 Below is the full contents of this page before adding this preface:
 
 - Declarative configuration (and reproducability and stability).
