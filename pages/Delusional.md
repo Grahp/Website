@@ -9,4 +9,6 @@ After trying to use [[Steno|Steno]] for like 9 months and eventually giving up, 
 
 ![Delusional Layout Image](../assets/images/delusional-layout-image.png){:width="800rem"}
 
+It uses a [[Chorded Home Row|Chorded home row]].
+
 Some day I'll probably make a real 18 key keyboard so it can be a bit smaller than the Starb.
