@@ -19,7 +19,7 @@ Outline:
 An individual key on a _steno machine_ or _layout_. Analogous to a key on a keyboard.
 
 - In _raw steno notation_, keys are written as their "face letter", plus a dash `-` denoting which _bank_ they are in.
-- For example, in the _WSI layout_, there are two keys with the "face letter" `S`, those being the _initial_ `S-` key, and the _final_ `-S` key. Notice the dash at the start and end of the key.
+- For example, in the _WSI layout_, there are two keys labeled '`S`': the _initial_ `S-` key, and the _final_ `-S` key. Notice the dash at the start and end of the key.
 
 ## Chord
 **Noun**
