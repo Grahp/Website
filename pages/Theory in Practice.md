@@ -45,3 +45,9 @@ Some other ideas:
 [[Home|I've]] designed a few theories over the past year or so, and I'd like to share what I've learned over all that time.
 
 These are just some potentially organized ramblings.
+
+
+For now, see:
+- [[Generated Programmatic Dictionaries|Generated Programmatic Dictionaries]]
+- [[Regular Outline Grammars|Regular Outline Grammars]]
+- [[Pinchord|Pinchord]]
