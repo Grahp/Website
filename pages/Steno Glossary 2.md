@@ -31,6 +31,7 @@ To do:
 - Steno Writer, Machine, and Keyboard
 - Programmatic Dictionaries
 - WSI
+- Extended Stenotype
 - Plover
 - Brief
 - Writeouts
@@ -43,6 +44,7 @@ To do:
 - Shadowing
 - Untrans
 - Steno Order
+- Phonetic, Ortho, Orthospelling
 
 ## Key
 **Noun**
