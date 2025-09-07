@@ -44,5 +44,6 @@ code {padding: 1px 2px;
 
 pre { 
   overflow: auto;
+    font-size: clamp(0.75rem, 2vw, 1.5rem);
   white-space: pre;
 }
