@@ -26,7 +26,7 @@ Outline:
 
 An individual key on a _steno machine_ or _layout_. Analogous to a key on a keyboard.
 
-- Multiple keys may share the same "label", with a dash (-) denoting what _bank_ the key is in.. For example, in the _WSI layout_, there are two keys labeled '`S`': the _initial_ `S-` key, and the _final_ `-S` key. Notice the dash at the start and end of the key.
+- Multiple keys may share the same "label", with a dash (-) denoting what _bank_ the key is in. For example, in the _WSI layout_, there are two keys labeled '`S`': the _initial_ `S-` key, and the _final_ `-S` key. Notice the dash at the start and end of the key.
 
 ## Chord
 **Noun**
