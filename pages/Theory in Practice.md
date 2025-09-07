@@ -40,3 +40,8 @@ Some other ideas:
 - Alternative theories
 - split "tall" keys
 - Key positions
+
+
+[[Home|I've]] designed a few theories over the past year or so, and I'd like to share what I've learned over all that time.
+
+These are just some potentially organized ramblings.
