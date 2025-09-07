@@ -12,6 +12,14 @@ Outline:
 - [_Chord_](#chord)
 - [_Stroke_](#stroke)
 - [_Outline_](#outline)
+- [_Translation_](#translation)
+- [_Entry_](#entry)
+- [_Dictionary_](#dictionary)
+- [_Lookup_](#lookup)
+- [_Reverse Lookup_](#reverse-lookup)
+- [_Theory Rule_](#theory-rule)
+- [_Theory_](#theory)
+- [_Conflict_](#conflict)
 
 ## Key
 **Noun**
@@ -28,7 +36,7 @@ A set, or group, of [_keys_](#key). Chords may denote a sound, letter, affix, or
 
 - Chords can be combined to form [_strokes_](#stroke).
 - The difference between a chord and a [_stroke_](#stroke) can often be subtle. See [[Chords vs. Strokes]].
-- An example chord is `TPH-`, which _translates_ to the _initial_ "n" sound (/n/)
+- An example chord is `TPH-`, which _translates_ to the _initial_ "n" sound (/n/).
 
 **Verb**
 
@@ -55,3 +63,57 @@ Pressing down all the [_keys_](#key) that make up a stroke on a _steno machine_.
 **Noun**
 
 One or more [_strokes_](#stroke) [_chorded_](#chord), or pressed, in sequence.
+
+## Translation
+**Noun**
+
+A word, phrase, part of a word or phase, sound, affix, command, punctuation, or any other output.
+
+**Verb**
+
+To "translate". The translation that an [_outline_](#outline) maps to is referred to as its "translation".
+
+- For example, the [_outline_](#outline) `KAT` translates to "cat".
+
+## Entry
+**Noun**
+
+An entry, or [_dictionary_](#dictionary) entry, is a mapping between an [_outline_](#outline) and a [_translation_](#translation).
+
+- For example, the [_outline_](#outline) `HOT/TKOG` might map to the [_translation_](#translation) "hotdog".
+
+## Dictionary
+**Noun**
+
+A set of [_outlines_](#outline) with mappings to [_translations_](#translation). Dictionaries are made up of dictionary [_entries_](#entry).
+
+## Lookup
+**Noun**
+
+The process of "looking up" a [_translation_](#translation) in a [_dictionary_](#dictionary).
+
+## Reverse Lookup
+**Noun**
+
+The process of "lookup up" the [_outlines_](#outlines) that map to a given [_translation_](#translation) in a [_dictionary_](#dictionary).
+
+- Called "reverse lookup" as it is the opposite of regular [_lookup_](#lookup).
+
+## Theory Rule
+**Noun**
+
+A "rule" defining some part of how [_outlines_](#outline) should be mapped to [_translations_](#translation).
+
+## Theory
+**Noun**
+
+A set of [_theory rules_](#theory-rule) that defines how [_outlines_](#outline) should map to [_translations_](#translation).
+
+- Theories usually come with [_dictionaries_](#ditionaries), which are usually the theory author's best attempt to follow their [_theory rules_](#theory-rule).
+
+## Conflict
+**Noun**
+
+An [_outline_](#outline) that has multiple valid [_translations_](#translation) according to your [_theories_](#theory).
+
+- There are many different kinds of conflicts that happen for different reasons.
