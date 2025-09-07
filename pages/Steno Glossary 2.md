@@ -26,8 +26,7 @@ Outline:
 
 An individual key on a _steno machine_ or _layout_. Analogous to a key on a keyboard.
 
-- In _raw steno notation_, keys are written as their "face letter", plus a dash `-` denoting which _bank_ they are in.
-- For example, in the _WSI layout_, there are two keys labeled '`S`': the _initial_ `S-` key, and the _final_ `-S` key. Notice the dash at the start and end of the key.
+- Multiple keys may share the same "label", with a dash (-) denoting what _bank_ the key is in.. For example, in the _WSI layout_, there are two keys labeled '`S`': the _initial_ `S-` key, and the _final_ `-S` key. Notice the dash at the start and end of the key.
 
 ## Chord
 **Noun**
@@ -42,8 +41,7 @@ A set, or group, of [_keys_](#key). Chords may denote a sound, letter, affix, or
 
 Pressing down all the [_keys_](#key) that make up a chord on a _steno machine_.
 
-"Chording" is a term outside of _steno_, which means "pressing multiple [_keys_](#key) together at once", rather than one at a time.
-
+- "Chording" is a term outside of _steno_, which means "pressing multiple [_keys_](#key) together at once", rather than one at a time.
 - Often used interchangeably with the verb [_stroke_](#stroke).
 
 ## Stroke
@@ -58,6 +56,8 @@ A set, or group, or [_keys_](#key) pressed together simultaneously.
 **Verb**
 
 Pressing down all the [_keys_](#key) that make up a stroke on a _steno machine_.
+
+- Often used interchangeably with the verb [_chord_](#chord).
 
 ## Outline
 **Noun**
