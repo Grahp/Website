@@ -14,6 +14,7 @@ September 8, 2025, 130 days until release
 
 - Some more clean up
 - Open sourced what I have now :D
+- Started on login step
 
 September 7, 2025, 131 days until release
 
