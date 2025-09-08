@@ -10,12 +10,18 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 8, 2025, 130 days until release
+
+- Some more clean up
+- Open sourced what I have now :D
+
 September 7, 2025, 131 days until release
 
 - Got packet decoding working (a better system)
 - Started working on packet encoding for clientbound packets. SLP tomorrow?
 - SLP TODAY (I stayed up way too late lmao)
 - Moved networking stuff out of the main logic.
+- Some other misc cleanup at midnight :p
 
 September 6, 2025, 132 days until release:
 
