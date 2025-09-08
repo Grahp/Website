@@ -10,9 +10,16 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 7, 2025, 131 days until release
+
+- Got packet decoding working (a better system)
+- Started working on packet encoding for clientbound packets. SLP tomorrow?
+- SLP TODAY (I stayed up way too late lmao)
+- Moved networking stuff out of the main logic.
+
 September 6, 2025, 132 days until release:
 
-- Made the initial packet translation transducer
+- Made the initial packet decoding transducer
 - Worked on codecs (strings, arrays, all the varnums). I had these working previously through a complex codec abstraction that was really unnecessary, but it's been much easier this time
 
 September 5, 2025, 133 days until release:
