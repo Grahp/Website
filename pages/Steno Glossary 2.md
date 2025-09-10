@@ -66,7 +66,7 @@ An individual key on a _steno machine_ or _layout_. Analogous to a key on a keyb
 A set, or group, of [_keys_](#key). Chords may denote a sound, letter, affix, or any other part of a _translation_.
 
 - Chords can be combined to form [_strokes_](#stroke).
-- The difference between a chord and a [_stroke_](#stroke) can often be subtle. See [[Chords vs. Strokes]].
+- The difference between a chord and a [_stroke_](#stroke) can often be subtle. See [[Chords vs. Strokes|Chords vs. Strokes]].
 - An example chord is `TPH-`, which _translates_ to the _initial_ "n" sound (/n/).
 
 **Verb**
