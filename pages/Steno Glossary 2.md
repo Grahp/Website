@@ -23,6 +23,7 @@ Outline:
   - [_Lookup_](#lookup)
   - [_Reverse Lookup_](#reverse-lookup)
   - [_Programmatic Dictionary_](#programmatic-dictionary)
+  - Modal Dictionary
 - [_Theory Rule_](#theory-rule)
 - [_Theory_](#theory)
   - Long
@@ -37,6 +38,7 @@ Outline:
 - [_Write-out_](#write-out)
 - [_Brief_](#brief)
   - Misstroke
+	- Arbitrary
 - [_Mandatory_](#mandatory)
 - Steno Order
 - [_Layout_](#layout)
@@ -50,8 +52,15 @@ Outline:
 	- Stenotype
 - Philly Shift
 - Shadowing
+- Dropping
 - Bank
+  - Initial/Starter
+  - Vowel
+  - Final/Ender
+	- Skeleton
 - Key Label
+- Fingerspelling
+- Orthospelling
 
 ## Key
 **Noun**
