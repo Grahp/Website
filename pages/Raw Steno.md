@@ -18,7 +18,7 @@ In progress, of course.
 
 ## Chords/Strokes
 
-[[Chords vs. Strokes|Chords and Strokes]] do not need a `-` if they are [[Steno Glossary#Starter|Initials]]
+[[Chords vs Strokes|Chords and Strokes]] do not need a `-` if they are [[Steno Glossary#Starter|Initials]]
 
 Suffix strokes start with `/`, such as `/-S`.
 
