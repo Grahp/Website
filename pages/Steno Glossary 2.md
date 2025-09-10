@@ -1,6 +1,8 @@
 ---
 title: Steno Glossary 2
 permalink: steno-glossary-2
+redirect_from:
+  - steno-glossary2
 ---
 
 WIP rewrite of [[Home|my]] [[Steno Glossary|Steno Glossary]]. This should be easier to understand, and less unnecessarily technical.
