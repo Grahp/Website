@@ -18,6 +18,8 @@ A rough idea of what I'd like to talk about
 - What is a theory, and how do they relate to dictionaries
 - What are theory rules, and how do they relate to entries
 - Briefs, fake words, shape based outlines, etc.
+  - Brief families, rule-based briefs vs. arbitrary briefs, shape-based
+  - How briefs relate (families and beyond)
 - Conflicts in realtime theories and the types of conflicts in realtime theories. Begin to talk about theory complexity in general
 - Outline splitting, and how it relates to word boundary conflicts
 - Stroke splitting, how it really works, what's wrong with it, and how it could work
