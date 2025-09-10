@@ -7,6 +7,6 @@ permalink: code-editors
 
 I've been designing an editor called [[Chalsed|Chalsed]]. There are some interesting ideas there.
 
-I also wrote some about [[Steno Code Editor Ideas|Steno Code Editor Ideas]] while I was using [[Steno|Steno]].
+For [[Steno|Steno]], there's [[Coding With Steno|Coding With Steno]] and [[Steno Code Editing Model|Steno Code Editing Model]]
 
-I currently use [[Vim|Neovim]] and am not satisfied.
+I currently use [[Vim|Neovim]] and am not particularly satisfied!

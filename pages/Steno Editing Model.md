@@ -1,10 +1,6 @@
----
-permalink: steno-editing-model
-title: Steno Editing Model
----
-A [[Steno Code Editor Ideas|Steno code editor]] "keybinding" model.
+A [[Steno Code Editing Model|Steno code editor]] "keybinding" model.
 
-This is not specific to [[Lisp|Lisp]], there's also [[Steno Lisp Editing Model|Steno Lisp Editing Model]].
+This is not specific to [[Lisp|Lisp]], there's also [[Lisp Editing Model|Lisp Editing Model]].
 
 [[Home|I]] should probably merge them anyway but I can't be bothered right now.
 

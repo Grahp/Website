@@ -4,7 +4,9 @@ title: Coding with Steno
 ---
 [[Home|I]] want(ed) to be able to [[Code Editors|write and edit]] [[Clojure|Clojure]] [[Programming Languages|code]] with [[Steno|Steno]].
 
-See [[Steno Code Editor Ideas|Steno Code Editor Ideas]] and [[Steno Lisp Editing Model|Steno Lisp Editing Model]].
+This page is about the writing part of coding, for the editing part of coding, see [[Steno Code Editing Model|Steno Code Editing Model]].
+
+See [[Steno Code Editing Model|Steno Code Editing Model]].
 
 I definitely think a steno-aware [[Code Editors|editor]] could work very well.
 
