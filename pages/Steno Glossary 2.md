@@ -22,7 +22,7 @@ Outline:
 - [_Dictionary_](#dictionary)
   - [_Lookup_](#lookup)
   - [_Reverse Lookup_](#reverse-lookup)
-  - Programmatic Dictionary
+  - [_Programmatic Dictionary_](#programmatic-dictionary)
 - [_Theory Rule_](#theory-rule)
 - [_Theory_](#theory)
   - Long
@@ -50,6 +50,7 @@ Outline:
 	- Stenotype
 - Philly Shift
 - Shadowing
+- Bank
 - Key Label
 
 ## Key
@@ -130,6 +131,11 @@ The process of "looking up" the [_outlines_](#outlines) that map to a given [_tr
 
 - Called "reverse lookup" as it is the opposite of regular [_lookup_](#lookup).
 
+## Programmatic Dictionary
+**Noun**
+
+A [_dictionary_](#dictionary) that [_translates_](#translation) [_outlines_](#outline) as you _write_ them, rather having a pre-defined collection of [_entries_](#entry).
+
 ## Theory Rule
 **Noun**
 
@@ -180,6 +186,6 @@ Having no [_writeouts_](#write-out), and only [_briefs_](#brief)
 ## Layout
 **Noun**
 
-A set of _keys_ with _labels_, often grouped into _banks_, often with a defined _steno order_, that can be grouped into _chords_.
+A set of [_keys_](#key) with _labels_, often grouped into _banks_, often with a defined _steno order_, that can be grouped into _chords_.
 
 - The most common, and "standard" steno layout is the _WSI Layout_.
