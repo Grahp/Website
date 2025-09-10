@@ -10,11 +10,18 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 9, 2025, 129 days until release
+
+- Nothing so far
+- And then not much after that :p
+- Did a little bit of work on codecs (stuck on optionals, but didn't spend that long working on them)
+
 September 8, 2025, 130 days until release
 
 - Some more clean up
 - Open sourced what I have now :D
 - Started on login step
+- More Codecs (optional seems tricky...)
 
 September 7, 2025, 131 days until release
 
