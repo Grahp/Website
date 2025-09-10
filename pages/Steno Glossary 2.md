@@ -186,6 +186,6 @@ Having no [_writeouts_](#write-out), and only [_briefs_](#brief)
 ## Layout
 **Noun**
 
-A set of [_keys_](#key) with _labels_, often grouped into _banks_, often with a defined _steno order_, that can be grouped into _chords_.
+A set of [_keys_](#key) with _labels_, often grouped into _banks_, often with a defined _steno order_, that can be grouped into [_chords_](#chord).
 
 - The most common, and "standard" steno layout is the _WSI Layout_.
