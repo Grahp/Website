@@ -1,8 +1,9 @@
 ---
-title: Steno Notation
-permalink: steno-notation
+title: Raw Steno
+permalink: raw-steno
 redirect_from:
   - stenotation
+  - steno-notation
 ---
 
 [[Home|My]] [[Steno|Steno]] notation that I just made up.
