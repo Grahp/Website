@@ -6,7 +6,7 @@ redirect_from:
   - steno-glossary-2
 ---
 
-[[Home|my]] [[Steno|Steno]] Glossary.
+[[Home|My]] [[Steno|Steno]] Glossary.
 
 The content on this page is dedicated to the public domain under [[CC0|CC0 1.0 Universal]]. Feel free to use it however you'd like :)
 
