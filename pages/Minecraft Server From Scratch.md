@@ -4,7 +4,6 @@ title: Minecraft Server From Scratch
 ---
 
 [[Home|I'm]] [[Code Editors|writing]] my [[Minecraft Server|Minecraft server]], [[Bowmap|Bowmap]], from scratch in [[Clojure|Clojure]].
-Writing [[Home|Bowmap]] from scratch in Clojure.
 
 ## Why?
 
