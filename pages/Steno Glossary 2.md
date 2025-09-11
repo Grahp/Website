@@ -40,7 +40,9 @@ Outline:
   - Misstroke
 	- Arbitrary
 - [_Mandatory_](#mandatory)
-- Steno Order
+- [_Raw Steno_](#raw-steno)
+- Paper Tape/Steno Paper
+- [_Steno Order_](#steno-order)
 - [_Layout_](#layout)
   - **WSI Layout**
   - **Extended Stenotype Layout**
@@ -190,7 +192,24 @@ An [_outline_](#outline) with no [_write-out_](#write-out), and only [_briefs_](
 
 **Adjective**
 
-Having no [_writeouts_](#write-out), and only [_briefs_](#brief)
+Having no [_writeouts_](#write-out), and only [_briefs_](#brief).
+
+## Raw Steno
+**Noun**
+
+A notation for writing _keys_, _strokes_, _chords_, and _outlines_ in a more human-readable form.
+
+- `-T` is a _key_ on the _final_ _bank_ of the _WSI Layout_.
+- `KWR-` is a _chord_ in the _initial_ _bank_ of the _WSI Layout_.
+- `KAT` is a _stroke_.
+- `KEUT/KAT` is an _outline_.
+
+## Steno Order
+**Noun**
+
+The order that the _keys_ of a _layout_ are written in with _raw steno_.
+
+- Steno order is often used in a few ways by _theories_ to make it clear when you can do certain things.
 
 ## Layout
 **Noun**
