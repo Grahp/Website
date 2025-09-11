@@ -6,7 +6,7 @@ redirect_from:
   - steno-notation
 ---
 
-[[Home|My]] [[Steno|Steno]] notation that I just made up.
+[[Home|My]] observation of how people write [[Steno Glossary#Raw Steno|Raw Steno]].
 
 In progress, of course.
 
