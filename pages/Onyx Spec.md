@@ -16,10 +16,6 @@ Disclaimer: This page, and the rest of the Onyx Spec, may be out of date and/or 
 
 - [[Onyx Intro|Intro]]
 - [[Onyx Layout|Layout]]
-  - Initials
-  - Vowels
-  - Finals
-  - Suffixes
 - [[Onyx Syllabic Splitting|Syllabic Splitting]]
 - [[Onyx Mandatories|Mandatories]]
 - Conflict resolution via orthography, `*`, etc.
