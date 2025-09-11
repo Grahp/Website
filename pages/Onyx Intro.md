@@ -7,7 +7,7 @@ redirect_from:
 
 Disclaimer: This page is part of the [[Onyx Spec|Onyx Spec]], meaning it may be out of date and/or incomplete.
 
-[[Onyx|Onyx]] is a phonetic [[Steno|Steno]] [[Steno Glossary#Theory|Theory]].
+[[Onyx|Onyx]] is a phonetic [[Steno|Steno]] [[Steno Glossary Old#Theory|Theory]].
 
 Key ideas:
 - Thoroughly phonetic, minimal orthography for conflict resolution only

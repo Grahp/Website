@@ -3,7 +3,7 @@ title: Setting up Pinchord
 permalink: setting-up-pinchord
 ---
 
-Guide for setting up [[Pinchord|Pinchord]] on [[Steno Glossary#Plover|Plover]] and Javelin.
+Guide for setting up [[Pinchord|Pinchord]] on [[Steno Glossary Old#Plover|Plover]] and Javelin.
 
 - Put the resources here so [[Home|I]] don't have to link to my github :(
 

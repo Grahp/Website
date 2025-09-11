@@ -6,19 +6,19 @@ redirect_from:
   - steno-notation
 ---
 
-[[Home|My]] observation of how people write [[Steno Glossary#Raw Steno|Raw Steno]].
+[[Home|My]] observation of how people write [[Steno Glossary Old#Raw Steno|Raw Steno]].
 
 In progress, of course.
 
 ## Keys
 
-[[Steno Glossary#Key|Keys]] should always include a `-` for their [[Steno Glossary#Bank|bank]] when banks are free to reuse keys, as they are in [[Steno Glossary#WSI Layout|WSI]].
+[[Steno Glossary Old#Key|Keys]] should always include a `-` for their [[Steno Glossary Old#Bank|bank]] when banks are free to reuse keys, as they are in [[Steno Glossary Old#WSI Layout|WSI]].
 
 `K-` `T-` `-T`
 
 ## Chords/Strokes
 
-[[Chords vs Strokes|Chords and Strokes]] do not need a `-` if they are [[Steno Glossary#Starter|Initials]]
+[[Chords vs Strokes|Chords and Strokes]] do not need a `-` if they are [[Steno Glossary Old#Starter|Initials]]
 
 Suffix strokes start with `/`, such as `/-S`.
 
