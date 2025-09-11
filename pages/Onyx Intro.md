@@ -15,6 +15,8 @@ Key ideas:
 - Still short
 - Extensible to user briefing
 
+I like the Phoenix philosophy, but there is always concern with speed. I think you can get that consistency while remaining quite short.
+
 ## Disclaimer
 
 Onyx is an old theory that [[Home|I]] no longer use. I ended up moving to a fully orthographic theory, [[Pinchord|Pinchord]]. However, I think there are some cool ideas here if anyone is interested in them.
