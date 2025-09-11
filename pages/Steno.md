@@ -12,7 +12,7 @@ My Good Ideas:
 - [[Regular Outline Grammars|Regular Outline Grammars]]
 
 Resources and Ideas:
-- [[Steno Glossary Old|Steno Glossary Old]]
+- [[Steno Glossary|Steno Glossary]]
 - [[Raw Steno|Raw Steno]]
 - [[Steno Code Editing Model|Steno Code Editing Model]]
 - [[Uberdictionary|Uberdictionary]]
