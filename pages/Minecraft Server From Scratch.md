@@ -7,7 +7,7 @@ title: Minecraft Server From Scratch
 
 ## Why?
 
-While the vanilla Minecraft server, and forks like Spigot and Paper, may be a good fit for servers that are substantially like the vanilla game, for a totally custom server, like [[Bowmap|Bowmap]], they are not. Bowmap is not just Minecraft with some tweaks, it is a fundamentally different game.
+While the vanilla [[Minecraft Server|Minecraft server]], and forks like Spigot and Paper, may be a good fit for servers that are substantially like the vanilla game, for a totally custom server, like [[Bowmap|Bowmap]], they are not. Bowmap is not just Minecraft with some tweaks, it is a fundamentally different game.
 
 Using a vanilla server means inheriting all of Minecraft's built-in features, even if you do not want them. Features designed for vanilla gameplay can be abused in unexpected ways. This is a **substantial** source of bugs, even for the largest Minecraft servers. You can **feel** this when playing on any sufficiently unique Minecraft server.
 
