@@ -10,6 +10,12 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 10, 2025, 128 days until release
+
+- Got codecs working with optionals
+- Got to configuration!
+- Did some more thinking about the future (why can't I be there and not here :p)
+
 September 9, 2025, 129 days until release
 
 - Nothing so far
