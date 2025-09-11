@@ -7,6 +7,8 @@ permalink: music
 
 Current favorite project: Racing Mount Pleasant by Racing Mount Pleasant ([https://racingmountpleasant.bandcamp.com/album/racing-mount-pleasant-2](https://racingmountpleasant.bandcamp.com/album/racing-mount-pleasant-2))
 
+I am way overlistening to this album lmao
+
 ---
 
 Albums this year: Racing Mount Pleasant by Racing Mount Pleasant; Vanisher, Horizon Scraper by Quadeca; Forever Howlong by Black Country, New Road; Let God Sort Em Out by Clipse
