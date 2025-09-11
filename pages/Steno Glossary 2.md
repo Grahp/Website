@@ -23,14 +23,14 @@ Outline:
   - [_Lookup_](#lookup)
   - [_Reverse Lookup_](#reverse-lookup)
   - [_Programmatic Dictionary_](#programmatic-dictionary)
-  - Modal Dictionary
+  - **Modal Dictionary** (links from **modal**)
 - [_Theory Rule_](#theory-rule)
 - [_Theory_](#theory)
   - Long
   - Short
 	- Phonetic
 	- Orthographic
-	- Orthospelling
+	- **Orthospelling**
 - [_Conflict_](#conflict)
   - [_Word Boundary Conflict_](#word-boundary-conflict)
 	- Word-affix Conflicts
@@ -42,8 +42,8 @@ Outline:
 - [_Mandatory_](#mandatory)
 - Steno Order
 - [_Layout_](#layout)
-  - WSI Layout
-  - Extended Stenotype Layout
+  - **WSI Layout**
+  - **Extended Stenotype Layout**
 - Steno Engine
   - Plover
 - Steno Writer
@@ -54,10 +54,10 @@ Outline:
 - Shadowing
 - Dropping
 - Bank
-  - Initial/Starter
-  - Vowel
-  - Final/Ender
-	- Skeleton
+  - Initial/**Starter** (links from _starter_)
+  - **Vowel**
+  - Final/**Ender** (links from **ender**)
+	- **Skeleton**
 - Key Label
 - Fingerspelling
 - Orthospelling
