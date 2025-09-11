@@ -28,17 +28,17 @@ Outline:
 - [_Theory_](#theory)
   - Long
   - Short
-	- Phonetic
-	- Orthographic
-	- **Orthospelling**
+  - Phonetic
+  - Orthographic
+  - **Orthospelling**
 - [_Conflict_](#conflict)
   - [_Word Boundary Conflict_](#word-boundary-conflict)
-	- Word-affix Conflicts
-	- Homophonic Conflicts
+  - Word-affix Conflicts
+  - Homophonic Conflicts
 - [_Write-out_](#write-out)
 - [_Brief_](#brief)
   - Misstroke
-	- Arbitrary
+  - Arbitrary
 - [_Mandatory_](#mandatory)
 - [_Raw Steno_](#raw-steno)
 - Paper Tape/Steno Paper
@@ -51,7 +51,7 @@ Outline:
 - Steno Writer
   - Steno Machine
   - Steno Keyboard
-	- Stenotype
+  - Stenotype
 - Philly Shift
 - Shadowing
 - Dropping
@@ -59,7 +59,7 @@ Outline:
   - Initial/**Starter** (links from _starter_)
   - **Vowel**
   - Final/**Ender** (links from **ender**)
-	- **Skeleton**
+  - **Skeleton**
 - Key Label
 - Fingerspelling
 - Orthospelling
