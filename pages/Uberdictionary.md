@@ -4,7 +4,7 @@ redirect_from:
   - uberdict
 title: Uberdictionary
 ---
-An uberdictionary in [[Steno]] is a collection of [[Steno Glossary#Translation|translations]] with context about their pronunciations, orthography, origin, and other pertinent attributes.
+An [[Steno|Steno]] uberdictionary is a collection of [[Steno Glossary#Translation|translations]] with context about their pronunciations, orthography, origin, and other pertinent attributes.
 
 With an uberdictionary, you can write context for translations once, and every single [[Steno Glossary#Theory|theory]] that uses the uberdictionary can use those translations without having to add them to their dictionary manually.
 
