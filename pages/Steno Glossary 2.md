@@ -55,7 +55,7 @@ Outline:
 - Philly Shift
 - Shadowing
 - Dropping
-- Bank
+- [_Bank_](#bank)
   - Initial/**Starter** (links from _starter_)
   - **Vowel**
   - Final/**Ender** (links from **ender**)
@@ -217,3 +217,10 @@ The order that the _keys_ of a _layout_ are written in with _raw steno_.
 A set of [_keys_](#key) with _labels_, often grouped into _banks_, often with a defined _steno order_, that can be grouped into [_chords_](#chord).
 
 - The most common, and "standard" steno layout is the _WSI Layout_.
+
+## Bank
+**Noun**
+
+A logical group of _keys_ on a _layout_, used to organize keys based on their position.
+
+- The _WSI layout_ has 3 banks: the _initial_, _vowel_, and _final_ banks.
