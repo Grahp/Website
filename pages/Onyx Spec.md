@@ -2,7 +2,6 @@
 permalink: onyx-spec
 redirect_from:
   - onyx/spec
-  - onyx-spec-intro
   - onyx-spec-conflict-overrides
 title: Onyx Spec
 ---
@@ -15,6 +14,7 @@ Disclaimer: This page, and the rest of the Onyx Spec, may be out of date and/or 
 
 ## Outline
 
+- [[Onyx Intro|Intro]]
 - [[Onyx Layout|Layout]]
   - Initials
   - Vowels
