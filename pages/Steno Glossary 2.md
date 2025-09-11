@@ -61,8 +61,7 @@ Outline:
   - Final/**Ender** (links from **ender**)
   - **Skeleton**
 - Key Label
-- Fingerspelling
-- Orthospelling
+- [_Fingerspelling_](#fingerspelling)
 
 ## Key
 **Noun**
@@ -224,3 +223,8 @@ A set of [_keys_](#key) with _labels_, often grouped into _banks_, often with a 
 A logical group of _keys_ on a _layout_, used to organize keys based on their position.
 
 - The _WSI layout_ has 3 banks: the _initial_, _vowel_, and _final_ banks.
+
+## Fingerspelling
+**Noun**
+
+A way to write any word one letter at a time, even if it's not in your _dictionary_.
