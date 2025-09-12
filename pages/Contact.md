@@ -9,4 +9,6 @@ Feel free to reach out.
 
 I'm `@grahp` everywhere :)
 
-I am on Github, but I don't plan on using it any further. There are old repos there that you might find interesting, so in case anyone still needs them, I won't delete them. ([https://github.com/Grahp](https://github.com/Grahp))
+I have some old repos on Github that people still use, so I can't get rid of them :/
+
+I'll be on codeberg for the foreseeable future ([https://codeberg.org/Grahp](https://codeberg.org/Grahp)). If I ever set up a [[Open Source|git server]], I'll probably use that instead.
