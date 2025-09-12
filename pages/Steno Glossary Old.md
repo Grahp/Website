@@ -4,7 +4,7 @@ redirect_from:
   - glossaries
 title: Steno Glossary (Old)
 ---
-Old [[Steno|Glossary]]. See [[Steno Glossary|Steno Glossary]] for the new version.
+Old [[Steno|Steno]] Glossary. See [[Steno Glossary|Steno Glossary]] for the new version.
 
 The content on this page is dedicated to the public domain under [[CC0|CC0 1.0 Universal]]. Feel free to use it however you'd like :)
 
