@@ -226,11 +226,11 @@ The "standard" steno _layout_
 ## Bank
 **Noun**
 
-A logical group of _keys_ on a _layout_, used to organize keys based on their position.
+A logical group of [_keys_](#key) on a [_layout_](#layout), used to organize [_keys_](#key) based on their position.
 
-- The _WSI layout_ has 3 banks: the _initial_, _vowel_, and _final_ banks.
+- The [_WSI layout_](#wsi-layout) has 3 banks: the _initial_, _vowel_, and _final_ banks.
 
 ## Fingerspelling
 **Noun**
 
-A way to write any word one letter at a time, even if it's not in your _dictionary_.
+A way to write any word one letter at a time, even if it's not in your [_dictionary_](#dictionary).
