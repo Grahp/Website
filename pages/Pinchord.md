@@ -3,11 +3,7 @@ permalink: pinchord
 title: Pinchord
 ---
 
-Pinchord is a Full English [[Steno Glossary Old#Orthospelling|Orthospelling]] [[Steno Glossary Old#Theory|Theory]] designed to remove much of the complexity of [[Steno|Steno]].
-
-[[Home|I]] eventually gave up on learning steno before completing this, but the dictionary and layouts are still good. You can find them on [https://github.com/Grahp/Pinchord](https://github.com/Grahp/Pinchord).
-
-This theory evolved from [[Onyx|Onyx]], so you may see some stuff refer to "Onyx", but Onyx is a different thing.
+Pinchord is an orthographic [[Steno|Steno]] [[Steno Glossary#Theory|Theory]] designed to be much simpler than traditional steno.
 
 To start using Pinchord, see [[Setting up Pinchord|Setting up Pinchord]].
 
