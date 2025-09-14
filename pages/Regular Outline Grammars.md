@@ -8,7 +8,7 @@ redirect_from:
 
 In [[Steno|Steno]], a [[Steno Glossary Old#Theory|Theory]] having a "regular outline grammar" means that [[Steno Glossary Old#Outline|outlines]] are constructed in a way that you can always tell where outlines start and end (thus making it "regular").
 
-For example, you could dedicated use a "join" [[Steno Glossary Old#Key|key]] that joins the current [[Steno Glossary Old#Stroke|stroke]] with the previous, kind of like a space suppression key.
+For example, you could use a dedicated "join" [[Steno Glossary Old#Key|key]] that joins the current [[Steno Glossary Old#Stroke|stroke]] with the previous, kind of like a space suppression key.
 
 If you were to do this, it would be trivial to tell when outlines start and end. Any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. This would entirely remove 2 classes of [[Steno Glossary Old#Conflict|conflicts]], those being [[Steno Glossary Old#Word Boundary Conflict|word boundary conflicts]], as well as word-affix conflicts.
 
