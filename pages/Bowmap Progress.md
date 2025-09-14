@@ -10,6 +10,14 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 13, 2025, 126 days until release
+
+- NBT codecs, almost finished them
+
+September 12, 2025, 127 days until release
+
+- Maybe some random code stuff, but no progress
+
 September 11, 2025, 128 days until release
 
 - Names of stuff?
