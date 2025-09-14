@@ -9,6 +9,8 @@ It's currently in development. Chapter 1 Alpha 1 will release on January 17, 202
 
 You can read less on the website: [https://bowmap.net](https://bowmap.net)
 
+Join the Discord: [https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)
+
 Bowmap is [[Open Source|open source]], source code at [https://codeberg.org/Bowmap/Server](https://codeberg.org/Bowmap/Server)!
 
 Not sure it will be open source in its entirety, and not just the core server logic, but for now it's all there :p
