@@ -10,6 +10,11 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 14, 2025, 125 days until release
+
+- Made identifier codec
+- Begun working on registries :D
+
 September 13, 2025, 126 days until release
 
 - NBT codecs, almost finished them
