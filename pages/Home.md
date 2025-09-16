@@ -14,4 +14,4 @@ A few other random interests of mine: [[Programming Languages]], [[Code Editors]
 
 You can [[Contact]] me via email at `grahp@grahp.dev`. Or like message me on Discord (I'm `@grahp` everywhere) and I'm probably more likely to see it because it makes a little noise.
 
-All links are probably [[404|permalinks]].
+All links are probably [[404|permalinks]]. They're also all internal links unless they start with "https://", so you can click around without fear!
