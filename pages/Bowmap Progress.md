@@ -10,6 +10,11 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 15, 2025, 124 days until release
+
+- Registries, made the dimension type schema and a dimension type
+- Bunch of codec work
+
 September 14, 2025, 125 days until release
 
 - Made identifier codec
