@@ -7,7 +7,7 @@ You can contact [[Home|me]] via email at `grahp@grahp.dev`.
 
 Feel free to reach out.
 
-I'm `@grahp` everywhere :)
+I'm [[Grahp|`@grahp`]] everywhere :)
 
 I have some old repos on Github that people still use, so I can't get rid of them :/
 
