@@ -4,16 +4,13 @@ title: Home
 redirect_from:
   - projects
 ---
-Hello, this is my website!
+Hello, I'm [[Grahp|Grahp]]!
 
-I'm making [[Bowmap|Bowmap]], a [[Minecraft Server From Scratch|from-scratch]] MMORPG [[Minecraft Server|Minecraft server]] [[Code Editors|written]] in [[Clojure|Clojure]].
+I'm a software developer from The Internet™, currently [[Code Editors|writing]] a [[Minecraft Server|Minecraft Server]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]] called [[Bowmap|Bowmap]].
 
-You may find my [[Steno|Steno]] resources useful or interesting :)
+I'm designing a [[Pinchord|Pinchord]], [[Steno|Steno]] [[Steno Glossary#Theory|theory]], and I have a bunch of [[Steno|Steno resources]] :)
 
-I primarily [[Code Editors|write]] in [[Clojure|Clojure]] (with [[Vim|Vim]])! I have used [[Programming Languages|other languages]] but don't like any of them. I use some other [[Lisp|Lisps]] like [[Fennel|Fennel]].
-
-I'm also interested in [[Code Editors]], [[Delusional|keyboards]], [[Music]], [[Bowmap|game design]], and digital gardens I guess.
-
+A few other random interests of mine: [[Programming Languages]], [[Code Editors]], [[Music]].
 
 You can [[Contact]] me via email at `grahp@grahp.dev`. Or like message me on Discord (I'm `@grahp` everywhere) and I'm probably more likely to see it because it makes a little noise.
 
