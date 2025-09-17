@@ -3,10 +3,8 @@ title: Typing
 permalink: typing
 ---
 
-[[Home|I'm]] currently learning to type on an [[Delusional|18 key keyboard]] with a [[Chorded Home Row|Chorded home row]]!
+[[I've]] been learning to type since I was like 12, getting up to ~160wpm with dvorak.
 
-I've been learning to type since I was like 12, getting up to ~160wpm with dvorak.
+For the past year or so, I've been learning [[Steno|Steno]], most of that time spent working on [[Steno Glossary#Theory|theories]] and not actually practicing...
 
-For about a year, I was trying to learn to write with [[Steno|Steno]], but it ended up being too hard for me. Made a few theories ([[Onyx|Onyx]] and [[Pinchord|Pinchord]]) in that time, and I learned a lot.
-
-I write, chat, and [[Code Editors|code]] (in [[Clojure|Clojure]]), all of which I'm currently doing in qwerty, but would like to be using my [[Delusional|18 key keyboard]] for :)
+I write, chat, and [[Code Editors|code]] (in [[Clojure|Clojure]]), all of which I'm currently doing with qwerty, but would eventually like to be using [[Steno|Steno]].
