@@ -10,6 +10,12 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 16, 2025, 123 days until release
+
+- A LOT OF STUFF BIG DAY I DON'T EXACTLY REMEMBER WHAT
+- Got much farther along in the protocols
+- Got the dimension type registry working
+
 September 15, 2025, 124 days until release
 
 - Registries, made the dimension type schema and a dimension type
