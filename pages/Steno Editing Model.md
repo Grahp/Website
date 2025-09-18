@@ -1,4 +1,4 @@
-A [[Steno Code Editing Model|Steno code editor]] "keybinding" model.
+A [[Coding with Steno|Steno code editor]] "keybinding" model.
 
 This is not specific to [[Lisp|Lisp]], there's also [[Lisp Editing Model|Lisp Editing Model]].
 

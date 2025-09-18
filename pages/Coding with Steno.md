@@ -1,6 +1,6 @@
 ---
-title: Steno Code Editing Model
-permalink: steno-code-editing-model
+title: Coding with Steno
+permalink: coding-with-steno
 redirect_from:
   - steno-editor
   - steno-code-editor
@@ -9,7 +9,7 @@ redirect_from:
   - steno-code-editor-ideas
   - steno-editing-model
   - steno-lisp-editing-model
-  - coding-with-steno
+  - steno-code-editing-model
 ---
 
 A [[Steno|Steno]] [[Programming Languages|Code]] [[Code Editors|Editing]] "keybinding" model.

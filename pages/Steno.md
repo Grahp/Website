@@ -14,7 +14,7 @@ Some Steno resources [[Home|I've]] made while working on [[Steno Glossary#Theory
 
 - [[Steno Glossary|Steno Glossary]]
 - [[Raw Steno|Raw Steno]]
-- [[Steno Code Editing Model|Steno Code Editing Model]]
+- [[Coding with Steno|Coding with Steno]]
 - [[Chords vs Strokes|Chords vs. Strokes]]
 - [[Uberdictionary|Uberdictionary]]
 - [[Programmatic Dictionaries Rule|Programmatic Dictionaries Rule]]

@@ -20,6 +20,6 @@ I've probably gotten too comfortable in my current ways. Haskell looks pretty co
 
 Haskell does seem a little close to Clojure. I mean, I've tried learning some other languages, but I feel like I can't go back to mutability or OO after using Clojure lol.
 
-And maybe see [[Coding With Steno|Coding with Steno]]?
+And maybe see [[Coding with Steno]]?
 
 [[Home|I]] [[Code Editors|write]] in [[Vim|Vim]], btw.
