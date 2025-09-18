@@ -9,6 +9,7 @@ redirect_from:
   - steno-code-editor-ideas
 	- steno-editing-model
 	- steno-lisp-editing-model
+	- coding-with-steno
 ---
 
 A [[Steno|Steno]] [[Programming Languages|Code]] [[Code Editors|Editing]] "keybinding" model.
