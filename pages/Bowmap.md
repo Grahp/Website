@@ -5,11 +5,11 @@ title: Bowmap
 
 Bowmap is [[Home|my]] MMORPG [[Minecraft Server|Minecraft server]] [[Minecraft Server From Scratch|written from-scratch]] in [[Clojure|Clojure]]!
 
-It's currently in development. Chapter 1 Alpha 1 will release on January 17, 2026! Check out the [[Bowmap Roadmap|Roadmap]] and the [[Bowmap Progress|Progress]].
+It's currently in development. Chapter 1 Alpha 1 will release on January 17, 2026! Check out the and the [[Bowmap Progress|Progress]]/Roadmap.
 
 You can read less on the website: [https://bowmap.net](https://bowmap.net)
 
-Join the Discord: [https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)
+Join the Discord: [https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6), lots of epic people there.
 
 Bowmap is [[Open Source|open source]], source code at [https://codeberg.org/Bowmap/Server](https://codeberg.org/Bowmap/Server)!
 

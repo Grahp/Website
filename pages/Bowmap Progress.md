@@ -1,6 +1,8 @@
 ---
 title: Bowmap Progress
 permalink: bowmap-progress
+redirect_from:
+  - bowmap-roadmap
 ---
 [[Bowmap|Bowmap]]'s progress every day. [[Home|I'm]] making this to hold myself accountable, and so anyone can see my progress :p
 
