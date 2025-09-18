@@ -15,4 +15,4 @@ Bowmap is [[Open Source|open source]], source code at [https://codeberg.org/Bowm
 
 Not sure it will be open source in its entirety, and not just the core server logic, but for now it's all there :p
 
-I would very much like to make a library for making custom [[Minecraft Server|Minecraft servers]] in [[Clojure|Clojure]]. I have been making Minecraft servers for pretty much my entire life, and the tools I need do not exist at the moment. That's why Bowmap has been taking so long to develop, and it's why I want to make open source tools of what I end up creating :D
+I really want to make a library for making custom [[Minecraft Server|Minecraft servers]] in [[Clojure|Clojure]]. I've been making Bowmap for a very long time, and I'm having to create the tools that I need to not go crazy. I'd like to open source those tools once I make them :D
