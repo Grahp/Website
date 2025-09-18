@@ -10,6 +10,11 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 17, 2025, 122 days until release
+
+- Fixed broken NBT behavior
+- A ton of work on registries, got the main guys done, I think there's just one left for now?
+
 September 16, 2025, 123 days until release
 
 - A LOT OF STUFF BIG DAY I DON'T EXACTLY REMEMBER WHAT
