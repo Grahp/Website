@@ -12,7 +12,7 @@ I've been programming since I was like 12 or something. The earliest project I c
 
 I've been thinking about language design cursorily pretty much since I started programming (I mean, who hasn't?). This hasn't manifested in much, other than a blank website for a language called [[Faddle|Faddle]].
 
-I worked on some languages that compile to Minecraft datapacks, Lua, the JVM, and probably more that I've forgotten about :p
+I worked on some languages that compile to Minecraft datapacks, Lua, the JVM, and probably more that I've forgotten about :p. Nothing really came of these either.
 
 I'd like to learn Haskell, but haven't :(
 
@@ -22,4 +22,4 @@ Haskell does seem a little close to Clojure. I mean, I've tried learning some ot
 
 And maybe see [[Coding with Steno]]?
 
-[[Home|I]] [[Code Editors|write]] in [[Vim|Vim]], btw.
+I [[Code Editors|write]] in [[Vim|Vim]], btw.
