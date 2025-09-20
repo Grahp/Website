@@ -23,8 +23,8 @@ Outline:
 - [_Dictionary_](#dictionary)
   - [_Lookup_](#lookup)
   - [_Reverse Lookup_](#reverse-lookup)
-  - [_Programmatic Dictionary_](#programmatic-dictionary)
-  - **Modal Dictionary** (links from **modal**)
+  - [_Programmatic_](#programmatic) (From `#programmtic-dictionary`)
+  - [_Modal_](#modal)
 - [_Theory Rule_](#theory-rule)
 - [_Theory_](#theory)
   - Long
@@ -143,10 +143,17 @@ The process of "looking up" the [_outlines_](#outlines) that map to a given [_tr
 
 - Called "reverse lookup" as it is the opposite of regular [_lookup_](#lookup).
 
-## Programmatic Dictionary
-**Noun**
+## Programmatic
+**Adjective**
 
-A [_dictionary_](#dictionary) that [_translates_](#translation) [_outlines_](#outline) as you _write_ them, rather having a pre-defined collection of [_entries_](#entry).
+A _dictionary_ being programmatic means that it [_translates_](#translation) [_outlines_](#outline) as you _write_ them, rather having a pre-defined collection of [_entries_](#entry).
+
+## Modal
+**Adjective**
+
+A _dictionary_ being modal means that it may contain different _entries_, and thus "do different things", depending on what "mode" you are in.
+
+- Your current mode can change through a mode-switching _stroke_, based on _context_, or really for any other reason.
 
 ## Theory Rule
 **Noun**
@@ -239,12 +246,26 @@ A logical group of [_keys_](#key) on a [_layout_](#layout), used to organize [_k
 ## Fingerspelling
 **Noun**
 
-A way to write any word one letter at a time, even if it's not in your [_dictionary_](#dictionary).
+A method of _writing_ words letter-by-letter using a fingerspelling theory/dictionary.
 
-## Orthospelling
 **Adjective**
 
-An orthospelling [_theory_](#theory) or [_dictionary_](#dictionary) is fully _orthographic_. It's like [_fingerspelling_](#fingerspelling), but uses the whole [_layout_](#layout), or more of the [_layout_](#layout) than just one [_fingerspelling_](#fingerspelling) [_bank_](#bank).
+A theory/dictionary where words are _written_ letter-by-letter, allowing you to _write_ words that aren't in your _dictionary_
+
+**Verb**
+
+The act of _writing_ with a fingerspelling _theory_/_dictionary_
+
+## Orthospelling
+**Noun**
+
+A method of _writing_ words multiple letters at a time using an orthospelling _theory_/_dictionary_.
+
+**Adjective**
+
+An orthospelling [_theory_](#theory)/[_dictionary_](#dictionary) is fully _orthographic_. It's like [_fingerspelling_](#fingerspelling), but uses the whole [_layout_](#layout), or more of the [_layout_](#layout) than just one [_fingerspelling_](#fingerspelling) [_bank_](#bank).
+
+An _orthographic_ theory/dictionary where words are written multiple letters at a time.
 
 **Verb**
 
