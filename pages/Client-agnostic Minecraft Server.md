@@ -1,6 +1,6 @@
 ---
 title: Client-agnostic Minecraft Server
-permalnk: client-agnostic-minecraft-server
+permalink: client-agnostic-minecraft-server
 ---
 
 - Come up with a better title, yeah?
