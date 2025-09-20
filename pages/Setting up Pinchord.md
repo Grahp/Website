@@ -5,7 +5,7 @@ permalink: setting-up-pinchord
 
 - Disclaimer: Pinchord is in active development, so these dictionaries and layouts may be outdated
 
-Guide for setting up [[Pinchord|Pinchord]] on [[Steno Glossary Old#Plover|Plover]] and Javelin.
+Guide for setting up [[Pinchord|Pinchord]] on Plover and Javelin.
 
 - Put the resources here so [[Home|I]] don't have to link to my github :(
 

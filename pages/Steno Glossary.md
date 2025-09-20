@@ -4,6 +4,8 @@ permalink: steno-glossary
 redirect_from:
   - steno-glossary2
   - steno-glossary-2
+  - steno-glossary-old
+  - glossaries
 ---
 
 [[Home|My]] [[Steno|Steno]] Glossary.
