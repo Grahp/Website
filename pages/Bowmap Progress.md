@@ -12,6 +12,18 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 20, 2025, 119 days until release
+
+- Nothing yet :p
+
+September 19, 2025, 120 days until release
+
+- JOINED INTO THE WORLD AAH
+
+September 18, 2025, 121 days until release
+
+- Pretty sure I got a good amount done, probably NBT stuff and registries
+
 September 17, 2025, 122 days until release
 
 - Fixed broken NBT behavior
