@@ -45,7 +45,7 @@ Outline:
 - [_Steno Order_](#steno-order)
 - [_Layout_](#layout)
   - [_WSI Layout_](#wsi-layout)
-  - **Extended Stenotype Layout**
+  - [_Extended Stenotype Layout_](#extended-stenotype-layout)
 - Steno Engine
   - Plover
 - Steno Writer
@@ -222,7 +222,12 @@ A set of [_keys_](#key) with _labels_, often grouped into _banks_, often with a 
 ## WSI Layout
 **Noun**
 
-The "standard" steno _layout_
+The "standard" steno [_layout_](#layout).
+
+## Extended Stenotype Layout
+**Noun**
+
+An "extended" version of the [_WSI layout_](#wsi-layout) featuring 2 more [_keys_](#key), `^` and `+`.
 
 ## Bank
 **Noun**
