@@ -3,7 +3,7 @@ title: Typing
 permalink: typing
 ---
 
-[[I've]] been learning to type since I was like 12, getting up to ~160wpm with dvorak.
+[[Home|I've]] been learning to type since I was like 12, getting up to ~160wpm with dvorak.
 
 For the past year or so, I've been learning [[Steno|Steno]], most of that time spent working on [[Steno Glossary#Theory|theories]] and not actually practicing...
 
