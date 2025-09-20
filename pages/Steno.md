@@ -3,6 +3,7 @@ permalink: steno
 title: Steno
 redirect_from:
   - steno-context-aware-uses
+	- stoin
 ---
 Some Steno resources [[Home|I've]] made while working on [[Steno Glossary#Theory|theories]] about a year.
 
