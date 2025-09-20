@@ -31,7 +31,6 @@ Outline:
   - Short
   - Phonetic
   - Orthographic
-  - [_Orthospelling_](#orthospelling)
 - [_Conflict_](#conflict)
   - [_Word Boundary Conflict_](#word-boundary-conflict)
   - Word-affix Conflicts
@@ -63,6 +62,7 @@ Outline:
   - **Skeleton**
 - Key Label
 - [_Fingerspelling_](#fingerspelling)
+- [_Orthospelling_](#orthospelling)
 - Dedicated
 
 ## Key
@@ -160,15 +160,6 @@ A set of [_theory rules_](#theory-rule) that defines how [_outlines_](#outline) 
 
 - Theories usually come with [_dictionaries_](#ditionaries), which are usually the theory author's best attempt to follow their [_theory rules_](#theory-rule).
 
-## Orthospelling
-**Adjective**
-
-An orthospelling _theory_ or _dictionary_ is fully _orthographic_. It's like _fingerspelling_, but uses the whole _layout_, or more of the _layout_ than just one _fingerspelling_ _bank_.
-
-**Verb**
-
-The act of _writing_ using an orthospelling _theory_ or _dictionary_.
-
 ## Conflict
 **Noun**
 
@@ -245,7 +236,16 @@ A logical group of [_keys_](#key) on a [_layout_](#layout), used to organize [_k
 
 A way to write any word one letter at a time, even if it's not in your [_dictionary_](#dictionary).
 
+## Orthospelling
+**Adjective**
+
+An orthospelling [_theory_](#theory) or [_dictionary_](#dictionary) is fully _orthographic_. It's like [_fingerspelling_](#fingerspelling), but uses the whole [_layout_](#layout), or more of the [_layout_](#layout) than just one [_fingerspelling_](#fingerspelling) [_bank_](#bank).
+
+**Verb**
+
+The act of _writing_ using an orthospelling [_theory_](#theory) or [_dictionary_](#dictionary).
+
 ## Dedicated
 **Adjective**
 
-A dedicated _key_, _chord_, _stroke_, or _outline_ is reserved for a specific purpose and cannot be used for anything else.
+A dedicated [_key_](#key), [_chord_](#chord), [_stroke_](#stroke), or [_outline_](#outline) is reserved for a specific purpose and cannot be used for anything else.
