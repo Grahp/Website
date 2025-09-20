@@ -6,13 +6,13 @@ redirect_from:
   - steno-notation
 ---
 
-[[Home|My]] observation of how people write [[Steno Glossary Old#Raw Steno|Raw Steno]].
+[[Home|My]] observation of how people write [[Steno Glossary#Raw Steno|Raw Steno]].
 
 In progress, of course.
 
 ## Keys
 
-[[Steno Glossary Old#Key|Keys]] should always include a `-` for their [[Steno Glossary Old#Bank|bank]] when banks are free to reuse keys, as they are in [[Steno Glossary Old#WSI Layout|WSI]].
+[[Steno Glossary#Key|Keys]] should always include a `-` for their [[Steno Glossary#Bank|bank]] when banks are free to reuse keys, as they are in [[Steno Glossary#WSI Layout|WSI]].
 
 `K-` `T-` `-T`
 
