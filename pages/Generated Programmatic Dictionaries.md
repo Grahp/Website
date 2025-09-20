@@ -5,15 +5,15 @@ redirect_from:
   - serial-theory-rule-application
 ---
 
-Ideas around [[Steno|Steno]] [[Steno Glossary Old#Programmatic Dictionary|Programmatic Dictionary]] Generators. Stuff [[Home|I]] learned from making [[Quartz|Quartz]], a Programmatic Dictionary Generator.
+Ideas around [[Steno|Steno]] [[Steno Glossary#Programmatic|Programmatic Dictionary]] Generators. Stuff [[Home|I]] learned from making [[Quartz|Quartz]], a Programmatic Dictionary Generator.
 
 None of this is finished, but hopefully someone can fill in the blanks in the future :)
 
 ## Traditional Theory Realization
 
-[[Steno Glossary Old#Theory|Theories]] are **never** reified in their entirety.
+[[Steno Glossary#Theory|Theories]] are **never** reified in their entirety.
 
-Once you've designed a theory, you **manually** create hundreds of thousands of [[Steno Glossary Old#Entry|entries]] that "satisfy" that theory, and collect them into a [[Steno Glossary Old#Dictionary|dictionary]].
+Once you've designed a theory, you **manually** create hundreds of thousands of [[Steno Glossary#Entry|entries]] that "satisfy" that theory, and collect them into a [[Steno Glossary#Dictionary|dictionary]].
 
 This leads to dictionaries that are:
 - **Static**
@@ -43,10 +43,10 @@ I think there's a reason nobody has built an entire theory dictionary with pytho
 
 - Still produces **static** json dicts
   - Bulky, context-unaware, etc.
-- Built on [[Steno Glossary Old#Theory Rule|theory rules]]!
+- Built on [[Steno Glossary#Theory Rule|theory rules]]!
   - This is a fantastically good idea
   - Theory rules **are** documentation!
-  - Auto-generated [[Steno Glossary Old#Outline|outlines]]!
+  - Auto-generated [[Steno Glossary#Outline|outlines]]!
   - Uses chord-based rules
 - Uses somewhat of an [[Uberdictionary]].
 
