@@ -25,7 +25,7 @@ Outline:
 - [_Dictionary_](#dictionary)
   - [_Lookup_](#lookup)
   - [_Reverse Lookup_](#reverse-lookup)
-  - [_Programmatic_](#programmatic) (From `#programmtic-dictionary`)
+  - [_Programmatic_](#programmatic)
   - [_Modal_](#modal)
 - [_Theory Rule_](#theory-rule)
 - [_Theory_](#theory)
