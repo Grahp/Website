@@ -3,10 +3,15 @@ permalink: ametrine
 title: Ametrine
 ---
 
-Old [[Steno|Steno]] [[Steno Glossary Old#Orthospelling|Orthospelling]] [[Steno Glossary Old#Theory|Theory]]/[[Steno Glossary Old#Dictionary|Dictionary]]. Check out [[Pinchord|Pinchord]] :p
+Ametrine is an (Old) non-[[Steno Glossary#Modal|modal]] [[Steno Glossary#Orthospelling|orthospelling]] [[Steno Glossary#Theory|theory]]/[[Steno Glossary#Dictionary|dictionary]].
 
-- Put dictionaries here.
+Here's the idea:
+- Non-[[Steno Glossary#Modal|modal]], no mode switching [[Steno Glossary#Stroke|strokes]]
+- No [[Steno Glossary#Dedicated|dedicated key]]
+- Near-[[Steno Glossary#Orthospelling|Shrimple]] speeds
 
-- Non-[[Steno Glossary Old#Modal|modal]]
-- No dedicated [[Steno Glossary Old#Key|key]] required
-- No mode switching [[Steno Glossary Old#Stroke|stroke]]
+In exchange, it requires a lot of dedicated initial chords
+
+Nowadays [[Home|I]] use [[Pinchord|Pinchord]].
+
+- TODO put dictionaries here.
