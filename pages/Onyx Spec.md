@@ -6,7 +6,7 @@ redirect_from:
 title: Onyx Spec
 ---
 
-[[Onyx|Onyx]] [[Steno Glossary Old#Theory|Theory]] Specification.
+[[Onyx|Onyx]] [[Steno Glossary#Theory|Theory]] Specification.
 
 Disclaimer: This page, and the rest of the Onyx Spec, may be out of date and/or incomplete.
 

@@ -6,7 +6,7 @@ redirect_from:
 ---
 Some Steno resources [[Home|I've]] made while working on [[Steno Glossary#Theory|theories]] about a year.
 
-- [[Pinchord|Pinchord]] - [[Steno Glossary Old#Orthospelling|Orthospelling]] [[Steno Glossary#Theory|Theory]]
+- [[Pinchord|Pinchord]] - [[Steno Glossary#Orthospelling|Orthospelling]] [[Steno Glossary#Theory|Theory]]
 - [[Generated Programmatic Dictionaries|Generated Programmatic Dictionaries]]
 - [[Regular Outline Grammars|Regular Outline Grammars]]
 

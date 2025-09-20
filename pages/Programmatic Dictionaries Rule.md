@@ -3,13 +3,13 @@ title: Programmatic Dictionaries Rule
 permalink: programmatic-dictionaries-rule
 ---
 
-A [[Steno Glossary Old#Dictionary|dictionary]] is [[Steno Glossary Old#Outline|outlines]] to [[Steno Glossary Old#Translation|translations]].
+A [[Steno Glossary#Dictionary|dictionary]] is [[Steno Glossary#Outline|outlines]] to [[Steno Glossary#Translation|translations]].
 
-A [[Steno Glossary Old#Programmatic Dictionary|programmatic dictionary]] is a dictionary, a programmatic dictionary is programmatic.
+A [[Steno Glossary#Programmatic Dictionary|programmatic dictionary]] is a dictionary, a programmatic dictionary is programmatic.
 
-Programmatic is [[Steno Glossary Old#Theory Rule|rules]].
+Programmatic is [[Steno Glossary#Theory Rule|rules]].
 
-A [[Steno Glossary Old#Theory|theory]] is rules. A theory is theory rules.
+A [[Steno Glossary#Theory|theory]] is rules. A theory is theory rules.
 
 A not programmatic dictionary is not rules. A not programmatic dictionary is outlines to translations. A not programmatic dictionary is not a theory dictionary.
 

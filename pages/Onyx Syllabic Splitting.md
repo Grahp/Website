@@ -13,4 +13,4 @@ How [[Onyx|Onyx]] splits words/[[Steno Glossary#Outline|outlines]].
 
 "Onyx Splitting" is a [[Regular Outline Grammars|Regular Outline Grammar]] (you should read that page).
 
-In its history, Onyx has used 2 types of out splitting, those being "subsequent [[Steno Glossary Old#Vowel|vowel]] dropping" and an "outline suppression [[Steno Glossary#Key|key]]".
+In its history, Onyx has used 2 types of out splitting, those being "subsequent [[Steno Glossary#Vowel|vowel]] dropping" and an "outline suppression [[Steno Glossary#Key|key]]".
