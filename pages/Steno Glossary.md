@@ -56,10 +56,10 @@ Outline:
 - Shadowing
 - Dropping
 - [_Bank_](#bank)
-  - Initial/**Starter** (links from _starter_)
-  - **Vowel**
-  - Final/**Ender** (links from **ender**)
-  - **Skeleton**
+  - [_Initial_](#initial)
+  - [_Vowel_](#vowel)
+  - [_Final_](#final)
+  - [Skeleton](#skeleton)
 - Key Label
 - [_Fingerspelling_](#fingerspelling)
 - [_Orthospelling_](#orthospelling)
@@ -242,6 +242,56 @@ An "extended" version of the [_WSI layout_](#wsi-layout) featuring 2 more [_keys
 A logical group of [_keys_](#key) on a [_layout_](#layout), used to organize [_keys_](#key) based on their position.
 
 - The [_WSI layout_](#wsi-layout) has 3 banks: the _initial_, _vowel_, and _final_ banks.
+
+## Initial
+**Noun**
+
+The _bank_ with the "initial" or "starting" sound or spelling of a word.
+
+Can also refer to a _key_, _chord_, _stroke_, or _outline_ in the initial _bank_
+
+- E.g. the "c" in "cat"
+- Sometimes called the "starter" bank.
+
+**Adjective**
+
+A _key_, _chord_, _stroke_, or _outline_ in the initial _bank_.
+
+## Vowel
+**Noun**
+
+The _bank_ with the vowel sound or spelling of a word.
+
+Less commonly, can also refer to a _key_, _chord_, _stroke_, or _outline_ in the vowel _bank_
+
+- E.g. the "a" in "cat"
+
+**Adjective**
+
+A _key_, _chord_, _stroke_, or _outline_ in the vowel _bank_.
+
+## Final
+**Noun**
+
+The _bank_ with the vowel sound or spelling of a word.
+
+Can also refer to a _key_, _chord_, _stroke_, or _outline_ in the final _bank_
+
+- E.g. the "t" in "cat"
+- Sometimes called the "ender" bank (no relation to [[Minecraft Server|Minecraft]] :p).
+
+**Adjective**
+
+A _key_, _chord_, _stroke_, or _outline_ in the final _bank_.
+
+## Skeleton
+**Noun**
+
+A _stroke_ that is a skeleton.
+
+**Adjective**
+
+A skeleton _stroke_ has no _keys_ in the _vowel_ _bank_
 
 ## Fingerspelling
 **Noun**
