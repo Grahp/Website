@@ -12,6 +12,8 @@ I'm designing [[Pinchord|Pinchord]], a [[Steno|Steno]] [[Steno Glossary#Theory|t
 
 A few other random interests of mine: [[Programming Languages]], [[Code Editors]], [[Music]].
 
-You can [[Contact]] me via email at `grahp@grahp.dev`. Or like message me on Discord (I'm `@grahp` everywhere) and I'm probably more likely to see it because it makes a little noise.
+You can [[Contact]] me via email at `grahp@grahp.dev`.
+
+I'm [[Open Source|hosting code]] on Codeberg for the time being ([https://codeberg.org/grahp](https://codeberg.org/grahp)). I'm too lazy to set up a git server right now.
 
 All links are probably [[404|permalinks]]. They're also all internal links unless they start with "https://", so you can click around without fear!
