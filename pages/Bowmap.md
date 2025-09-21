@@ -1,6 +1,8 @@
 ---
 permalink: bowmap
 title: Bowmap
+redirect_from:
+  - bowamp
 ---
 
 Bowmap is [[Home|my]] MMORPG [[Minecraft Server|Minecraft server]] [[Minecraft Server From Scratch|written from-scratch]] in [[Clojure|Clojure]]!
