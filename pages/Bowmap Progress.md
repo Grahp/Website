@@ -6,15 +6,13 @@ redirect_from:
 ---
 [[Bowmap|Bowmap]]'s progress every day. [[Home|I'm]] making this to hold myself accountable, and so anyone can see my progress :p
 
-See the [[Bowmap Roadmap|Bowmap Roadmap]].
-
 My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
 September 20, 2025, 119 days until release
 
-- Nothing yet :p
+- Some work on chunks. Not much really, just trying to understand them.
 
 September 19, 2025, 120 days until release
 
