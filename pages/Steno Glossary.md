@@ -65,7 +65,8 @@ Outline:
 - Key Label
 - [_Fingerspelling_](#fingerspelling)
 - [_Orthospelling_](#orthospelling)
-- Dedicated
+- [_Dedicated_](#dedicated)
+- Stenographer
 
 ## Key
 **Noun**
