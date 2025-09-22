@@ -10,9 +10,16 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+September 22, 2025, 117 days until release
+
+- More thinking, but nothing much yet
+
+---
+
 September 21, 2025, 118 days until release
 
 - Still working through chunks :p
+- Thought about stuff down the road
 
 ---
 
