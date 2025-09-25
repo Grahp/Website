@@ -54,10 +54,10 @@ ul {padding: 0;
 
 code {background-color: #222;
       padding: 1px 2px;
-      border-radius: 4px}
+      border-radius: 0.25rem}
 
 pre {background-color: #222;
      padding: 1rem;
-     border-radius: 6px;
+     border-radius: 0.25rem;
      overflow: auto;
      white-space: pre}
