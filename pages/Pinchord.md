@@ -45,7 +45,7 @@ I believe that Pinchord is handily the easiest theory to learn and reach your qw
 
 Learning Pinchord is much more comparable to learning an alternate keyboard layout. Phonetic theories impose a ludicrous amount of complexity that a fully orthographic theory simply does not have.
 
-Once you know all the [[Steno Glossary#Chord|chodrs]] (there are maybe 100?), there is literally nothing else to learn.
+Once you know all the [[Steno Glossary#Chord|chords]] (there are maybe 100?), there is literally nothing else to learn.
 
 Those ~100 chord encompass everything* you would ever need in order to use a computer.
 
