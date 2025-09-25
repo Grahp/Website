@@ -11,7 +11,7 @@ Disclaimer: This page is part of the [[Onyx Spec|Onyx Spec]], meaning it may be 
 
 How [[Onyx|Onyx]] splits words/[[Steno Glossary#Outline|outlines]].
 
-Onyx uses a [[Regular Outline Grammars]] (you should read that page).
+Onyx uses a [[Regular Outline Grammars|regular outline grammar]] (you should read that page).
 
 "Onyx Splitting" is a form of subsequent vowel omission with the addition of "pseudo-strokes".
 
