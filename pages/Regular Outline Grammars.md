@@ -6,7 +6,7 @@ redirect_from:
   - regular-outline-grammar
 ---
 
-A [[Steno|Steno]] [[Steno Glossary#Theory|Theory]] having a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that makes their [[Steno Glossary#Word Boundary Conflict|boundaries]] unambiguous. You can always tell where outlines start and end, and whether a [[Steno Glossary#Stroke|stroke]] is starting a new outline or continuing the previous one.
+A [[Steno|Steno]] [[Steno Glossary#Theory|Theory]] having a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that makes their [[Steno Glossary#Word Boundary Conflict|boundaries]] unambiguous. You can always tell where outlines start and end, and whether a [[Steno Glossary#Stroke|stroke]] is starting a new outline, or continuing the previous one.
 
 Why would this be important? Well, for one, Having a regular outline grammar entirely removes 2 major classes of [[Steno Glossary#Conflict|conflicts]] - those being [[Steno Glossary#Word Boundary Conflict|word boundary conflicts]] and word-affix conflicts.
 
@@ -25,13 +25,13 @@ This is just silly, and regular outline grammars are an extremely trivial soluti
 
 In order for outlines to have unambiguous boundaries, you need to define a single grammar for outlines.
 
-The simplest way to do this would be a dedicated "join" key that joins the current stroke to the previous, kinda like a space  suppression key. Then, it would be trivial to tell when outlines start and end. Any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. If you find it useful, the regex for outlines with a join key is `(stroke without join key)(stroke with join key)*`.
+The simplest way to do this would be a [[steno glossary#dedicated|dedicated]] "join" [[steno glossary#key|key]] that joins the current stroke to the previous, kinda like a space suppression key. then, it would be trivial to tell when outlines start and end. any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. if you find it useful, the [[Theory Rules as Regular Expressions|regex for outlines]] with a join key is `(stroke without join key)(stroke with join key)*`.
 
-This has the obvious drawback of requiring an entire dedicated key, which is usually not something you just have lying around.
+This has the obvious drawback of requiring an entire dedicated key, which is usually not something you just have lying around. (Sorry shrimple :p)
 
-I think a better way to go about this would be with a more applied version of Phoenix's "Vowel Omission Principle" called "subsequent vowel dropping".
+A better way to go about this is with a more applied version of Phoenix's "Vowel Omission Principle" called "subsequent vowel dropping". (see *The Relativity of Theory - Carol Jochim*: [https://www.stenolife.com/carolj.htm](https://www.stenolife.com/carolj.htm))
 
-Rather than subsequent strokes in outlines using a "join" key, they drop, or "omit", their vowels to become skeletons. Subsequent vowel sounds in English are extremely unimportant, and can be completely ignored while creating approximately 0 conflicts. I could demonstrate this, but the section at the end of this page is plenty enough.
+Rather than subsequent strokes in outlines using a "join" key, they drop, or "omit", their [[Steno Glossary#Vowel|vowels]] to become [[Steno Glossary#Skeleton|skeletons]]. Subsequent vowel sounds in English are extremely unimportant, and can be completely ignored while creating approximately 0 conflicts. I could demonstrate this, but the section at the end of this page is plenty enough.
 
 The regex for outlines with subsequent vowel dropping is `(non-skeleton)(skeleton)*`
 
