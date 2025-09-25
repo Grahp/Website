@@ -6,7 +6,7 @@ redirect_from:
   - regular-outline-grammar
 ---
 
-In [[Steno|Steno]], a [[Steno Glossary#Theory|Theory]] having a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that you can always tell where outlines start and end (thus making it "regular").
+A [[Steno|Steno]] [[Steno Glossary#Theory|Theory]] having a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that makes their [[Steno Glossary#Word Boundary Conflict|boundaries]] unambiguous. You can always tell where outlines start and end, and whether a [[Steno Glossary#Stroke|stroke]] is starting a new outline or continuing the previous one.
 
 For example, you could use a dedicated "join" [[Steno Glossary#Key|key]] that joins the current [[Steno Glossary#Stroke|stroke]] with the previous, kind of like a space suppression key.
 
