@@ -29,17 +29,19 @@ The simplest way to do this would be a [[steno glossary#dedicated|dedicated]] "j
 
 This has the obvious drawback of requiring an entire dedicated key, which is usually not something you just have lying around. (Sorry shrimple :p)
 
-A better way to go about this is with a more applied version of Phoenix's "vowel omission principle" called "subsequent vowel dropping". (see *The Relativity of Theory - Carol Jochim*: [https://www.stenolife.com/carolj.htm](https://www.stenolife.com/carolj.htm))
+A better way to go about this is with a more applied version of Phoenix's "vowel omission principle" called "subsequent vowel omission". (see *The Relativity of Theory - Carol Jochim*: [https://www.stenolife.com/carolj.htm](https://www.stenolife.com/carolj.htm))
 
 Rather than subsequent strokes in outlines using a "join" key, they drop, or "omit", their [[Steno Glossary#Vowel|vowels]] to become [[Steno Glossary#Skeleton|skeletons]]. Subsequent vowel sounds in English are extremely unimportant, and can be completely ignored while creating approximately 0 conflicts. I could demonstrate this, but the section at the end of this page is plenty enough.
 
-The regex for outlines with subsequent vowel dropping is `(non-skeleton)(skeleton)*`
+The regex for outlines with subsequent vowel omission is `(non-skeleton)(skeleton)*`
 
-The trade-offs of subsequent outline splitting is that there are a few words that differ only in their subsequent vowel sounds, such as "forget" and "forgot"; and that all skeletons are reserved.
+The trade-offs of subsequent vowel omission is that there are a few words that differ only in their subsequent vowel sounds, such as "forget" and "forgot"; and that all skeletons are reserved.
+
+On the other hand, it does allow for a great amount of squishing/stacking subsequent strokes. When you don't care about the vowels, you can heavily stack multi-syllable words, such as "catatonic" into `KA*T/T*FRPBG` (To see why `*` is used there, check out [[Onyx Syllabic Splitting]]).
 
 - (This does allow for a great amount of squishing, demonstrate that here)
 
-Another kind of flavor of subsequent vowel dropping that I do not have a good name for involves only using final chords in all subsequent strokes.
+Another kind of flavor of subsequent vowel omission that I do not have a good name for involves only using final chords in all subsequent strokes.
 
 ## Just stop and leave this page
 

@@ -8,9 +8,7 @@ title: Onyx Spec
 
 [[Onyx|Onyx]] [[Steno Glossary#Theory|Theory]] Specification.
 
-Disclaimer: This page, and the rest of the Onyx Spec, may be out of date and/or incomplete.
-
-[[Home|I'll]] still keep these pages here. I'd like to update them at some point.
+Disclaimer: This page, and the rest of the Onyx Spec, may be out of date and/or incomplete. See [[Onyx Spec Archive|this notice]].
 
 ## Outline
 
