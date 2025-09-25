@@ -45,9 +45,9 @@ Another kind of flavor of subsequent vowel omission that I do not have a good na
 
 ## Just stop and leave this page
 
-There is one more way you could write words in a way that it's clear where they start and end, which is to write with just one stroke per word.
+There is one more way that you could write words such that it's clear where they start and end, which is to write with just one stroke per word...
 
-That may sound dumb, and it may be, but I'm not so sure it is.
+That may sound dumb, and it may be, but I'm not so sure.
 
 In fact, a lot of folks do this - not so much in this space, but in some groups, this is just how it's done, and it's not like they yearn for more.
 
