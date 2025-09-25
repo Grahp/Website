@@ -2,7 +2,7 @@
 permalink: chalsed
 title: Chalsed
 ---
-Pronounced KAL-SED
+Pronounced *KAL-SED*
 
 The _[[Lisp|Lisp]]_ [[Code Editors|Editor]].
 
