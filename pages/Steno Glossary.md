@@ -182,6 +182,8 @@ An [_outline_](#outline) that has multiple valid [_translations_](#translation) 
 ## Word Boundary Conflict
 **Noun**
 
+<!-- Better explain this -->
+
 A type of [_conflict_](#conflict) where it is unclear where [_outlines_](#outline) should start and stop given a sequence of [_strokes_](#stroke).
 
 ## Write-out
