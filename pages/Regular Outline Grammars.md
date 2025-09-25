@@ -14,6 +14,8 @@ Why would this be important? Well, for one, Having a regular outline grammar ent
 
 Yes, through a ridiculous amount of complexity and [[Steno Glossary#Theory Rule|theory rules]], splitting words in alien ways, creating a dozen [[Steno Glossary#Mandatory|mandatory]] affixes, requiring the use of `*` for compound words (which causes its own set of mandatories, as well as conflicts for compound words that already use `*`, which can also span multiple words, because this **still** does not solve word boundaries), you can get rid of _most_ word boundary conflicts most of the time, hopefully, fingers crossed.
 
+- (I don't think I've quite emphasized this point enough)
+
 This is just silly, and regular outline grammars are an extremely trivial solution to this.
 
 ## How?
@@ -35,11 +37,11 @@ The regex for outlines with subsequent vowel dropping is `(non-skeleton)(skeleto
 
 The trade-offs of subsequent outline splitting is that there are a few words that differ only in their subsequent vowel sounds, such as "forget" and "forgot"; and that all skeletons are reserved.
 
-- This does allow for a great amount of squishing, demonstrate that here.
+- (This does allow for a great amount of squishing, demonstrate that here)
 
 Another kind of flavor of subsequent vowel dropping that I do not have a good name for involves only using final chords in all subsequent strokes.
 
-## Just stop and leave this page
+## Just stop and leave this pag.e
 
 There is one more way you could write words in a way that it's clear when they start and end, which is to write with just one stroke per word.
 
