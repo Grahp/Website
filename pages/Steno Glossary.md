@@ -197,6 +197,8 @@ An "abbreviated" [_outline_](#outline), used to reduce the number of [_strokes_]
 
 To "abbreviate" an [_outline_](#outline). To use a [_translation_](#translation)'s brief rather than its [_write-out_](#write-out).
 
+To create and start using a brief.
+
 ## Mandatory
 **Noun**
 
