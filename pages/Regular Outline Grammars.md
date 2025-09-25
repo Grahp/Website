@@ -41,7 +41,7 @@ The trade-offs of subsequent outline splitting is that there are a few words tha
 
 Another kind of flavor of subsequent vowel dropping that I do not have a good name for involves only using final chords in all subsequent strokes.
 
-## Just stop and leave this pag.e
+## Just stop and leave this page
 
 There is one more way you could write words in a way that it's clear when they start and end, which is to write with just one stroke per word.
 
