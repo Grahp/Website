@@ -37,7 +37,7 @@ The regex for outlines with subsequent vowel omission is `(non-skeleton)(skeleto
 
 The trade-offs of subsequent vowel omission is that there are a few words that differ only in their subsequent vowel sounds, such as "forget" and "forgot"; and that all skeletons are reserved.
 
-On the other hand, it does allow for a great amount of squishing/stacking subsequent strokes. When you don't care about the vowels, you can heavily stack multi-syllable words, such as "catatonic" into `KA*T/T*FRPBG` (To see why `*` is used there, check out [[Onyx Syllabic Splitting]]).
+On the other hand, it does allow for a great amount of squishing/stacking subsequent strokes. When you don't care about the vowels, you can heavily stack multi-syllable words, such as "catatonic" into `KA*T/T*FRPBG` (To see why `*` is used there, check out [[Onyx Syllabic Splitting|Onyx syllabic splitting]]).
 
 - (This does allow for a great amount of squishing, demonstrate that here)
 
