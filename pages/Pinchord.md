@@ -19,7 +19,7 @@ If spelling is not your strong suit, you may also want to look at a phonetic the
 
 Fully orthographic theories are potentially less ergonomic than phonetic theories. This is because there are a lot more sequences of letters than there are sounds, and because sounds can be cleverly combined in ways that do not cause [[Steno Glossary#Conflict|conflicts]]. All of this means you need more [[Steno Glossary#Key|keys]], which means you need to move your fingers more in order to write most words. While Pinchord is still more ergonomic than any other alternative text input method, phonetic steno beats it out at least slightly.
 
-I can say that I don't find Pinchord to be uncomfortable in any way.
+[[Home|I]] can say that I don't find Pinchord to be uncomfortable in any way.
 
 ### Speed
 
