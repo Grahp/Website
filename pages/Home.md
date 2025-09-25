@@ -16,4 +16,4 @@ You can [[Contact]] me via email at `grahp@grahp.dev`.
 
 I'm [[Open Source|hosting code]] on Codeberg for the time being ([https://codeberg.org/grahp](https://codeberg.org/grahp)). I'm too lazy to set up a git server right now.
 
-All links are probably [[404|permalinks]]. They're also all internal links unless they start with "https://", so you can click around without fear!
+All links are probably [[404|permalinks]]. They're also all [[How to Take Notes|internal links]] unless they start with "https://", so you can click around without fear!
