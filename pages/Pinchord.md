@@ -7,7 +7,7 @@ Pinchord (pronounced _PIN-CHORD_) is an orthographic [[Steno]] [[Steno Glossary#
 
 To start using Pinchord, see [[Setting up Pinchord|Setting up Pinchord]].
 
-## Tradeoffs
+## Trade-offs
 
 ### Speling
 
