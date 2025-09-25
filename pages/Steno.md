@@ -5,7 +5,7 @@ redirect_from:
   - steno-context-aware-uses
   - stoin
 ---
-Some Steno resources [[Home|I've]] made while working on [[Steno Glossary#Theory|theories]] about a year.
+Some steno resources [[Home|I've]] made while working on [[Steno Glossary#Theory|theories]] about a year.
 
 - [[Pinchord|Pinchord]] - [[Steno Glossary#Orthospelling|Orthospelling]] [[Steno Glossary#Theory|Theory]]
 - [[Generated Programmatic Dictionaries|Generated Programmatic Dictionaries]]
