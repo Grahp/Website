@@ -29,7 +29,7 @@ The simplest way to do this would be a [[steno glossary#dedicated|dedicated]] "j
 
 This has the obvious drawback of requiring an entire dedicated key, which is usually not something you just have lying around. (Sorry shrimple :p)
 
-A better way to go about this is with a more applied version of Phoenix's "Vowel Omission Principle" called "subsequent vowel dropping". (see *The Relativity of Theory - Carol Jochim*: [https://www.stenolife.com/carolj.htm](https://www.stenolife.com/carolj.htm))
+A better way to go about this is with a more applied version of Phoenix's "vowel omission principle" called "subsequent vowel dropping". (see *The Relativity of Theory - Carol Jochim*: [https://www.stenolife.com/carolj.htm](https://www.stenolife.com/carolj.htm))
 
 Rather than subsequent strokes in outlines using a "join" key, they drop, or "omit", their [[Steno Glossary#Vowel|vowels]] to become [[Steno Glossary#Skeleton|skeletons]]. Subsequent vowel sounds in English are extremely unimportant, and can be completely ignored while creating approximately 0 conflicts. I could demonstrate this, but the section at the end of this page is plenty enough.
 
