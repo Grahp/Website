@@ -3,7 +3,7 @@ permalink: pinchord
 title: Pinchord
 ---
 
-Pinchord is an orthographic [[Steno]] [[Steno Glossary#Theory|theory]] designed to be much simpler than traditional steno.
+Pinchord is an orthographic [[Steno]] [[Steno Glossary#Theory|theory]] designed to be much simpler and easier to learn and master than traditional steno.
 
 To start using Pinchord, see [[Setting up Pinchord|Setting up Pinchord]].
 
@@ -17,7 +17,7 @@ If spelling is not your strong suit, you may also want to look at a phonetic the
 
 ### Ergonomics and Comfort
 
-Fully orthographic theories are potentially less ergonomic than phonetic theories. This is because there are a lot more sequences of letters than there are sounds, and because sounds can be cleverly combined in ways that do not cause conflicts. All of this means you need more keys, which means you need to move your fingers more in order to write most words. While Pinchord is still more ergonomic than any other alternative text input method, phonetic steno beats it out at least slightly.
+Fully orthographic theories are potentially less ergonomic than phonetic theories. This is because there are a lot more sequences of letters than there are sounds, and because sounds can be cleverly combined in ways that do not cause [[Steno Glossary#Conflict|conflicts]]. All of this means you need more [[Steno Glossary#Key|keys]], which means you need to move your fingers more in order to write most words. While Pinchord is still more ergonomic than any other alternative text input method, phonetic steno beats it out at least slightly.
 
 I can say that I don't find Pinchord to be uncomfortable in any way.
 
@@ -27,7 +27,7 @@ An orthospelling theory may not be able to reach the same speeds as a phonetic t
 
 While no one has reached professional speeds using an orthospelling theory, I do believe there is nothing stopping you from doing so.
 
-Most words take the exact same number of strokes as a writeout in most phonetic theories. Beyond that, just like phonetic theories, you can brief to your hearts content, and get as fast as you'd like.
+Most words take the exact same number of [[Steno Glossary#Stroke|strokes]] as a [[Steno Glossary#Write-out|write-out]] in most phonetic theories. Beyond that, just like phonetic theories, you can [[Steno Glossary#Brief|brief]] to your hearts content, and get as fast as you'd like.
 
 I do not believe speed will be any more of a barrier in Pinchord until you are beyond 200wpm, but again, nobody has gotten this fast (yet).
 
@@ -45,7 +45,7 @@ I believe that Pinchord is handily the easiest theory to learn and reach your qw
 
 Learning Pinchord is much more comparable to learning an alternate keyboard layout. Phonetic theories impose a ludicrous amount of complexity that a fully orthographic theory simply does not have.
 
-Once you know all the chords (there are maybe 100?), there is literally nothing else to learn.
+Once you know all the [[Steno Glossary#Chord|chodrs]] (there are maybe 100?), there is literally nothing else to learn.
 
 Those ~100 chord encompass everything* you would ever need in order to use a computer.
 
