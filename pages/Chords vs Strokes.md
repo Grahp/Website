@@ -11,7 +11,7 @@ redirect_from:
   - stroke-vs.-chord
 ---
 
-The difference between [[Steno Glossary#Chord|Chords]] and [[Steno Glossary#Stroke|Strokes]] in [[Steno|Steno]].
+The difference between [[Steno Glossary#Chord|chords]] and [[Steno Glossary#Stroke|strokes]] in [[Steno]].
 
 (Don't ask [[Home|me]] why this page has 8 different URLs I have literally no idea.)
 

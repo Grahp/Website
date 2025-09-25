@@ -5,7 +5,7 @@ redirect_from:
   - serial-theory-rule-application
 ---
 
-Ideas around [[Steno|Steno]] [[Steno Glossary#Programmatic|Programmatic Dictionary]] Generators. Stuff [[Home|I]] learned from making [[Quartz|Quartz]], a Programmatic Dictionary Generator.
+Ideas around [[Steno]] [[Steno Glossary#Programmatic|programmatic dictionary]] generators. Stuff [[Home|I]] learned from making [[Quartz|Quartz]], a Programmatic Dictionary Generator.
 
 None of this is finished, but hopefully someone can fill in the blanks in the future :)
 

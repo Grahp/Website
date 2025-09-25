@@ -8,7 +8,7 @@ redirect_from:
   - glossaries
 ---
 
-[[Home|My]] [[Steno|Steno]] Glossary.
+[[Home|My]] [[Steno]] glossary.
 
 The content on this page is dedicated to the public domain under [[CC0|CC0 1.0 Universal]]. Feel free to use it however you'd like :)
 

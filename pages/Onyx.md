@@ -3,7 +3,7 @@ permalink: onyx
 title: Onyx
 ---
 
-Onyx is an abandoned [[Steno|Steno]] Phonetic[[Steno Glossary#Theory|Theory]] [[Home|I]] was making.
+Onyx is an abandoned [[Steno]] Phonetic[[Steno Glossary#Theory|Theory]] [[Home|I]] was making.
 
 I've tried to organize the ideas I had at the time I was making this.
 

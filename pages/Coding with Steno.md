@@ -12,7 +12,7 @@ redirect_from:
   - steno-code-editing-model
 ---
 
-A [[Steno|Steno]] [[Programming Languages|Code]] [[Code Editors|Editing]] "keybinding" model.
+A [[Steno]] [[Programming Languages|code]] [[Code Editors|editing]] "keybinding" model.
 
 ## Modal Editing
 
@@ -20,7 +20,7 @@ A [[Steno|Steno]] [[Programming Languages|Code]] [[Code Editors|Editing]] "keybi
 
 What these keybinds have in common is that they both [do something special] to add context to your keypresses, since on a normal keyboard, you only have ~30 keys.
 
-In [[Steno|Steno]], we have millions of strokes available at any given moment, we can do better.
+In [[Steno]], we have millions of strokes available at any given moment, we can do better.
 
 ## Automatically Modal Editing
 

@@ -3,7 +3,7 @@ permalink: pinchord
 title: Pinchord
 ---
 
-Pinchord is an orthographic [[Steno|Steno]] [[Steno Glossary#Theory|Theory]] designed to be much simpler than traditional steno.
+Pinchord is an orthographic [[Steno]] [[Steno Glossary#Theory|theory]] designed to be much simpler than traditional steno.
 
 To start using Pinchord, see [[Setting up Pinchord|Setting up Pinchord]].
 
