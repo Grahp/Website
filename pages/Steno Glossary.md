@@ -138,14 +138,15 @@ A set of [_outlines_](#outline) with mappings to [_translations_](#translation).
 ## Lookup
 **Noun**
 
-The process of "looking up" a [_translation_](#translation) in a [_dictionary_](#dictionary).
+The process of "looking up" a [_translation_](#translation) from a given [_outline_](#outline) in a [_dictionary_](#dictionary).
 
 ## Reverse Lookup
 **Noun**
 
-The process of "looking up" the [_outlines_](#outlines) that map to a given [_translation_](#translation) in a [_dictionary_](#dictionary).
+The process of "looking up" the set of [_outlines_](#outlines) that map to a given [_translation_](#translation) in a [_dictionary_](#dictionary).
 
 - Called "reverse lookup" as it is the opposite of regular [_lookup_](#lookup).
+- Each [_outline_](#outline) that reverse lookup gives you could be [_looked up_](#lookup) to get the [_translation_](#translation) you gave reverse lookup.
 
 ## Programmatic
 **Adjective**
