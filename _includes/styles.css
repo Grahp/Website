@@ -2,6 +2,7 @@
        --content-max-ch: 72ch;
        --page-gap: 1rem}
 
+/* Make these better and shit */
 @media (min-width: 600px)  {:root {--base-font-size: 1.0625rem}}
 @media (min-width: 900px)  {:root {--base-font-size: 1.125rem}}
 @media (min-width: 1200px) {:root {--base-font-size: 1.25rem}}
@@ -33,8 +34,9 @@ body {color: #fff;
       font-size: var(--base-font-size);
       font-family: 'JetBrains Mono', monospace;
       line-height: 1.5;
-      max-width: min(var(--content-max-ch), 95vw);
+      max-width: var(--content-max-ch);
       margin: var(--page-gap);
+      margin-inline: auto;
       padding: 0 1rem;
       overflow-wrap: anywhere;
       word-break: break-word}
