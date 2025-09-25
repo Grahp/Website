@@ -23,18 +23,21 @@ This is just silly, and regular outline grammars are an extremely trivial soluti
 
 In order for outlines to have unambiguous boundaries, you need to define a single grammar for outlines.
 
-The simplest way to do this would be a dedicated "join" key that joins the current stroke to the previous, kinda like a space  suppression key. Then, it would be trivial to tell when outlines start and end. Any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. If you find it useful, the regex for this is `(stroke without join key)(stroke with join key)*`.
+The simplest way to do this would be a dedicated "join" key that joins the current stroke to the previous, kinda like a space  suppression key. Then, it would be trivial to tell when outlines start and end. Any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. If you find it useful, the regex for outlines with a join key is `(stroke without join key)(stroke with join key)*`.
 
 This has the obvious drawback of requiring an entire dedicated key, which is usually not something you just have lying around.
 
 I think a better way to go about this would be with a more applied version of Phoenix's "Vowel Omission Principle" called "subsequent vowel dropping".
 
+Rather than subsequent strokes in outlines using a "join" key, they drop, or "omit", their vowels to become skeletons. Subsequent vowel sounds in English are extremely unimportant, and can be completely ignored while creating approximately 0 conflicts. I could demonstrate this, but the section at the end of this page is plenty enough.
 
-A "join" key is not the only way to accomplish this. This idea came from [[Onyx|Onyx]], where [[Home|I]] called it "[[Onyx Syllabic Splitting|Onyx Splitting]]". Rather than subsequent strokes in outlines using a "join" key, they dropped [[Steno Glossary#Vowel|vowels]], so you could only use [[Steno Glossary#Skeleton|skeletons]] in subsequent strokes. For example, the word "monotonous" would be [[Steno Glossary#Stroke|stroked]] as `PHO/TPH/T/TPH-S` (See [[Raw Steno|Raw Steno]]), or "mo -n t- n-s". With Onyx Splitting, you can also squash a ton of these subsequent strokes together and still have canon outlines, so you could do `PHO/TPH-T/TPH-S` and save a stroke.
+The regex for outlines with subsequent vowel dropping is `(non-skeleton)(skeleton)*`
 
-This worked shockingly well, and I still think it's a good idea. I was only able to find 2 conflicts after using it for months! The only place this can cause conflicts is with words that differ exclusively in their subsequent vowel sounds, like "forget" and "forgot" (the 2 conflicts I found).
+The trade-offs of subsequent outline splitting is that there are a few words that differ only in their subsequent vowel sounds, such as "forget" and "forgot"; and that all skeletons are reserved.
 
-- Compare to VOP
+- This does allow for a great amount of squishing, demonstrate that here.
+
+Another kind of flavor of subsequent vowel dropping that I do not have a good name for involves only using final chords in all subsequent strokes.
 
 ## Just stop and leave this page
 
