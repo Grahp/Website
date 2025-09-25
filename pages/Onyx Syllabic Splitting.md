@@ -13,7 +13,7 @@ How [[Onyx|Onyx]] splits words/[[Steno Glossary#Outline|outlines]].
 
 Onyx uses a [[Regular Outline Grammars|regular outline grammar]] (you should read that page).
 
-"Onyx Splitting" is a form of subsequent vowel omission with the addition of "pseudo-strokes".
+"Onyx Splitting" is a form of [[Regular Outline Grammars|subsequent vowel omission]] with the addition of "pseudo-strokes".
 
 A pseudo-stroke is a part of a stroke that acts as if it were a separate stroke used in combination with the rest of the stroke. Essentially, you're "squishing" multiple strokes into one, while keeping the exact same behavior.
 
