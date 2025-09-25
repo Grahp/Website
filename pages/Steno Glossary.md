@@ -67,6 +67,7 @@ Outline:
 - [_Orthospelling_](#orthospelling)
 - [_Dedicated_](#dedicated)
 - Stenographer
+- Space suppression
 
 ## Key
 **Noun**
