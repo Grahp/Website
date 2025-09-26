@@ -11,6 +11,4 @@ I've been making Minecraft servers for a very long time, and some of them are ev
 
 I've been working on Bowmap for about 2 and a half years, and it's gone through a lot as I have, which I will probably write about at some point.
 
-## Ideas
-
-- A [[Client-agnostic Minecraft Server|Client-agnostic Minecraft server]]
+- See [[Client-agnostic Minecraft Server|Client-agnostic Minecraft server]]
