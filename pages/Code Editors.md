@@ -9,4 +9,4 @@ I've been designing an editor called [[Chalsed|Chalsed]]. There are some interes
 
 For [[Steno]], there's [[Coding with Steno|Coding with Steno]]
 
-I currently use [[Vim|Neovim]] and am not particularly satisfied!
+I currently use [[Vim|Neovim]] and am not particularly satisfied.
