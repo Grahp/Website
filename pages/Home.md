@@ -8,7 +8,7 @@ Hello, I'm [[Grahp|Grahp]]!
 
 I'm a software developer from The Internet™, currently [[Code Editors|writing]] a [[Minecraft Server|Minecraft server]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]] called [[Bowmap|Bowmap]].
 
-I'm designing [[Pinchord|Pinchord]], a [[Steno]] [[Steno Glossary#Theory|theory]], and I have a bunch of [[Steno|steno resources]] :)
+I'm also designing [[Pinchord|Pinchord]], a [[Steno]] [[Steno Glossary#Theory|theory]], and I have a bunch of [[Steno|steno resources]] :)
 
 A few other random interests of mine: [[Programming Languages]], [[Code Editors]], [[Music]].
 
