@@ -11,19 +11,19 @@ To start using Pinchord, see [[Setting up Pinchord|Setting up Pinchord]].
 
 ### Speling
 
-Pinchord is orthographic, meaning words are constructed based on how they are spelled, rather than how they sound. If your use of steno mainly involves transcribing spoken word, this is certainly a mismatch, and you should use a phonetic theory.
+Pinchord is [[Steno Glossary#Orthographic|orthographic]], meaning words are [[Steno Glossary#Writing|written]] based on how they are spelled, rather than how they sound. If your use of steno mainly involves transcribing spoken word, this is certainly a mismatch, and you should use a [[Steno Glossary#Phonetic|phonetic]] theory.
 
 If spelling is not your strong suit, you may also want to look at a phonetic theory.
 
 ### Ergonomics and Comfort
 
-Fully orthographic theories are potentially less ergonomic than phonetic theories. This is because there are a lot more sequences of letters than there are sounds, and because sounds can be cleverly combined in ways that do not cause [[Steno Glossary#Conflict|conflicts]]. All of this means you need more [[Steno Glossary#Key|keys]], which means you need to move your fingers more in order to write most words. While Pinchord is still more ergonomic than any other alternative text input method, phonetic steno beats it out at least slightly.
+Fully orthographic theories are potentially less ergonomic than phonetic theories since there are more ways sequences a word could be spelled than ways it could sound, and because sounds can be cleverly [[Steno Glossary#Merge|merged]] in ways that do not cause [[Steno Glossary#Conflict|conflicts]]. All of this means you need more [[Steno Glossary#Key|keys]], which means you need to move your fingers more in order to write most words. While Pinchord is still more ergonomic than any other alternative text input method, phonetic steno beats it out at least slightly.
 
 [[Home|I]] can say that I don't find Pinchord to be uncomfortable in any way.
 
 ### Speed
 
-An orthospelling theory may not be able to reach the same speeds as a phonetic theory.
+An [[Steno Glossary#Orthospelling|orthospelling]] theory may not be able to reach the same speeds as a phonetic theory.
 
 While no one has reached professional speeds using an orthospelling theory, I do believe there is nothing stopping you from doing so.
 
