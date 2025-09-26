@@ -31,12 +31,13 @@ Outline:
 - [_Theory_](#theory)
   - Long
   - Short
-  - Phonetic
-  - Orthographic
+  - [_Phonetic_](#phonetic)
+  - [_Orthographic_](#orthographic)
 - [_Conflict_](#conflict)
   - [_Word Boundary Conflict_](#word-boundary-conflict)
   - Word-affix Conflicts
   - Homophonic Conflicts
+- [_Writing_](#writing)
 - [_Write-out_](#write-out)
 - [_Brief_](#brief)
   - Misstroke
@@ -57,6 +58,7 @@ Outline:
 - Philly Shift
 - Shadowing
 - Dropping
+- [_Merge_](#merge)
 - [_Bank_](#bank)
   - [_Initial_](#initial)
   - [_Vowel_](#vowel)
@@ -172,6 +174,16 @@ A set of [_theory rules_](#theory-rule) that defines how [_outlines_](#outline) 
 
 - Theories usually come with [_dictionaries_](#ditionaries), which are usually the theory author's best attempt to follow their [_theory rules_](#theory-rule).
 
+## Phonetic
+**Adjective**
+
+Describing a theory where words are [_written_](#writing) how they sound rather than how they are spelled.
+
+## Orthographic
+**Adjective**
+
+Describing a [_theory_](#theory) where words are [_written_](#writing) how they are spelled rather than how they sound.
+
 ## Conflict
 **Noun**
 
@@ -185,6 +197,15 @@ An [_outline_](#outline) that has multiple valid [_translations_](#translation) 
 <!-- Better explain this -->
 
 A type of [_conflict_](#conflict) where it is unclear where [_outlines_](#outline) should start and stop given a sequence of [_strokes_](#stroke).
+
+## Writing
+**Verb**
+
+Steno's equivalent to "typing".
+
+**Noun**
+
+The act of writing.
 
 ## Write-out
 **Noun**
@@ -244,6 +265,13 @@ The "standard" steno [_layout_](#layout).
 **Noun**
 
 An "extended" version of the [_WSI layout_](#wsi-layout) featuring 2 more [_keys_](#key), `^` and `+`.
+
+## Merge
+**Adjective**
+
+Using one [_chord_](#chord) to mean multiple sounds or spellings in a way that doesn't create many [_conflicts_](#conflict).
+
+- For example, in the [_WSI layout_](#wsi-layout), the "x" and "kshun" sounds are merged, meaning one [_chord_](#chord) is used for both sounds.
 
 ## Bank
 **Noun**
