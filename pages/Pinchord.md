@@ -17,7 +17,7 @@ I'm writing a whole page about theory complexity ([[Theory in Practice|Theory in
 
 I wanted a very simple orthographic steno theory that I can use to [[Coding with Steno|code]], write, and control my computer. This is my best attempt at that.
 
-I think [[Steno Glossary#Phonetic|phonetic]]] steno makes a lot of sense when transcribing spoken word, but does not suit my needs well.
+I think [[Steno Glossary#Phonetic|phonetic]] steno makes a lot of sense when transcribing spoken word, but does not suit my needs well.
 
 ## Trade-offs
 
