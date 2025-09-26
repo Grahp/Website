@@ -7,6 +7,18 @@ Pinchord (pronounced _PIN-CHORD_) is an [[Steno Glossary#Orthographic|orthograph
 
 To start using Pinchord, see [[Setting up Pinchord|Setting up Pinchord]].
 
+[[Home|I'm]] currently learning Pinchord, but practice is hard.
+
+## Rationale
+
+Steno theories today are extremely complex, which makes them much harder to learn and master.
+
+I'm writing a whole page about theory complexity ([[Theory in Practice|Theory in Practice]]), but for now, this is what has come of that.
+
+I wanted a very simple orthographic steno theory that I can use to [[Coding with Steno|code]], write, and control my computer. This is my best attempt at that.
+
+I think [[Steno Glossary#Phonetic|phonetic]]] steno makes a lot of sense when transcribing spoken word, but does not suit my needs well.
+
 ## Trade-offs
 
 ### Speling
