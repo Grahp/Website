@@ -30,6 +30,6 @@ Organization begets re-organization.
 
 Even if organization did scale, you cannot re-organize years worth of thoughts and ideas, you can only keep going or throw them out.
 
-Throwing out ideas is terrible. Never put yourself in a position that begets idea wasting.
+Throwing out ideas is terrible. Never put yourself in a position that leads to idea wasting.
 
 I wish you luck in your journey of avoiding organization.
