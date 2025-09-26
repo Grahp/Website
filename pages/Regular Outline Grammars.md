@@ -39,8 +39,6 @@ The trade-offs of subsequent vowel omission is that there are a few words that d
 
 On the other hand, it does allow for a great amount of squishing/stacking subsequent strokes. When you don't care about the vowels, you can heavily stack multi-syllable words, such as "catatonic" into `KA*T/T*FRPBG` (To see why `*` is used there, check out [[Onyx Syllabic Splitting|Onyx syllabic splitting]]).
 
-- (This does allow for a great amount of squishing, demonstrate that here)
-
 Another kind of flavor of subsequent vowel omission that I do not have a good name for involves only using final chords in all subsequent strokes.
 
 ## Just stop and leave this page
