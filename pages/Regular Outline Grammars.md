@@ -25,7 +25,7 @@ This is just silly, and regular outline grammars are an extremely trivial soluti
 
 In order for outlines to have unambiguous boundaries, you need to define a single grammar for outlines.
 
-The simplest way to do this would be a [[steno glossary#dedicated|dedicated]] "join" [[steno glossary#key|key]] that joins the current stroke to the previous, kinda like a space suppression key. then, it would be trivial to tell when outlines start and end. any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. if you find it useful, the [[Theory Rules as Regular Expressions|regex for outlines]] with a join key is `(stroke without join key)(stroke with join key)*`.
+The simplest way to do this would be a [[Steno Glossary#Dedicated|dedicated]] "join" [[Steno Glossary#Key|key]] that joins the current stroke to the previous, kinda like a space suppression key. then, it would be trivial to tell when outlines start and end. any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. if you find it useful, the [[Theory Rules as Regular Expressions|regex for outlines]] with a join key is `(stroke without join key)(stroke with join key)*`.
 
 This has the obvious drawback of requiring an entire dedicated key, which is usually not something you just have lying around. (Sorry shrimple :p)
 
@@ -46,6 +46,8 @@ Another kind of flavor of subsequent vowel omission that I do not have a good na
 ## Just stop and leave this page
 
 There is one more way that you could write words such that it's clear where they start and end, which is to write with just one stroke per word...
+
+That may sound dumb, and it may be, but I'm not so sure it is.
 
 That may sound dumb, and it may be, but I'm not so sure.
 
