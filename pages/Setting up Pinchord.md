@@ -3,27 +3,16 @@ title: Setting up Pinchord
 permalink: setting-up-pinchord
 ---
 
-- Disclaimer: Pinchord is in active development, so these dictionaries and layouts may be outdated
+- Disclaimer: Pinchord is in active development, so these [[Steno Glossary#Dictionary|dictionaries]] and [[Steno Glossary#Layout|layouts]] may be outdate d
 
 Guide for setting up [[Pinchord|Pinchord]] on Plover and Javelin.
 
-- Put the resources here so [[Home|I]] don't have to link to my github :(
+## Javelin
 
-## The Dictionaries
-
-- [Download pinchord-dictionaries.zip](../assets/pinchord-dictionaries.zip)
-- [Download pinchord-dictionaries.tar.gz](../assets/pinchord-dictionaries.tar.gz)
-
-## The Layout
-
-### Plover
-
-Plugin can be found at [https://github.com/Grahp/plover-pinchord-layout](https://github.com/Grahp/plover-pinchord-layout).
-
-I don't honestly remember how to install plover plugins lol.
-
-### Javelin
-
-Layout can be found at [https://github.com/Grahp/javelin-pinchord-layout](https://github.com/Grahp/javelin-pinchord-layout).
+Layout can be found at [https://codeberg.org/grahp/pincord](https://codeberg.org/grahp/pincord).
 
 Instructions in the repo.
+
+## Plover
+
+Plover plugin and dictionary are not currently available. Sorry!
