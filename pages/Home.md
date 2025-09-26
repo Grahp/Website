@@ -10,7 +10,7 @@ I'm a software developer from The Internet™, currently [[Code Editors|writing]
 
 I'm also designing [[Pinchord|Pinchord]], a [[Steno]] [[Steno Glossary#Theory|theory]], and I have a bunch of [[Steno|steno resources]] :)
 
-A few other random interests of mine: [[Programming Languages]], [[Code Editors]], [[Music]].
+A few other random interests of mine are [[Programming Languages]], [[Code Editors]], and [[Music]].
 
 You can [[Contact]] me via email at `grahp@grahp.dev`.
 
