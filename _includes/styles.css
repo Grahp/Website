@@ -7,23 +7,47 @@
 @media (min-width: 900px)  {:root {--base-font-size: 1.125rem}}
 @media (min-width: 1200px) {:root {--base-font-size: 1.25rem}}
 
-@font-face {font-family: 'JetBrains Mono';
-            src: url('/assets/fonts/JetBrainsMono-Regular.woff2') format('woff2');
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular-ascii.woff2") format("woff2");
             font-weight: 400;
             font-style: normal;
-            font-display: swap}
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold-ascii.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
 
 @font-face {font-family: 'JetBrains Mono';
             src: url('/assets/fonts/JetBrainsMono-Bold.woff2') format('woff2');
             font-weight: 700;
             font-style: normal;
-            font-display: swap}
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic-ascii.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
 
 @font-face {font-family: 'JetBrains Mono';
             src: url('/assets/fonts/JetBrainsMono-Italic.woff2') format('woff2');
             font-weight: 400;
             font-style: italic;
-            font-display: swap}
+            font-display: swap;
+            unicode-range: U+0100-024F}
 
 html {box-sizing: border-box;
       background-color: #000}
