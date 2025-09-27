@@ -32,12 +32,22 @@ I think all strokes should end with `/`, but they usually don't.
 `TKOG`
 `KAT/`
 
-### Outlines
+## Outlines
 
 Strokes are delimited by `/`. You might also see strokes delimited by space (` `) when you're not talking about specific outlines, but just a bunch of strokes.
 
 `HOT/TKO*G`
 `-T KWEUBG PWROUPB TPOBGS`
+
+## Orthography
+
+- Put in "double quotes".
+
+## Pseudo-steno
+
+- Raw steno where the chords are replaced with the letter that they map to, so "dog" may be written as `DAUG` rather than `TKAUPBLG`
+
+## Misc
 
 - Origin
 - Layouts
