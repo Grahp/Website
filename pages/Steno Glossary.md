@@ -41,7 +41,7 @@ Outline:
 - [_Write-out_](#write-out)
 - [_Brief_](#brief)
   - Misstroke
-  - Arbitrary
+  - [_Arbitrary_](#arbitrary)
 - [_Mandatory_](#mandatory)
 - [_Raw Steno_](#raw-steno)
 - Paper Tape/Steno Paper
@@ -222,6 +222,17 @@ An "abbreviated" [_outline_](#outline), used to reduce the number of [_strokes_]
 To "abbreviate" an [_outline_](#outline). To use a [_translation_](#translation)'s brief rather than its [_write-out_](#write-out).
 
 To create and start using a brief.
+
+## Arbitrary
+**Adjective**
+
+An arbitrary [outline](#outline) does not follow the [rules](#theory-rule) of the [theory](#theory).
+
+**Noun**
+
+An arbitrary [_entry_](#entry).
+
+- Sometimes shortened to "arb".
 
 ## Mandatory
 **Noun**
