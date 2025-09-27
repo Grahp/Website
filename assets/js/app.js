@@ -1,18 +1,43 @@
 const app = document.getElementById('app');
 
-async function navigate(url, push = true) {
-  const res = await fetch(url);
-  if (!res.ok) return (location.href = url);
+function scrollToHash(hash) {
+  if (!hash) return window.scrollTo(0, 0);
+  const id = decodeURIComponent(hash.slice(1));
+  let el = null;
+  try {
+    el = document.getElementById(id) || document.querySelector(`#${CSS.escape(id)}`);
+  } catch (err) {
+    el = document.getElementById(id);
+  }
+  if (!el) {
+    el = document.querySelector(`[name="${id}"]`);
+  }
+  if (el) {
+    if (!el.tabIndex || el.tabIndex < 0) el.tabIndex = -1;
+    el.scrollIntoView({ behavior: 'auto', block: 'start' });
+    el.focus({ preventScroll: true });
+  } else {
+    window.scrollTo(0, 0);
+  }
+}
+
+async function navigate(fullPath, push = true) {
+  const [fetchPath] = fullPath.split('#');
+  const urlForFetch = fetchPath || location.pathname + location.search;
+  const res = await fetch(urlForFetch, { method: 'GET' });
+  if (!res.ok) return (location.href = fullPath); // fallback to full navigation
 
   const html = await res.text();
   const doc = new DOMParser().parseFromString(html, 'text/html');
   const newApp = doc.getElementById('app') || doc.querySelector('main');
-  if (!newApp) return (location.href = url);
+  if (!newApp) return (location.href = fullPath);
 
   app.innerHTML = newApp.innerHTML;
   document.title = doc.title || document.title;
-  if (push) history.pushState(null, '', url);
-  window.scrollTo(0, 0);
+
+  if (push) history.pushState(null, '', fullPath);
+  const hash = fullPath.includes('#') ? '#' + fullPath.split('#').slice(1).join('#') : '';
+  scrollToHash(hash);
 }
 
 document.addEventListener('click', e => {
@@ -21,8 +46,20 @@ document.addEventListener('click', e => {
   if (a.target === '_blank' || e.metaKey || e.ctrlKey) return;
   const url = new URL(a.href, location.href);
   if (url.origin !== location.origin) return;
+
+  if (url.pathname === location.pathname && url.search === location.search && url.hash) {
+    e.preventDefault();
+    const fullPath = url.pathname + url.search + url.hash;
+    history.pushState(null, '', fullPath);
+    scrollToHash(url.hash);
+    return;
+  }
+
   e.preventDefault();
-  navigate(url.pathname);
+  const fullPath = url.pathname + url.search + url.hash;
+  navigate(fullPath);
 });
 
-window.addEventListener('popstate', () => navigate(location.pathname, false));
+window.addEventListener('popstate', () => {
+  navigate(location.pathname + location.search + location.hash, false);
+});
