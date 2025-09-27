@@ -13,7 +13,7 @@ I am way overlistening to this album lmao
 
 Albums this year: Racing Mount Pleasant by Racing Mount Pleasant; Vanisher, Horizon Scraper by Quadeca; Forever Howlong by Black Country, New Road; Let God Sort Em Out by Clipse
 
-AOTY 2024: Imaginal Disk by Magdalena Bay (Also, Brat by Charli XCX, Night Palace by Mount Eerie, SCRAPYARD by Quadeca; I LAY DOWN MY LIFE FOR YOU by JPEGMAFIA)
+AOTY 2024: Imaginal Disk by Magdalena Bay (Also, Brat by Charli XCX, Night Palace by Mount Eerie, SCRAPYARD by Quadeca, I LAY DOWN MY LIFE FOR YOU by JPEGMAFIA)
 
 AOTY 2023: Javelin by Sufjan Stevens (Also, 3D Country by Geese, SCARING THE HOES by JPEGMAFIA and Danny Brown)
 
