@@ -54,7 +54,9 @@ Some extra rules:
 - For words that only differ in their unstressed vowel sounds, move the stressed vowel to their "problem" vowel, or the vowel that conflicts. ("affect" and "effect" may be conflicts, so move the stressed vowel from "fect" to "af" and "ef")
 - You may have to employ some ortho suffixes like "^men" and "^man". (`SEE/M-N` -> "semen", `SEE/MA*N` -> "seaman", `SEE/ME*N` -> "seamen" - ([[Raw Steno|Raw Steno]]))
 
-- In general, you can add affixes while still being regular, document this somewhere.
+In general, you can add affixes while still being regular, document this somewhere.
+
+(See [[Semi-modal Dictionaries]])
 
 ## Just stop and leave this page
 
