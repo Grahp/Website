@@ -6,7 +6,7 @@ redirect_from:
   - regular-outline-grammar
 ---
 
-A [[Steno]] [[Steno Glossary#Theory|theory]] having a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that makes their [[Steno Glossary#Word Boundary Conflict|boundaries]] unambiguous. You can always tell where outlines start and end, and whether a [[Steno Glossary#Stroke|stroke]] is starting a new outline, or continuing the previous one.
+A [[Steno]] [[Steno Glossary#Theory|theory]] having a "regular outline grammar" means that [[Steno Glossary#Outline|outlines]] are constructed in a way that makes their [[Steno Glossary#Word Boundary Conflict|boundaries]] unambiguous. You can always tell where an outline starts and ends, and whether a [[Steno Glossary#Stroke|stroke]] is part of the previous outline or starting a new one.
 
 Why would this be important? Well, for one, Having a regular outline grammar entirely removes 2 major classes of [[Steno Glossary#Conflict|conflicts]] - those being [[Steno Glossary#Word Boundary Conflict|word boundary conflicts]] and word-affix conflicts.
 
@@ -40,6 +40,21 @@ The trade-offs of subsequent vowel omission is that there are a few words that d
 On the other hand, it does allow for a great amount of squishing/stacking subsequent strokes. When you don't care about the vowels, you can heavily stack multi-syllable words, such as "catatonic" into `KA*T/T*FRPBG` (To see why `*` is used there, check out [[Onyx Syllabic Splitting|Onyx syllabic splitting]]).
 
 Another kind of flavor of subsequent vowel omission that I do not have a good name for involves only using final chords in all subsequent strokes.
+
+If you're not comfortable giving up skeletons, there is another flavor of subsequent vowel omission that [[Steno Glossary#Dedicated|reserves]] all "naked" [[Steno Glossary#Initial|initial]] and [[Steno Glossary#Final|final]] [[Steno Glossary#Chord|chords]], but not skeletons.
+
+Here are the rules:
+1. Pick a "stressed" vowel in every word
+2. Drop all other vowels
+3. All vowels that come before the stressed vowel use a naked initial chord
+4. All vowels that come after the stressed vowel use a naked final chord
+
+Some extra rules:
+- When there are two-or-more initial chords in a row, all but the first may be skipped (`K/T/TO/-FRPBG` becomes `K/TO/-FRPBG`)
+- For words that only differ in their unstressed vowel sounds, move the stressed vowel to their "problem" vowel, or the vowel that conflicts. ("affect" and "effect" may be conflicts, so move the stressed vowel from "fect" to "af" and "ef")
+- You may have to employ some ortho suffixes like "^men" and "^man". (`SEE/M-N` -> "semen", `SEE/MA*N` -> "seaman", `SEE/ME*N` -> "seamen" - ([[Raw Steno|Raw Steno]]))
+
+- In general, you can add affixes while still being regular, document this somewhere.
 
 ## Just stop and leave this page
 
