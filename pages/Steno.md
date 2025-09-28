@@ -13,7 +13,7 @@ Resources for machine stenography that [[Home|I've]] made over the past year or 
 
 ---
 
-- [[Steno Glossary|Steno Glossary]] - Glossary of steno terms you might here, made for beginners and experts alike
+- [[Steno Glossary|Steno Glossary]] - Glossary of steno terms you might hear
 - [[Raw Steno|Raw Steno]] - Common notation you might see for [[Steno Glossary#Raw Steno|raw steno]]
 - [[Coding with Steno|Coding with Steno]] - [[Code Editors|Writing and editing]] [[Programming Languages|code]] with steno effectively
 - [[Chords vs Strokes|Chords vs. Strokes]]
