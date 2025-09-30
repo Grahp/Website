@@ -7,12 +7,19 @@ permalink: setting-up-pinchord
 
 Guide for setting up [[Pinchord|Pinchord]] on Plover and Javelin.
 
-## Javelin
-
-Layout can be found at [https://codeberg.org/grahp/pincord](https://codeberg.org/grahp/pincord).
-
-Instructions in the repo.
-
 ## Plover
 
-Plover plugin and dictionary are not currently available. Sorry!
+Pinchord is currently only supported for Javelin, probably until the theory is stable enough that maintaining 2 copies of it isn't a pain in the ass.
+
+## Javelin
+
+System:
+![Click to download pinchord-javelin-system.yaml](../assets/pages/setting-up-pinchord/pinchord-javelin-system.yaml)
+
+Orthospelling Dictionary:
+![Click to download pinchord-javelin-dictionary.yaml](../assets/pages/setting-up-pinchord/pinchord-javelin-dictionary.yaml)
+
+Instructions:
+
+> [!WARNING]
+> You should always back up your User Dictionary before switching systems on Javelin!
