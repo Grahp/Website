@@ -90,3 +90,5 @@ h1 {margin-block-start: 0;
     text-align: center}
 
 p {margin: 0 0 var(--base-font-size) 0}
+
+hr {margin: 1.5rem 0}
