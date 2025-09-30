@@ -14,12 +14,12 @@ Pinchord is currently only supported for Javelin, probably until the theory is s
 ## Javelin
 
 System:
-![Click to download pinchord-javelin-system.yaml](../assets/pages/setting-up-pinchord/pinchord-javelin-system.yaml)
+[Click to download pinchord-javelin-system.yaml](../assets/pages/setting-up-pinchord/pinchord-javelin-system.yaml)
 
 Orthospelling Dictionary:
-![Click to download pinchord-javelin-dictionary.yaml](../assets/pages/setting-up-pinchord/pinchord-javelin-dictionary.yaml)
+[Click to download pinchord-javelin-dictionary.yaml](../assets/pages/setting-up-pinchord/pinchord-javelin-dictionary.yaml)
 
 Instructions:
 
-> [!WARNING]
-> You should always back up your User Dictionary before switching systems on Javelin!
+WARNING:
+**You should always back up your User Dictionary before switching systems on Javelin!**
