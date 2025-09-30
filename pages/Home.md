@@ -6,14 +6,20 @@ redirect_from:
 ---
 Hello, I'm [[Grahp|Grahp]]!
 
-I'm a software developer from The Internet™, currently writing a [[Minecraft Server|Minecraft server]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]] called [[Bowmap|Bowmap]].
+I'm a software developer from The Internet™, currently working on a couple things:
 
-I'm also designing [[Pinchord|Pinchord]], a [[Steno]] [[Steno Glossary#Theory|theory]], and I have a bunch of [[Steno|steno resources]] :)
+[[Bowmap|Bowmap]] is an MMORPG [[Minecraft Server|Minecraft server]] written [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]].
 
-A few other random interests of mine are [[Programming Languages]], [[Code Editors]], and [[Music]].
+---
+
+[[Pinchord]] is a full-English [[Steno Glossary#Orthospelling|orthospelling]] [[Steno Glossary#Theory|theory]] that I'm in the process of designing and learning.
+
+Check out the full [[Steno|Steno]] page for other resources and older stuff.
+
+---
 
 You can [[Contact]] me via email at `grahp@grahp.dev`.
 
-I'm [[Open Source|hosting code]] on Codeberg for the time being ([https://codeberg.org/grahp](https://codeberg.org/grahp)). I'm too lazy to set up a git server right now.
+Soon™ I will have a [[Open Source|git server]] here :p
 
-All links are probably [[404|permalinks]]. They're also all [[How to Take Notes|internal links]] unless they start with "https://", so you can click around without fear!
+All links are [[404|Permalinks]] and [[How to Take Notes|internal links]] (unless they start with "https://"), so you can click around without fear!
