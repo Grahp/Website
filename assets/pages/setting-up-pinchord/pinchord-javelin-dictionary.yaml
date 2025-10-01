@@ -9,6 +9,7 @@ letters:
 - {stroke: -LRPFT, data: ny, order: 4}
 - {stroke: -LRKFG, data: nsh, order: 4}
 - {stroke: -LRKGS, data: nc, order: 4}
+- {stroke: -LRPKF, data: wn, order: 4}
 - {stroke: -LFGTS, data: lth, order: 4}
 - {stroke: -RFGTS, data: rth, order: 4}
 - {stroke: TSPWH, data: gh, order: 2}
@@ -69,6 +70,8 @@ letters:
 - {stroke: -LKF, data: lch, order: 4}
 - {stroke: -RKF, data: rch, order: 4}
 - {stroke: -KFG, data: sh, order: 4}
+- {stroke: -KFS, data: sc, order: 4}
+- {stroke: -PFS, data: sp, order: 4}
 - {stroke: -LKG, data: ld, order: 4}
 - {stroke: -RKG, data: rd, order: 4}
 - {stroke: -KGS, data: c, order: 4}
