@@ -12,7 +12,7 @@ I'm a software developer from The Internet™, currently working on a couple thi
 
 ---
 
-[[Pinchord|Pinchord]] is a full-English [[Steno Glossary#Orthospelling|orthospelling]] [[Steno Glossary#Theory|theory]] that I'm in the process of designing and learning.
+[[Pinchord|Pinchord]] is a [[Steno Glossary#Full-English|full-English]] [[Steno Glossary#Orthospelling|orthospelling]] [[Steno Glossary#Theory|theory]] that I'm in the process of designing and learning.
 
 Check out the full [[Steno|Steno]] page for other resources and older stuff.
 

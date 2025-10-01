@@ -33,6 +33,7 @@ Outline:
   - Short
   - [_Phonetic_](#phonetic)
   - [_Orthographic_](#orthographic)
+  - [_Full-English](#full-english)
 - [_Conflict_](#conflict)
   - [_Word Boundary Conflict_](#word-boundary-conflict)
   - Word-affix Conflicts
@@ -183,6 +184,11 @@ Describing a theory where words are [_written_](#writing) how they sound rather 
 **Adjective**
 
 Describing a [_theory_](#theory) where words are [_written_](#writing) how they are spelled rather than how they sound.
+
+## Full-English
+**Adjective**
+
+A full-English [_theory_](#theory) is designed to [_write_](#writing) all of English, rather than something like numbers, _phrasing_, movement, etc.
 
 ## Conflict
 **Noun**
