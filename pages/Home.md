@@ -18,6 +18,10 @@ Check out the full [[Steno|Steno]] page for other resources and older stuff.
 
 ---
 
+I am designing a [[Programming Languages|programming language]] under the name Faddle, but I don't think I have enough to say about that just yet.
+
+---
+
 You can [[Contact]] me via email at `grahp@grahp.dev`.
 
 Soon™ I will have a [[Open Source|git server]] here :p
