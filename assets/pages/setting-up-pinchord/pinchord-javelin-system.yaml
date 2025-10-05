@@ -1,10 +1,12 @@
 name: "Pinchord"
+## Eventually I think I could make this work with the normal extended stenotype layout?
+## Requiring only the # S thing and to make ^+ maybe?
 keys:
-  - name: "#"
-    mask: 0x01
-  - name: "+"
-    mask: 0x02
   - name: "*"
+    mask: 0x01
+  - name: "#"
+    mask: 0x02
+  - name: "+"
     mask: 0x04
   - name: "T"
     mask: 0x08
