@@ -401,3 +401,4 @@ orthography:
       suppressMask: ""
       pattern: "^(.+)ing$"
       replacement: "\\1"
+## Pinchord Version 3
