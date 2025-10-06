@@ -18,8 +18,6 @@ I'd like to learn Haskell, but haven't :(
 
 I've probably gotten too comfortable in my current ways. Haskell looks pretty cool, though it is still in somewhat of a similar world to [[Clojure|Clojure]]. I'm sure there are most interesting languages that I should learn. I've tried a lot of languages out very briefly, but haven't given them a fair shot.
 
-Haskell does seem a little close to Clojure. I mean, I've tried learning some other languages, but I feel like I can't go back to mutability or OO after using Clojure lol.
-
 And maybe see [[Coding with Steno]]?
 
 I [[Code Editors|write]] in [[Vim|Vim]], btw.
