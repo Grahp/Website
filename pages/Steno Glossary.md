@@ -65,7 +65,8 @@ Outline:
   - [_Initial_](#initial)
   - [_Vowel_](#vowel)
   - [_Final_](#final)
-  - [Skeleton](#skeleton)
+  - [_Skeleton_](#skeleton)
+  - [_Unique_](#unique)
 - Key Label
 - [_Fingerspelling_](#fingerspelling)
 - [_Orthospelling_](#orthospelling)
@@ -352,6 +353,13 @@ A _stroke_ that is a skeleton.
 **Adjective**
 
 A skeleton _stroke_ has no _keys_ in the _vowel_ _bank_
+
+## Unique
+**Adjective**
+
+A unique [_initial_](#initial), [_vowel_](#vowel), or [_final_](#final) is a  [_chord_](#chord) that is only used for one purpose.
+
+- Most non-english [_dictionaries_](#dictionaries), like numbers or [_phrasing_](#phrase), require a unique [_chord_](#chord) so they don't [_conflict_](#conflict) with english words.
 
 ## Fingerspelling
 **Noun**
