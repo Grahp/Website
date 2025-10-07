@@ -151,4 +151,4 @@ September 5, 2025, 133 days until release:
 
 September 4, 2025, 134 days until release:
 
-- Made this and [[Bowmap Roadmap|the roadmap]]!
+- Made this :p
