@@ -157,7 +157,7 @@ The process of "looking up" the set of [_outlines_](#outlines) that map to a giv
 ## Generated
 **Adjective**
 
-A generated [_dictionary_](#dictionary) is not created manually one [_entry_](#entry) at a time, but instead made using a program that will generate the [_dictionary_](#dictionary) automatically.
+A generated [_dictionary_](#dictionary) is not created manually, but instead made using a program that will generate the [_dictionary_](#dictionary) automatically.
 
 - Generated [_dictionaries_](#dictionary) often require some amount of manual tweaking.
 - There's a lot of overlap between generated and [_programmatic_](#programmatic) [_dictionaries_](#dictionary). Programmatic dictionaries are also made using a program that generates [_translations_](#translation) on-the-fly.
