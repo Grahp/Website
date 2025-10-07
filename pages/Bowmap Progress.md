@@ -13,6 +13,8 @@ My goal is to have some kind of tangible progress every single day.
 October 7, 2025, 101 days until release
 
 - Another time skip ._.
+- Erm I got chunks working, at least chunks with only a single type of block in them
+- And I broke the server and now I'm trying to fix it. I broke it like 2 days ago and now I honestly can't remember what's broken about it, so that's fun
 
 September 27, 2025, 111 days until release
 
