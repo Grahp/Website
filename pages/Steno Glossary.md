@@ -43,6 +43,7 @@ Outline:
 - [_Brief_](#brief)
   - Misstroke
   - [_Arbitrary_](#arbitrary)
+  - [_Phrase_](#phrase)
 - [_Mandatory_](#mandatory)
 - [_Raw Steno_](#raw-steno)
 - Paper Tape/Steno Paper
@@ -239,6 +240,11 @@ An arbitrary [outline](#outline) does not follow the [rules](#theory-rule) of th
 An arbitrary [_entry_](#entry).
 
 - Sometimes shortened to "arb".
+
+## Phrase
+**Noun**
+
+A type of [_brief_](#brief) that [_translates_](#translation) to a sequence of words.
 
 ## Mandatory
 **Noun**
