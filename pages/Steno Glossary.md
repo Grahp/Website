@@ -195,7 +195,7 @@ A full-English [_theory_](#theory) is designed to [_write_](#writing) all of Eng
 ## Conflict
 **Noun**
 
-An [_outline_](#outline) that has multiple valid [_translations_](#translation) according to your [_theories_](#theory).
+An [_outline_](#outline) that has multiple valid [_translations_](#translation) according to your [_theory_](#theory).
 
 - There are many different kinds of conflicts that happen for different reasons.
 
