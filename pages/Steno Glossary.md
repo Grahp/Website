@@ -25,6 +25,7 @@ Outline:
 - [_Dictionary_](#dictionary)
   - [_Lookup_](#lookup)
   - [_Reverse Lookup_](#reverse-lookup)
+  - [_Generated_](#generated)
   - [_Programmatic_](#programmatic)
   - [_Modal_](#modal)
 - [_Theory Rule_](#theory-rule)
@@ -153,10 +154,20 @@ The process of "looking up" the set of [_outlines_](#outlines) that map to a giv
 - Called "reverse lookup" as it is the opposite of regular [_lookup_](#lookup).
 - Each [_outline_](#outline) that reverse lookup gives you could be [_looked up_](#lookup) to get the [_translation_](#translation) you gave reverse lookup.
 
+## Generated
+**Adjective**
+
+A generated [_dictionary_](#dictionary) is not created manually one [_entry_](#entry) at a time, but instead made using a program that will generate the [_dictionary_](#dictionary) automatically.
+
+- Generated [_dictionaries_](#dictionary) often require some amount of manual tweaking.
+- There's a lot of overlap between generated and [_programmatic_](#programmatic) [_dictionaries_](#dictionary). Programmatic dictionaries are also made using a program that generates [_translations_](#translation) on-the-fly.
+
 ## Programmatic
 **Adjective**
 
-A _dictionary_ being programmatic means that it [_translates_](#translation) [_outlines_](#outline) as you _write_ them, rather having a pre-defined collection of [_entries_](#entry).
+A [_dictionary_](#dictionary) being programmatic means that it [_translates_](#translation) [_outlines_](#outline) as you _write_ them, rather having a pre-defined collection of [_entries_](#entry).
+
+- See [_Generated_](#generated)
 
 ## Modal
 **Adjective**
