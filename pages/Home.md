@@ -22,4 +22,4 @@ You can [[Contact]] me via email at `grahp@grahp.dev`.
 
 Soon™ I will have a [[Open Source|git server]] here :p
 
-All links are [[404|Permalinks]] and [[How to Take Notes|internal links]] (unless they start with "https://"), so you can click around without fear!
+All links are [[404|Permalinks]] and they're [[How to Take Notes|internal links]] (unless they start with "https://"), so you can click around without fear!
