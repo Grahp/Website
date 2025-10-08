@@ -4,7 +4,7 @@ title: Home
 redirect_from:
   - projects
 ---
-Hello, I'm [[Grahp|Grahp]]!
+Hello, I'm Grahp!
 
 I'm a software developer from The Internet™, currently working on a couple things:
 
