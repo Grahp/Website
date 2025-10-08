@@ -13,7 +13,7 @@ There's also [https://bowmap.net](https://bowmap.net), but there's nothing on th
 
 You should join the Discord ([https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)), lots of epic people there.
 
-Bowmap is [[Open Source|open source]], source code at [https://codeberg.org/Bowmap/Server](https://codeberg.org/Bowmap/Server)!
+Bowmap is open source, source code at [https://codeberg.org/Bowmap/Server](https://codeberg.org/Bowmap/Server)!
 
 Not sure it will be open source in its entirety, and not just the core server logic, but for now it's all there :p
 
