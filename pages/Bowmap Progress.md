@@ -10,6 +10,10 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+October 8, 2025, 100 days until release
+
+- BUSY, just some thinking
+
 October 7, 2025, 101 days until release
 
 - Another time skip ._.
