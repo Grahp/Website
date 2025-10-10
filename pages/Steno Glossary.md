@@ -34,7 +34,7 @@ Outline:
   - Short
   - [_Phonetic_](#phonetic)
   - [_Orthographic_](#orthographic)
-  - [_Full-English](#full-english)
+  - [_Full-English_](#full-english)
 - [_Conflict_](#conflict)
   - [_Word Boundary Conflict_](#word-boundary-conflict)
   - Word-affix Conflicts
