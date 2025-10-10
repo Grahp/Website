@@ -17,8 +17,6 @@ The difference between [[Steno Glossary#Chord|chords]] and [[Steno Glossary#Stro
 
 Both strokes and chords are sets of [[Steno Glossary#Key|keys]]. They share identical structure.
 
-When using sets of keys generically, the term _stroke_ is used. All chords are strokes.
-
 The term _stroke_ encompasses all sets of keys. Thus, **all chords are strokes**.
 
 Chords can be combined to form strokes. For example, the chord `TPH-` and the chord `OE` can be combined to form the stroke `TPHOE` ([[Steno Glossary#Entry|mapping]] to [[Steno Glossary#Translation|"no"]]).
