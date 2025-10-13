@@ -5,6 +5,7 @@ redirect_from:
   - serial-theory-rule-application
   - programmatic-dictionaries
   - programmatic-dictionary-generator
+  - generated-programmatic-dictionaries
 ---
 
 Ideas around [[Steno]] [[Steno Glossary#Programmatic|programmatic dictionary]] generators. Stuff [[Home|I]] learned from making [[Quartz|Quartz]], a Programmatic Dictionary Generator.
