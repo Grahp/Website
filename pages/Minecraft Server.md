@@ -7,6 +7,6 @@ redirect_from:
 
 [[Home|I'm]] writing a Minecraft server called [[Bowmap|Bowmap]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]], you should check it out :p
 
-I think Minecraft servers are boring!
+I think most Minecraft servers are pretty boring and uninspired. I'd like to use Minecraft as a game engine and make something interesting!
 
-See [[Minecraft Server From Scratch|Minecraft Server From Scratch]]
+Check out [[Minecraft Server From Scratch|Minecraft Server From Scratch]] and [[Bowmap|Bowmap]].
