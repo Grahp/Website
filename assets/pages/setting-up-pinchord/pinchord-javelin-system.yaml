@@ -25,12 +25,12 @@ keys:
     mask: 0x200
   - name: "A"
     mask: 0x400
-  - name: "E"
+  - name: "O"
     mask: 0x800
   - name: "-"
     mask: 0
-    absentMask: 0x3e00 ## match ^AEIU
-    presentMask: 16773120 ## match every key after ^AEIU
+    absentMask: 0x3e00 ## match ^AOIU
+    presentMask: 16773120 ## match every key after ^AOIU
   - name: "I"
     mask: 0x1000
   - name: "U"
@@ -52,7 +52,7 @@ keys:
     mask: 0x100000
   - name: "S"
     mask: 0x200000
-  - name: "D"
+  - name: "E"
     mask: 0x400000
   - name: "Z"
     mask: 0x800000
@@ -312,93 +312,9 @@ layout:
     ]
 
 orthography:
-  rules:
-    - pattern: "^(.*[aeiou]c) \\^ly$"
-      replacement: "\\1ally"
-    - pattern: "^(.+[aeioubmnp])le \\^ly$"
-      replacement: "\\1ly"
-    - pattern: "^(.*t)e \\^(a?ry)$"
-      replacement: "\\1ory"
-    - pattern: "^(.+)m \\^tor(il)?y$"
-      replacement: "\\1mator\\2y"
-    - pattern: "^(.+)se \\^ar(y|ies)$"
-      replacement: "\\1sor\\2"
-    - pattern: "^(.*[naeiou])te? \\^cy$"
-      replacement: "\\1cy"
-    - pattern: "^(.*(?:[sz]h?|x)) \\^s$"
-      replacement: "\\1es"
-    - pattern: "^(.*(?:o[aou]|e[ae]|au|[ilnrt])ch) \\^s$"
-      replacement: "\\1es"
-    - pattern: "^(.+[bcdfghjklmnpqrstvwxz])y \\^s$"
-      replacement: "\\1ies"
-    - pattern: "^(.+)ie \\^ing$"
-      replacement: "\\1ying"
-    - pattern: "^(.+[cdfghlmnpr])y \\^ist$"
-      replacement: "\\1ist"
-    - pattern: "^(.+[bcdfghjklmnpqrstvwxz])y \\^([a-hj-xz].*)$"
-      replacement: "\\1i\\2"
-    - pattern: "^(.+)te \\^en$"
-      replacement: "\\1tten"
-    - pattern: "^(.+[ae]) \\^e(ns?)$"
-      replacement: "\\1\\2"
-    - pattern: "^(.+)y \\^ial(ly)?$"
-      replacement: "\\1ial\\2"
-    - pattern: "^(.+)i \\^if(y(?:ing)?|ie[sd]|ications?)$"
-      replacement: "\\1f\\2"
-    - pattern: "^(.+[aoeui])y \\^if(y(?:ing)?|ie[sd]|ications?)$"
-      replacement: "\\1if\\2"
-    - pattern: "^(.+)ic \\^ical(ly)?$"
-      replacement: "\\1ical\\2"
-    - pattern: "^(.+)ology \\^ical(ly)?$"
-      replacement: "\\1ological\\2"
-    - pattern: "^(.*)ry \\^ical(ly|ity)?$"
-      replacement: "\\1rical\\2"
-    - pattern: "^(.*l) \\^(ists?)$"
-      replacement: "\\1\\2"
-    - pattern: "^(.*)ry \\^ity$"
-      replacement: "\\1rity"
-    - pattern: "^(.*)l \\^ity$"
-      replacement: "\\1lity"
-    - pattern: "^(.+)rm \\^tiv(e|ity|ities)$"
-      replacement: "\\1rmativ\\2"
-    - pattern: "^(.+)e \\^tiv(e|ity|ities)$"
-      replacement: "\\1ativ\\2"
-    - pattern: "^(.+)y \\^i([sz](?:e(?:[sdr]|rs)?|ing|ations?|ab(?:le|ility)))$"
-      replacement: "\\1i\\2"
-    - pattern: "^(.+)al \\^i([sz](?:e(?:[sdr]|rs)?|ing|ations?|ms?|ab(?:le|ility|ilities)))$"
-      replacement: "\\1ali\\2"
-    - pattern: "^(.+)ar \\^i([sz](?:e(?:[sdr]|rs)?|ing|ations?|ms?))$"
-      replacement: "\\1ari\\2"
-    - pattern: "^(.*[lmnty]) \\^i([sz](?:e(?:[sdr]|rs)?|ing|ations?|ms?|ab(?:le|ility|ilities)))$"
-      replacement: "\\1i\\2"
-    - pattern: "^(.+)al \\^olog(y|ists?|ical(?:ly)?)$"
-      replacement: "\\1olog\\2"
-    - pattern: "^(.+)([aeo]r) \\^ish$"
-      replacement: "\\1\\2ish"
-    - pattern: "^(.+e)e \\^(e.+)$"
-      replacement: "\\1\\2"
-    - pattern: "^(.+[bcdfghjklmnpqrstuvwxz])e \\^([aeiouy].*)$"
-      replacement: "\\1\\2"
-    - pattern: "^(.*(?:[bcdfghjklmnprstvwxyz]|qu)[aeiou])([bcdfgklmnprtvz]) \\^([aeiouy].*)$"
-      replacement: "\\1\\2\\2\\3"
-  aliases:
-    - suffix: "able"
-      alias: "ible"
-    - suffix: "ability"
-      alias: "ibility"
-  auto-suffix:
-    - key: "-Z"
-      suffix: "{^s}"
-    - key: "-D"
-      suffix: "{^ed}"
-    - key: "-DZ"
-      suffix: "{^ing}"
-  reverse-suffix:
-    - pattern: "^(.+)i$"
-      replacement: "\\1y"
-  reverse-auto-suffix:
-    - key: "-DZ"
-      suppressMask: ""
-      pattern: "^(.+)ing$"
-      replacement: "\\1"
-## Pinchord Version 3
+  rules: []
+  aliases: []
+  auto-suffix: []
+  reverse-suffix: []
+  reverse-auto-suffix: []
+## Pinchord Version 4
