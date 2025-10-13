@@ -14,8 +14,3 @@ Using a vanilla server means inheriting all of Minecraft's built-in features, ev
 Beyond the vanilla gameplay mechanics, there is the constraint of the vanilla server architecture, which was designed for small survival worlds, and is a terrible fit for an MMO. A considerable amount of time and effort is spent tweaking the the server to fit your exact needs. The vanilla server is very state-heavy and single-threaded, making concurrency and scaling of a server nearly impossible. Everything is run in a main game loop run on a fixed tick cycle, which is unnecessarily restrictive and slow. The vanilla server is heavily coupled to the client, requiring great consideration as to how every part of the server interacts with the client.
 
 The vanilla server, and most custom server implementations, are written in Java. Java is a [[Programming Languages|language]] straight from hell and I will not use it. While it is possible to interface with these servers from [[Clojure|Clojure]], they are still incredibly complex and stateful. You can't use Clojure to its fullest with a Java base.
-
-
-## Ideas
-
-- A [[Client-agnostic Minecraft Server|Client-agnostic Minecraft server]]
