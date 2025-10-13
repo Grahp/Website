@@ -7,14 +7,16 @@ redirect_from:
 
 Bowmap is [[Home|my]] MMORPG [[Minecraft Server|Minecraft server]] [[Minecraft Server From Scratch|written from-scratch]] in [[Clojure|Clojure]]!
 
-It's currently in development. Chapter 1 Alpha 1 will release on January 17, 2026! Check out the and the [[Bowmap Progress|Progress/Roadmap]].
+It's currently in development. Chapter 1 Alpha 1 will release on January 17, 2026!
 
-There's also [https://bowmap.net](https://bowmap.net), but there's nothing on there yet :p. It's easier to have everything on one website, so it's here.
+Check out the [[Bowmap Progress|Bowmap Progress]] page for what I've done every day (or, you know, whenever I remember to update it o-o)
 
 You should join the Discord ([https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)), lots of epic people there.
 
 Bowmap is open source, source code at [https://codeberg.org/Bowmap/Server](https://codeberg.org/Bowmap/Server)!
 
-Not sure it will be open source in its entirety, and not just the core server logic, but for now it's all there :p
+Source code is available (under GPL v2), at least for the time being. ([https://codeberg.org/Bowmap/Server](https://codeberg.org/Bowmap/Server))
 
-I really want to make a library for making custom [[Minecraft Server|Minecraft servers]] in [[Clojure|Clojure]]. I've been making Bowmap for a very long time, and I'm having to create the tools that I need to not go crazy. I'd like to open source those tools once I make them :D
+Probably won't be open source in its entirety, but for now, it's all there.
+
+I definitely want to make a [[Minecraft Server|Minecraft server]] library for [[Clojure|Clojure]] so that the next person doesn't have to go down the path I'm having to right now, but that also sounds like a lot of work, so I'm not sure.
