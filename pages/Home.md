@@ -6,6 +6,8 @@ redirect_from:
 ---
 Hello, I'm Grahp!
 
+This is my website :p
+
 I'm a software developer from The Internet™, currently working on a couple things:
 
 [[Bowmap|Bowmap]] is an MMORPG [[Minecraft Server|Minecraft server]] written [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]].
