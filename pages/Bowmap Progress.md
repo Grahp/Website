@@ -10,6 +10,22 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+October 17, 2025, 91 days until release
+
+- I'll try to remember to update this lol
+- Continuing that rewrite :p
+- Mostly boring, but it needs to get done
+- After this I think I will work on blocks and chunks
+- Besides blocks, there are also items, inventories, entities, the player, and a bunch of other things to do :p
+- And that's just sort of "vanilla interop" things, not even the more interesting non-vanilla things I want to do!
+- Big plans, no idea how much of that will be realized in 90 days but there will hopefully be at least something :p
+
+October 18, 2025, 92 days until release
+
+- Did a lot, fixed some bugs, did texture pack work, started rewriting some things that desperately need rewritten!
+- I found some texture pack tweaks I can use to make the world look very interesting and much less like vanilla Minecraft, which is super cool.
+- I think the game is starting to have its own kind of art style that I'm trying to nail down. I have a general vibe of what I want, but there are lot of blocks to make and I don't have all that much experience with pixel art - I've mostly just done items and not blocks (blocks are hard :p)
+
 October 8, 2025, 100 days until release
 
 - BUSY, just some thinking
