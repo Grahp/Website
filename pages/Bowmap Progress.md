@@ -10,6 +10,12 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+October 18, 2025, 90 days until release
+
+- Side note, spec annoys me sometimes
+- But anyways, there's still stuff to rewrite. I gotta finish this rule/event system so I can not go crazy. And then there's still a lot of mess :p
+- Project crossed 1000 lines which is neat. The majority of that is codecs and packets but still (and I'm in the middle of a rewrite)
+
 October 17, 2025, 91 days until release
 
 - I'll try to remember to update this lol
