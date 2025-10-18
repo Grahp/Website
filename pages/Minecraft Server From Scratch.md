@@ -32,3 +32,5 @@ The vanilla server is very stateful and single-threaded, making it very difficul
 The vanilla server is built around the concept of "worlds", which, again, makes a lot of sense for a survival world, and very little else.
 
 And back on the topic of insanity, this stateful object-oriented programming model that seems to dominate Minecraft servers just drives me crazy.
+
+Ok that's it :)
