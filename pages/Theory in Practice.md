@@ -3,15 +3,14 @@ title: Theory in Practice
 permalink: theory-in-practice
 ---
 
-Very in-progress, but [[Home|I'm]] tired of leaving this uncommitted.
+A page [[Home|I]] might like to write some day.
 
-Basically, I want to talk about how complex our theories are, how we got here, why it needs to change, and what can be done about it.
+I think our [[Steno|steno]] [[Steno Glossary#Theory|theories]] have failed to adapt the the era of realtime. We are being crushed under the weight of complexity, and don't even know it.
 
-In the age of realtime theories, I think there's a lot more we can do.
+There's a lot that can be changed, and should be changed.
 
-This is a call-to-action that we need to be writing simpler theories if we want to make steno better, and more accessible.
+This is a call-to-action that we need to be making simpler theories if we want to take steno into the future.
 
-For now, see:
-- [[Generated Programmatic Dictionaries|Generated Programmatic Dictionaries]]
-- [[Regular Outline Grammars|Regular Outline Grammars]]
-- [[Pinchord|Pinchord]]
+[[Pinchord|Pinchord]] is my best attempt to write an incredibly simple theory, you can check that out.
+
+I've also written a bit about theory complexity related to [[Regular Outline Grammars]] and [[Generated Programmatic Dictionaries]] if you're interested.
