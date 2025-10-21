@@ -3,11 +3,9 @@ title: Theory in Practice
 permalink: theory-in-practice
 ---
 
-A page [[Home|I]] might like to write some day.
+Something [[Home|I]] would like to write about some day.
 
-I think our [[Steno|steno]] [[Steno Glossary#Theory|theories]] have failed to adapt the the era of realtime. We are being crushed under the weight of complexity, and don't even know it.
-
-There's a lot that can be changed, and should be changed.
+I think our [[Steno|steno]] [[Steno Glossary#Theory|theories]] have failed to adapt the the era of realtime. We are being crushed under the weight of our own self-inflicted complexity, and don't even know it.
 
 This is a call-to-action that we need to be making simpler theories if we want to take steno into the future.
 
