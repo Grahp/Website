@@ -18,6 +18,7 @@ Resources for machine stenography that [[Home|I've]] made over the past year or 
 - [[Coding with Steno|Coding with Steno]] - [[Code Editors|Writing and editing]] [[Programming Languages|code]] with steno effectively
 - [[Chords vs Strokes|Chords vs. Strokes]]
 - [[Uberdictionary|Uberdictionary]] - How [[Generated Programmatic Dictionaries|generated]] [[Steno Glossary#Phonetic|phonetic]] [[Steno Glossary#Theory|theories]] could work
+- [[Theory in Practice|Theory in Practice]] - A page about theory complexity that I have yet to written but put on here anyway :p
 - [[Programmatic Dictionaries Rule|Programmatic Dictionaries Rule]]
 
 ---
