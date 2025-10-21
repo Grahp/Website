@@ -10,6 +10,11 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+October 19, 2025, 89 days until release
+
+- Pulling apart the server and doing a rather large rewrite of its main logic.
+- Still don't have a good rule system, so that needs to happen, and then I can handle packets and respond to them in a reasonable way.
+
 October 18, 2025, 90 days until release
 
 - Side note, spec annoys me sometimes
