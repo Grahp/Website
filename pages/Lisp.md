@@ -5,4 +5,6 @@ permalink: lisp
 
 The BEST [[Programming Languages|Programming Language]]!
 
-[[Home|I]] [[Code Editors|write]] in [[Clojure|Clojure]], and a little bit of [[Fennel|Fennel]].
+[[Home|I]] [[Code Editors|write]] in [[Clojure|Clojure]] :p
+
+I'm trying to write a small lisp interpreter right now, but I can't figure out the memory management
