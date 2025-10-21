@@ -20,7 +20,7 @@ I've been working on it for like 3 years, but you can see where I am on the late
 
 See the [[Steno|Steno]] page for links to all the other pages I've made about steno :p
 
-There are some good reads there. And there's also... Uh :p
+There are some good reads there. And there's also... Uh...
 
 ---
 
