@@ -5,9 +5,7 @@ permalink: music
 
 [[Home|I]] like music!
 
-Current favorite project: Microphones in 2020 by The Microphones ([https://pwelverumandsun.bandcamp.com/album/microphones-in-2020](https://pwelverumandsun.bandcamp.com/album/microphones-in-2020))
-
-I am way overlistening to this album lmao
+Current favorite project: Too hard to say anymore grofl
 
 ---
 
