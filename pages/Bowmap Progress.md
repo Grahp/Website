@@ -10,6 +10,12 @@ My goal is to have some kind of tangible progress every single day.
 
 ## Progress
 
+(In reverse chronological order... I know, yuck)
+
+October 20, 2025, 88 days until release
+
+- Nothing! I was very busy (and lazy) today :(
+
 October 19, 2025, 89 days until release
 
 - Pulling apart the server and doing a rather large rewrite of its main logic.
