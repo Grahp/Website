@@ -15,7 +15,7 @@ Even with software like Spigot or Paper, writing Minecraft servers drives me cra
 
 That being said, there is a lot of cool stuff you can do with a from-scratch Minecraft server.
 
-Minecraft is a game, and you cannot hope to another game on top of it. You cannot take a game and add things to it and expect a new game to come out the other end.
+Minecraft is a game, and you cannot hope to another game on top of it. You cannot take a game and add things to it and expect a sufficiently unique game to come out the other end.
 
 Minecraft servers that build off the vanilla game are extremely constrained in what they can actually do. This might not have always been the case, but it absolutely is today.
 
