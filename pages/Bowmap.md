@@ -13,8 +13,6 @@ Check out the [[Bowmap Progress|Bowmap Progress]] page for what I've done every 
 
 You should join the Discord ([https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)), lots of epic people there.
 
-Bowmap is open source, source code at [https://codeberg.org/Bowmap/Server](https://codeberg.org/Bowmap/Server)!
-
 Source code is available (under GPL v2), at least for the time being. ([https://codeberg.org/Bowmap/Server](https://codeberg.org/Bowmap/Server))
 
 Probably won't be open source in its entirety, but for now, it's all there.
