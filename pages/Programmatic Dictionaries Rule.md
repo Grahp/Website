@@ -5,7 +5,7 @@ permalink: programmatic-dictionaries-rule
 
 A [[Steno Glossary#Dictionary|dictionary]] is [[Steno Glossary#Outline|outlines]] to [[Steno Glossary#Translation|translations]].
 
-A [[Steno Glossary#Programmatic Dictionary|programmatic dictionary]] is a dictionary, a programmatic dictionary is programmatic.
+A [[Steno Glossary#Programmatic|programmatic dictionary]] is a dictionary, a programmatic dictionary is programmatic.
 
 Programmatic is [[Steno Glossary#Theory Rule|rules]].
 
