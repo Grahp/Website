@@ -12,6 +12,12 @@ My goal is to have some kind of tangible progress every single day.
 
 (In reverse chronological order... I know, yuck)
 
+October 22, 2025, 86 days until release
+
+- I seriously need to learn to stop undergoing large refactors, they're just never a good idea...
+
+---
+
 October 21, 2025, 87 days until release
 
 - No se
