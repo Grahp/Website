@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <style> {% include video.css %} </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    {% if page.source %}
+      <video controls preload="metadata" id="video">
+        <source src="{{ page.source | relative_url }}" type="video/mp4">
+        No video poopoo
+      </video>
+    {% endif %}
+    {{ content }}
+  </body>
+</html>
