@@ -11,5 +11,4 @@ Pinchord is a [[Steno]] [[Steno Glossary#Orthospelling|orthospelling]] [[Steno G
 
 Layout Graphic:
 
-- Put it here
-- Explain anything that might be unintuative
+![Pinchord 5 Layout Graphic](../assets/images/pinchord-5-layout.png)
