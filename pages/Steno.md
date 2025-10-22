@@ -25,5 +25,5 @@ Resources for machine stenography that [[Home|I've]] made over the past year or 
 
 Old Stuff:
 - [[Quartz|Quartz]] - [[Generated Programmatic Dictionaries|Programmatic dictionary generator]]
-- [[Onyx|Onyx]] and the [[Onyx Spec|Onyx Spec]] - Old [[Steno Glossary#Phonetic|phonetic]] [[Steno Glossary#Theory|theory]] of [[Home|mine]]
+- [[Onyx|Onyx]] and the [[Onyx Spec|Onyx Spec]] - Old [[Steno Glossary#Phonetic|phonetic]] [[Steno Glossary#Theory|theory]] of mine
 - [[Ametrine|Ametrine]] - Old [[Steno Glossary#Orthospelling|orthospelling]] [[Steno Glossary#Theory|theory]], [[Pinchord|Pinchord]] is better
