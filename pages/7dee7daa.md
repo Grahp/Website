@@ -1,6 +1,8 @@
 ---
-permalink: 7dee7daa-d8ba-4f93-bf99-bae790e139b3
+permalink: 7dee7daa
 layout: code
+redirect_from:
+  - 7dee7daa-d8ba-4f93-bf99-bae790e139b3
 ---
 
 ```clojure
