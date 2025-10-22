@@ -3,12 +3,19 @@ permalink: onyx
 title: Onyx
 ---
 
-Onyx is an abandoned [[Steno]] Phonetic[[Steno Glossary#Theory|Theory]] [[Home|I]] was making.
+Onyx is a [[Steno Glossary#Phonetic|phonetic]] [[Steno]] [[Steno Glossary#Theory|theory]] that [[Home|I]] was working on a while ago.
 
-I've tried to organize the ideas I had at the time I was making this.
+I have since moved on to [[Steno Glossary#Orthospelling|orthospelling]] with a theory called [[Pinchord|Pinchord]] (see [[Theory in Practice|Theory in Practice]]), but I've tried to organize the theory here so that anyone making a new phonetic theory can take inspiration.
 
-Onyx was derived from the Lapwing theory ([https://lapwing.aerick.ca/](https://lapwing.aerick.ca/)), a descendant of StenEd ([https://www.stenedsource.com/](https://www.stenedsource.com/))
+I would encourage you to read through the [[Onyx Spec|Onyx spec]] if you're making a new phonetic theory. You should really read about as many theories as you can :p
 
-You can check out the old [[Onyx Spec|Onyx spec]].
+Onyx was an attempt to make an extremely simple phonetic theory (again, see [[Theory in Practice|Theory in Practice]]) built around a few core ideas:
 
-I also briefly used this name for an [[Steno Glossary#Orthospelling|orthospelling]] theory later named [[Pinchord|Pinchord]], so maybe check that out as well.
+1. Fully phonetic
+2. Extremely short
+3. Zero* mandatories
+4. Open to heavy briefing
+
+Onyx is a loose derivation of Lapwing ([https://lapwing.aerick.ca/](https://lapwing.aerick.ca/))
+
+You can read about the theory in the [[Onyx Spec|Onyx spec]].
