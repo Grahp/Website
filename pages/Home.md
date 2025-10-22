@@ -24,7 +24,7 @@ There are some good reads there. And there's also... Uh...
 
 ---
 
-You can [[Contact]] me via email at `grahp@grahp.dev`.
+You can [[Contact]] me via email at `hello@grahp.dev`.
 
 Soon™ I will set up a git server here
 

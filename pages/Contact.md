@@ -5,7 +5,7 @@ redirect_from:
   - open-source
 ---
 
-You can contact [[Home|me]] via email at `grahp@grahp.dev`.
+You can contact [[Home|me]] via email at `hello@grahp.dev`.
 
 Feel free to reach out.
 
