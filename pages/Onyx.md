@@ -16,6 +16,6 @@ Onyx was an attempt to make an extremely simple phonetic theory (again, see [[Th
 3. Zero* mandatories
 4. Open to heavy briefing
 
-Onyx is a loose derivation of Lapwing ([https://lapwing.aerick.ca/](https://lapwing.aerick.ca/))
+Onyx is a loose derivation of Lapwing ([https://lapwing.aerick.ca](https://lapwing.aerick.ca))
 
 You can read about the theory in the [[Onyx Spec|Onyx spec]].
