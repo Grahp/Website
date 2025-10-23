@@ -70,7 +70,7 @@ Boards where you type as the base, and chord on top of that - such as the board 
 
 That's quite cool, so why don't we do that? Well, it turns out, when the norm is to chord, not to type, it can be hard to fit ALL words in just one stroke. Boards where you type get to use more than one key press to type a word, which we can't do.
 
-But all of our keys are bunched up into a stroke, and we can't use more. We don't get to use a bunch more keys to write long words, or words we might not have chords for. It all has to fit in the stroke
+But all of our keys are bunched up to form a stroke, and we can't use more. We don't get to use a bunch more keys to write long words, or words we might not have chords for. It all has to fit in the stroke
 
 But if we _could_ write all words with just one stroke, then we should, right? Why would you want to take _more_ strokes to write the same words that you could just write with one stroke? We only use more than one stroke per word since the rules we use to write were made a long time ago, when we had to do a lot of work by hand that's now done for us.
 
