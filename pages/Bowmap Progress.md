@@ -12,6 +12,16 @@ My goal is to have some kind of tangible progress every single day.
 
 (In reverse chronological order... I know, yuck)
 
+October 24, 2025, 84 days until release
+
+- Okay I have actually been working on the server I just keep forgetting to update this -.-
+- Pretty sure that large rewrite is done, just some bugs I need to fix :p
+- After this I'm going to try to work on smaller things and finish them before I move on to the next thing because god rewriting multiple things at once is a nightmare and I don't know why I keep doing it (maybe I have learned :p)
+- After this I still need a decent rule system to start actually doing anything interesting :(
+- Yes I've been working on that for like a month or something but don't worry about it ._.
+
+---
+
 October 22, 2025, 86 days until release
 
 - I seriously need to learn to stop undergoing large refactors, they're just never a good idea...
