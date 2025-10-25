@@ -54,6 +54,7 @@ letters:
 - {stroke: SPWR, data: cr, order: 2}
 - {stroke: PWHR, data: bl, order: 2}
 - {stroke: TPWR, data: dr, order: 2}
+- {stroke: AOIU, data: y, order: 3}
 - {stroke: OIU, data: oe, order: 3}
 - {stroke: ^AIU, data: ae, order: 3}
 - {stroke: -LRFT, data: ll, order: 4}
@@ -122,7 +123,6 @@ letters:
 - {stroke: AO, data: oo, order: 3}
 - {stroke: O, data: o, order: 3}
 - {stroke: IU, data: e, order: 3}
-- {stroke: AOIU, data: y, order: 3}
 - {stroke: ^AI, data: ia, order: 3}
 - {stroke: ^AU, data: ua, order: 3}
 - {stroke: ^AOU, data: ie, order: 3}
