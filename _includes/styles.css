@@ -50,11 +50,11 @@
             unicode-range: U+0100-024F}
 
 html {box-sizing: border-box;
-      background-color: #000}
+      background-color: #050506}
 
 *, *::before, *::after {box-sizing: inherit}
 
-body {color: #fff;
+body {color: #f2f2f9;
       font-size: var(--base-font-size);
       font-family: 'JetBrains Mono', monospace;
       line-height: 1.5;
