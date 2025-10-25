@@ -54,7 +54,7 @@ html {box-sizing: border-box;
 
 *, *::before, *::after {box-sizing: inherit}
 
-body {color: #f2f2f9;
+body {color: #f9f9ff;
       font-size: var(--base-font-size);
       font-family: 'JetBrains Mono', monospace;
       line-height: 1.5;
