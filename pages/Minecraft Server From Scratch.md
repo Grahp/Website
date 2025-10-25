@@ -23,7 +23,7 @@ Minecraft can function as a game engine, allowing you to build unique games insi
 
 If you want to make something that is just Minecraft with some additions and tweaks, that is absolutely cool and awesome and you should do it, but that is not what I want to do.
 
-No matter how much you customize the vanilla server, you are still inheriting all of its features, even when you do not want them. Be ready for bugs and unexpected behavior as vanilla mechanics get abused in unexpected ways. It isn't trivial to disable things you don't want, and you'll probably end up spending enough time removing things you don't want to justify starting from nothing and only adding the things you do want!
+No matter how much you customize the vanilla server, you are still inheriting all of its features, even when you do not want them. Be ready for bugs and unexpected behavior as vanilla mechanics get abused in unexpected ways. It isn't trivial to disable things you don't want, and you might end up spending enough time removing things you don't want to justify starting from nothing and only adding the things you do want!
 
 Beyond just the vanilla gameplay mechanics, there's the server architecture itself, which was designed for small survival worlds with just you and maybe some friends. Porting that to, say, an MMO would be a substantial amount of work.
 
