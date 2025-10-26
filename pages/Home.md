@@ -6,8 +6,6 @@ redirect_from:
 ---
 Hello, I'm Grahp!
 
-This is a test just ignore this [Steno](Steno.md)
-
 This is my website :p
 
 I'm a software developer from The Internet™, currently working on a couple things:
