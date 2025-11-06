@@ -1,8 +1,9 @@
+## Pinchord Version 7
 name: "Pinchord"
 ## Eventually I think I could make this work with the normal extended stenotype layout?
 ## Requiring only the # S thing and to make ^+ maybe?
 keys:
-  - name: "*"
+  - name: "|"
     mask: 0x01
   - name: "#"
     mask: 0x02
@@ -46,11 +47,11 @@ keys:
     mask: 0x20000
   - name: "F"
     mask: 0x40000
-  - name: "G"
+  - name: "S"
     mask: 0x80000
   - name: "T"
     mask: 0x100000
-  - name: "S"
+  - name: "*"
     mask: 0x200000
   - name: "E"
     mask: 0x400000
@@ -317,4 +318,3 @@ orthography:
   auto-suffix: []
   reverse-suffix: []
   reverse-auto-suffix: []
-## Pinchord Version 4
