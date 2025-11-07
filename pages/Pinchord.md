@@ -17,4 +17,4 @@ For the steno crowd, see [[Why Orthospelling|Why Orthospelling]].
 
 Note that Pinchord is in development and that this graphic is missing a few things (notably `h` and `q` :p)
 
-![Pinchord Layout Graphic](../assets/images/pinchord-7-layout.png){:width="800rem"}
+![Pinchord Layout Graphic](../assets/images/pinchord-7-layout.png)

@@ -9,6 +9,6 @@ A [[Chorded Home Row|26/18]] key keyboard layout, made by `@5quidwyrm` ([https:/
 
 ---
 
-![Delusional Layout Image](../assets/images/delusional-layout-image.png){:width="800rem"}
+![Delusional Layout Image](../assets/images/delusional-layout-image.png)
 
 The layout uses a [[Chorded Home Row|Chorded home row]].
