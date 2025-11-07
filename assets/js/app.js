@@ -1,3 +1,8 @@
+/// Make cache of page scrolls and remove old broken scrolling behavior
+/// Cache page contents, try to use cache and only do a request if the page hasn't been cached
+/// If the user has sufficient bandwidth/internet speed, cache pages when they hover over them
+/// Rewrite all of this to be clearer and better an such
+
 const app = document.getElementById('app');
 
 function scrollToHash(hash) {
