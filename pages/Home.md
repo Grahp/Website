@@ -6,7 +6,7 @@ redirect_from:
 ---
 Hello, I'm Grahp!
 
-This is my website :p
+This is [[Website|my website]] :p
 
 I'm a software developer from The Internet™, currently working on a couple things:
 
