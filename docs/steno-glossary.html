@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <style> :root {--base-font-size: 1rem;
+       --content-max-ch: 72ch;
+       --page-gap: 1rem}
+
+/* Make these better and shit */
+@media (min-width: 600px)  {:root {--base-font-size: 1.0625rem}}
+@media (min-width: 900px)  {:root {--base-font-size: 1.125rem}}
+@media (min-width: 1200px) {:root {--base-font-size: 1.25rem}}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular-ascii.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold-ascii.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic-ascii.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+html {box-sizing: border-box;
+      background-color: #050506}
+
+*, *::before, *::after {box-sizing: inherit}
+
+body {color: #f9f9ff;
+      font-size: var(--base-font-size);
+      font-family: 'JetBrains Mono', monospace;
+      line-height: 1.5;
+      max-width: var(--content-max-ch);
+      margin: var(--page-gap);
+      margin-inline: auto;
+      padding: 0 1rem;
+      overflow-wrap: anywhere;
+      word-break: break-word}
+
+a {color: #58A6FF}
+a:hover,
+a:active,
+a:focus {background-color: rgba(36, 116, 208, 0.25);
+         border-radius: 0.25rem}
+
+ul {padding: 0;
+    margin-left: 25px;
+    list-style-type: disc}
+
+code {background-color: #222;
+      padding: 1px 2px;
+      border-radius: 0.25rem}
+
+pre {background-color: #222;
+     padding: 1rem;
+     border-radius: 0.25rem;
+     overflow: auto;
+     white-space: pre}
+
+h1 {margin-block-start: 0;
+    margin-block-end: var(--base-font-size);
+    text-align: center}
+
+p {margin: 0 0 calc(var(--base-font-size) * 1.5) 0}
+
+hr {margin: calc(var(--base-font-size) * 2.25) 0}
+
+video {max-width: 100%;
+       max-height: 100%;
+       object-fit: contain}
+ </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Steno Glossary</title>
+  </head>
+  <body>
+    <main id="app">
+      <h1>Steno Glossary</h1>
+      <p><a class="wiki-link" href="/">My</a> <a class="wiki-link" href="/steno">steno</a> glossary.</p>
+
+<p>The content on this page is dedicated to the public domain under <a class="wiki-link" href="/cc0">CC0 1.0 Universal</a>. Feel free to use it however you'd like :)</p>
+
+<p>Outline:</p>
+<ul>
+  <li><a href="#key" class="web-link"><em>Key</em></a></li>
+  <li><a href="#chord" class="web-link"><em>Chord</em></a></li>
+  <li><a href="#stroke" class="web-link"><em>Stroke</em></a></li>
+  <li><a href="#outline" class="web-link"><em>Outline</em></a></li>
+  <li>
+<a href="#translation" class="web-link"><em>Translation</em></a>
+    <ul>
+      <li>Affixes</li>
+      <li>Commands</li>
+      <li>Untran</li>
+    </ul>
+  </li>
+  <li><a href="#entry" class="web-link"><em>Entry</em></a></li>
+  <li>
+<a href="#dictionary" class="web-link"><em>Dictionary</em></a>
+    <ul>
+      <li><a href="#lookup" class="web-link"><em>Lookup</em></a></li>
+      <li><a href="#reverse-lookup" class="web-link"><em>Reverse Lookup</em></a></li>
+      <li><a href="#generated" class="web-link"><em>Generated</em></a></li>
+      <li><a href="#programmatic" class="web-link"><em>Programmatic</em></a></li>
+      <li><a href="#modal" class="web-link"><em>Modal</em></a></li>
+    </ul>
+  </li>
+  <li><a href="#theory-rule" class="web-link"><em>Theory Rule</em></a></li>
+  <li>
+<a href="#theory" class="web-link"><em>Theory</em></a>
+    <ul>
+      <li>Long</li>
+      <li>Short</li>
+      <li><a href="#phonetic" class="web-link"><em>Phonetic</em></a></li>
+      <li><a href="#orthographic" class="web-link"><em>Orthographic</em></a></li>
+      <li><a href="#full-english" class="web-link"><em>Full-English</em></a></li>
+    </ul>
+  </li>
+  <li>
+<a href="#conflict" class="web-link"><em>Conflict</em></a>
+    <ul>
+      <li><a href="#word-boundary-conflict" class="web-link"><em>Word Boundary Conflict</em></a></li>
+      <li>Word-affix Conflicts</li>
+      <li>Homophonic Conflicts</li>
+    </ul>
+  </li>
+  <li><a href="#writing" class="web-link"><em>Writing</em></a></li>
+  <li><a href="#write-out" class="web-link"><em>Write-out</em></a></li>
+  <li>
+<a href="#brief" class="web-link"><em>Brief</em></a>
+    <ul>
+      <li>Misstroke</li>
+      <li><a href="#arbitrary" class="web-link"><em>Arbitrary</em></a></li>
+      <li><a href="#phrase" class="web-link"><em>Phrase</em></a></li>
+    </ul>
+  </li>
+  <li><a href="#mandatory" class="web-link"><em>Mandatory</em></a></li>
+  <li><a href="#raw-steno" class="web-link"><em>Raw Steno</em></a></li>
+  <li>Paper Tape/Steno Paper</li>
+  <li><a href="#steno-order" class="web-link"><em>Steno Order</em></a></li>
+  <li>
+<a href="#layout" class="web-link"><em>Layout</em></a>
+    <ul>
+      <li><a href="#wsi-layout" class="web-link"><em>WSI Layout</em></a></li>
+      <li><a href="#extended-stenotype-layout" class="web-link"><em>Extended Stenotype Layout</em></a></li>
+    </ul>
+  </li>
+  <li>Steno Engine
+    <ul>
+      <li>Plover</li>
+    </ul>
+  </li>
+  <li>Steno Writer
+    <ul>
+      <li>Steno Machine</li>
+      <li>Steno Keyboard</li>
+      <li>Stenotype</li>
+    </ul>
+  </li>
+  <li>Philly Shift</li>
+  <li>Shadowing</li>
+  <li>Dropping</li>
+  <li><a href="#merge" class="web-link"><em>Merge</em></a></li>
+  <li>
+<a href="#bank" class="web-link"><em>Bank</em></a>
+    <ul>
+      <li><a href="#initial" class="web-link"><em>Initial</em></a></li>
+      <li><a href="#vowel" class="web-link"><em>Vowel</em></a></li>
+      <li><a href="#final" class="web-link"><em>Final</em></a></li>
+      <li><a href="#skeleton" class="web-link"><em>Skeleton</em></a></li>
+      <li><a href="#unique" class="web-link"><em>Unique</em></a></li>
+    </ul>
+  </li>
+  <li>Key Label</li>
+  <li><a href="#fingerspelling" class="web-link"><em>Fingerspelling</em></a></li>
+  <li><a href="#orthospelling" class="web-link"><em>Orthospelling</em></a></li>
+  <li><a href="#dedicated" class="web-link"><em>Dedicated</em></a></li>
+  <li>Stenographer</li>
+  <li>Space suppression</li>
+</ul>
+
+<h2 id="key">Key</h2>
+<p><strong>Noun</strong></p>
+
+<p>An individual key on a <em>steno machine</em> or <em>layout</em>. Analogous to a key on a keyboard.</p>
+
+<ul>
+  <li>Multiple keys may share the same <em>label</em>, with a dash (-) denoting what <em>bank</em> the key is in. For example, in the <em>WSI layout</em>, there are two keys <em>labeled</em> '<code class="language-plaintext highlighter-rouge">S</code>': the <em>initial</em> <code class="language-plaintext highlighter-rouge">S-</code> key, and the <em>final</em> <code class="language-plaintext highlighter-rouge">-S</code> key. Notice the dash at the start and end of the key.</li>
+</ul>
+
+<h2 id="chord">Chord</h2>
+<p><strong>Noun</strong></p>
+
+<p>A set, or group, of <a href="#key" class="web-link"><em>keys</em></a>. Chords may denote a sound, letter, affix, or any other part of a <a href="#translation" class="web-link"><em>translation</em></a>.</p>
+
+<ul>
+  <li>Chords can be combined to form <a href="#stroke" class="web-link"><em>strokes</em></a>.</li>
+  <li>The difference between a chord and a <a href="#stroke" class="web-link"><em>stroke</em></a> can often be subtle. See <a class="wiki-link" href="/chords-vs-strokes">Chords vs. Strokes</a>.</li>
+  <li>An example chord is <code class="language-plaintext highlighter-rouge">TPH-</code>, which <em>translates</em> to the <em>initial</em> "n" sound (/n/).</li>
+</ul>
+
+<p><strong>Verb</strong></p>
+
+<p>Pressing down all the <a href="#key" class="web-link"><em>keys</em></a> that make up a chord on a <em>steno machine</em>.</p>
+
+<ul>
+  <li>"Chording" is a term outside of <em>steno</em>, which means "pressing multiple <a href="#key" class="web-link"><em>keys</em></a> together at once", rather than one at a time.</li>
+  <li>Often used interchangeably with the verb <a href="#stroke" class="web-link"><em>stroke</em></a>.</li>
+</ul>
+
+<h2 id="stroke">Stroke</h2>
+<p><strong>Noun</strong></p>
+
+<p>A set, or group, or <a href="#key" class="web-link"><em>keys</em></a> pressed together simultaneously.</p>
+
+<ul>
+  <li>If that sounds like what a <a href="#chord" class="web-link"><em>chord</em></a> is, that's because <a href="#chord" class="web-link"><em>chords</em></a> and strokes are very similar. They are both sets of <a href="#key" class="web-link"><em>keys</em></a>. When you press down a set of <a href="#key" class="web-link"><em>keys</em></a> simultaneously, that is a stroke. A <a href="#chord" class="web-link"><em>chord</em></a> is something you can use to build strokes.</li>
+  <li>A helpful way to think of it is that when you combine two <a href="#chord" class="web-link"><em>chords</em></a>, you get a stroke, but when you combine two strokes, you get an <a href="#outline" class="web-link"><em>outline</em></a>
+</li>
+  <li>For a full explanation of the difference between <a href="#chord" class="web-link"><em>chords</em></a> and strokes, see <a class="wiki-link" href="/chords-vs-strokes">Chords vs. Strokes</a>.</li>
+</ul>
+
+<p><strong>Verb</strong></p>
+
+<p>Pressing down all the <a href="#key" class="web-link"><em>keys</em></a> that make up a stroke on a <em>steno machine</em>.</p>
+
+<ul>
+  <li>Often used interchangeably with the verb <a href="#chord" class="web-link"><em>chord</em></a>.</li>
+</ul>
+
+<h2 id="outline">Outline</h2>
+<p><strong>Noun</strong></p>
+
+<p>One or more <a href="#stroke" class="web-link"><em>strokes</em></a> <a href="#chord" class="web-link"><em>chorded</em></a>, or pressed, in sequence.</p>
+
+<h2 id="translation">Translation</h2>
+<p><strong>Noun</strong></p>
+
+<p>A word, phrase, part of a word or phase, sound, affix, command, punctuation, or any other output.</p>
+
+<p><strong>Verb</strong></p>
+
+<p>To "translate". The translation that an <a href="#outline" class="web-link"><em>outline</em></a> maps to is referred to as its "translation".</p>
+
+<ul>
+  <li>For example, the <a href="#outline" class="web-link"><em>outline</em></a> <code class="language-plaintext highlighter-rouge">KAT</code> translates to "cat".</li>
+</ul>
+
+<h2 id="entry">Entry</h2>
+<p><strong>Noun</strong></p>
+
+<p>An entry, or <a href="#dictionary" class="web-link"><em>dictionary</em></a> entry, is a mapping between an <a href="#outline" class="web-link"><em>outline</em></a> and a <a href="#translation" class="web-link"><em>translation</em></a>.</p>
+
+<ul>
+  <li>For example, the <a href="#outline" class="web-link"><em>outline</em></a> <code class="language-plaintext highlighter-rouge">HOT/TKOG</code> might map to the <a href="#translation" class="web-link"><em>translation</em></a> "hotdog".</li>
+</ul>
+
+<h2 id="dictionary">Dictionary</h2>
+<p><strong>Noun</strong></p>
+
+<p>A set of <a href="#outline" class="web-link"><em>outlines</em></a> with mappings to <a href="#translation" class="web-link"><em>translations</em></a>. Dictionaries are made up of dictionary <a href="#entry" class="web-link"><em>entries</em></a>.</p>
+
+<h2 id="lookup">Lookup</h2>
+<p><strong>Noun</strong></p>
+
+<p>The process of "looking up" a <a href="#translation" class="web-link"><em>translation</em></a> from a given <a href="#outline" class="web-link"><em>outline</em></a> in a <a href="#dictionary" class="web-link"><em>dictionary</em></a>.</p>
+
+<h2 id="reverse-lookup">Reverse Lookup</h2>
+<p><strong>Noun</strong></p>
+
+<p>The process of "looking up" the set of <a href="#outlines" class="web-link"><em>outlines</em></a> that map to a given <a href="#translation" class="web-link"><em>translation</em></a> in a <a href="#dictionary" class="web-link"><em>dictionary</em></a>.</p>
+
+<ul>
+  <li>Called "reverse lookup" as it is the opposite of regular <a href="#lookup" class="web-link"><em>lookup</em></a>.</li>
+  <li>Each <a href="#outline" class="web-link"><em>outline</em></a> that reverse lookup gives you could be <a href="#lookup" class="web-link"><em>looked up</em></a> to get the <a href="#translation" class="web-link"><em>translation</em></a> you gave reverse lookup.</li>
+</ul>
+
+<h2 id="generated">Generated</h2>
+<p><strong>Adjective</strong></p>
+
+<p>A generated <a href="#dictionary" class="web-link"><em>dictionary</em></a> is not created manually, but instead made using a program that will generate the <a href="#dictionary" class="web-link"><em>dictionary</em></a> automatically.</p>
+
+<ul>
+  <li>Generated <a href="#dictionary" class="web-link"><em>dictionaries</em></a> often require some amount of manual tweaking.</li>
+  <li>There's a lot of overlap between generated and <a href="#programmatic" class="web-link"><em>programmatic</em></a> <a href="#dictionary" class="web-link"><em>dictionaries</em></a>. Programmatic dictionaries are also made using a program that generates <a href="#translation" class="web-link"><em>translations</em></a> on-the-fly.</li>
+</ul>
+
+<h2 id="programmatic">Programmatic</h2>
+<p><strong>Adjective</strong></p>
+
+<p>A <a href="#dictionary" class="web-link"><em>dictionary</em></a> being programmatic means that it <a href="#translation" class="web-link"><em>translates</em></a> <a href="#outline" class="web-link"><em>outlines</em></a> as you <em>write</em> them, rather having a pre-defined collection of <a href="#entry" class="web-link"><em>entries</em></a>.</p>
+
+<ul>
+  <li>See <a href="#generated" class="web-link"><em>Generated</em></a>
+</li>
+</ul>
+
+<h2 id="modal">Modal</h2>
+<p><strong>Adjective</strong></p>
+
+<p>A <em>dictionary</em> being modal means that it may contain different <em>entries</em>, and thus "do different things", depending on what "mode" you are in.</p>
+
+<ul>
+  <li>Your current mode can change through a mode-switching <em>stroke</em>, based on <em>context</em>, or really for any other reason.</li>
+</ul>
+
+<h2 id="theory-rule">Theory Rule</h2>
+<p><strong>Noun</strong></p>
+
+<p>A "rule" defining some part of how <a href="#outline" class="web-link"><em>outlines</em></a> should be mapped to <a href="#translation" class="web-link"><em>translations</em></a>.</p>
+
+<h2 id="theory">Theory</h2>
+<p><strong>Noun</strong></p>
+
+<p>A set of <a href="#theory-rule" class="web-link"><em>theory rules</em></a> that defines how <a href="#outline" class="web-link"><em>outlines</em></a> should map to <a href="#translation" class="web-link"><em>translations</em></a>.</p>
+
+<ul>
+  <li>Theories usually come with <a href="#ditionaries" class="web-link"><em>dictionaries</em></a>, which are usually the theory author's best attempt to follow their <a href="#theory-rule" class="web-link"><em>theory rules</em></a>.</li>
+</ul>
+
+<h2 id="phonetic">Phonetic</h2>
+<p><strong>Adjective</strong></p>
+
+<p>Describing a theory where words are <a href="#writing" class="web-link"><em>written</em></a> how they sound rather than how they are spelled.</p>
+
+<h2 id="orthographic">Orthographic</h2>
+<p><strong>Adjective</strong></p>
+
+<p>Describing a <a href="#theory" class="web-link"><em>theory</em></a> where words are <a href="#writing" class="web-link"><em>written</em></a> how they are spelled rather than how they sound.</p>
+
+<h2 id="full-english">Full-English</h2>
+<p><strong>Adjective</strong></p>
+
+<p>A full-English <a href="#theory" class="web-link"><em>theory</em></a> is designed to <a href="#writing" class="web-link"><em>write</em></a> all of English, rather than something like numbers, <em>phrasing</em>, movement, etc.</p>
+
+<h2 id="conflict">Conflict</h2>
+<p><strong>Noun</strong></p>
+
+<p>An <a href="#outline" class="web-link"><em>outline</em></a> that has multiple valid <a href="#translation" class="web-link"><em>translations</em></a> according to your <a href="#theory" class="web-link"><em>theory</em></a>.</p>
+
+<ul>
+  <li>There are many different kinds of conflicts that happen for different reasons.</li>
+</ul>
+
+<h2 id="word-boundary-conflict">Word Boundary Conflict</h2>
+<p><strong>Noun</strong></p>
+
+<!-- Better explain this -->
+
+<p>A type of <a href="#conflict" class="web-link"><em>conflict</em></a> where it is unclear where <a href="#outline" class="web-link"><em>outlines</em></a> should start and stop given a sequence of <a href="#stroke" class="web-link"><em>strokes</em></a>.</p>
+
+<h2 id="writing">Writing</h2>
+<p><strong>Verb</strong></p>
+
+<p>Steno's equivalent to "typing".</p>
+
+<p><strong>Noun</strong></p>
+
+<p>The act of writing.</p>
+
+<h2 id="write-out">Write-out</h2>
+<p><strong>Noun</strong></p>
+
+<p>An <a href="#outline" class="web-link"><em>outline</em></a> that follows all <a href="#theory-rule" class="web-link"><em>theory rules</em></a>, and isn't <em>shortened</em> in any way.</p>
+
+<h2 id="brief">Brief</h2>
+<p><strong>Noun</strong></p>
+
+<p>An "abbreviated" <a href="#outline" class="web-link"><em>outline</em></a>, used to reduce the number of <a href="#stroke" class="web-link"><em>strokes</em></a> required to <em>write</em> a <a href="#translation" class="web-link"><em>translation</em></a>.</p>
+
+<p><strong>Verb</strong></p>
+
+<p>To "abbreviate" an <a href="#outline" class="web-link"><em>outline</em></a>. To use a <a href="#translation" class="web-link"><em>translation</em></a>'s brief rather than its <a href="#write-out" class="web-link"><em>write-out</em></a>.</p>
+
+<p>To create and start using a brief.</p>
+
+<h2 id="arbitrary">Arbitrary</h2>
+<p><strong>Adjective</strong></p>
+
+<p>An arbitrary <a href="#outline" class="web-link">outline</a> does not follow the <a href="#theory-rule" class="web-link">rules</a> of the <a href="#theory" class="web-link">theory</a>.</p>
+
+<p><strong>Noun</strong></p>
+
+<p>An arbitrary <a href="#entry" class="web-link"><em>entry</em></a>.</p>
+
+<ul>
+  <li>Sometimes shortened to "arb".</li>
+</ul>
+
+<h2 id="phrase">Phrase</h2>
+<p><strong>Noun</strong></p>
+
+<p>A type of <a href="#brief" class="web-link"><em>brief</em></a> that <a href="#translation" class="web-link"><em>translates</em></a> to a sequence of words.</p>
+
+<h2 id="mandatory">Mandatory</h2>
+<p><strong>Noun</strong></p>
+
+<p>An <a href="#outline" class="web-link"><em>outline</em></a> with no <a href="#write-out" class="web-link"><em>write-out</em></a>, and only <a href="#brief" class="web-link"><em>briefs</em></a>.</p>
+
+<p><strong>Adjective</strong></p>
+
+<p>Having no <a href="#write-out" class="web-link"><em>writeouts</em></a>, and only <a href="#brief" class="web-link"><em>briefs</em></a>.</p>
+
+<h2 id="raw-steno">Raw Steno</h2>
+<p><strong>Noun</strong></p>
+
+<p>A notation for writing <em>keys</em>, <em>strokes</em>, <em>chords</em>, and <em>outlines</em> in a more human-readable form.</p>
+
+<ul>
+  <li>
+<code class="language-plaintext highlighter-rouge">-T</code> is a <em>key</em> on the <em>final</em> <em>bank</em> of the <em>WSI Layout</em>.</li>
+  <li>
+<code class="language-plaintext highlighter-rouge">KWR-</code> is a <em>chord</em> in the <em>initial</em> <em>bank</em> of the <em>WSI Layout</em>.</li>
+  <li>
+<code class="language-plaintext highlighter-rouge">KAT</code> is a <em>stroke</em>.</li>
+  <li>
+<code class="language-plaintext highlighter-rouge">KEUT/KAT</code> is an <em>outline</em>.</li>
+</ul>
+
+<h2 id="steno-order">Steno Order</h2>
+<p><strong>Noun</strong></p>
+
+<p>The order that the <em>keys</em> of a <em>layout</em> are written in with <em>raw steno</em>.</p>
+
+<ul>
+  <li>Steno order is often used in a few ways by <em>theories</em> to make it clear when you can do certain things.</li>
+</ul>
+
+<h2 id="layout">Layout</h2>
+<p><strong>Noun</strong></p>
+
+<p>A set of <a href="#key" class="web-link"><em>keys</em></a> with <em>labels</em>, often grouped into <em>banks</em>, often with a defined <em>steno order</em>, that can be grouped into <a href="#chord" class="web-link"><em>chords</em></a>.</p>
+
+<ul>
+  <li>The most common, and "standard" steno layout is the <em>WSI Layout</em>.</li>
+</ul>
+
+<h2 id="wsi-layout">WSI Layout</h2>
+<p><strong>Noun</strong></p>
+
+<p>The "standard" steno <a href="#layout" class="web-link"><em>layout</em></a>.</p>
+
+<h2 id="extended-stenotype-layout">Extended Stenotype Layout</h2>
+<p><strong>Noun</strong></p>
+
+<p>An "extended" version of the <a href="#wsi-layout" class="web-link"><em>WSI layout</em></a> featuring 2 more <a href="#key" class="web-link"><em>keys</em></a>, <code class="language-plaintext highlighter-rouge">^</code> and <code class="language-plaintext highlighter-rouge">+</code>.</p>
+
+<h2 id="merge">Merge</h2>
+<p><strong>Adjective</strong></p>
+
+<p>Using one <a href="#chord" class="web-link"><em>chord</em></a> to mean multiple sounds or spellings in a way that doesn't create many <a href="#conflict" class="web-link"><em>conflicts</em></a>.</p>
+
+<ul>
+  <li>For example, in the <a href="#wsi-layout" class="web-link"><em>WSI layout</em></a>, the "x" and "kshun" sounds are merged, meaning one <a href="#chord" class="web-link"><em>chord</em></a> is used for both sounds.</li>
+</ul>
+
+<h2 id="bank">Bank</h2>
+<p><strong>Noun</strong></p>
+
+<p>A logical group of <a href="#key" class="web-link"><em>keys</em></a> on a <a href="#layout" class="web-link"><em>layout</em></a>, used to organize <a href="#key" class="web-link"><em>keys</em></a> based on their position.</p>
+
+<ul>
+  <li>The <a href="#wsi-layout" class="web-link"><em>WSI layout</em></a> has 3 banks: the <em>initial</em>, <em>vowel</em>, and <em>final</em> banks.</li>
+</ul>
+
+<h2 id="initial">Initial</h2>
+<p><strong>Noun</strong></p>
+
+<p>The <em>bank</em> with the "initial" or "starting" sound or spelling of a word.</p>
+
+<p>Can also refer to a <em>key</em>, <em>chord</em>, <em>stroke</em>, or <em>outline</em> in the initial <em>bank</em></p>
+
+<ul>
+  <li>E.g. the "c" in "cat"</li>
+  <li>Sometimes called the "starter" bank.</li>
+</ul>
+
+<p><strong>Adjective</strong></p>
+
+<p>A <em>key</em>, <em>chord</em>, <em>stroke</em>, or <em>outline</em> in the initial <em>bank</em>.</p>
+
+<h2 id="vowel">Vowel</h2>
+<p><strong>Noun</strong></p>
+
+<p>The <em>bank</em> with the vowel sound or spelling of a word.</p>
+
+<p>Less commonly, can also refer to a <em>key</em>, <em>chord</em>, <em>stroke</em>, or <em>outline</em> in the vowel <em>bank</em></p>
+
+<ul>
+  <li>E.g. the "a" in "cat"</li>
+</ul>
+
+<p><strong>Adjective</strong></p>
+
+<p>A <em>key</em>, <em>chord</em>, <em>stroke</em>, or <em>outline</em> in the vowel <em>bank</em>.</p>
+
+<h2 id="final">Final</h2>
+<p><strong>Noun</strong></p>
+
+<p>The <em>bank</em> with the vowel sound or spelling of a word.</p>
+
+<p>Can also refer to a <em>key</em>, <em>chord</em>, <em>stroke</em>, or <em>outline</em> in the final <em>bank</em></p>
+
+<ul>
+  <li>E.g. the "t" in "cat"</li>
+  <li>Sometimes called the "ender" bank (no relation to <a class="wiki-link" href="/minecraft-server">Minecraft</a> :p).</li>
+</ul>
+
+<p><strong>Adjective</strong></p>
+
+<p>A <em>key</em>, <em>chord</em>, <em>stroke</em>, or <em>outline</em> in the final <em>bank</em>.</p>
+
+<h2 id="skeleton">Skeleton</h2>
+<p><strong>Noun</strong></p>
+
+<p>A <em>stroke</em> that is a skeleton.</p>
+
+<p><strong>Adjective</strong></p>
+
+<p>A skeleton <em>stroke</em> has no <em>keys</em> in the <em>vowel</em> <em>bank</em></p>
+
+<h2 id="unique">Unique</h2>
+<p><strong>Adjective</strong></p>
+
+<p>A unique <a href="#initial" class="web-link"><em>initial</em></a>, <a href="#vowel" class="web-link"><em>vowel</em></a>, or <a href="#final" class="web-link"><em>final</em></a> is a  <a href="#chord" class="web-link"><em>chord</em></a> that is only used for one purpose.</p>
+
+<ul>
+  <li>Most non-english <a href="#dictionaries" class="web-link"><em>dictionaries</em></a>, like numbers or <a href="#phrase" class="web-link"><em>phrasing</em></a>, require a unique <a href="#chord" class="web-link"><em>chord</em></a> so they don't <a href="#conflict" class="web-link"><em>conflict</em></a> with english words.</li>
+</ul>
+
+<h2 id="fingerspelling">Fingerspelling</h2>
+<p><strong>Noun</strong></p>
+
+<p>A method of <em>writing</em> words letter-by-letter using a fingerspelling theory/dictionary.</p>
+
+<p><strong>Adjective</strong></p>
+
+<p>A theory/dictionary where words are <em>written</em> letter-by-letter, allowing you to <em>write</em> words that aren't in your <em>dictionary</em></p>
+
+<p><strong>Verb</strong></p>
+
+<p>The act of <em>writing</em> with a fingerspelling <em>theory</em>/<em>dictionary</em></p>
+
+<h2 id="orthospelling">Orthospelling</h2>
+<p><strong>Noun</strong></p>
+
+<p>A method of <em>writing</em> words multiple letters at a time using an orthospelling <em>theory</em>/<em>dictionary</em>.</p>
+
+<p><strong>Adjective</strong></p>
+
+<p>An orthospelling <a href="#theory" class="web-link"><em>theory</em></a>/<a href="#dictionary" class="web-link"><em>dictionary</em></a> is fully <em>orthographic</em>. It's like <a href="#fingerspelling" class="web-link"><em>fingerspelling</em></a>, but uses the whole <a href="#layout" class="web-link"><em>layout</em></a>, or more of the <a href="#layout" class="web-link"><em>layout</em></a> than just one <a href="#fingerspelling" class="web-link"><em>fingerspelling</em></a> <a href="#bank" class="web-link"><em>bank</em></a>.</p>
+
+<p>An <em>orthographic</em> theory/dictionary where words are written multiple letters at a time.</p>
+
+<p><strong>Verb</strong></p>
+
+<p>The act of <em>writing</em> using an orthospelling <a href="#theory" class="web-link"><em>theory</em></a> or <a href="#dictionary" class="web-link"><em>dictionary</em></a>.</p>
+
+<h2 id="dedicated">Dedicated</h2>
+<p><strong>Adjective</strong></p>
+
+<p>A dedicated <a href="#key" class="web-link"><em>key</em></a>, <a href="#chord" class="web-link"><em>chord</em></a>, <a href="#stroke" class="web-link"><em>stroke</em></a>, or <a href="#outline" class="web-link"><em>outline</em></a> is reserved for a specific purpose and cannot be used for anything else.</p>
+
+    </main>
+    <script type="module" src="/assets/js/app.js"></script>
+  </body>
+</html>

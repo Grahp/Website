@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <style> :root {--base-font-size: 1rem;
+       --content-max-ch: 72ch;
+       --page-gap: 1rem}
+
+/* Make these better and shit */
+@media (min-width: 600px)  {:root {--base-font-size: 1.0625rem}}
+@media (min-width: 900px)  {:root {--base-font-size: 1.125rem}}
+@media (min-width: 1200px) {:root {--base-font-size: 1.25rem}}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular-ascii.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold-ascii.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic-ascii.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+html {box-sizing: border-box;
+      background-color: #050506}
+
+*, *::before, *::after {box-sizing: inherit}
+
+body {color: #f9f9ff;
+      font-size: var(--base-font-size);
+      font-family: 'JetBrains Mono', monospace;
+      line-height: 1.5;
+      max-width: var(--content-max-ch);
+      margin: var(--page-gap);
+      margin-inline: auto;
+      padding: 0 1rem;
+      overflow-wrap: anywhere;
+      word-break: break-word}
+
+a {color: #58A6FF}
+a:hover,
+a:active,
+a:focus {background-color: rgba(36, 116, 208, 0.25);
+         border-radius: 0.25rem}
+
+ul {padding: 0;
+    margin-left: 25px;
+    list-style-type: disc}
+
+code {background-color: #222;
+      padding: 1px 2px;
+      border-radius: 0.25rem}
+
+pre {background-color: #222;
+     padding: 1rem;
+     border-radius: 0.25rem;
+     overflow: auto;
+     white-space: pre}
+
+h1 {margin-block-start: 0;
+    margin-block-end: var(--base-font-size);
+    text-align: center}
+
+p {margin: 0 0 calc(var(--base-font-size) * 1.5) 0}
+
+hr {margin: calc(var(--base-font-size) * 2.25) 0}
+
+video {max-width: 100%;
+       max-height: 100%;
+       object-fit: contain}
+ </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raw Steno</title>
+  </head>
+  <body>
+    <main id="app">
+      <h1>Raw Steno</h1>
+      <p><a class="wiki-link" href="/">My</a> observation of how people write <a class="wiki-link" href="/steno-glossary#raw-steno">Raw Steno</a>.</p>
+
+<p>In progress, of course.</p>
+
+<h2 id="keys">Keys</h2>
+
+<p><a class="wiki-link" href="/steno-glossary#key">Keys</a> should always include a <code class="language-plaintext highlighter-rouge">-</code> for their <a class="wiki-link" href="/steno-glossary#bank">bank</a> when banks are free to reuse keys, as they are in <a class="wiki-link" href="/steno-glossary#wsi-layout">WSI</a>.</p>
+
+<p><code class="language-plaintext highlighter-rouge">K-</code> <code class="language-plaintext highlighter-rouge">T-</code> <code class="language-plaintext highlighter-rouge">-T</code></p>
+
+<h2 id="chordsstrokes">Chords/Strokes</h2>
+
+<p><a class="wiki-link" href="/chords-vs-strokes">Chords and Strokes</a> do not need a <code class="language-plaintext highlighter-rouge">-</code> if they are <a class="wiki-link" href="/steno-glossary#initial">Initials</a></p>
+
+<p>Suffix strokes start with <code class="language-plaintext highlighter-rouge">/</code>, such as <code class="language-plaintext highlighter-rouge">/-S</code>.</p>
+
+<p>Prefix strokes end with <code class="language-plaintext highlighter-rouge">/</code>, such as <code class="language-plaintext highlighter-rouge">OPB/</code>.</p>
+
+<p>Strokes that are both prefixes and suffixes, such as with the translation <code class="language-plaintext highlighter-rouge">{^-to-^}</code>, may both start and end with <code class="language-plaintext highlighter-rouge">/</code>, such as <code class="language-plaintext highlighter-rouge">/TO*/</code>, but they will usually have no <code class="language-plaintext highlighter-rouge">/</code>s, and instead be written as <code class="language-plaintext highlighter-rouge">TO*</code></p>
+
+<p>I think all strokes should end with <code class="language-plaintext highlighter-rouge">/</code>, but they usually don't.</p>
+
+<p><code class="language-plaintext highlighter-rouge">KWR</code>
+<code class="language-plaintext highlighter-rouge">TKOG</code>
+<code class="language-plaintext highlighter-rouge">KAT/</code></p>
+
+<h2 id="outlines">Outlines</h2>
+
+<p>Strokes are delimited by <code class="language-plaintext highlighter-rouge">/</code>. You might also see strokes delimited by space (<code class="language-plaintext highlighter-rouge"> </code>) when you're not talking about specific outlines, but just a bunch of strokes.</p>
+
+<p><code class="language-plaintext highlighter-rouge">HOT/TKO*G</code>
+<code class="language-plaintext highlighter-rouge">-T KWEUBG PWROUPB TPOBGS</code></p>
+
+<h2 id="orthography">Orthography</h2>
+
+<ul>
+  <li>Put in "double quotes".</li>
+</ul>
+
+<h2 id="pseudo-steno">Pseudo-steno</h2>
+
+<ul>
+  <li>Raw steno where the chords are replaced with the letter that they map to, so "dog" may be written as <code class="language-plaintext highlighter-rouge">DAUG</code> rather than <code class="language-plaintext highlighter-rouge">TKAUPBLG</code>
+</li>
+</ul>
+
+<h2 id="misc">Misc</h2>
+
+<ul>
+  <li>Origin</li>
+  <li>Layouts</li>
+  <li>Mapping (of steno units to other units)
+    <ul>
+      <li>'<code class="language-plaintext highlighter-rouge">outline</code> → "translation"'</li>
+      <li>'"translation" → "translation"' meaning the outline that <em>would</em> map to the first translation maps to the second translation</li>
+      <li>'steno pattern ⇒ rule'</li>
+      <li>Things an outline can map to:
+        <ul>
+          <li>Orthographic Sequences</li>
+          <li>Phonetic or Phonemic units
+            <ul>
+              <li>Syntax with these</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Lowercase words for placeholders</li>
+  <li>Regex</li>
+  <li>Theory Rules</li>
+</ul>
+
+    </main>
+    <script type="module" src="/assets/js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <style> :root {--base-font-size: 1rem;
+       --content-max-ch: 72ch;
+       --page-gap: 1rem}
+
+/* Make these better and shit */
+@media (min-width: 600px)  {:root {--base-font-size: 1.0625rem}}
+@media (min-width: 900px)  {:root {--base-font-size: 1.125rem}}
+@media (min-width: 1200px) {:root {--base-font-size: 1.25rem}}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular-ascii.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold-ascii.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic-ascii.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+html {box-sizing: border-box;
+      background-color: #050506}
+
+*, *::before, *::after {box-sizing: inherit}
+
+body {color: #f9f9ff;
+      font-size: var(--base-font-size);
+      font-family: 'JetBrains Mono', monospace;
+      line-height: 1.5;
+      max-width: var(--content-max-ch);
+      margin: var(--page-gap);
+      margin-inline: auto;
+      padding: 0 1rem;
+      overflow-wrap: anywhere;
+      word-break: break-word}
+
+a {color: #58A6FF}
+a:hover,
+a:active,
+a:focus {background-color: rgba(36, 116, 208, 0.25);
+         border-radius: 0.25rem}
+
+ul {padding: 0;
+    margin-left: 25px;
+    list-style-type: disc}
+
+code {background-color: #222;
+      padding: 1px 2px;
+      border-radius: 0.25rem}
+
+pre {background-color: #222;
+     padding: 1rem;
+     border-radius: 0.25rem;
+     overflow: auto;
+     white-space: pre}
+
+h1 {margin-block-start: 0;
+    margin-block-end: var(--base-font-size);
+    text-align: center}
+
+p {margin: 0 0 calc(var(--base-font-size) * 1.5) 0}
+
+hr {margin: calc(var(--base-font-size) * 2.25) 0}
+
+video {max-width: 100%;
+       max-height: 100%;
+       object-fit: contain}
+ </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Theory in Practice</title>
+  </head>
+  <body>
+    <main id="app">
+      <h1>Theory in Practice</h1>
+      <p>Something <a class="wiki-link" href="/">I</a> would like to write about some day.</p>
+
+<p>I think our <a class="wiki-link" href="/steno">steno</a> <a class="wiki-link" href="/steno-glossary#theory">theories</a> have failed to adapt the the era of realtime. We are being crushed under the weight of our own self-inflicted complexity, and don't even know it.</p>
+
+<p>This is a call-to-action that we need to be making simpler theories if we want to take steno into the future.</p>
+
+<p><a class="wiki-link" href="/pinchord">Pinchord</a> is my best attempt to write an incredibly simple theory, you can check that out.</p>
+
+<p>I've also written a bit about theory complexity related to <a class="wiki-link" href="/regular-outline-grammars">regular outline grammars</a> and <a class="wiki-link" href="/generated-programmatic-dictionaries">generated programmatic dictionaries</a> if you're interested.</p>
+
+    </main>
+    <script type="module" src="/assets/js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <style> :root {--base-font-size: 1rem;
+       --page-gap: 1rem}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Regular.woff2') format('woff2');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap}
+
+html {font-size: var(--base-font-size);
+      box-sizing: border-box;
+      background-color: #000}
+*, *::before, *::after {box-sizing: inherit}
+
+body {color: #fff;
+      font-size: 1rem;
+      font-family: 'JetBrains Mono', monospace;
+      line-height: 1.5;
+      max-width: min(var(--content-max-ch), 95vw);
+      margin: var(--page-gap);
+      overflow-wrap: anywhere;
+      word-break: break-word}
+
+a {color: #58A6FF}
+
+ul {padding: 0;
+    margin-left: 25px;
+    list-style-type: disc}
+
+code {padding: 1px 2px;
+      border-radius: 4px}
+
+pre {overflow: auto;
+     font-size: clamp(0.75rem, 2vw, 1.5rem);
+     white-space: pre}
+ </style>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/assets/css/clojure.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+  </head>
+  <body>
+    <div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="nf">ns</span><span class="w"> </span><span class="n">net.bowmap.core</span><span class="w">
+  </span><span class="p">(</span><span class="no">:require</span><span class="w"> </span><span class="p">[</span><span class="n">clojure.core.async</span><span class="w"> </span><span class="no">:refer</span><span class="w"> </span><span class="p">[</span><span class="n">&lt;!!</span><span class="w"> </span><span class="n">&gt;!!</span><span class="w"> </span><span class="n">chan</span><span class="p">]]</span><span class="w">
+            </span><span class="p">[</span><span class="n">clojure.core.rrb-vector</span><span class="w"> </span><span class="no">:as</span><span class="w"> </span><span class="n">v</span><span class="p">]</span><span class="w">
+            </span><span class="p">[</span><span class="n">clojure.pprint</span><span class="w"> </span><span class="no">:as</span><span class="w"> </span><span class="n">pp</span><span class="p">]</span><span class="w">
+            </span><span class="p">[</span><span class="n">net.bowmap.codecs</span><span class="w"> </span><span class="no">:refer</span><span class="w"> </span><span class="p">[</span><span class="n">&lt;varint</span><span class="w"> </span><span class="n">&lt;string</span><span class="w"> </span><span class="n">&lt;ushort</span><span class="w"> </span><span class="n">&lt;enum</span><span class="w"> </span><span class="n">&lt;&lt;</span><span class="p">]])</span><span class="w">
+  </span><span class="p">(</span><span class="no">:import</span><span class="w"> </span><span class="p">(</span><span class="nf">java.io</span><span class="w"> </span><span class="n">InputStream</span><span class="p">)</span><span class="w">
+           </span><span class="p">(</span><span class="nf">java.net</span><span class="w"> </span><span class="n">ServerSocket</span><span class="w"> </span><span class="n">Socket</span><span class="p">))</span><span class="w">
+  </span><span class="p">(</span><span class="no">:gen-class</span><span class="p">))</span><span class="w">
+
+</span><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">packet-splitter-xf</span><span class="w">
+  </span><span class="s">"A stateful transducer that splits packets using their length.
+   The packet's varint length is read, and incoming bytes are buffered until a full packet has arrived."</span><span class="w">
+  </span><span class="p">[</span><span class="n">rf</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[</span><span class="n">buf</span><span class="w"> </span><span class="p">(</span><span class="nf">volatile!</span><span class="w"> </span><span class="p">(</span><span class="nf">v/vector-of</span><span class="w"> </span><span class="no">:byte</span><span class="p">))]</span><span class="w">
+    </span><span class="p">(</span><span class="k">fn</span><span class="w">
+      </span><span class="p">([]</span><span class="w"> </span><span class="p">(</span><span class="nf">rf</span><span class="p">))</span><span class="w">
+      </span><span class="p">([</span><span class="n">result</span><span class="p">]</span><span class="w"> </span><span class="p">(</span><span class="nf">rf</span><span class="w"> </span><span class="n">result</span><span class="p">))</span><span class="w">
+      </span><span class="p">([</span><span class="n">result</span><span class="w"> </span><span class="n">input</span><span class="p">]</span><span class="w">
+       </span><span class="p">(</span><span class="nf">vswap!</span><span class="w"> </span><span class="n">buf</span><span class="w"> </span><span class="n">v/catvec</span><span class="w"> </span><span class="n">input</span><span class="p">)</span><span class="w">
+       </span><span class="p">(</span><span class="nb">loop</span><span class="w"> </span><span class="p">[</span><span class="n">res</span><span class="w"> </span><span class="n">result</span><span class="p">]</span><span class="w">
+         </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[[</span><span class="n">len</span><span class="w"> </span><span class="n">rst</span><span class="p">]</span><span class="w"> </span><span class="p">(</span><span class="nf">&lt;varint</span><span class="w"> </span><span class="o">@</span><span class="n">buf</span><span class="p">)]</span><span class="w">
+           </span><span class="p">(</span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="nb">&gt;=</span><span class="w"> </span><span class="p">(</span><span class="nb">count</span><span class="w"> </span><span class="n">rst</span><span class="p">)</span><span class="w"> </span><span class="n">len</span><span class="p">)</span><span class="w">
+             </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[</span><span class="n">pk</span><span class="w"> </span><span class="p">(</span><span class="nf">v/subvec</span><span class="w"> </span><span class="n">rst</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="n">len</span><span class="p">)]</span><span class="w">
+               </span><span class="p">(</span><span class="nf">vreset!</span><span class="w"> </span><span class="n">buf</span><span class="w"> </span><span class="p">(</span><span class="nf">v/subvec</span><span class="w"> </span><span class="n">rst</span><span class="w"> </span><span class="n">len</span><span class="p">))</span><span class="w">
+               </span><span class="p">(</span><span class="nf">recur</span><span class="w"> </span><span class="p">(</span><span class="nf">rf</span><span class="w"> </span><span class="n">res</span><span class="w"> </span><span class="n">pk</span><span class="p">)))</span><span class="w">
+             </span><span class="n">res</span><span class="p">)))))))</span><span class="w">
+
+</span><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">packet-decoder-xf</span><span class="w">
+  </span><span class="s">"A stateful transducer that decodes packets.
+   Receives pre-split packet bytes, and yields the decoded packet for every packet that comes in, keeping track of client state."</span><span class="w">
+  </span><span class="p">[</span><span class="n">rf</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[</span><span class="n">client-state</span><span class="w"> </span><span class="p">(</span><span class="nf">volatile!</span><span class="w"> </span><span class="no">:handshaking</span><span class="p">)]</span><span class="w">
+    </span><span class="p">(</span><span class="k">fn</span><span class="w">
+      </span><span class="p">([]</span><span class="w"> </span><span class="p">(</span><span class="nf">rf</span><span class="p">))</span><span class="w">
+      </span><span class="p">([</span><span class="n">result</span><span class="p">]</span><span class="w"> </span><span class="p">(</span><span class="nf">rf</span><span class="w"> </span><span class="n">result</span><span class="p">))</span><span class="w">
+      </span><span class="p">([</span><span class="n">result</span><span class="w"> </span><span class="n">encoded-pk</span><span class="p">]</span><span class="w">
+       </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[[</span><span class="n">pid</span><span class="w"> </span><span class="n">bs</span><span class="p">]</span><span class="w"> </span><span class="p">(</span><span class="nf">&lt;varint</span><span class="w"> </span><span class="n">encoded-pk</span><span class="p">)]</span><span class="w">
+         </span><span class="c1">;; ofc I'll move this out to something other than a switch statement, but you get the idea :p</span><span class="w">
+         </span><span class="p">(</span><span class="nf">case</span><span class="w"> </span><span class="p">[</span><span class="o">@</span><span class="n">client-state</span><span class="w"> </span><span class="n">pid</span><span class="p">]</span><span class="w">
+           </span><span class="c1">;; Also need to transition the state here</span><span class="w">
+           </span><span class="p">[</span><span class="no">:handshaking</span><span class="w"> </span><span class="mi">0</span><span class="n">x00</span><span class="p">]</span><span class="w"> </span><span class="p">(</span><span class="nf">rf</span><span class="w"> </span><span class="n">result</span><span class="w"> </span><span class="p">(</span><span class="nf">&lt;&lt;</span><span class="w"> </span><span class="p">[</span><span class="no">:protocol-version</span><span class="w"> </span><span class="n">&lt;varint</span><span class="w">
+                                               </span><span class="no">:server-address</span><span class="w"> </span><span class="n">&lt;string</span><span class="w">
+                                               </span><span class="no">:server-port</span><span class="w"> </span><span class="n">&lt;ushort</span><span class="w">
+                                               </span><span class="no">:intent</span><span class="w"> </span><span class="p">(</span><span class="nf">&lt;enum</span><span class="w"> </span><span class="n">&lt;varint</span><span class="w"> </span><span class="p">{</span><span class="mi">1</span><span class="w"> </span><span class="no">:status</span><span class="w"> </span><span class="mi">2</span><span class="w"> </span><span class="no">:login</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="no">:transfer</span><span class="p">})]</span><span class="w">
+                                              </span><span class="n">bs</span><span class="p">))</span><span class="w">
+
+           </span><span class="n">result</span><span class="p">))))))</span><span class="w">
+
+</span><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">read-bytes!</span><span class="w">
+  </span><span class="s">"Reads bytes as they come in from the client, and puts them onto out-chan as rrb vectors."</span><span class="w">
+  </span><span class="p">[</span><span class="n">socket</span><span class="w"> </span><span class="n">out-chan</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[</span><span class="n">input-stream</span><span class="w"> </span><span class="p">(</span><span class="nf">Socket/.getInputStream</span><span class="w"> </span><span class="n">socket</span><span class="p">)</span><span class="w">
+        </span><span class="n">arr</span><span class="w"> </span><span class="p">(</span><span class="nf">byte-array</span><span class="w"> </span><span class="mi">4096</span><span class="p">)]</span><span class="w">
+    </span><span class="p">(</span><span class="nb">loop</span><span class="w"> </span><span class="p">[]</span><span class="w">
+      </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[</span><span class="n">n</span><span class="w"> </span><span class="p">(</span><span class="nf">InputStream/.read</span><span class="w"> </span><span class="n">input-stream</span><span class="w"> </span><span class="n">arr</span><span class="p">)]</span><span class="w">
+        </span><span class="p">(</span><span class="nb">when</span><span class="w"> </span><span class="p">(</span><span class="nb">pos?</span><span class="w"> </span><span class="n">n</span><span class="p">)</span><span class="w">
+          </span><span class="p">(</span><span class="nf">&gt;!!</span><span class="w"> </span><span class="n">out-chan</span><span class="w"> </span><span class="p">(</span><span class="nf">v/subvec</span><span class="w"> </span><span class="p">(</span><span class="nf">v/vec</span><span class="w"> </span><span class="n">arr</span><span class="p">)</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="n">n</span><span class="p">))</span><span class="w">
+          </span><span class="p">(</span><span class="nf">recur</span><span class="p">))))))</span><span class="w">
+
+</span><span class="p">(</span><span class="k">defmacro</span><span class="w"> </span><span class="n">thread</span><span class="w"> </span><span class="p">[</span><span class="o">&amp;</span><span class="w"> </span><span class="n">args</span><span class="p">]</span><span class="w">
+  </span><span class="o">`</span><span class="p">(</span><span class="nf">Thread/startVirtualThread</span><span class="w"> </span><span class="p">(</span><span class="k">fn</span><span class="w"> </span><span class="p">[]</span><span class="w"> </span><span class="o">~@</span><span class="n">args</span><span class="p">)))</span><span class="w">
+
+</span><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">handle</span><span class="w"> </span><span class="p">[</span><span class="n">socket</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[</span><span class="n">xf</span><span class="w"> </span><span class="p">(</span><span class="nb">comp</span><span class="w"> </span><span class="n">packet-splitter-xf</span><span class="w"> </span><span class="n">packet-decoder-xf</span><span class="p">)</span><span class="w">
+        </span><span class="n">packet-chan</span><span class="w"> </span><span class="p">(</span><span class="nf">chan</span><span class="w"> </span><span class="mi">1024</span><span class="w"> </span><span class="n">xf</span><span class="p">)]</span><span class="w">
+    </span><span class="p">(</span><span class="nf">thread</span><span class="w"> </span><span class="p">(</span><span class="nf">read-bytes!</span><span class="w"> </span><span class="n">socket</span><span class="w"> </span><span class="n">packet-chan</span><span class="p">))</span><span class="w">
+    </span><span class="c1">;; Another transducer could read these and decide what packets to send back to the client :D</span><span class="w">
+    </span><span class="p">(</span><span class="nf">thread</span><span class="w"> </span><span class="p">(</span><span class="nb">loop</span><span class="w"> </span><span class="p">[]</span><span class="w">
+              </span><span class="p">(</span><span class="nf">tap&gt;</span><span class="w"> </span><span class="p">(</span><span class="nf">&lt;!!</span><span class="w"> </span><span class="n">packet-chan</span><span class="p">))</span><span class="w">
+              </span><span class="p">(</span><span class="nf">recur</span><span class="p">)))))</span><span class="w">
+
+</span><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">-main</span><span class="w"> </span><span class="p">[</span><span class="o">&amp;</span><span class="w"> </span><span class="n">_</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="nf">add-tap</span><span class="w"> </span><span class="n">pp/pprint</span><span class="p">)</span><span class="w">
+  </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[</span><span class="n">server</span><span class="w"> </span><span class="p">(</span><span class="nf">ServerSocket.</span><span class="w"> </span><span class="mi">25565</span><span class="p">)]</span><span class="w">
+    </span><span class="p">(</span><span class="nf">tap&gt;</span><span class="w"> </span><span class="s">"Server Started!"</span><span class="p">)</span><span class="w">
+    </span><span class="p">(</span><span class="nf">while</span><span class="w"> </span><span class="n">true</span><span class="w">
+      </span><span class="p">(</span><span class="nf">handle</span><span class="w"> </span><span class="p">(</span><span class="nf">ServerSocket/.accept</span><span class="w"> </span><span class="n">server</span><span class="p">)))))</span><span class="w">
+</span></code></pre></div></div>
+
+  </body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <style> :root {--base-font-size: 1rem;
+       --content-max-ch: 72ch;
+       --page-gap: 1rem}
+
+/* Make these better and shit */
+@media (min-width: 600px)  {:root {--base-font-size: 1.0625rem}}
+@media (min-width: 900px)  {:root {--base-font-size: 1.125rem}}
+@media (min-width: 1200px) {:root {--base-font-size: 1.25rem}}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular-ascii.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: "JetBrains Mono";
+            src: url("/assets/fonts/JetBrainsMono-Regular.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold-ascii.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Bold.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic-ascii.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0000-00FF}
+
+@font-face {font-family: 'JetBrains Mono';
+            src: url('/assets/fonts/JetBrainsMono-Italic.woff2') format('woff2');
+            font-weight: 400;
+            font-style: italic;
+            font-display: swap;
+            unicode-range: U+0100-024F}
+
+html {box-sizing: border-box;
+      background-color: #050506}
+
+*, *::before, *::after {box-sizing: inherit}
+
+body {color: #f9f9ff;
+      font-size: var(--base-font-size);
+      font-family: 'JetBrains Mono', monospace;
+      line-height: 1.5;
+      max-width: var(--content-max-ch);
+      margin: var(--page-gap);
+      margin-inline: auto;
+      padding: 0 1rem;
+      overflow-wrap: anywhere;
+      word-break: break-word}
+
+a {color: #58A6FF}
+a:hover,
+a:active,
+a:focus {background-color: rgba(36, 116, 208, 0.25);
+         border-radius: 0.25rem}
+
+ul {padding: 0;
+    margin-left: 25px;
+    list-style-type: disc}
+
+code {background-color: #222;
+      padding: 1px 2px;
+      border-radius: 0.25rem}
+
+pre {background-color: #222;
+     padding: 1rem;
+     border-radius: 0.25rem;
+     overflow: auto;
+     white-space: pre}
+
+h1 {margin-block-start: 0;
+    margin-block-end: var(--base-font-size);
+    text-align: center}
+
+p {margin: 0 0 calc(var(--base-font-size) * 1.5) 0}
+
+hr {margin: calc(var(--base-font-size) * 2.25) 0}
+
+video {max-width: 100%;
+       max-height: 100%;
+       object-fit: contain}
+ </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regular Outline Grammars</title>
+  </head>
+  <body>
+    <main id="app">
+      <h1>Regular Outline Grammars</h1>
+      <p>A <a class="wiki-link" href="/steno">steno</a> <a class="wiki-link" href="/steno-glossary#theory">theory</a> having a "regular outline grammar" means that <a class="wiki-link" href="/steno-glossary#outline">outlines</a> are constructed in a way that makes their <a class="wiki-link" href="/steno-glossary#word-boundary-conflict">boundaries</a> unambiguous. You can always tell where an outline starts and ends, and whether a <a class="wiki-link" href="/steno-glossary#stroke">stroke</a> is part of the previous outline or starting a new one.</p>
+
+<p>Why would this be important? Well, for one, Having a regular outline grammar entirely removes 2 major classes of <a class="wiki-link" href="/steno-glossary#conflict">conflicts</a> - those being <a class="wiki-link" href="/steno-glossary#word-boundary-conflict">word boundary conflicts</a> and word-affix conflicts.</p>
+
+<p>"But we have tools to get rid of word boundary conflicts!"</p>
+
+<p>Yes, through a ridiculous amount of complexity and <a class="wiki-link" href="/steno-glossary#theory-rule">theory rules</a>, splitting words in alien ways, creating a dozen <a class="wiki-link" href="/steno-glossary#mandatory">mandatory</a> affixes, requiring the use of <code class="language-plaintext highlighter-rouge">*</code> for compound words (which causes its own set of mandatories, as well as conflicts for compound words that already use <code class="language-plaintext highlighter-rouge">*</code>, which can also span multiple words, because this <strong>still</strong> does not solve word boundaries), you can get rid of <em>most</em> word boundary conflicts most of the time, hopefully, fingers crossed.</p>
+
+<ul>
+  <li>(I don't think I've quite emphasized this point enough)</li>
+</ul>
+
+<p>This is just silly, and regular outline grammars are an extremely trivial solution to this.</p>
+
+<h2 id="how">How?</h2>
+
+<ul>
+  <li>Your theory very likely already has a ton of rules around trying to avoid word boundary conflicts, so adopting a regular outline grammar may not seem as important. However, these rules are not needed, and make your theory worse. This is a tradeoff of course, as regular outline grammars have their own downsides, which I will get into later.</li>
+  <li>This is a binary thing. A theory is either regular or irregular, and there is no in-between</li>
+</ul>
+
+<p>In order for outlines to have unambiguous boundaries, you need to define a single grammar for outlines.</p>
+
+<p>The simplest way to do this would be a <a class="wiki-link" href="/steno-glossary#dedicated">dedicated</a> "join" <a class="wiki-link" href="/steno-glossary#key">key</a> that joins the current stroke to the previous, kinda like a space suppression key. then, it would be trivial to tell when outlines start and end. any stroke without the "join" key is the start of a new outline, and any stroke with the "join" key is a continuation of the previous outline. if you find it useful, the <a class="wiki-link" href="/theory-rules-as-regular-expressions">regex for outlines</a> with a join key is <code class="language-plaintext highlighter-rouge">(stroke without join key)(stroke with join key)*</code>.</p>
+
+<p>This has the obvious drawback of requiring an entire dedicated key, which is usually not something you just have lying around. (Sorry shrimple :p)</p>
+
+<p>A better way to go about this is with a more applied version of Phoenix's "vowel omission principle" called "subsequent vowel omission". (see <em>The Relativity of Theory - Carol Jochim</em>: <a href="https://www.stenolife.com/carolj.htm" class="web-link">https://www.stenolife.com/carolj.htm</a>)</p>
+
+<p>Rather than subsequent strokes in outlines using a "join" key, they drop, or "omit", their <a class="wiki-link" href="/steno-glossary#vowel">vowels</a> to become <a class="wiki-link" href="/steno-glossary#skeleton">skeletons</a>. Subsequent vowel sounds in English are extremely unimportant, and can be completely ignored while creating approximately 0 conflicts. I could demonstrate this, but the section at the end of this page is plenty enough.</p>
+
+<p>The regex for outlines with subsequent vowel omission is <code class="language-plaintext highlighter-rouge">(non-skeleton)(skeleton)*</code></p>
+
+<p>The trade-offs of subsequent vowel omission is that there are a few words that differ only in their subsequent vowel sounds, such as "forget" and "forgot"; and that all skeletons are reserved.</p>
+
+<p>On the other hand, it does allow for a great amount of squishing/stacking subsequent strokes. When you don't care about the vowels, you can heavily stack multi-syllable words, such as "catatonic" into <code class="language-plaintext highlighter-rouge">KA*T/T*FRPBG</code> (To see why <code class="language-plaintext highlighter-rouge">*</code> is used there, check out <a class="wiki-link" href="/onyx-syllabic-splitting">Onyx syllabic splitting</a>).</p>
+
+<p>Another kind of flavor of subsequent vowel omission that I do not have a good name for involves only using final chords in all subsequent strokes.</p>
+
+<p>If you're not comfortable giving up skeletons, there is another flavor of subsequent vowel omission that <a class="wiki-link" href="/steno-glossary#dedicated">reserves</a> all "naked" <a class="wiki-link" href="/steno-glossary#initial">initial</a> and <a class="wiki-link" href="/steno-glossary#final">final</a> <a class="wiki-link" href="/steno-glossary#chord">chords</a>, but not skeletons.</p>
+
+<p>Here are the rules:</p>
+<ol>
+  <li>Pick a "stressed" vowel in every word</li>
+  <li>Drop all other vowels</li>
+  <li>All vowels that come before the stressed vowel use a naked initial chord</li>
+  <li>All vowels that come after the stressed vowel use a naked final chord</li>
+</ol>
+
+<p>Some extra rules:</p>
+<ul>
+  <li>When there are two-or-more initial chords in a row, all but the first may be skipped (<code class="language-plaintext highlighter-rouge">K/T/TO/-FRPBG</code> becomes <code class="language-plaintext highlighter-rouge">K/TO/-FRPBG</code>)</li>
+  <li>For words that only differ in their unstressed vowel sounds, move the stressed vowel to their "problem" vowel, or the vowel that conflicts. ("affect" and "effect" may be conflicts, so move the stressed vowel from "fect" to "af" and "ef")</li>
+  <li>You may have to employ some ortho suffixes like "^men" and "^man". (<code class="language-plaintext highlighter-rouge">SEE/M-N</code> -&gt; "semen", <code class="language-plaintext highlighter-rouge">SEE/MA*N</code> -&gt; "seaman", <code class="language-plaintext highlighter-rouge">SEE/ME*N</code> -&gt; "seamen" - (<a class="wiki-link" href="/raw-steno">Raw Steno</a>))</li>
+</ul>
+
+<p>In general, you can add affixes while still being regular, document this somewhere.</p>
+
+<p>(See <a class="wiki-link" href="/semi-modal-dictionaries">semi-modal dictionaries</a>)</p>
+
+<h2 id="just-stop-and-leave-this-page">Just stop and leave this page</h2>
+
+<p>There is one more way that you could write words such that it's clear where they start and end, which is to write with just one stroke per word...</p>
+
+<p>That may sound dumb, and it may be, but I'm not so sure.</p>
+
+<p>In fact, a lot of folks do this - not so much in this space, but in some groups, this is just how it's done, and it's not like they yearn for more.</p>
+
+<p>Boards where you type as the base, and chord on top of that - such as the board you may have heard of, linked here (<a href="https://www.charachorder.com/" class="web-link">https://www.charachorder.com/</a>) - have no real need for more than one stroke in a row, they can can write all words with just one stroke.</p>
+
+<p>That's quite cool, so why don't we do that? Well, it turns out, when the norm is to chord, not to type, it can be hard to fit ALL words in just one stroke. Boards where you type get to use more than one key press to type a word, which we can't do.</p>
+
+<p>But all of our keys are bunched up to form a stroke, and we can't use more. We don't get to use a bunch more keys to write long words, or words we might not have chords for. It all has to fit in the stroke</p>
+
+<p>But if we <em>could</em> write all words with just one stroke, then we should, right? Why would you want to take <em>more</em> strokes to write the same words that you could just write with one stroke? We only use more than one stroke per word since the rules we use to write were made a long time ago, when we had to do a lot of work by hand that's now done for us.</p>
+
+<p>I think there could have been a world where we write with just one stroke words. You might need more briefs, but you can at least get most of the way there.</p>
+
+<p>I can only talk like this for so long, so it won't be me who makes this.</p>
+
+
+    </main>
+    <script type="module" src="/assets/js/app.js"></script>
+  </body>
+</html>
