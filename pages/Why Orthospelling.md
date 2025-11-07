@@ -7,7 +7,7 @@ Why you might or might not want a [[Steno Glossary#Full-English|full-english]] [
 
 See [[Pinchord]] :D
 
-I wrote this while listening to jpegmafia so I was probably pretty distracted
+[[Home|I]] wrote this while listening to jpegmafia so I was probably pretty distracted.
 
 ## Rationale
 
