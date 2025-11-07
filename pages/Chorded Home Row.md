@@ -15,4 +15,4 @@ However, it is possible to require zero movement to press home row keys, and onl
 
 If you treat pressing the top and bottom row keys on the same column as a pseudo-home row.
 
-[[Home|My]] keyboard layout, [[Delusional]], uses a chorded home row.
+[[Delusional]] uses a chorded home row.
