@@ -103,5 +103,4 @@ iframe.website {border: 0;
                 max-width: 200%;
                 display: block;
                 width: var(--content-max-ch);
-                overflow: hidden;
                 height: 100vh}
