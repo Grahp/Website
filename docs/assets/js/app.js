@@ -106,10 +106,10 @@ async function navigate(fullPath, push = true) {
     document.title = fragment.title || document.title
     if (push) { 
       history.pushState(null, "", fullPath)
-      console.log(fullPath)
       scrollToHash(getHash(fullPath))
     } else {
       restoreScroll(path)
+      scrollToHash(getHash(fullPath))
     }
   } else {
     location.href = fullPath
@@ -137,6 +137,6 @@ document.addEventListener('click', e => {
   }
 })
 
-window.addEventListener('popstate', () => {
+window.addEventListener("popstate", () => {
   navigate(location.pathname + location.search + location.hash, false)
 })

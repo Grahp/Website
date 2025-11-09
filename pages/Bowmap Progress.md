@@ -12,6 +12,13 @@ My goal is to have some kind of tangible progress every single day.
 
 (In reverse chronological order... I know, yuck)
 
+November uh 9... 2025, 68 days until release
+
+- I have been informed that there are 68 days until release...
+- This is NOT good news
+
+---
+
 October 24, 2025, 84 days until release
 
 - Okay I have actually been working on the server I just keep forgetting to update this -.-
