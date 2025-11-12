@@ -10,26 +10,30 @@ This is [[Website|my website]] :p
 
 I'm a software developer from The Internet™, currently working on a couple things:
 
-[[Bowmap|Bowmap]] is an MMORPG [[Minecraft Server|Minecraft server]] written [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]].
+An MMORPG [[Minecraft Server|Minecraft server]] written [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]] called [[Bowmap|Bowmap]]!
 
-I've been working on it for like 3 years, but you can see where I am on the latest attempt on the [[Bowmap Progress|Progress page]].
-
----
-
-[[Pinchord|Pinchord]] is a [[Steno Glossary#Full-English|full-English]] [[Steno Glossary#Orthospelling|orthospelling]] [[Steno]] [[Steno Glossary#Theory|theory]] that I'm in the process of [[Theory in Practice|designing]] and learning.
-
-See the [[Steno|Steno]] page for links to all the other pages I've made about steno :p
-
-There are some good reads there. And there's also... Uh...
+I've been working on it for a while - you can see where I'm at currently on the [[Bowmap Progress|Bowmap Progress]] page.
 
 ---
 
-You can [[Contact]] me via email at `hello@grahp.dev`.
+A bunch of, *ahem*, [[Steno|Machine Stenography]] stuff, but notably a "chorded typing" system called [[Pinchord|Pinchord]] that I'm in the process of [[Theory in Practice|designing]] and learning!
+
+the [[Steno|Steno]] page has some good resources. It also has... Uh...
+
+---
+
+A Lua [[Lisp|Lisp]] called [[Faddle]] :p
+
+Still just thinking about it, but maybe it'll release some day.
+
+---
+
+You can [[Contact]] me via email at `hello@grahp.dev`. Or any other name... They all work, `grahp@grahp.dev` just looks kinda weird ._.
 
 Soon™ I will set up a git server here
 
 All links are [[404|permalinks]] and they're [[How to Take Notes|internal links]] (unless they start with "https://"), so you can click around without fear!
 
-No analytics or tracking or anything, so if you have any thoughts, send me an email :p
+No analytics or tracking or anything, so if you have any thoughts, [[Contact|send me an email]] :p
 
 Hope you enjoy your stay :)
