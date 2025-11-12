@@ -10,19 +10,21 @@ This is [[Website|my website]] :p
 
 I'm a software developer from The Internet™, currently working on a couple things:
 
+## Bowmap
+
 An MMORPG [[Minecraft Server|Minecraft server]] written [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]] called [[Bowmap|Bowmap]]!
 
 I've been working on it for a while - you can see where I'm at currently on the [[Bowmap Progress|Bowmap Progress]] page.
 
----
+## Steno
 
 A bunch of, *ahem*, [[Steno|Machine Stenography]] stuff, but notably a "chorded typing" system called [[Pinchord|Pinchord]] that I'm in the process of [[Theory in Practice|designing]] and learning!
 
 the [[Steno|Steno]] page has some good resources. It also has... Uh...
 
----
+## Faddle
 
-A Lua [[Lisp|Lisp]] called [[Faddle]] :p
+A Lua [[Lisp|Lisp]] called [[Faddle|Faddle]] :p
 
 Still just thinking about it, but maybe it'll release some day.
 
