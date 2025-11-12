@@ -12,7 +12,7 @@ I'm a software developer from The Internet™, currently working on a couple thi
 
 ## Bowmap
 
-[[Bowmap|Bowmap]] An MMORPG [[Minecraft Server|Minecraft server]] [[Code Editors|written]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]].
+[[Bowmap|Bowmap]] is an MMORPG [[Minecraft Server|Minecraft server]] [[Code Editors|written]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]].
 
 I've been working on it for a while - you can see where I'm at currently on the [[Bowmap Progress|Bowmap Progress]] page.
 
