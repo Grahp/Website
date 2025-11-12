@@ -116,11 +116,29 @@ iframe.website {border: 0;
   <body>
     <main id="app">
       <h1>Faddle</h1>
-      <p>Faddle is the name of the <a class="wiki-link" href="/lisp">Lisp</a> that <a class="wiki-link" href="/">I</a> might make at some point in the future :p</p>
+      <p>Faddle is a <a class="wiki-link" href="/lisp">Lisp</a> for Lua that <a class="wiki-link" href="/">I'm</a> making.</p>
 
-<p>Or maybe it'll be for something else idk.</p>
+<p>Lua is a great platform - it's small, easy to learn, very slow moving, dynamic, blazingly fast (allegedly), has a ton of different implementations: from a 200k C interpreter to a powerful JIT, running on a Raspberry Pi, compiling to JS and running on the web, building a multi-platform binary, it's an extremely versatile language.</p>
 
-<p><a class="wiki-link" href="/">Go home lol</a></p>
+<p>I couldn't say it any better; from the <a class="wiki-link" href="/fennel">Fennel</a> rationale (<a href="https://fennel-lang.org/rationale" class="web-link">https://fennel-lang.org/rationale</a>)</p>
+
+<blockquote>
+  <p>The conceptual simplicity of Lua stands in stark contrast to other "easy to learn" languages like JavaScript or Python–Lua contains very close to the minimum number of ideas needed to get the job done; only Forth and Scheme offer a comparable simplicity. When you combine this meticulous simplicity with the emphasis on making programs reprogrammable, the result is a powerful antidote to prevailing trends in technology of treating programs as black boxes out of the control of the user.</p>
+</blockquote>
+
+<p><em>However</em>, Lua does have some goofiness, and it's utter lack of a standard library is unacceptable to me.</p>
+
+<p>Faddle is a more functional language than Lua - it's a Lisp, and oriented around procs rather than banging on tables in place. It has opt-in variables and globals.</p>
+
+<p>Why not Fennel?</p>
+
+<ul>
+  <li>Fennel has no runtime</li>
+  <li>Fennel isn't a Lisp, it's a Lisp <em>syntax</em>
+</li>
+  <li>Fennel isn't any more functional than Lua</li>
+  <li>Fennel has no standard library on top of Lua</li>
+</ul>
 
     </main>
     <script type="module" src="/assets/js/app.js"></script>
