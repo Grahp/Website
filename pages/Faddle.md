@@ -21,3 +21,5 @@ Why not Fennel?
 - Fennel isn't a Lisp, it's a Lisp _syntax_
 - Fennel isn't any more functional than Lua
 - Fennel has no standard library on top of Lua
+
+The great thing about Lua is that there is ample room for more languages like this!
