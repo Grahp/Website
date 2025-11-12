@@ -106,6 +106,10 @@
              "LKFS" "lsh"
              "LRKFS" "nsh"
              "RKFS" "rsh"
+             "KFS*" "w"
+             "LKFS*" "wl"
+             "LRKFS*" "wn"
+             "RKFS*" "rw"
              "L" "l"
              "LR" "rl"
              "R" "r"
@@ -189,9 +193,8 @@
              "R*" "rr"
              "P*" "pp"
              "PK*" "w"
-             "LPK*" "wl"
-             "LRPK*" "wn"
-             "RPK*" "rw"
+             "LPK*" "bl"
+             "LRPK*" "bbl"
              "PKFS*" "gg"
              "LRPFT*" "nny"
              "PKF*" "dd"
@@ -260,7 +263,7 @@
 
 (defn generate-javelin-dict! [dict]
   (->> (yaml/generate-string dict)
-       (spit "pinchord-javelin-dictionary2.yaml")))
+       (spit "pinchord-javelin-dictionary.yaml")))
 
 (comment
   (generate-javelin-dict! (javelin-dict)))

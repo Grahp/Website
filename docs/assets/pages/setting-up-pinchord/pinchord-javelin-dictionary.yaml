@@ -1,27 +1,29 @@
-## Pinchord Version 7
 name: Pinchord
 maximumOutlineLength: 1
 starters:
 - {stroke: '', definition: '', mask: ''}
 letters:
 - {stroke: -LRPKF*, data: rld, order: 5}
+- {stroke: -LRKFS*, data: wn, order: 5}
 - {stroke: -LRPFT*, data: nny, order: 5}
 - {stroke: -LRPKFS, data: ng, order: 5}
 - {stroke: -LRPKST, data: nj, order: 5}
 - {stroke: -LRKFS, data: nsh, order: 5}
 - {stroke: -LPKF*, data: ddl, order: 5}
-- {stroke: -LRPK*, data: wn, order: 5}
+- {stroke: -LKFS*, data: wl, order: 5}
 - {stroke: -RPFT*, data: rly, order: 5}
 - {stroke: TSPWHR, data: gl, order: 3}
 - {stroke: -LRPFT, data: ny, order: 5}
 - {stroke: -RPKST, data: rj, order: 5}
 - {stroke: -RPKFS, data: rg, order: 5}
+- {stroke: -LRPK*, data: bbl, order: 5}
 - {stroke: -LRPFS, data: nz, order: 5}
 - {stroke: -PKFS*, data: gg, order: 5}
 - {stroke: -LPKFS, data: lg, order: 5}
 - {stroke: -LPFT*, data: nly, order: 5}
 - {stroke: -LRPKF, data: nd, order: 5}
 - {stroke: -PKFT*, data: cy, order: 5}
+- {stroke: -RKFS*, data: rw, order: 5}
 - {stroke: -LPKST, data: lj, order: 5}
 - {stroke: -LRST*, data: nth, order: 5}
 - {stroke: -LRPS, data: mn, order: 5}
@@ -30,6 +32,7 @@ letters:
 - {stroke: TPWHR, data: squ, order: 3}
 - {stroke: -LRFS, data: nv, order: 5}
 - {stroke: -PKST, data: j, order: 5}
+- {stroke: -KFS*, data: w, order: 5}
 - {stroke: -PKFS, data: g, order: 5}
 - {stroke: -LPKF, data: ld, order: 5}
 - {stroke: -LRPK, data: mb, order: 5}
@@ -41,17 +44,17 @@ letters:
 - {stroke: SPWHR, data: cl, order: 3}
 - {stroke: -KST*, data: sc, order: 5}
 - {stroke: -RPKF, data: rd, order: 5}
-- {stroke: -LPK*, data: wl, order: 5}
+- {stroke: -PFT*, data: yy, order: 5}
 - {stroke: -LRK*, data: nc, order: 5}
 - {stroke: TSPWH, data: gh, order: 3}
 - {stroke: -PKFT, data: ky, order: 5}
 - {stroke: -RPFT, data: ry, order: 5}
-- {stroke: -RPK*, data: rw, order: 5}
 - {stroke: -LRST, data: nst, order: 5}
 - {stroke: TSWHR, data: kl, order: 3}
 - {stroke: -LRKF, data: nch, order: 5}
 - {stroke: -LST*, data: lth, order: 5}
 - {stroke: TSPHR, data: sv, order: 3}
+- {stroke: -LPK*, data: bl, order: 5}
 - {stroke: -LRPF, data: nn, order: 5}
 - {stroke: -RKFS, data: rsh, order: 5}
 - {stroke: -LKFS, data: lsh, order: 5}
@@ -112,10 +115,10 @@ letters:
 - {stroke: ^AI, data: ia, order: 4}
 - {stroke: SPR, data: spr, order: 3}
 - {stroke: -EZ, data: es, order: 6}
-- {stroke: -P*, data: q, order: 5}
 - {stroke: AIU, data: ea, order: 4}
 - {stroke: -T*, data: tt, order: 5}
 - {stroke: TSH, data: sk, order: 3}
+- {stroke: '|#+', data: '{^}_', order: 1}
 - {stroke: -PT, data: pt, order: 5}
 - {stroke: -LF, data: lf, order: 5}
 - {stroke: PWR, data: br, order: 3}
@@ -131,6 +134,7 @@ letters:
 - {stroke: -LT, data: lt, order: 5}
 - {stroke: ^AO, data: oa, order: 4}
 - {stroke: PHR, data: pl, order: 3}
+- {stroke: -P*, data: pp, order: 5}
 - {stroke: -FS, data: v, order: 5}
 - {stroke: TSR, data: str, order: 3}
 - {stroke: TPH, data: n, order: 3}
