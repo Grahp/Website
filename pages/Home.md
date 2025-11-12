@@ -12,7 +12,7 @@ I'm a software developer from The Internet™, currently working on a couple thi
 
 ## Bowmap
 
-An MMORPG [[Minecraft Server|Minecraft server]] written [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]] called [[Bowmap|Bowmap]]!
+[[Bowmap|Bowmap]] An MMORPG [[Minecraft Server|Minecraft server]] [[Code Editors|written]] [[Minecraft Server From Scratch|from scratch]] in [[Clojure|Clojure]].
 
 I've been working on it for a while - you can see where I'm at currently on the [[Bowmap Progress|Bowmap Progress]] page.
 
@@ -24,7 +24,7 @@ the [[Steno|Steno]] page has some good resources. It also has... Uh...
 
 ## Faddle
 
-A Lua [[Lisp|Lisp]] called [[Faddle|Faddle]] :p
+A [[Lisp|Lisp]] on Lua designed to harness the power of Lua, Lisp, and avoiding some of the pitfalls of both. A more applied [[Fennel]], perhaps.
 
 Still just thinking about it, but maybe it'll release some day.
 
