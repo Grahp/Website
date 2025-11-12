@@ -2,7 +2,7 @@
 permalink: steno-lisp-editing-model
 title: Steno Lisp Editing Model
 ---
-[[Lisp|Lisp]] [[Code Editors|editor]] ideas.
+[[Lisp|Lisp]] editor ideas.
 
 (See [[Chalsed|Chalsed]])
 

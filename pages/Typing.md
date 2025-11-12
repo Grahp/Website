@@ -7,4 +7,4 @@ permalink: typing
 
 For the past year or so, I've been learning [[Steno]], most of that time spent working on [[Steno Glossary#Theory|theories]] and not actually practicing...
 
-I write, chat, and [[Code Editors|code]] (in [[Clojure|Clojure]]), all of which I'm currently doing with qwerty, but would eventually like to be using [[Steno]].
+I write, chat, and code (in [[Clojure|Clojure]]), all of which I'm currently doing with qwerty, but would eventually like to be using [[Steno]].

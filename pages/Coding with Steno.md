@@ -12,7 +12,7 @@ redirect_from:
   - steno-code-editing-model
 ---
 
-A [[Steno]] [[Programming Languages|code]] [[Code Editors|editing]] "keybinding" model.
+A [[Steno]] [[Programming Languages|code]] editing "keybinding" model.
 
 ## Modal Editing
 

@@ -1,17 +1,24 @@
 ---
 permalink: chalsed
 title: Chalsed
+redirect_from:
+  - code-editors
 ---
 Pronounced _KAL-SED_ ([[Pinchord|/kælsɛd/]])
 
-The _[[Lisp|Lisp]]_ [[Code Editors|Editor]].
+The _[[Lisp|Lisp]]_ editor!
 
 Just something [[Home|I've]] been thinking about for a while.
 
 I'm a [[Vim|vimmer]], but I have my grievances, especially when it comes to editing [[Lisp|Lisp]].
 
-Vim is pretty antiquated, and I don't like the emphasis on plugins in [[Vim|Neovim]].
+## Thoughts
 
-I imagine an editor that isn't text based but _code_ based (or rather collection based, but those are the same thing in Lisp). This is my real problem with every editor I've ever used, they're all text editors through and through, and there's no amount of extension that can change that.
+- Libraries over Plugins
+- Dynamic over Static
+- Foundation over Extension
+- GUI over Terminal
+- Code over Text
+- Expressions over Characters
 
-I figure it's good to have at least one project that you've been thinking about writing for months and never actually do, so here that is :D
+(Sorry for the half-baked page lol)
