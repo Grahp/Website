@@ -12,6 +12,14 @@ My goal is to have some kind of tangible progress every single day.
 
 (In reverse chronological order... I know, yuck)
 
+November 11, 2025, 66 days until release
+
+- Alright, I am here.
+- I'm going to rewrite the server. This isn't actually as bad as it sounds. The server is damn tiny right now, and built on a pretty fragile base. Starting over isn't too much of an issue.
+- I need to handle clients, serialize their packets, and feed those into a system to handle them. That's really it :p
+
+---
+
 November uh 9... 2025, 68 days until release
 
 - I have been informed that there are 68 days until release...
