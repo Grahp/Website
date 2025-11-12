@@ -24,7 +24,7 @@ the [[Steno|Steno]] page has some good resources. It also has... Uh...
 
 ## Faddle
 
-A [[Lisp|Lisp]] on Lua designed to harness the power of Lua, Lisp, and avoiding some of the pitfalls of both. A more applied [[Fennel]], perhaps.
+A [[Lisp|Lisp]] on Lua designed to harness the power of Lua, Lisp, and avoiding some of the pitfalls of both. A more applied [[Fennel|Fennel]], perhaps.
 
 Still just thinking about it, but maybe it'll release some day.
 
