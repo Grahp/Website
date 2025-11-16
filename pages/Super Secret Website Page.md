@@ -18,5 +18,6 @@ title: Super Secret Website Page
 
 Things I'd like to be able to do once I rewrite the website myself in [[Clojure|Clojure]]:
 - Bundle all the characters used in a given page
-- Bundle only the CSS actually needed
+- Bundle only the CSS actually needed on any given page
 - Minify HTML, CSS, and JS
+- Actually use pages CSS instead of stripping them out on SPA page loads
