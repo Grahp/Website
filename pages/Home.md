@@ -18,7 +18,7 @@ I've been working on it for a while - you can see where I'm at currently on the 
 
 ## Steno
 
-A bunch of, *ahem*, [[Steno|Machine Stenography]] stuff, but notably a "chorded typing" system called [[Pinchord|Pinchord]] that I'm in the process of [[Theory in Practice|designing]] and learning!
+A bunch of, *ahem*, [[Steno|Machine Stenography]] stuff, but notably a "chorded typing" system called [[Pinchord|Pinchord]] that I'm in the process of [[Theory in Practice|designing]] and [[Pinchord Progress|learning]]!
 
 the [[Steno|Steno]] page has some good resources. It also has... Uh...
 
