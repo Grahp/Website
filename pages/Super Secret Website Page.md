@@ -13,6 +13,7 @@ title: Super Secret Website Page
 - A git server on this bare domain with some kind of file tree somewhere...
 - Images can be wider than the page content (especially on mobile)!
 - Click on images to get a larger view?
+- Some kind of loading indicator when SPA isn't basically instantaneous
 
 ### Future Ideas
 
