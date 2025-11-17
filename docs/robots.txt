@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+sitemap: https://grahp.dev/sitemap.xml
