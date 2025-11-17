@@ -29,7 +29,6 @@ letters:
 - {stroke: -LRPS, data: mn, order: 5}
 - {stroke: -LRF*, data: fn, order: 5}
 - {stroke: -PKF*, data: dd, order: 5}
-- {stroke: TPWHR, data: squ, order: 3}
 - {stroke: -LRFS, data: nv, order: 5}
 - {stroke: -PKST, data: j, order: 5}
 - {stroke: -KFS*, data: w, order: 5}
@@ -50,6 +49,7 @@ letters:
 - {stroke: -PKFT, data: ky, order: 5}
 - {stroke: -RPFT, data: ry, order: 5}
 - {stroke: -LRST, data: nst, order: 5}
+- {stroke: TPWHR, data: sch, order: 3}
 - {stroke: TSWHR, data: kl, order: 3}
 - {stroke: -LRKF, data: nch, order: 5}
 - {stroke: -LST*, data: lth, order: 5}
@@ -64,13 +64,13 @@ letters:
 - {stroke: -LRT, data: nt, order: 5}
 - {stroke: SWHR, data: shr, order: 3}
 - {stroke: -LRK, data: nk, order: 5}
+- {stroke: TPWH, data: squ, order: 3}
 - {stroke: -RKF, data: rch, order: 5}
 - {stroke: -LFS, data: lv, order: 5}
 - {stroke: TPWR, data: dr, order: 3}
 - {stroke: TSWH, data: kn, order: 3}
 - {stroke: -LRP, data: mp, order: 5}
 - {stroke: -KT*, data: ct, order: 5}
-- {stroke: TPWH, data: exp, order: 3}
 - {stroke: SPWR, data: cr, order: 3}
 - {stroke: SPHR, data: spl, order: 3}
 - {stroke: ^AOU, data: ie, order: 4}
