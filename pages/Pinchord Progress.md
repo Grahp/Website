@@ -9,4 +9,4 @@ Pinchord is a chorded typing system that I'm designing, you can read more about 
 
 November 16, 2025 - Day 1 of tracking:
 
-- Nufin so far :p
+- 15wpm e5k 60s

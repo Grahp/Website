@@ -22,3 +22,4 @@ Things I'd like to be able to do once I rewrite the website myself in [[Clojure|
 - Bundle only the CSS actually needed on any given page
 - Minify HTML, CSS, and JS
 - Actually use pages CSS instead of stripping them out on SPA page loads
+- Same with the meta tags and such?
