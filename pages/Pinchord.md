@@ -1,6 +1,7 @@
 ---
 permalink: pinchord
 title: Pinchord
+desc: A chorded typing system
 ---
 
 Pinchord is a chorded typing system/[[Steno Glossary#Orthospelling|orthospelling]] [[Steno]] [[Steno Glossary#Theory|theory]] designed to harness the power of phonetic steno for normal(ish) people.

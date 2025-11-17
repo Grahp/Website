@@ -3,6 +3,7 @@ permalink: /
 title: Home
 redirect_from:
   - projects
+desc: Grahp's personal website.
 ---
 Hello, I'm Grahp!
 

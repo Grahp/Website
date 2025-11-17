@@ -3,6 +3,7 @@ title: Fennel
 permalink: fennel
 redirect_from:
   - lua
+desc: Thoughts on the Fennel programming language.
 ---
 
 [[Lisp|Lisp]] for Lua that [[Home|I]] felt like talking about for whatever reason.
