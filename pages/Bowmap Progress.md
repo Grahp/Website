@@ -12,6 +12,13 @@ My goal is to have some kind of tangible progress every single day.
 
 (In reverse chronological order... I know, yuck)
 
+November 17, 2025, 60 days until release.
+
+- idek anymore
+- Still thinking about this a lot but haven't been able to work on it
+
+---
+
 November 11, 2025, 66 days until release
 
 - Alright, I am here.
