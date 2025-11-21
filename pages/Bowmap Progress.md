@@ -12,7 +12,14 @@ My goal is to have some kind of tangible progress every single day.
 
 (In reverse chronological order... I know, yuck)
 
-November 17, 2025, 60 days until release.
+November 20, 2025, 57 days until release
+
+- Got some actual progress.
+- I've "started over", but right now I'm just re-doing the initial packet serialization stuff, and from there I can take any of the old code that I need, which I probably will :p
+
+---
+
+November 17, 2025, 60 days until release
 
 - idek anymore
 - Still thinking about this a lot but haven't been able to work on it
