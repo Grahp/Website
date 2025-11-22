@@ -3,6 +3,7 @@ title: AI-Assisted Steno
 permalink: ai-assisted-steno
 redirect_from:
   - ai-steno
+desc: Why I don't have high hopes for the use of AI in machine stenography.
 ---
 
 Why [[Home|I]] don't have high hopes for the use of AI in [[Steno|steno]]:
