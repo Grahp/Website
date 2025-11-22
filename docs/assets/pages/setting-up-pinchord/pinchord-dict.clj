@@ -222,7 +222,7 @@
              "KT*" "ct"
              "PKFT*" "cy"})
 
-(defn final
+(defn finalize
   "Puts dashes before all the keys of m"
   [m] (update-keys m (partial str \-)))
 
@@ -235,10 +235,10 @@
    ::prefixes {"#" "{-|}"}
    ::initials initials
    ::vowels vowels
-   ::finals (final finals)
-   ::suffixes (final {"E" "e"
-                      "Z" "s"
-                      "EZ" "es"})})
+   ::finals (finalize finals)
+   ::suffixes (finalize {"E" "e"
+                         "Z" "s"
+                         "EZ" "es"})})
 
 (defn javelin-dict []
   {:name "Pinchord"
