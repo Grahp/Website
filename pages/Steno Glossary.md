@@ -52,6 +52,7 @@ Outline:
 - [_Layout_](#layout)
   - [_WSI Layout_](#wsi-layout)
   - [_Extended Stenotype Layout_](#extended-stenotype-layout)
+- [_System_](#system)
 - Steno Engine
   - Plover
 - Steno Writer
@@ -300,6 +301,11 @@ The "standard" steno [_layout_](#layout).
 **Noun**
 
 An "extended" version of the [_WSI layout_](#wsi-layout) featuring 2 more [_keys_](#key), `^` and `+`.
+
+## System
+**Noun**
+
+Another word for "[_Layout_](#layout)".
 
 ## Merge
 **Adjective**
