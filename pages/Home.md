@@ -39,4 +39,11 @@ All links are [[404|permalinks]] and they're [[How to Take Notes|internal links]
 
 No analytics or tracking or anything, so if you have any thoughts, [[Contact|send me an email]] :p
 
+---
+
+You could probably guess my feelings about webrings from everything else here, so:
+
+- [https://baccyflap.com](https://baccyflap.com)
+- There's only one element in this list which is kind of awkward so this is a second
+
 Hope you enjoy your stay :)
