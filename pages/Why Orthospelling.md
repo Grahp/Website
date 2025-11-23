@@ -5,7 +5,7 @@ permalink: why-orthospelling
 
 Why you might or might not want a [[Steno Glossary#Full-English|full-english]] [[Steno Glossary#Orthospelling|orthospelling]] [[Steno]] [[Steno Glossary#Theory|theory]].
 
-See [[Pinchord]] :D
+See [[Pinchord|Pinchord]] :D
 
 ## Rationale
 
