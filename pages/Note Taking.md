@@ -1,6 +1,8 @@
 ---
-title: How to Take Notes
-permalink: how-to-take-notes
+title: Note Taking
+permalink: note-taking
+redirect_from:
+  - how-to-take-notes
 ---
 
 These are [[Home|my]] opinions after failing to take notes for the past 4 years.

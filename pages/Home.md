@@ -35,7 +35,7 @@ You can [[Contact]] me via email at `hello@grahp.dev`. Or any other name... They
 
 Soon™ I will set up a git server here
 
-All links are [[404|permalinks]] and they're [[How to Take Notes|internal links]] (unless they start with "https://"), so you can click around without fear!
+All links are [[404|permalinks]] and they're [[Note Taking|internal links]] (unless they start with "https://"), so you can click around without fear!
 
 No analytics or tracking or anything, so if you have any thoughts, [[Contact|send me an email]] :p
 

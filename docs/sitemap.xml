@@ -73,9 +73,6 @@
 <loc>/</loc>
 </url>
 <url>
-<loc>/how-to-take-notes</loc>
-</url>
-<url>
 <loc>/learn-pinchord</loc>
 </url>
 <url>
@@ -95,6 +92,9 @@
 </url>
 <url>
 <loc>/nixos</loc>
+</url>
+<url>
+<loc>/note-taking</loc>
 </url>
 <url>
 <loc>/onyx-mandatories</loc>
