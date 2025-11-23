@@ -7,8 +7,6 @@ Why you might or might not want a [[Steno Glossary#Full-English|full-english]] [
 
 See [[Pinchord]] :D
 
-[[Home|I]] wrote this while listening to jpegmafia so I was probably pretty distracted.
-
 ## Rationale
 
 Steno theories today are extremely complex, which makes them much harder to learn and master.
