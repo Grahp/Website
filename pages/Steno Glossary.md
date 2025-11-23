@@ -297,6 +297,8 @@ A set of [_keys_](#key) with _labels_, often grouped into _banks_, often with a 
 
 The "standard" steno [_layout_](#layout).
 
+- See [[WSI|WSI]].
+
 ## Extended Stenotype Layout
 **Noun**
 

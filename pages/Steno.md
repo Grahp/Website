@@ -16,6 +16,7 @@ Resources for machine stenography that [[Home|I've]] made over the past year or 
 - [[Steno Glossary|Steno Glossary]] - Glossary of steno terms you might hear
 - [[AI-Assisted Steno|AI-Assisted Steno]] - My thoughts on AI and steno :p
 - [[Raw Steno|Raw Steno]] - Common notation you might see for [[Steno Glossary#Raw Steno|raw steno]]
+- [[WSI|WSI]] - About the standard steno [[Steno Glossary#Layout|layout]]
 - [[Coding with Steno|Coding with Steno]] - writing and editing [[Programming Languages|code]] with steno effectively
 - [[Chords vs Strokes|Chords vs. Strokes]]
 - [[Uberdictionary|Uberdictionary]] - How [[Generated Programmatic Dictionaries|generated]] [[Steno Glossary#Phonetic|phonetic]] [[Steno Glossary#Theory|theories]] could work
