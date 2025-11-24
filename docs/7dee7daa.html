@@ -1,62 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <style> :root {--base-font-size: 1rem;
-       --page-gap: 1rem}
-
-@font-face {font-family: 'JetBrains Mono';
-            src: url('/assets/fonts/JetBrainsMono-Regular.woff2') format('woff2');
-            font-weight: 400;
-            font-style: normal;
-            font-display: swap}
-
-@font-face {font-family: 'JetBrains Mono';
-            src: url('/assets/fonts/JetBrainsMono-Bold.woff2') format('woff2');
-            font-weight: 700;
-            font-style: normal;
-            font-display: swap}
-
-@font-face {font-family: 'JetBrains Mono';
-            src: url('/assets/fonts/JetBrainsMono-Italic.woff2') format('woff2');
-            font-weight: 400;
-            font-style: italic;
-            font-display: swap}
-
-html {font-size: var(--base-font-size);
-      box-sizing: border-box;
-      background-color: #000}
-*, *::before, *::after {box-sizing: inherit}
-
-body {color: #fff;
-      font-size: 1rem;
-      font-family: 'JetBrains Mono', monospace;
-      line-height: 1.5;
-      max-width: min(var(--content-max-ch), 95vw);
-      margin: var(--page-gap);
-      overflow-wrap: anywhere;
-      word-break: break-word}
-
-a {color: #58A6FF}
-
-ul {padding: 0;
-    margin-left: 25px;
-    list-style-type: disc}
-
-code {padding: 1px 2px;
-      border-radius: 4px}
-
-pre {overflow: auto;
-     font-size: clamp(0.75rem, 2vw, 1.5rem);
-     white-space: pre}
- </style>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="/assets/css/clojure.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-  </head>
-  <body>
-    <div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="nf">ns</span><span class="w"> </span><span class="n">net.bowmap.core</span><span class="w">
+<!doctypehtml><html lang="en"><link rel="icon"type="image/x-icon"href="/favicon.ico"><style>:root{--base-font-size:1rem;--page-gap:1rem}@font-face{font-family:'JetBrains Mono';src:url(/assets/fonts/JetBrainsMono-Regular.woff2) format('woff2');font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:'JetBrains Mono';src:url(/assets/fonts/JetBrainsMono-Bold.woff2) format('woff2');font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:'JetBrains Mono';src:url(/assets/fonts/JetBrainsMono-Italic.woff2) format('woff2');font-weight:400;font-style:italic;font-display:swap}html{font-size:var(--base-font-size);box-sizing:border-box;background-color:#000}*,::after,::before{box-sizing:inherit}body{color:#fff;font-size:1rem;font-family:'JetBrains Mono',monospace;line-height:1.5;max-width:min(var(--content-max-ch),95vw);margin:var(--page-gap);overflow-wrap:anywhere;word-break:break-word}a{color:#58a6ff}ul{padding:0;margin-left:25px;list-style-type:disc}code{padding:1px 2px;border-radius:4px}pre{overflow:auto;font-size:clamp(.75rem,2vw,1.5rem);white-space:pre}</style><meta charset="UTF-8"><link rel="stylesheet"href="/assets/css/clojure.css"><meta name="viewport"content="width=device-width,initial-scale=1"><title></title><div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="nf">ns</span><span class="w"> </span><span class="n">net.bowmap.core</span><span class="w">
   </span><span class="p">(</span><span class="no">:require</span><span class="w"> </span><span class="p">[</span><span class="n">clojure.core.async</span><span class="w"> </span><span class="no">:refer</span><span class="w"> </span><span class="p">[</span><span class="n">&lt;!!</span><span class="w"> </span><span class="n">&gt;!!</span><span class="w"> </span><span class="n">chan</span><span class="p">]]</span><span class="w">
             </span><span class="p">[</span><span class="n">clojure.core.rrb-vector</span><span class="w"> </span><span class="no">:as</span><span class="w"> </span><span class="n">v</span><span class="p">]</span><span class="w">
             </span><span class="p">[</span><span class="n">clojure.pprint</span><span class="w"> </span><span class="no">:as</span><span class="w"> </span><span class="n">pp</span><span class="p">]</span><span class="w">
@@ -136,6 +78,3 @@ pre {overflow: auto;
     </span><span class="p">(</span><span class="nf">while</span><span class="w"> </span><span class="n">true</span><span class="w">
       </span><span class="p">(</span><span class="nf">handle</span><span class="w"> </span><span class="p">(</span><span class="nf">ServerSocket/.accept</span><span class="w"> </span><span class="n">server</span><span class="p">)))))</span><span class="w">
 </span></code></pre></div></div>
-
-  </body>
-</html>
