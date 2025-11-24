@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
 bundle exec jekyll b -d docs
+terser src/app.js -c toplevel=true -m toplevel=true --mangle-props -o assets/js/app.js
