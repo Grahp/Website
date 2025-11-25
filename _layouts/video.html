@@ -10,7 +10,7 @@
   <body>
     {% if page.source %}
       <video controls preload="metadata" id="video">
-        <source src="{{ page.source | relative_url }}" type="video/mp4">
+        <source src="{{ "/assets/videos/" | append: page.permalink | append: ".mp4" | relative_url }}" type="video/mp4">
         No video poopoo
       </video>
     {% endif %}
