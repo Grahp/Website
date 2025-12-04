@@ -12,7 +12,7 @@ layout: default-clojure
 
 [[Advent of Code 2025|Advent of Code 2025]] Day 1 :p
 
-Yeah I'm late don't worry about it.
+Yeah [[Home|I'm]] late don't worry about it.
 
 There are only 12 days anyway right?
 
