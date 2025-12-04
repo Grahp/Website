@@ -7,7 +7,7 @@ redirect_from:
   - aoc2025-1
   - aoc-2025-1
   - advent-of-code-2025-1
-layout: default-code
+layout: default-clojure
 ---
 
 [[Advent of Code 2025|Advent of Code 2025]] Day 1 :p
@@ -29,3 +29,5 @@ Did that work?
 No it did not!
 
 Oh I forgot the css :p
+
+Okay somehow that broke the styling for the entire page...
