@@ -16,7 +16,7 @@ Yeah I'm late don't worry about it.
 
 There are only 12 days anyway right?
 
-I'm probably going to spend more time getting code to appear correctly on this page than I am solving the actual puzzle o_o
+I'm probably going to spend more time getting code to appear correctly on this page than I am solving the actual puzzle ._.
 
 ```clojure
 (+ 1 2 3)
