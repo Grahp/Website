@@ -132,9 +132,9 @@ L99
 R14
 L82"
      ;; Each of the parsed inputs
-     parse-input-string #_(-68 -30 48 -5 60 -55 -1 -99 14 -82)
+     parse-input-string ; (-68 -30 48 -5 60 -55 -1 -99 14 -82)
 		 ;; What they are after rotating with the current position of the dial
-     (reductions rotate 50)) #_(50 82 52 0 95 55 0 99 0 14 32)
+     (reductions rotate 50)) ; (50 82 52 0 95 55 0 99 0 14 32)
 ```
 
 Then `(count (filter zero?))` to get the number of times the dial was at zero!
