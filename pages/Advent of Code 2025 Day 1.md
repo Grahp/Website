@@ -26,17 +26,21 @@ I'm probably going to spend more time getting code to appear correctly on this p
 
 Did that work?
 
+---
+
 No it did not!
 
 Oh I forgot the css :p
 
+---
 
 
 Okay somehow that broke the styling for the entire page...
 
 
+---
 
-Yay!
+Okay there we go.
 
 Well I already did part 1 and just wrote some comments :p
 
