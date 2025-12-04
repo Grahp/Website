@@ -7,6 +7,7 @@ redirect_from:
   - aoc2025-1
   - aoc-2025-1
   - advent-of-code-2025-1
+layout: default-code
 ---
 
 [[Advent of Code 2025|Advent of Code 2025]] Day 1 :p
@@ -24,3 +25,7 @@ I'm probably going to spend more time getting code to appear correctly on this p
 ```
 
 Did that work?
+
+No it did not!
+
+Oh I forgot the css :p
