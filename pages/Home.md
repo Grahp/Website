@@ -44,6 +44,7 @@ No analytics or tracking or anything, so if you have any thoughts, [[Contact|sen
 You could probably guess my feelings about webrings from everything else here, so:
 
 - [https://baccyflap.com](https://baccyflap.com)
-- There's only one element in this list which is kind of awkward so this is a second
+- [https://oxey.dev](https://oxey.dev)
+- Now there is a second / third :p
 
 Hope you enjoy your stay :)
