@@ -13,6 +13,8 @@ December 5, 2025 - Day 20 of tracking:
 - Haven't been practicing nooo
 - I'd like to but practice is so boring
 
+---
+
 November 20, 2025 - Day 5 of tracking:
 
 - I think Pinchord is honestly quite close to being done, or being presentable anyway. It's probably just the last 20% of things like ortho suffixes and a few rogue chords that.
