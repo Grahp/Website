@@ -11,8 +11,7 @@ For the steno crowd, see [[Why Orthospelling|Why Orthospelling]].
 ## Rationale
 
 - Chording is really awesome - the speed and ergonomics are unmatched
-- Traditional phonetic steno is extremely difficult to learn
-- Phonetic steno is optimized for _court reporting_. [[Home|I]] am not a court reporter, I'm a programmer and yapper
+- Traditional phonetic steno is designed for _court reporting_. [[Home|I]] am not a court reporter, I'm a programmer and yapper - steno is just too hard
 
 ## Layout
 
