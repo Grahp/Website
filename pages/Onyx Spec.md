@@ -8,6 +8,7 @@ redirect_from:
   - onyx-layout
   - onyx-spec-layout
 title: Onyx Spec
+desc: Onyx Theory Specification
 ---
 
 [[Onyx|Onyx]] [[Steno Glossary#Theory|Theory]] Specification.

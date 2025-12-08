@@ -1,6 +1,7 @@
 ---
 permalink: onyx
 title: Onyx
+desc: Onyx Steno Theory
 ---
 
 Onyx is a [[Steno Glossary#Phonetic|phonetic]] [[Steno]] [[Steno Glossary#Theory|theory]] that [[Home|I]] was working on a while ago.

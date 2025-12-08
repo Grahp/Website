@@ -4,7 +4,9 @@ title: Steno
 redirect_from:
   - steno-context-aware-uses
   - stoin
+desc: Machine Stenography resources
 ---
+
 Resources for machine stenography that [[Home|I've]] made over the past year or so.
 
 - [[Pinchord|Pinchord]] - An [[Steno Glossary#Orthospelling|orthospelling]] [[Steno Glossary#Theory|theory]]
