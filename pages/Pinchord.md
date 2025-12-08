@@ -10,7 +10,7 @@ For the steno crowd, see [[Why Orthospelling|Why Orthospelling]].
 
 ## Rationale
 
-- Steno is awesome. The speed and ergonomics are unmatched - Chording is just awesome
+- Chording is really awesome - the speed and ergonomics are unmatched
 - Traditional phonetic steno is extremely difficult to learn
 - Phonetic steno is optimized for _court reporting_. [[Home|I]] am not a court reporter, I'm a programmer and yapper
 
