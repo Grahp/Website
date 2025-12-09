@@ -12,6 +12,12 @@ My goal is to have some kind of tangible progress every single day.
 
 (In reverse chronological order... I know, yuck)
 
+December 8, 2025, 39 days until release
+
+- Haven't been updating this but made a bunch of progress and I'm tired so you don't get to hear about any of it
+
+---
+
 December 5, 2025, 42 days until release
 
 - Been a minute but I'm back, and I got good progress done today!
