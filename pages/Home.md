@@ -23,7 +23,7 @@ A bunch of _[[Steno|Machine Stenography]]_ resources, but notably a "chorded typ
 
 ## Faddle
 
-[[Faddle|Faddle]] is a [[Lisp|Lisp]] on Lua designed to harness the power of Lua, Lisp, and avoiding some of the pitfalls of both. A more applied [[Fennel|Fennel]], perhaps.
+[[Faddle|Faddle]] is a [[Lisp|Lisp]] on Lua designed to harness the power of Lua and Lisp while avoiding some of their pitfalls.
 
 Still just designing it, but maybe it'll release some day.
 
