@@ -8,7 +8,7 @@ desc: MMORPG Minecraft Server
 
 Bowmap is [[Home|my]] MMORPG [[Minecraft Server|Minecraft server]] [[Minecraft Server From Scratch|written from-scratch]] in [[Clojure|Clojure]]!
 
-It's currently in development. Chapter 1 Alpha 1 will release on January 17, 2026!
+It's currently in development - the first demo will release on January 17, 2026!
 
 Check out the [[Bowmap Progress|Bowmap Progress]] page for what I've done every day (or, you know, whenever I remember to update it o-o)
 
