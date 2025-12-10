@@ -43,5 +43,6 @@ You could probably guess my feelings about webrings from everything else here, s
 
 - [https://baccyflap.com](https://baccyflap.com)
 - [https://oxey.dev](https://oxey.dev)
+- [https://maxie.rodeo](https://maxie.rodeo)
 
 Hope you enjoy your stay :)
