@@ -12,6 +12,12 @@ My goal is to have some kind of tangible progress every single day.
 
 (In reverse chronological order... I know, yuck)
 
+December 9, 2025, 38 days until release
+
+- Got some work on packets and codecs in :p
+
+---
+
 December 8, 2025, 39 days until release
 
 - Haven't been updating this but made a bunch of progress and I'm tired so you don't get to hear about any of it
