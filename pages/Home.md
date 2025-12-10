@@ -42,7 +42,7 @@ No analytics or tracking or anything, so if you have any thoughts, [[Contact|sen
 You could probably guess my feelings about webrings from everything else here, so:
 
 - [https://baccyflap.com](https://baccyflap.com)
-- [https://oxey.dev](https://oxey.dev)
 - [https://maxie.rodeo](https://maxie.rodeo)
+- [https://oxey.dev](https://oxey.dev)
 
 Hope you enjoy your stay :)
