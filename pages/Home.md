@@ -5,6 +5,7 @@ redirect_from:
   - projects
 desc: Grahp's personal website.
 ---
+
 Hello, I'm Grahp!
 
 This is [[Website|my website]] :p
