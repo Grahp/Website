@@ -1,7 +1,7 @@
 /// If the user has sufficient bandwidth/internet speed, cache pages when they hover over them
 
 const app = document.getElementById('app')
-if (!app) throw new Error("Single page app failed: 'app' element cannot be found.")
+if (!app) throw new Error("Router: 'app' element cannot be found.")
 
 /// path: something like "/", "/pinchord"
 /// fullPath: something like "/pinchord#heading"
