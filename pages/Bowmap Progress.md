@@ -15,6 +15,7 @@ My goal is to have some kind of tangible progress every single day.
 December 11, 2025, 36 days until release
 
 - Just some code clean-up
+- Working on packet encoding
 
 ---
 
